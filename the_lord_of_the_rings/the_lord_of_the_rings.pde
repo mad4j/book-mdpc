@@ -9,11 +9,15 @@ void setup() {
 void draw() {
  
   noStroke();
-  background(255);
+  background(242, 243, 244);
   
-  ellipse(CENTER);
+  ellipseMode(CENTER);
   
-  ellipse(250, 250, 100, 100);
+  fill(255, 255, 0);
+  ellipse(250, 250, 200, 200);
+  
+  fill(242, 243, 244);
+  ellipse(250, 250, 150, 150);
   
   save("the-lord-of-the-rings.png");
   
