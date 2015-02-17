@@ -7,6 +7,8 @@
  * by Steven Spielberg, 1075
  */
 
+final color WATER_COLOR = color(0, 103, 165);
+final color SHARK_COLOR = color(194, 178, 128);
 
 void setup() {
   
@@ -16,20 +18,27 @@ void setup() {
 
 void draw() {
   
-  background(0, 103, 165);
-  
   float yOffset = height/10.0;
   float xOffset = width/10.0;
   
+  background(WATER_COLOR);
   noStroke();
   
-  fill(194, 178, 128);
+  fill(SHARK_COLOR);
   rect(0, 0, width, yOffset);
   rect(0, height-yOffset, width, yOffset);
   
   for (int i=0; i<10; i++) {
-    triangle(0+i*xOffset, yOffset, xOffset+i*xOffset, yOffset, xOffset/2.0+i*xOffset, yOffset+xOffset);
-    triangle(0+i*xOffset, height-yOffset, xOffset+i*xOffset, height-yOffset, xOffset/2.0+i*xOffset, height-yOffset-xOffset);
+    float xA = i*xOffset;
+    float yA = yOffset;
+    float xB = xA + xOffset;
+    float yB = yA;
+    float xC = xA + xOffset/2.0;
+    float yC = yOffset + xOffset;
+  
+    triangle(xA, yA, xB, yB, xC, yC);
+    triangle(xA, height-yA, xB, height-yB, xC, height-yC);
+   
   }
   
   save("jaws.png");
