@@ -1,6 +1,6 @@
 
 final color SPACE_COLOR = color(34, 34, 34);
-
+final color STEEL_COLOR = color(132, 132, 130);
 
 void setup() {
   
@@ -17,7 +17,7 @@ void draw() {
   
   noStroke();
   
-  fill(127);
+  fill(STEEL_COLOR);
   ellipse(width/2.0, height/2.0, 300, 300);
   
   fill(SPACE_COLOR);
