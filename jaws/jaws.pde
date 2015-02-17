@@ -29,6 +29,7 @@ void draw() {
   rect(0, height-yOffset, width, yOffset);
   
   for (int i=0; i<10; i++) {
+    
     float xA = i*xOffset;
     float yA = yOffset;
     float xB = xA + xOffset;
