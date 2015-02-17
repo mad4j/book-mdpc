@@ -1,4 +1,12 @@
 
+/**
+ * Jaws - Minimal Poster
+ * Daniele Olmisani <daniele.olmisani@gmail.com>, 2015
+ *
+ * Jaws
+ * by Steven Spielberg, 1075
+ */
+
 
 void setup() {
   
@@ -9,7 +17,6 @@ void setup() {
 void draw() {
   
   background(0, 103, 165);
-  //background(161, 202, 241);
   
   float yOffset = height/10.0;
   float xOffset = width/10.0;
