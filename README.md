@@ -6,3 +6,6 @@ minimal movie posters generated using Processing
 
 ## The Lord of the Rings
 ![The Lord of the Rings](https://raw.githubusercontent.com/mad4j/processing-movies/master/the_lord_of_the_rings/the-lord-of-the-rings.png)
+
+## Jaws
+![Jaws](https://raw.githubusercontent.com/mad4j/processing-movies/master/jaws/jaws.png)
