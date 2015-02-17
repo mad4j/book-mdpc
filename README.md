@@ -9,3 +9,6 @@ minimal movie posters generated using Processing
 
 ## Jaws
 ![Jaws](https://raw.githubusercontent.com/mad4j/processing-movies/master/jaws/jaws.png)
+
+## Star Wars
+![Star Wars](https://raw.githubusercontent.com/mad4j/processing-movies/master/star_wars/star-wars.png)
