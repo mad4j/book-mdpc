@@ -19,5 +19,4 @@ void draw() {
   } 
   
   save("fifty-shades-of-grey.png");
-  
 }
