@@ -12,3 +12,6 @@ minimal movie posters generated using Processing
 
 ## Star Wars
 ![Star Wars](https://raw.githubusercontent.com/mad4j/processing-movies/master/star_wars/star-wars.png)
+
+## War Games
+![War Games](https://raw.githubusercontent.com/mad4j/processing-movies/master/war_games/war-games.png)
