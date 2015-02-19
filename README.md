@@ -14,11 +14,11 @@ minimal movie posters generated using Processing
 ![Star Wars](https://raw.githubusercontent.com/mad4j/processing-movies/master/star_wars/star-wars.png)
 
 ## Profondo Rosso
+![Profondo Rosso](https://raw.githubusercontent.com/mad4j/processing-movies/master/profondo_rosso/profondo-rosso.png)
 ```
 'Profondo Rosso' di Dario Argento
 Horror, 1975
 ```
-![Profondo Rosso](https://raw.githubusercontent.com/mad4j/processing-movies/master/profondo_rosso/profondo-rosso.png)
 
 ## War Games
 ![War Games](https://raw.githubusercontent.com/mad4j/processing-movies/master/war_games/war-games.png)
