@@ -28,12 +28,12 @@ void draw() {
   
   ellipse(3*offset, 3*offset, offset, offset);
   ellipse(7*offset, 5*offset, offset, offset);
-  ellipse(3*offset, 5*offset, offset, offset);
+  ellipse(5*offset, 5*offset, offset, offset);
   ellipse(5*offset, 7*offset, offset, offset);
-  ellipse(5*offset, 3*offset, offset, offset);
+  ellipse(7*offset, 3*offset, offset, offset);
   
-  line(7*offset, 2.5*offset, 7*offset, 3.5*offset);
-  line(5*offset, 4.5*offset, 5*offset, 5.5*offset);
+  line(5*offset, 2.5*offset, 5*offset, 3.5*offset);
+  line(3*offset, 4.5*offset, 3*offset, 5.5*offset);
   line(3*offset, 6.5*offset, 3*offset, 7.5*offset);
   line(7*offset, 6.5*offset, 7*offset, 7.5*offset);
   
