@@ -27,4 +27,7 @@ Horror, 1975
 
 ## Monsters, Inc
 ![Monsters, Inc](https://raw.githubusercontent.com/mad4j/processing-movies/master/monsters_inc/monsters-inc.png)
-
+```
+'Monsters, Inc' di Pete Docter
+Animation, 2001
+```
