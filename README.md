@@ -19,9 +19,12 @@ minimal movie posters generated using Processing
 'Profondo Rosso' di Dario Argento
 Horror, 1975
 ```
-
 ## War Games
 ![War Games](https://raw.githubusercontent.com/mad4j/processing-movies/master/war_games/war-games.png)
 
 ## Alice in Wonderland
 ![Alice in Wonderland](https://raw.githubusercontent.com/mad4j/processing-movies/master/alice_in_wonderland/alice-in-wonderland.png)
+
+## Monsters, Inc
+![Monsters, Inc](https://raw.githubusercontent.com/mad4j/processing-movies/master/monsters_inc/monsters-inc.png)
+
