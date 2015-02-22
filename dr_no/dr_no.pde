@@ -25,4 +25,6 @@ void draw() {
   vertex(cX-SIZE_X, cY-SIZE_Y);
   vertex(cX-SIZE_X, cY+SIZE_Y);
   endShape();
+  
+  save("dr-no.png");
 }
