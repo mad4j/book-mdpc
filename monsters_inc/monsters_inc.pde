@@ -22,7 +22,7 @@ void draw() {
   
   fill(FOREG1_COLOR);
   arc(cX, cY+24, 250, 150, PI+PI/10.0, TWO_PI-PI/10.0, CHORD);
-  arc(cX, cY-24, 250, 150, 0+PI/10.0, PI-PI/10.0, CHORD);
+  arc(cX, cY-23, 250, 150, 0+PI/10.0, PI-PI/10.0, CHORD);
   fill(FOREG2_COLOR);
   ellipse(cX, cY, 80, 80);
   
