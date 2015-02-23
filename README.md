@@ -19,8 +19,12 @@ minimal movie posters generated using Processing
 'Profondo Rosso' di Dario Argento
 Horror, 1975
 ```
-## War Games
-![War Games](https://raw.githubusercontent.com/mad4j/processing-movies/master/war_games/war-games.png)
+## Wargames
+![Wargames](https://raw.githubusercontent.com/mad4j/processing-movies/master/war_games/war-games.png)
+```
+'Wargames' di John Badham
+Sci-Fi, 1983
+```
 
 ## Alice in Wonderland
 ![Alice in Wonderland](https://raw.githubusercontent.com/mad4j/processing-movies/master/alice_in_wonderland/alice-in-wonderland.png)
