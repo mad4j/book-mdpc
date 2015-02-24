@@ -27,7 +27,7 @@ void draw() {
   endShape();
   
   noFill();
-  rect(0, 0, width, height);
+  rect(0, 0, width-1, height-1);
   
   save("dr-no.png");
 }
