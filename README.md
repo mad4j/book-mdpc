@@ -12,6 +12,10 @@ minimal movie posters generated using Processing
 
 ## Star Wars
 ![Star Wars](https://raw.githubusercontent.com/mad4j/processing-movies/master/star_wars/star-wars.png)
+```
+'Star Wars' di George Lucas
+Sci-Fi / Adventure, 1977
+```
 
 ## Profondo Rosso
 ![Profondo Rosso](https://raw.githubusercontent.com/mad4j/processing-movies/master/profondo_rosso/profondo-rosso.png)
@@ -50,5 +54,5 @@ Action, 1994
 ![Pulp Finction](https://raw.githubusercontent.com/mad4j/processing-movies/master/pulp_fiction/pulp-fiction.png)
 ```
 'Pulp Fiction' di Quentin Tarantino
-Crime, 1994
+Crime / Drama, 1994
 ```
