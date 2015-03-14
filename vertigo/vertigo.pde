@@ -1,30 +1,26 @@
-/**
-hypnosis spiral by <a href="http://www.local-guru.net/blog">guru</a>
-*/
+
 void setup() {
   
   size(480, 640);
-  smooth();
-  
-  noLoop();
+  noLoop(); 
 }
 
 void draw() {
   
-  background(0);
-  noStroke();
+  background(190, 0, 50);
   
-  fill(255, 0, 0);
-  translate( width/2, height/2 );
+  translate(width/2.0, height/2.0);
   
-  for( int i=0; i<360; i++) {
-    
-    float r = 5 + i/18;
-
-    for( int j=0; j<7; j++) {
-      float a = radians(float(j) * 360.0 / 7 + i);
-      ellipse( cos(a) * i/-2, sin( a) * i/-2, r,r  );
-    }
+  ellipseMode(CENTER);
+  
+  stroke(161, 202, 241);
+  strokeWeight(5.0);
+  noFill();
+  
+  for (int i=0; i<10; i++) {
+    float r = 10+45*i;
+    ellipse(0, 0, r, r);
   }
+  
   
 }
