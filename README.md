@@ -71,3 +71,10 @@ Crime / Drama, 1994
 'The Deer Hunter' di Michael Cimino
 War / Drama, 1978
 ```
+
+## Tron
+![The Deer Hunter](https://github.com/mad4j/processing-movies/blob/master/tron/tron.png)
+```
+'Tron' di Steven Lisberger
+Action / Sci-Fi, 1982
+```
