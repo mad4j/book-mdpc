@@ -65,5 +65,5 @@ Crime / Drama, 1994
 ![The Deer Hunter](https://raw.githubusercontent.com/mad4j/processing-movies/master/the_deer_hunter/the-deer-hunter.png)
 ```
 'The Deer Hunter' di Michael Cimino
-War / Drama, 1977
+War / Drama, 1978
 ```
