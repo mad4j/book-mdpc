@@ -13,6 +13,10 @@ Romance / Drama, 2015
 
 ## Jaws
 ![Jaws](https://raw.githubusercontent.com/mad4j/processing-movies/master/jaws/jaws.png)
+```
+'Jaws' di  Steven Spielberg
+Thriller / Drama, 1975
+```
 
 ## Star Wars
 ![Star Wars](https://raw.githubusercontent.com/mad4j/processing-movies/master/star_wars/star-wars.png)
