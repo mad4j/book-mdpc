@@ -29,5 +29,5 @@ void draw() {
     ellipse(x, y, r, r);
   }
   
-  save("pulp-finction.png");
+  save("pulp-fiction.png");
 }
