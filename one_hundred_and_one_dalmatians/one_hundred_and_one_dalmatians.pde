@@ -34,4 +34,6 @@ void draw() {
   for (int i=0; i<7; i++) {
     drawSpot(random(width), random(height), random(RADIUS), FUZZINESS);
   }
+  
+  save("one-hundred-and-one-dalmatians.png");
 }
