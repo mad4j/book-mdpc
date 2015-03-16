@@ -78,3 +78,10 @@ War / Drama, 1978
 'Tron' di Steven Lisberger
 Action / Sci-Fi, 1982
 ```
+
+## One hundred and one Dalmatians
+![One hundred and one Dalmatians](https://raw.githubusercontent.com/mad4j/processing-movies/master/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png)
+```
+'One hundred and one Dalmatians' di Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman
+Animation / Comedy, 1961
+```
