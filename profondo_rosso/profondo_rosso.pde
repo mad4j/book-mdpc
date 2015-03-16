@@ -16,7 +16,7 @@ final color BLOOD_COLOR = color(190, 0, 50);
 
 /**
  * setup()
- * tutto quello che serve per preparsi al disegno
+ * tutto quello che serve per preparasi al disegno
  */ 
 void setup() {
   
