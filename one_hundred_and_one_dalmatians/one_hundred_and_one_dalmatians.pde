@@ -1,6 +1,4 @@
 
-final int RADIUS = 150;
-final int FUZZINESS = 20;
 
 void setup() {
   size(480, 640);
@@ -28,11 +26,11 @@ void drawSpot(float x, float y, float radius, int fuzziness) {
 
 void draw() {
   
-  background(242, 243, 244);
+  background(250);
   
   randomSeed(10);
   for (int i=0; i<7; i++) {
-    drawSpot(random(width), random(height), random(RADIUS), FUZZINESS);
+    drawSpot(random(width), random(height), random(150), 20);
   }
   
   save("one-hundred-and-one-dalmatians.png");
