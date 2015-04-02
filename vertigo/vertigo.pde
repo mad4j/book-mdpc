@@ -18,7 +18,7 @@ void draw() {
   noFill();
   
   for (int i=0; i<10; i++) {
-    float r = 10+45*i;
+    float r = 55+45*i;
     ellipse(0, 0, r, r);
   }
   
