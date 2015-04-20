@@ -8,6 +8,20 @@ void setup() {
   noLoop();
 }
 
+void drawBackground() {
+  
+  background(BACKG_COLOR);
+  
+  noStroke();
+  fill(FOREG_COLOR);
+  
+  for (int i=0; i<8000; i++) {
+    ellipse(randomGaussian()*100, randomGaussian()*200, 2, 2);
+  }
+  
+  filter(BLUR, 10);
+}
+
 void drawDisk() {
   
   noStroke();
@@ -23,17 +37,14 @@ void drawDisk() {
   
   fill(BACKG_COLOR);
   ellipse(0, 0, 70, 70);
+  
+  filter(BLUR, 1);
 }
 
 void draw() {
   
-  background(BACKG_COLOR);
-  
   translate(width/2.0, height/2.0);
   
+  drawBackground();
   drawDisk();
-  filter(BLUR, 25);
-  
-  drawDisk();
-  filter(BLUR, 1);
 }
