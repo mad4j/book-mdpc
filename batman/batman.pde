@@ -22,11 +22,18 @@ void draw() {
   translate(width/2.0, height/2.0);
   scale(25.0, -25.0);
 
-  background(34, 34, 34);
-  noStroke();
+  background(244, 243, 242);
+  
 
-  fill(243, 145, 0);
-  //ellipse(-8, -2, 16, 4);
+  fill(255, 255, 0);
+  stroke(32, 32, 32);
+  strokeWeight(0.5);
+  
+  ellipseMode(CENTER);
+  ellipse(0, 0, 16, 8);
+  
+  fill(32, 32, 32);
+  noStroke();
   
   beginShape();
   for (float x=1.0; x<3.0; x+=0.04) {
