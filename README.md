@@ -98,5 +98,5 @@ Animation / Comedy, 1961
 ![Finding Nemo](https://github.com/mad4j/processing-movies/blob/master/finding_nemo/finding-nemo.png)
 ```
 'Finding Nemo' di Andrew Stanton, Lee Unkrich
-  Animation / Adventure / Comedy, 2003
+ Animation / Adventure / Comedy, 2003
 ```
