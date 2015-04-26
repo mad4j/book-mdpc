@@ -85,3 +85,10 @@ Action / Sci-Fi, 1982
 'One hundred and one Dalmatians' di Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman
 Animation / Comedy, 1961
 ```
+
+## Captain America: The First Avenger
+![Captain America: The First Avenger](https://github.com/mad4j/processing-movies/blob/master/captain_america/captain-america.png)
+```
+'Captain America: The First Avenger' di Joe Johnston
+ Action / Adventure / Sci-Fi, 2011
+```
