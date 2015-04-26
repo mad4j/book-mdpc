@@ -100,3 +100,11 @@ Animation / Comedy, 1961
 'Finding Nemo' di Andrew Stanton, Lee Unkrich
  Animation / Adventure / Comedy, 2003
 ```
+
+## Batman
+![Batman](https://github.com/mad4j/processing-movies/blob/master/batman/batman.png)
+```
+'Batman' di Tim Burton
+ Action / Adventure, 1989
+```
+https://github.com/mad4j/processing-movies/blob/master/batman/batman.png
