@@ -22,7 +22,7 @@ void draw() {
   
   float dx = width/3.0;
   float dy = height/3.0;
-  
+
   beginShape();
   curveVertex(0, dy+150);
   curveVertex(0, dy);
@@ -44,4 +44,7 @@ void draw() {
   vertex(width+STROKE, height+STROKE);
   vertex(0-STROKE, height+STROKE);
   endShape();
+  
+  save("finding-nemo.png");
+
 }
