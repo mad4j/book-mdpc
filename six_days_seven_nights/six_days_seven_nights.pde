@@ -16,11 +16,11 @@ void draw() {
   background(BACKG_COLOR);
   
   for (int i=0; i<6; i++) {
-    drawSun(80+i*30, 50+i*height/6.0, 35, 8);
+    drawSun(80+i*30, 50+i*(height/7.0), 30, 8);
   }
   
   for (int i=0; i<7; i++) {
-    drawMoon(200+i*30, 50+i*height/7.0, 45, i);
+    drawMoon(200+i*30, 50+i*(height/7.0), 45, i);
   }
 }
 
