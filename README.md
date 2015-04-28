@@ -107,4 +107,10 @@ Animation / Comedy, 1961
 'Batman' di Tim Burton
  Action / Adventure, 1989
 ```
-https://github.com/mad4j/processing-movies/blob/master/batman/batman.png
+
+## Six Days Seven Nights
+![Six Days Seven Nights](https://github.com/mad4j/processing-movies/blob/master/six_days_seven_nights/six-days-seven-nights.png)
+```
+'Six Days Seven Nights' di Ivan Reitman
+ Action / Adventure / Comedy, 1998
+```
