@@ -1,5 +1,5 @@
 
-final color BACKG_COLOR = color(32, 32, 32);
+final color BACKG_COLOR = color(96, 78, 151);
 final color SUN_COLOR = color(255, 255, 0);
 final color MOON_COLOR = color(244, 243, 242);
 
