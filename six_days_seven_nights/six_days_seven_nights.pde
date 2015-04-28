@@ -15,13 +15,18 @@ void draw() {
   
   background(BACKG_COLOR);
   
-  for (int i=0; i<6; i++) {
-    drawSun(80+i*30, 50+i*(height/7.0), 30, 8);
-  }
+  translate(width/2.0, 0);
   
-  for (int i=0; i<7; i++) {
-    drawMoon(200+i*30, 50+i*(height/7.0), 45, i);
+  int phase = 1;
+  for (int j=0; j<2; j++) {
+    for (int i=-1; i<2; i++) {
+      drawSun(i*120, 80+j*110, 40, 8);
+      drawMoon(i*120, 300+j*110, 60, phase++);
+    }
   }
+  drawMoon(0, 520, 60, 8);
+  
+  save ("six-days-seven-nights.png");
 }
 
 void drawSun(float x, float y, float r1, int rays) {
@@ -52,16 +57,18 @@ void drawMoon(float x, float y, float r, int phase) {
   pushMatrix();
   
   translate(x, y);
+  rotate(HALF_PI/2.0);
   
   fill(MOON_COLOR);
-  stroke(MOON_COLOR);
-  ellipseMode(CENTER);
-  ellipse(0, 0, r, r);
+  noStroke();
   
-  fill(BACKG_COLOR);
-  stroke(BACKG_COLOR);
-  float offset = r/8 * (phase+1);
-  ellipse(offset, -offset, r, r);
+  ellipseMode(CENTER);
+  arc(0, 0, r, r, 0, PI, OPEN);
+    
+  fill((phase<4) ? BACKG_COLOR : MOON_COLOR);
+  float offset = abs(r/4 * (phase-4));
+  float angle = (phase < 4) ? 0 : PI;
+  arc(0, 0, r, offset, angle, angle+PI+1, OPEN);
   
   popMatrix();
 }
