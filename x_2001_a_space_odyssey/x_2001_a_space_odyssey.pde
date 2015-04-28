@@ -4,7 +4,7 @@ void setup()  {
 }
 
 void draw()  {
-  background(86, 122, 76);
+  background(129, 183, 114);
   lights();
   
   float fov = PI/3.0;
@@ -16,7 +16,9 @@ void draw()  {
   rotateY(PI/3);
   
   fill(0);
-  stroke(48, 48, 48);
+  stroke(64, 64, 64);
  strokeWeight(2.0); 
   box(80, 320, 160); 
+  
+  save("2001-a-space-odyssey.png");
 }
