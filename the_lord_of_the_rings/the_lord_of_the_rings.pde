@@ -14,7 +14,7 @@ void draw() {
   
   noFill();
   stroke(GOLD);
-  strokeWeight(40.0);
+  strokeWeight(45.0);
   
   ellipseMode(CENTER);
   
