@@ -16,8 +16,8 @@ void draw() {
   noStroke();
   
   int index = 50;
-  for (int i=0; i<5; i++) {
-    for (int j=0; j<10; j++) {
+  for (int j=0; j<10; j++) {
+    for (int i=0; i<5; i++) {
       fill(index*dc);
       rect(i*dx, j*dy, dx, dy);
       index--;
