@@ -9,13 +9,19 @@ void setup() {
 
 void draw() {
   
-  float yOffset = height/50.0;
+  float dx = width/5.0;
+  float dy = height/10.0;
+  float dc = 256/50.0;
   
   noStroke();
   
-  for (int i=0; i<50; i++) {
-    fill(25+i*4);
-    rect(0, i*yOffset, width, yOffset+1);
+  int index = 50;
+  for (int i=0; i<5; i++) {
+    for (int j=0; j<10; j++) {
+      fill(index*dc);
+      rect(i*dx, j*dy, dx, dy);
+      index--;
+    }
   } 
   
   save("fifty-shades-of-grey.png");

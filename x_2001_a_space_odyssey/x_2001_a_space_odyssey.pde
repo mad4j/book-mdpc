@@ -4,6 +4,7 @@ void setup()  {
 }
 
 void draw()  {
+  
   background(129, 183, 114);
   lights();
   
@@ -17,7 +18,7 @@ void draw()  {
   
   fill(0);
   stroke(64, 64, 64);
- strokeWeight(2.0); 
+  strokeWeight(2.0); 
   box(80, 320, 160); 
   
   save("2001-a-space-odyssey.png");
