@@ -1,5 +1,6 @@
 void setup()  {
-  size(480, 640, P3D);
+  size(480, 640, OPENGL);
+  smooth(8);
   noLoop();
 }
 
