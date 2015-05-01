@@ -119,6 +119,11 @@ Animation / Comedy, 1961
 ![2001: A Space Odyssey](https://github.com/mad4j/processing-movies/blob/master/x_2001_a_space_odyssey/2001-a-space-odyssey.png)
 ```
 '2001: A Space Odyssey' di Stanley Kubrick
- Mystery / Sci-Fi , 1968
+ Mystery / Sci-Fi, 1968
 
+## Modern Times
+![Modern Times]https://github.com/mad4j/processing-movies/blob/master/modern_times/modern-times.png)
+```
+'Modern Times' di Charles Chaplin
+ Comedy / Drama, 1936
 
