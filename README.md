@@ -122,8 +122,8 @@ Animation / Comedy, 1961
  Mystery / Sci-Fi, 1968
 
 ## Modern Times
-![Modern Times]https://github.com/mad4j/processing-movies/blob/master/modern_times/modern-times.png)
+![Modern Times](https://github.com/mad4j/processing-movies/blob/master/modern_times/modern-times.png)
 ```
 'Modern Times' di Charles Chaplin
  Comedy / Drama, 1936
-
+```
