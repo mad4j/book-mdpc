@@ -3,8 +3,6 @@ final color BACKG_COLOR = color(96, 78, 151);
 final color SUN_COLOR = color(255, 255, 0);
 final color MOON_COLOR = color(244, 243, 242);
 
-
-
 void setup() {
   
   size(480, 640);
@@ -20,11 +18,11 @@ void draw() {
   int phase = 1;
   for (int j=0; j<2; j++) {
     for (int i=-1; i<2; i++) {
-      drawSun(i*120, 80+j*110, 40, 8);
-      drawMoon(i*120, 300+j*110, 60, phase++);
+      drawSun(i*120, 100+j*110, 40, 8);
+      drawMoon(i*120, 320+j*110, 60, phase++);
     }
   }
-  drawMoon(0, 520, 60, 8);
+  drawMoon(0, 540, 60, 8);
   
   save ("six-days-seven-nights.png");
 }
