@@ -5,8 +5,41 @@
     noLoop();
   }
   
+
+void draw() {
   
+  background(0);
+
+  drawGear(100, 100, 50, 8);
+  drawGear(200, 200, 50, 8);
+  drawGear(100, 300, 50, 8);
+}
+
+
+void drawGear(float x, float y, float r, int n) {
+
+  pushMatrix();
   
+  translate(x, y);
+  
+  fill(127);
+  noStroke();
+  
+  ellipseMode(CENTER);
+  
+  for (int i=0; i<n; i++) {
+    quad(0.95*r, -0.25*r, 1.25*r, -0.20*r, 1.25*r, 0.20*r, 0.95*r, 0.25*r);
+    rotate(TWO_PI / n);
+  }
+  ellipse(0, 0, 2*r, 2*r);
+  
+  fill(0);
+  ellipse(0, 0, r/10, r/10);
+  
+  popMatrix();
+}
+  
+/*  
   void draw() {
     
     background(0);
@@ -68,3 +101,4 @@
       ellipse(0, 0, 5, 5);
     popMatrix();
 }
+*/
