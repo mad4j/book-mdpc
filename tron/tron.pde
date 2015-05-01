@@ -9,22 +9,46 @@ void draw() {
   
   background(34, 34, 34);
   
-  strokeWeight(0.5);
+  noFill();
+  strokeJoin(ROUND);
+  strokeCap(ROUND);
   
+  strokeWeight(0.5);
   stroke(0, 136, 86);
-  for (int i=0; i<10; i++) {
-    
-    line(0, i*height/5, width, i*height/5); 
-    line(i*width/5, 0, i*width/5, height); 
-  }
+  drawGrid(8);
+
   
   strokeWeight(5.0);
- 
+  
+  translate(25, 25);
+  
   stroke(103, 156, 200);
-  line(width/2.0, height/3.0, width/2.0, height);
+  drawPath(width/5.0, height/5.0);
+  
+  translate(15, 15);
   
   stroke(195, 84, 93);
-  line(width/2.0+15, height/3.0+15, width/2.0+15, height);
+  drawPath(width/5.0, height/5.0);
   
   save("tron.png");
+}
+
+void drawGrid(int n) {
+  
+  float dx = (float)width/n;
+  float dy = (float)height/n;
+  
+  for (int i=0; i<n; i++) {
+    line(0, i*dy, width, i*dy); 
+    line(i*dx, 0, i*dx, height); 
+  }
+}
+
+void drawPath(float dx, float dy) {
+  beginShape();
+  vertex(2*dx, height);
+  vertex(2*dx, 2*dy);
+  vertex(3*dx, 2*dy);
+  vertex(3*dx, dy);
+  endShape();
 }
