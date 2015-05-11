@@ -1,6 +1,14 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Wargames
 
 final color BACKG_COLOR = color(34, 34, 34);
 final color FOREG_COLOR = color(0, 186, 86);
+
+final float SCALE_FACTOR = 48.0;
+final float STROKE_SIZE = 8.0;
+
 
 void setup() {
   
@@ -9,34 +17,34 @@ void setup() {
 }
 
 void draw() {
-  
-  float offset = min(width, height) / 10.0;
+    
+  scale(SCALE_FACTOR);
   
   background(BACKG_COLOR);
+  
   stroke(FOREG_COLOR);
   strokeCap(ROUND);
-  strokeWeight(8);
+  strokeWeight(STROKE_SIZE/SCALE_FACTOR);
   
-  line(4*offset, 2*offset, 4*offset, 8*offset);
-  line(6*offset, 2*offset, 6*offset, 8*offset);
+  line(4, 2, 4, 8);
+  line(6, 2, 6, 8);
   
-  line(2*offset, 4*offset, 8*offset, 4*offset);
-  line(2*offset, 6*offset, 8*offset, 6*offset);
+  line(2, 4, 8, 4);
+  line(2, 6, 8, 6);
   
   noFill();
   ellipseMode(CENTER);
   
-  ellipse(3*offset, 3*offset, offset, offset);
-  ellipse(7*offset, 5*offset, offset, offset);
-  ellipse(5*offset, 5*offset, offset, offset);
-  ellipse(5*offset, 7*offset, offset, offset);
-  ellipse(7*offset, 3*offset, offset, offset);
+  ellipse(3, 3, 1, 1);
+  ellipse(7, 5, 1, 1);
+  ellipse(5, 5, 1, 1);
+  ellipse(5, 7, 1, 1);
+  ellipse(7, 3, 1, 1);
   
-  line(5*offset, 2.5*offset, 5*offset, 3.5*offset);
-  line(3*offset, 4.5*offset, 3*offset, 5.5*offset);
-  line(3*offset, 6.5*offset, 3*offset, 7.5*offset);
-  line(7*offset, 6.5*offset, 7*offset, 7.5*offset);
+  line(5, 2.5, 5, 3.5);
+  line(3, 4.5, 3, 5.5);
+  line(3, 6.5, 3, 7.5);
+  line(7, 6.5, 7, 7.5);
   
-  save("war-games.png");
-  
+  save("war-games.png"); 
 }
