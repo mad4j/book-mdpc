@@ -1,5 +1,5 @@
 
-final color BACKG = color(246, 240, 0);
+final color BACKG = color(255, 236, 132);
 final color FOREG = color(32, 32, 32);
 
 final float SCALE_FACTOR = 15.0;
