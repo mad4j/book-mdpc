@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Alice in Wonderland
 
 final color BACKG_COLOR = color(230, 143, 172);
 final color SMILE_COLOR = color(242, 243, 244);
