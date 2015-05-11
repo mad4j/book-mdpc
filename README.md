@@ -55,8 +55,12 @@ Animation, 2001
 Action, 1994
 ```
 
-## Dr No
-![Dr No](https://raw.githubusercontent.com/mad4j/processing-movies/master/dr_no/dr-no.png)
+## Labyrinth
+![Labyrinth](https://github.com/mad4j/processing-movies/blob/master/labyrinth/labyrinth.png)
+```
+'Labyrinth' di Jim Henson
+Adventure / Family / Fantasy, 1986
+```
 
 ## Pulp Fiction
 ![Pulp Finction](https://raw.githubusercontent.com/mad4j/processing-movies/master/pulp_fiction/pulp-fiction.png)
