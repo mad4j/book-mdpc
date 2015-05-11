@@ -1,11 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-/**
- * Jaws - Minimal Poster
- * Daniele Olmisani <daniele.olmisani@gmail.com>, 2015
- *
- * Jaws
- * by Steven Spielberg, 1075
- */
+// Jaws
 
 final color WATER_COLOR = color(0, 103, 165);
 final color SHARK_COLOR = color(194, 178, 128);
