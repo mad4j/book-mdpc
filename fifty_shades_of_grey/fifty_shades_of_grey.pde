@@ -1,4 +1,8 @@
 
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Fifty Shades of Grey
 
 void setup() {
   
@@ -9,8 +13,8 @@ void setup() {
 
 void draw() {
   
-  float dx = width/5.0;
-  float dy = height/10.0;
+  scale(width/5.0, height/10.0);
+
   float dc = 256/50.0;
   
   noStroke();
@@ -19,10 +23,10 @@ void draw() {
   for (int j=0; j<10; j++) {
     for (int i=0; i<5; i++) {
       fill(index*dc);
-      rect(i*dx, j*dy, dx, dy);
+      rect(i, j, 1, 1);
       index--;
     }
-  } 
+  }
   
-  save("fifty-shades-of-grey.png");
+  save("fifty-shades-of-grey.png"); 
 }
