@@ -1,15 +1,8 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-/**
- * Profondo Rosso
- * Minimal Poster Snippet
- *
- * dal film
- * 'Profondo Rosso' di Dario Argento
- * Horror, 1975
- *
- * Daniele Olmisani <daniele.olmisani@gmail.com>
- * 2015, tutti i diritti riservati
- */
+// Profondo Rosso
+
 
 //scegliamo un bel rosso scuro
 final color BLOOD_COLOR = color(190, 0, 50);
