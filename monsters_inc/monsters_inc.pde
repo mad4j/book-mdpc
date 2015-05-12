@@ -1,7 +1,12 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-final color BACKG_COLOR = color(88, 197, 200);
-final color FOREG1_COLOR = color(242, 243, 244);
-final color FOREG2_COLOR = color(34, 34, 34);
+// Monsters, Inc
+
+
+final color PAPER = color(88, 197, 200);
+final color INK1= color(242, 243, 244);
+final color INK2 = color(34, 34, 34);
 
 void setup() {
   
@@ -12,19 +17,19 @@ void setup() {
 
 void draw() {
   
-  float cX = width/2.0;
-  float cY = height/3.0;
+  translate(width/2.0, height/3.0);
   
-  background(BACKG_COLOR);
+  background(PAPER);
   
   noStroke();
   ellipseMode(CENTER);
   
-  fill(FOREG1_COLOR);
-  arc(cX, cY+24, 250, 150, PI+PI/10.0, TWO_PI-PI/10.0, CHORD);
-  arc(cX, cY-23, 250, 150, 0+PI/10.0, PI-PI/10.0, CHORD);
-  fill(FOREG2_COLOR);
-  ellipse(cX, cY, 80, 80);
+  fill(INK1);
+  arc(0, 24, 250, 150, PI+PI/10.0, TWO_PI-PI/10.0, CHORD);
+  arc(0, -23, 250, 150, 0+PI/10.0, PI-PI/10.0, CHORD);
+  
+  fill(INK2);
+  ellipse(0, 0, 80, 80);
   
   save("monsters-inc.png");
 }

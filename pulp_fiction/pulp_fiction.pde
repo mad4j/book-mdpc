@@ -1,6 +1,12 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-final color BLOOD_COLOR = color(220, 50, 50);
-final color BACKG_COLOR = color(80, 80, 80);
+// Pulp Fiction
+
+
+final color PAPER = color(80, 80, 80);
+final color INK = color(220, 50, 50);
+
 
 void setup() {
  
@@ -8,16 +14,17 @@ void setup() {
  noLoop();
 }
 
+
 void draw() {
   
-  background(BACKG_COLOR);
+  translate(width/2.0, height/2.0);
   
-  fill(BLOOD_COLOR);
+  background(PAPER);
+  
+  fill(INK);
   noStroke();
   
   ellipseMode(CENTER);
-  
-  translate(width/2.0, height/2.0);
   
   for (int i=0; i<1000; i++) {
     
@@ -25,7 +32,6 @@ void draw() {
     float y = (height/5.0)*randomGaussian();
     float r = ((width-abs(x)-abs(y))/25.0)*randomGaussian();
     
-    //float r = (width-sqrt(x*x+y*y))*randomGaussian();
     ellipse(x, y, r, r);
   }
   

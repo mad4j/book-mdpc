@@ -5,7 +5,7 @@
 
 
 //scegliamo un bel rosso scuro
-final color BLOOD_COLOR = color(190, 0, 50);
+final color PAPER = color(190, 0, 50);
 
 /**
  * setup()
@@ -28,7 +28,7 @@ void setup() {
 void draw() {
   
   //impostiamo lo sfondo 
-  background(BLOOD_COLOR);
+  background(PAPER);
   
   //salviamo il risultato in un immagine su disco
   save("profondo-rosso.png");
