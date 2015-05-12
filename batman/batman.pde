@@ -1,15 +1,15 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-float f(float x) {
-  return 3*sqrt(-sq((x/7))+1);
-}
+// Batman
 
-float g(float x) {
-  return 1.5-0.5*abs(x)-((6*sqrt(10))/14)*(sqrt(3-sq(x)+2*abs(x))-2);
-}
+// "Batman Curve" - http://mathworld.wolfram.com/BatmanCurve.html
 
-float h(float x) {
-  return abs(x/2)-0.0913722*sq(x)-3+sqrt(1-sq((abs(abs(x)-2)-1)));
-}
+
+final color PAPER = color(244, 243, 242);
+final color INK1 = color(32, 32, 32);
+final color INK2 = color(255, 255, 0);
+
 
 void setup() {
   
@@ -17,22 +17,22 @@ void setup() {
   noLoop();
 }
 
+
 void draw() {
   
   translate(width/2.0, height/2.0);
   scale(25.0, -25.0);
 
-  background(244, 243, 242);
-  
+  background(PAPER);  
 
-  fill(255, 255, 0);
-  stroke(32, 32, 32);
+  fill(INK2);
+  stroke(INK1);
   strokeWeight(0.5);
   
   ellipseMode(CENTER);
   ellipse(0, 0, 16, 8);
   
-  fill(32, 32, 32);
+  fill(INK1);
   noStroke();
   
   beginShape();
@@ -66,4 +66,16 @@ void draw() {
   endShape();
   
   save("batman.png");
+}
+
+float f(float x) {
+  return 3*sqrt(-sq((x/7))+1);
+}
+
+float g(float x) {
+  return 1.5-0.5*abs(x)-((6*sqrt(10))/14)*(sqrt(3-sq(x)+2*abs(x))-2);
+}
+
+float h(float x) {
+  return abs(x/2)-0.0913722*sq(x)-3+sqrt(1-sq((abs(abs(x)-2)-1)));
 }

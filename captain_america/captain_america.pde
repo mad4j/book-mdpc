@@ -1,3 +1,13 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Captain America: the First Avenger
+
+
+final color PAPER = color(237, 225, 203);
+final color INK1 = color(217, 50, 42);
+final color INK2 = color(242, 243, 244);
+final color INK3 = color(0, 142, 164);
 
 
 void setup() {
@@ -8,24 +18,24 @@ void setup() {
 
 void draw() {
   
-  background(237, 225, 203);
+  background(PAPER);
   noStroke();
   
   translate(width/2.0, height/2.0);
   
-  fill(217, 50, 42);
+  fill(INK1);
   ellipse(0, 0, 340, 340);
   
-  fill(242, 243, 244);
+  fill(INK2);
   ellipse(0, 0, 280, 280);
   
-  fill(217, 50, 42);
+  fill(INK1);
   ellipse(0, 0, 220, 220);
   
-  fill(0, 142, 164);
+  fill(INK3);
   ellipse(0, 0, 150, 150);
   
-  fill(242, 243, 244);
+  fill(INK2);
   star(0, 0, 25, 50, 5);
  
  save("captain-america.png"); 

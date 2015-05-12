@@ -1,4 +1,3 @@
-
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
