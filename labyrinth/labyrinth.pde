@@ -1,8 +1,13 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-final color BACKG = color(255, 236, 132);
-final color FOREG = color(32, 32, 32);
+// Labyrinth
 
-final float SCALE_FACTOR = 15.0;
+final color PAPER = color(255, 236, 132);
+final color INK = color(32, 32, 32);
+
+final float SCALE = 15.0;
+final float STROKE = 3.0;
 
 
 void setup() {
@@ -13,16 +18,16 @@ void setup() {
 
 void draw() {
   
-  scale(SCALE_FACTOR);
+  scale(SCALE);
   
-  final float MAX_X = width/SCALE_FACTOR;
-  final float MAX_Y = height/SCALE_FACTOR;
+  final float MAX_X = width/SCALE;
+  final float MAX_Y = height/SCALE;
   
-  background(BACKG);
+  background(PAPER);
   
   noFill();
-  stroke(FOREG);
-  strokeWeight(3/SCALE_FACTOR);
+  stroke(INK);
+  strokeWeight(STROKE / SCALE);
   
   for (int x=0; x<MAX_X; x++) {
     for (int y=0; y<MAX_Y; y++) {

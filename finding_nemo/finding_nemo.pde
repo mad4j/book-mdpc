@@ -1,8 +1,12 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
+// Finding Nemo
 
-final color ORANGE = color(245, 132, 0);
-final color BLACK = color(34, 34, 34);
-final color WHITE = color(250, 249, 248);
+final color PAPER = color(250, 249, 248);
+final color INK1 = color(245, 132, 0);
+final color INK2 = color(34, 34, 34);
+
 
 final float STROKE = 10.0;
 
@@ -14,10 +18,10 @@ void setup() {
 
 void draw() {
   
-  background(WHITE);
+  background(PAPER);
   
-  fill(ORANGE);
-  stroke(BLACK);
+  fill(INK1);
+  stroke(INK2);
   strokeWeight(STROKE);
   
   float dx = width/3.0;

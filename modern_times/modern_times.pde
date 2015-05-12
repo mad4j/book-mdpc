@@ -1,16 +1,23 @@
-  
-  void setup() {
-    size(480, 640);
-    smooth();
-    noLoop();
-  }
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Moderm Times
+
+final color PAPER = color(244, 243, 242);
+final color INK = color(43, 61, 38);
+
+
+void setup() {
+  size(480, 640);
+  noLoop();
+}
   
 
 void draw() {
   
   translate(width/2.0, height/3.0);
   
-  background(244, 243, 242);
+  background(PAPER);
   
   drawGear(0, 0, 75, 20, 0);
   drawGear(99, 98, 50, 20, 2);
@@ -25,7 +32,7 @@ void drawGear(float x, float y, float r, float s, float a) {
 
   pushMatrix();
   
-  fill(43, 61, 38);
+  fill(INK);
   noStroke();
   
   translate(x, y);
@@ -42,7 +49,7 @@ void drawGear(float x, float y, float r, float s, float a) {
   }
   ellipse(0, 0, 2*r, 2*r);
   
-  fill(244, 243, 242);
+  fill(PAPER);
   ellipse(0, 0, 5, 5);
   
   popMatrix();
