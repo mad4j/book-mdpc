@@ -7,9 +7,10 @@
 final color PAPER = color(80, 80, 80);
 final color INK = color(220, 50, 50);
 
+final int SPOTS = 1000;
+
 
 void setup() {
- 
  size(480, 640);
  noLoop();
 }
@@ -26,7 +27,7 @@ void draw() {
   
   ellipseMode(CENTER);
   
-  for (int i=0; i<1000; i++) {
+  for (int i=0; i<SPOTS; i++) {
     
     float x = (width/5.0)*randomGaussian();
     float y = (height/5.0)*randomGaussian();

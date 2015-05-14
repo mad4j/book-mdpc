@@ -1,7 +1,8 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Moderm Times
+// Modern Times
+
 
 final color PAPER = color(244, 243, 242);
 final color INK = color(43, 61, 38);

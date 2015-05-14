@@ -1,7 +1,13 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-final color BACKG_COLOR = color(96, 78, 151);
-final color SUN_COLOR = color(255, 255, 0);
-final color MOON_COLOR = color(244, 243, 242);
+// Six Days Seven Nights
+
+
+final color PAPER = color(96, 78, 151);
+final color INK1 = color(255, 255, 0);
+final color INK2 = color(244, 243, 242);
+
 
 void setup() {
   
@@ -11,7 +17,7 @@ void setup() {
 
 void draw() {
   
-  background(BACKG_COLOR);
+  background(PAPER);
   
   translate(width/2.0, 0);
   
@@ -29,8 +35,8 @@ void draw() {
 
 void drawSun(float x, float y, float r1, int rays) {
   
-  fill(SUN_COLOR);
-  stroke(SUN_COLOR);
+  fill(INK1);
+  stroke(INK1);
   strokeWeight(r1/6.0);
   
   pushMatrix();
@@ -57,13 +63,13 @@ void drawMoon(float x, float y, float r, int phase) {
   translate(x, y);
   rotate(HALF_PI/2.0);
   
-  fill(MOON_COLOR);
+  fill(INK2);
   noStroke();
   
   ellipseMode(CENTER);
   arc(0, 0, r, r, 0, PI, OPEN);
     
-  fill((phase<4) ? BACKG_COLOR : MOON_COLOR);
+  fill((phase<4) ? PAPER : INK2);
   float offset = abs(r/4 * (phase-4));
   float angle = (phase < 4) ? 0 : PI;
   arc(0, 0, r, offset, angle, angle+PI+1, OPEN);

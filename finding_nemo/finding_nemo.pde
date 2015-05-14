@@ -3,18 +3,20 @@
 
 // Finding Nemo
 
+
 final color PAPER = color(250, 249, 248);
 final color INK1 = color(245, 132, 0);
 final color INK2 = color(34, 34, 34);
 
-
 final float STROKE = 10.0;
+
 
 void setup() {
   
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -50,5 +52,4 @@ void draw() {
   endShape();
   
   save("finding-nemo.png");
-
 }

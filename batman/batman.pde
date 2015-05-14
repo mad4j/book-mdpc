@@ -3,6 +3,7 @@
 
 // Batman
 
+// See also:
 // "Batman Curve" - http://mathworld.wolfram.com/BatmanCurve.html
 
 
@@ -21,7 +22,7 @@ void setup() {
 void draw() {
   
   translate(width/2.0, height/2.0);
-  scale(25.0, -25.0);
+  scale(25, -25);
 
   background(PAPER);  
 

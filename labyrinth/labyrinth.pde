@@ -3,6 +3,7 @@
 
 // Labyrinth
 
+
 final color PAPER = color(255, 236, 132);
 final color INK = color(32, 32, 32);
 
@@ -11,10 +12,10 @@ final float STROKE = 3.0;
 
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -32,13 +33,11 @@ void draw() {
   for (int x=0; x<MAX_X; x++) {
     for (int y=0; y<MAX_Y; y++) {
 
-      if (random(1) < 0.5) {        
-        line(x, y, x+1, y+1);
-      } else {
-        line(x+1, y, x, y+1);
-      }
+      float r = random(1);
+      line(x+(int)(0.5+r), y, x+(int)(1.5-r), y+1);
     }
+
   }
-  
+
   save("labyrinth.png");
 }

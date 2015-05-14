@@ -18,10 +18,10 @@ void setup() {
 
 void draw() {
   
+  translate(width/2.0, height/2.0);
+  
   background(PAPER);
   noStroke();
-  
-  translate(width/2.0, height/2.0);
   
   fill(INK1);
   ellipse(0, 0, 340, 340);
