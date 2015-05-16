@@ -3,11 +3,12 @@
 
 // Star Wars
 
-final color SPACE_COLOR = color(34, 34, 34);
-final color STEEL_COLOR = color(132, 132, 130);
 
-final float MOON_SIZE = 300.0;
-final float HOLE_SIZE = 0.23*MOON_SIZE;
+final color PAPER = color(34, 34, 34);
+final color INK = color(132, 132, 130);
+
+final float MOON = 300.0;
+final float HOLE = 70.0;
 
 
 void setup() {
@@ -20,19 +21,19 @@ void draw() {
   
   translate(width/2.0, height/2.0);
   
-  background(SPACE_COLOR);
+  background(PAPER);
   
   ellipseMode(CENTER);
   rectMode(CENTER);
   
   noStroke();
   
-  fill(STEEL_COLOR);
-  ellipse(0, 0, MOON_SIZE, MOON_SIZE);
+  fill(INK);
+  ellipse(0, 0, MOON, MOON);
   
-  fill(SPACE_COLOR);
-  rect(0, 0, MOON_SIZE, MOON_SIZE/60.0);
-  ellipse(HOLE_SIZE, -HOLE_SIZE, HOLE_SIZE, HOLE_SIZE);
+  fill(PAPER);
+  rect(0, 0, MOON, MOON/60.0);
+  ellipse(HOLE, -HOLE, HOLE, HOLE);
   
   save("star-wars.png");
 }

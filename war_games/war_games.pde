@@ -3,28 +3,28 @@
 
 // Wargames
 
-final color BACKG_COLOR = color(34, 34, 34);
-final color FOREG_COLOR = color(0, 186, 86);
 
-final float SCALE_FACTOR = 48.0;
-final float STROKE_SIZE = 8.0;
+final color PAPER = color(34, 34, 34);
+final color INK = color(0, 186, 86);
+
+final float SCALE = 48.0;
+final float STROKE = 8.0;
 
 
-void setup() {
-  
+void setup() {  
   size(480, 640);
   noLoop();
 }
 
 void draw() {
     
-  scale(SCALE_FACTOR);
+  scale(SCALE);
   
-  background(BACKG_COLOR);
+  background(PAPER);
   
-  stroke(FOREG_COLOR);
+  stroke(INK);
   strokeCap(ROUND);
-  strokeWeight(STROKE_SIZE/SCALE_FACTOR);
+  strokeWeight(STROKE/SCALE);
   
   line(4, 2, 4, 8);
   line(6, 2, 6, 8);
