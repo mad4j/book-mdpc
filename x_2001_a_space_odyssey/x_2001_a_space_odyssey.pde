@@ -32,7 +32,7 @@ void draw()  {
   fill(INK1);
   stroke(INK2);
   strokeWeight(2.0); 
-  box(40, 390, 160); 
+  box(40, 360, 160); 
   
   save("2001-a-space-odyssey.png");
 }

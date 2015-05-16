@@ -35,28 +35,16 @@ void draw() {
   noStroke();
   
   beginShape();
-  for (float x=1.0; x<3.0; x+=0.04) {
-    vertex(x, g(x));
+  for (float x=1.0; x<=7.0; x+=0.04) {
+    vertex(x, (x<3) ? g(x) : f(x));
   }
-  for (float x=3.0; x<=7.0; x+=0.04) {
-    vertex(x, f(x));
+  for (float x=7.0; x>=-7.0; x-=0.04) {
+    vertex(x, (abs(x)<4 ? h(x) : -f(x)));
+  }  
+  for (float x=-7.0; x<=-1.0; x+=0.04) {
+    vertex(x, (x>-3) ? g(x) : f(x));
   }
-  for (float x=7.0; x>=4.0; x-=0.04) {
-    vertex(x, -f(x));
-  }
-  for (float x=4.0; x>=-4.0; x-=0.04) {
-    vertex(x, h(x));
-  }
-  for (float x=4.0; x<=7.0; x+=0.04) {
-    vertex(-x, -f(x));
-  }
-  for (float x=7.0; x>=3.0; x-=0.04) {
-    vertex(-x, f(x));
-  }
-  for (float x=-3.0; x<-1.0; x+=0.04) {
-    vertex(x, g(x));
-  }
-  
+   
   vertex(-0.75, 3.00);
   vertex(-0.50, 2.25);
   vertex( 0.50, 2.25);
