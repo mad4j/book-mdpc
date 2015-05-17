@@ -3,16 +3,13 @@
 
 // One hundred and one Dalmatians
 
-
 final color PAPER = color(250);
 final color INK = color(34);
-
 
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   
@@ -26,8 +23,7 @@ void draw() {
   save("one-hundred-and-one-dalmatians.png");
 }
 
-
-void drawSpot(float x, float y, float radius, int fuzziness) {
+void drawSpot(float x, float y, float r, int fuzz) {
   
   fill(INK);
   noStroke();
@@ -36,10 +32,10 @@ void drawSpot(float x, float y, float radius, int fuzziness) {
 
   translate(x, y);
   
-  ellipse(0, 0, radius, radius);
+  ellipse(0, 0, r, r);
   
-  for (int i=0; i<fuzziness; i++) {
-    ellipse(random(0.2*radius), random(0.2*radius), radius, radius);
+  for (int i=0; i<fuzz; i++) {
+    ellipse(random(0.2*r), random(0.2*r), r, r);
   }
   
   popMatrix();

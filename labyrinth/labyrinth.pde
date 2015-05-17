@@ -3,19 +3,16 @@
 
 // Labyrinth
 
-
 final color PAPER = color(255, 236, 132);
 final color INK = color(32, 32, 32);
 
 final float SCALE = 15.0;
 final float STROKE = 3.0;
 
-
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   

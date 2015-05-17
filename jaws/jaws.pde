@@ -3,19 +3,16 @@
 
 // Jaws
 
-
 final color PAPER = color(0, 103, 165);
 final color INK = color(194, 178, 128);
 
 final float TEETH = 10;;
-
 
 void setup() {
   
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   

@@ -3,16 +3,13 @@
 
 // Modern Times
 
-
 final color PAPER = color(244, 243, 242);
 final color INK = color(43, 61, 38);
-
 
 void setup() {
   size(480, 640);
   noLoop();
 }
-  
 
 void draw() {
   
@@ -27,7 +24,6 @@ void draw() {
   
   save("modern-times.png");
 }
-
 
 void drawGear(float x, float y, float r, float s, float a) {
 

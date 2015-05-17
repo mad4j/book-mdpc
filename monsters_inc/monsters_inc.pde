@@ -3,17 +3,14 @@
 
 // Monsters, Inc
 
-
 final color PAPER = color(88, 197, 200);
 final color INK1= color(242, 243, 244);
 final color INK2 = color(34, 34, 34);
-
 
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   

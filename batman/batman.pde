@@ -12,7 +12,6 @@ final color INK1 = color(32, 32, 32);
 final color INK2 = color(255, 255, 0);
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
@@ -35,21 +34,18 @@ void draw() {
   noStroke();
   
   beginShape();
-  for (float x=1.0; x<=7.0; x+=0.04) {
-    vertex(x, (x<3) ? g(x) : f(x));
+  for (float x=-7.0; x<=7.0; x+=0.05) {
+    vertex(x, abs(x)<3 ? g(x) : f(x));
   }
-  for (float x=7.0; x>=-7.0; x-=0.04) {
+  for (float x=7.0; x>=-7.0; x-=0.05) {
     vertex(x, (abs(x)<4 ? h(x) : -f(x)));
   }  
-  for (float x=-7.0; x<=-1.0; x+=0.04) {
-    vertex(x, (x>-3) ? g(x) : f(x));
-  }
-   
-  vertex(-0.75, 3.00);
-  vertex(-0.50, 2.25);
-  vertex( 0.50, 2.25);
-  vertex( 0.75, 3.00);
-  vertex( 1.00, 1.00);
+  endShape();
+  
+  beginShape();
+  vertex(-1.00, 1.00); vertex(-0.75, 3.00);
+  vertex(-0.50, 2.25); vertex( 0.50, 2.25);
+  vertex( 0.75, 3.00); vertex( 1.00, 1.00);
   endShape();
   
   save("batman.png");
@@ -60,9 +56,9 @@ float f(float x) {
 }
 
 float g(float x) {
-  return 1.5-0.5*abs(x)-((6*sqrt(10))/14)*(sqrt(3-sq(x)+2*abs(x))-2);
+  return 1.5-abs(x/2)-1.35*(sqrt(3-sq(x)+2*abs(x))-2);
 }
 
 float h(float x) {
-  return abs(x/2)-0.0913722*sq(x)-3+sqrt(1-sq((abs(abs(x)-2)-1)));
+  return abs(x/2)-0.09*sq(x)-3+sqrt(1-sq((abs(abs(x)-2)-1)));
 }
