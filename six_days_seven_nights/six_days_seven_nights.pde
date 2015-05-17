@@ -3,11 +3,9 @@
 
 // Six Days Seven Nights
 
-
 final color PAPER = color(96, 78, 151);
 final color INK1 = color(255, 255, 0);
 final color INK2 = color(244, 243, 242);
-
 
 void setup() {
   
@@ -33,28 +31,27 @@ void draw() {
   save ("six-days-seven-nights.png");
 }
 
-void drawSun(float x, float y, float r1, int rays) {
+void drawSun(float x, float y, float r, int rays) {
   
   fill(INK1);
   stroke(INK1);
-  strokeWeight(r1/6.0);
+  strokeWeight(r/6.0);
   
   pushMatrix();
   
   translate(x, y);
   ellipseMode(CENTER);
-  ellipse(0, 0, r1, r1);
+  ellipse(0, 0, r, r);
   
-  float offset = r1/2.0 + r1/4.0;
+  float offset = r/2.0 + r/4.0;
   
   for (int i=0; i<=rays; i++) {
-    line(offset, 0, offset+r1/2.0, 0);
+    line(offset, 0, offset+r/2.0, 0);
     rotate(TWO_PI / rays);
   }
   
   popMatrix();
 }
-
 
 void drawMoon(float x, float y, float r, int phase) {
   

@@ -3,16 +3,13 @@
 
 // The Deer Hunter
 
-
 final color PAPER = color(194, 178, 128);
 final color INK = color(136, 45, 23);
-
 
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   

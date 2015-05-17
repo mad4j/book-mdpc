@@ -3,12 +3,10 @@
 
 // The Lord of the Rings
 
-
 final color PAPER = color(242, 243, 244);
 final color INK = color(243, 220, 0);
 
 final int SIZE = 300;
-
 
 void setup() {
   size(480, 640);

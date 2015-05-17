@@ -3,7 +3,6 @@
 
 // Tron
 
-
 final color PAPER = color(32);
 final color INK1 = color(0, 136, 86);
 final color INK2 = color(103, 156, 200);
@@ -13,7 +12,6 @@ void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   

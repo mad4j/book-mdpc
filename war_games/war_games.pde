@@ -3,13 +3,11 @@
 
 // Wargames
 
-
 final color PAPER = color(34, 34, 34);
 final color INK = color(0, 186, 86);
 
 final float SCALE = 48.0;
 final float STROKE = 8.0;
-
 
 void setup() {  
   size(480, 640);

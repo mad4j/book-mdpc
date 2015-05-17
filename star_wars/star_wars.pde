@@ -3,13 +3,11 @@
 
 // Star Wars
 
-
 final color PAPER = color(34, 34, 34);
 final color INK = color(132, 132, 130);
 
 final float MOON = 300.0;
 final float HOLE = 70.0;
-
 
 void setup() {
   
