@@ -24,8 +24,6 @@ void draw() {
   strokeWeight(0.5);
   stroke(INK1);
   drawGrid(8);
-
-  translate(25, 25);
   
   strokeWeight(10.0);
   stroke(INK2);
