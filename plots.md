@@ -1,11 +1,11 @@
 #### Alice nel Paese delle Meraviglie
-Strane avventure di una ragazzina un po' troppo saputella, rischierà di perdere la testa 
+- [ ] Strane avventure di una ragazzina un po' troppo saputella, rischierà di perdere la testa 
 
 #### Batman
 
 
 #### Captain America: il Primo Vendicatore
-Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei alto, forte e bello non sarai mai nessuno.
+- [x] Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei alto, forte e bello non sarai mai nessuno.
 
 #### Cinquanta Sfumature di Grigio
 
@@ -47,9 +47,10 @@ Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei alto, fo
 
 
 #### Tron
+- [ ] Il mondo spietato dei videogiochi non è poi così diverso dal nostro. Ribellione e redenzione per un fuga verso la libertà.
 
 #### Wargames
 
 
 #### 2001 Odissea nello Spazio
-Non sappiamo quale sia la risposta alla domanda fondamentale sulla vita, l’universo e tutto quanto il resto, ma sicuramente riusciremo a trovarla grazie ad comportamento anomalo del software
+- [ ] Non sappiamo quale sia la risposta alla domanda fondamentale sulla vita, l’universo e tutto quanto il resto, ma sicuramente riusciremo a trovarla grazie ad comportamento anomalo del software
