@@ -52,3 +52,4 @@ Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei alto, fo
 
 
 #### 2001 Odissea nello Spazio
+Non sappiamo quale sia la risposta alla domanda fondamentale sulla vita, l’universo e tutto quanto il resto, ma sicuramente riusciremo a trovarla grazie ad comportamento anomalo del software
