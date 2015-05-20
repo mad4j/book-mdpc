@@ -1,11 +1,11 @@
 #### Alice nel Paese delle Meraviglie
-- [ ] Strane avventure di una ragazzina un po' troppo saputella, rischierà di perdere la testa 
+- [ ] Le avventure di una ragazzina un po' saputella. Rischierà di perdere la testa se non la smetterà di inseguire conigli.
 
 #### Batman
-- [ ] Se sei ricco puoi anche permetterti di andare in giro la notte, vestito da sfigato, a picchiare malviventi. La Tecnologia al servizio di Giustizia e Ordine.
+- [ ] Se sei ricco puoi permetterti di andare in giro, vestito da sfigato, a picchiare malviventi. Tecnologia al servizio di Giustizia e Ordine.
 
 #### Captain America: il Primo Vendicatore
-- [x] Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei alto, forte e bello non sarai mai nessuno.
+- [x] Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei anche alto, forte e bello, allora, non sarai mai nessuno.
 
 #### Cinquanta Sfumature di Grigio
 
