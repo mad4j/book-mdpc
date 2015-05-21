@@ -11,6 +11,7 @@
 
 
 #### Alla Ricerca di Nemo
+- [x] Tutti sono speciali. Qualsiasi sfida non è impossibile... se ci sono gli amici a sostenerti
 
 
 #### Lo Squalo
