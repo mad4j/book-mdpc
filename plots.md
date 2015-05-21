@@ -8,7 +8,7 @@
 - [x] Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei anche alto, forte e bello, allora, non sarai mai nessuno.
 
 #### Cinquanta Sfumature di Grigio
-
+- [ ] Bella, giovane, docile e vergine si innamora perdutamente di un giovane milionario, sadico con problemi relazionale. Qualcuno incomincerà ad avere dei problemi
 
 #### Alla Ricerca di Nemo
 - [x] Tutti sono speciali. Qualsiasi sfida non è impossibile... se ci sono gli amici a sostenerti
