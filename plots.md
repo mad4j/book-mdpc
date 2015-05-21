@@ -8,7 +8,7 @@
 - [x] Non importa quanto puoi essere onesto, gentile ed altruista. Se non sei anche alto, forte e bello, allora, non sarai mai nessuno.
 
 #### Cinquanta Sfumature di Grigio
-- [ ] Bella, giovane, docile e vergine si innamora perdutamente di un giovane milionario, sadico con problemi relazionale. Qualcuno incomincerà ad avere dei problemi
+- [ ] Bella, giovane, docile, ancora vergine si innamora perdutamente di un giovane milionario, sadico con problemi relazionale. Qualcuno incomincerà ad avere dei problemi
 
 #### Alla Ricerca di Nemo
 - [x] Tutti sono speciali. Qualsiasi sfida non è impossibile... se ci sono gli amici a sostenerti
@@ -45,13 +45,13 @@
 
 
 #### Il Signore degli Anelli
-- [ ] Il Potere corrompe, la salvezza è nel distruggerlo. Guerrieri, Stregoni, Demoni e Creature leggendarie. Il viaggio interiore si intreccia con quello reale. Vincerà la compassione e il buon senso.
+- [ ] Il Potere corrompe, l'unica salvezza è nel distruggerlo. Guerrieri, Stregoni, Demoni e Creature leggendarie. Il viaggio interiore si intreccia con quello reale, ma a vincere sarà la compassione e il sano buon senso.
 
 #### Tron
 - [ ] Il mondo spietato dei videogiochi non è poi così diverso dal nostro. Ribellione e redenzione per un fuga verso la libertà.
 
 #### Wargames
-- [ ] Sembra un gioco, ma è guerra vera. Il virtuale con tutte le sue insidie incomincia a fare capolino nella vita di tutti giorni. Se il guerra è un gioco, l'unica strategia vincente è quella di non partecipare.
+- [ ] Sembra un gioco, ma è guerra vera. Il virtuale, con tutte le sue insidie, incomincia timidamente a presentarsi nella vita di tutti giorni. Se la guerra è un gioco, l'unica strategia vincente è quella di non partecipare.
 
 #### 2001 Odissea nello Spazio
 - [ ] Non sappiamo quale sia la risposta alla domanda fondamentale sulla vita, l’universo e tutto quanto il resto, ma sicuramente riusciremo a trovarla grazie ad comportamento anomalo del software
