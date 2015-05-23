@@ -35,4 +35,6 @@ void draw() {
   translate(SIZE/2.0, 0);
   
   ellipse(0, 0, SIZE, SIZE);
+  
+  save("love-story.png");
 }
