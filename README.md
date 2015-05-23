@@ -132,3 +132,10 @@ Animation / Comedy, 1961
 'Modern Times' di Charles Chaplin
  Comedy / Drama, 1936
 ```
+
+## Love Story
+![Love Story](https://github.com/mad4j/processing-movies/blob/master/love_story/love-story.png)
+```
+'Love Story' di TBV
+ TBV, TBV
+```
