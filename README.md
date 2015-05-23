@@ -136,6 +136,6 @@ Animation / Comedy, 1961
 ## Love Story
 ![Love Story](https://github.com/mad4j/processing-movies/blob/master/love_story/love-story.png)
 ```
-'Love Story' di TBV
- TBV, TBV
+'Love Story' di Arthur Hiller
+  Drama / Romance, 1970
 ```
