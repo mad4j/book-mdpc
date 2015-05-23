@@ -9,7 +9,7 @@ final color PAPER = color(190, 0, 50);
 
 /**
  * setup()
- * tutto quello che serve per preparasi al disegno
+ * tutto quello che serve per prepararsi al disegno
  */ 
 void setup() {
   
