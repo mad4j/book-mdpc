@@ -45,7 +45,7 @@ void draw() {
   curveVertex(width+STROKE, 2*dy);
   curveVertex(width+STROKE, 2*dy);
   vertex(width+STROKE, height+STROKE);
-  vertex(0-STROKE, height+STROKE);
+  vertex(-STROKE, height+STROKE);
   endShape();
   
   save("finding-nemo.png");

@@ -3,17 +3,14 @@
 
 // Fifty Shades of Grey
 
-
 final int ROWS = 10;
 final int COLS = 5;
-
 
 void setup() {
   
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   

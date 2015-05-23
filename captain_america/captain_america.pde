@@ -3,12 +3,10 @@
 
 // Captain America: the First Avenger
 
-
 final color PAPER = color(237, 225, 203);
 final color INK1 = color(217, 50, 42);
 final color INK2 = color(242, 243, 244);
 final color INK3 = color(0, 142, 164);
-
 
 void setup() {
   
@@ -41,17 +39,21 @@ void draw() {
  save("captain-america.png"); 
 }
 
-void star(float x, float y, float radius1, float radius2, int npoints) {
-  float angle = TWO_PI / npoints;
+void star(float x, float y, float r1, float r2, int n) {
+  
+  float angle = TWO_PI / n;
   float halfAngle = angle/2.0;
+  
   beginShape();
+  
   for (float a = -HALF_PI; a < TWO_PI-HALF_PI; a += angle) {
-    float sx = x + cos(a) * radius2;
-    float sy = y + sin(a) * radius2;
+    float sx = x + cos(a) * r2;
+    float sy = y + sin(a) * r2;
     vertex(sx, sy);
-    sx = x + cos(a+halfAngle) * radius1;
-    sy = y + sin(a+halfAngle) * radius1;
+    sx = x + cos(a+halfAngle) * r1;
+    sy = y + sin(a+halfAngle) * r1;
     vertex(sx, sy);
   }
+  
   endShape(CLOSE);
 }

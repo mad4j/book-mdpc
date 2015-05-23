@@ -9,13 +9,11 @@ final color INK = color(242, 243, 244);
 final int TEETH = 12;
 final int SIZE = 300;
 
-
 void setup() {
   
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   

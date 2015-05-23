@@ -3,7 +3,6 @@
 
 // Profondo Rosso
 
-
 //scegliamo un bel rosso scuro
 final color PAPER = color(190, 0, 50);
 
@@ -19,7 +18,6 @@ void setup() {
   //solo un singolo fotogramma
   noLoop();
 }
-
 
 /**
  * draw()

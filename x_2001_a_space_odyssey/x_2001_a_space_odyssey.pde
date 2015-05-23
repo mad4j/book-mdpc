@@ -3,7 +3,6 @@
 
 // 2001 A Space Odyssey
 
-
 final color PAPER = color(255,228,181);
 final color INK1 = color(0);
 final color INK2 = color(64);
@@ -14,13 +13,12 @@ void setup()  {
   noLoop();
 }
 
-
 void draw()  {
   
   float fov = PI/3.0;
-  float cameraZ = (height/2.0) / tan(fov/2.0); 
+  float camZ = (height/2.0) / tan(fov/2.0); 
   float aspect =  float(width)/float(height);
-  perspective(fov, aspect, cameraZ/2.0, cameraZ*2.0); 
+  perspective(fov, aspect, camZ/2.0, camZ*2.0); 
   
   translate(width/2.0, height/2.0, 0);
   rotateX(-PI/6); 
