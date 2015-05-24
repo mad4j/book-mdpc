@@ -3,6 +3,9 @@
 
 // Labyrinth
 
+// See also:
+// 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+
 final color PAPER = color(255, 236, 132);
 final color INK = color(32, 32, 32);
 
@@ -25,6 +28,7 @@ void draw() {
   
   noFill();
   stroke(INK);
+  strokeCap(ROUND);
   strokeWeight(STROKE / SCALE);
   
   for (int x=0; x<MAX_X; x++) {
@@ -33,7 +37,6 @@ void draw() {
       float r = random(1);
       line(x+(int)(0.5+r), y, x+(int)(1.5-r), y+1);
     }
-
   }
 
   save("labyrinth.png");
