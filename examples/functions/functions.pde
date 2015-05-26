@@ -1,5 +1,5 @@
 
-final int SIZE = 240;
+final int SIZE = 512;
 
 void setup() {
   size(SIZE, SIZE);
