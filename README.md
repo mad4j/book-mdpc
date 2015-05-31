@@ -144,3 +144,7 @@ Animation / Comedy, 1961
 
 ## Vertigo
 ![Vertigo](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/vertigo/vertigo.png)
+
+## Il Sorpasso
+![Il Sorpasso](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/il_sorpasso/il-sorpasso.png)
+
