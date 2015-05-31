@@ -4,7 +4,7 @@ Minimalist movie posters generated using Processing programming language.
 List of movies: http://www.imdb.com/title/tt0086567
 
 ## Fifty Shades of Gray
-![Fifth Shades of Gray](https://raw.githubusercontent.com/mad4j/processing-movies/master/fifty_shades_of_grey/fifty-shades-of-grey.png)
+![Fifth Shades of Gray](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png)
 ```
 'Fifty Shades of Gray' di Sam Taylor-Johnson
 Romance / Drama, 2015
