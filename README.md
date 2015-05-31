@@ -141,3 +141,6 @@ Animation / Comedy, 1961
 'Love Story' di Arthur Hiller
   Drama / Romance, 1970
 ```
+
+## Vertigo
+![Vertigo](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/vertigo/vertigo.png)
