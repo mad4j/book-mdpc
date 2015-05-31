@@ -58,7 +58,7 @@ Action, 1994
 ```
 
 ## Labyrinth
-![Labyrinth]https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/labyrinth/labyrinth.png)
+![Labyrinth](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/labyrinth/labyrinth.png)
 ```
 'Labyrinth' di Jim Henson
 Adventure / Family / Fantasy, 1986
