@@ -1,5 +1,7 @@
 # Processing Movies
-minimal movie posters generated using Processing
+Minimalist movie posters generated using Processing programming language.
+
+List of movies: http://www.imdb.com/title/tt0086567
 
 ## Fifty Shades of Gray
 ![Fifth Shades of Gray](https://raw.githubusercontent.com/mad4j/processing-movies/master/fifty_shades_of_grey/fifty-shades-of-grey.png)
