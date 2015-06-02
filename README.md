@@ -24,6 +24,12 @@ List of movies: http://www.imdb.com/title/tt0086567
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/batman/batman.png"  width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/six_days_seven_nights/six-days-seven-nights.png"  width="120px">
 
+<img src="(https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/x_2001_a_space_odyssey/2001-a-space-odyssey.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/modern_times/modern-times.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/love_story/love-story.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/vertigo/vertigo.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/il_sorpasso/il-sorpasso.png"  width="120px">
+
 ## Fifty Shades of Gray
 ![Fifth Shades of Gray](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png)
 
