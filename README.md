@@ -33,3 +33,5 @@ List of movies: http://www.imdb.com/title/tt0086567
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/il_sorpasso/il-sorpasso.png"  width="120px">
 
 ## Samples
+<img src="https://github.com/mad4j/processing-movies/blob/master/examples/checkerboard/checkerboard.png"  width="120px">
+
