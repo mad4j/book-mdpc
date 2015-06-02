@@ -3,6 +3,8 @@ Minimalist movie posters generated using Processing programming language.
 
 List of movies: http://www.imdb.com/title/tt0086567
 
+
+## Movies
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/jaws/jaws.png"  width="120px">
@@ -29,3 +31,5 @@ List of movies: http://www.imdb.com/title/tt0086567
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/love_story/love-story.png"  width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/vertigo/vertigo.png"  width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/il_sorpasso/il-sorpasso.png"  width="120px">
+
+## Samples
