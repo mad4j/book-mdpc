@@ -3,8 +3,22 @@ Minimalist movie posters generated using Processing programming language.
 
 List of movies: http://www.imdb.com/title/tt0086567
 
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/jaws/jaws.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/star_wars/star-wars.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/profondo_rosso/profondo-rosso.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/war_games/war-games.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/alice_in_wonderland/alice-in-wonderland.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/monsters_inc/monsters-inc.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/speed/speed.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/labyrinth/labyrinth.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/pulp_fiction/pulp-fiction.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/the_deer_hunter/the-deer-hunter.png"  width="120px">
+
 ## Fifty Shades of Gray
 ![Fifth Shades of Gray](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png)
+
 ```
 'Fifty Shades of Gray' di Sam Taylor-Johnson
 Romance / Drama, 2015
