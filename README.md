@@ -28,6 +28,7 @@ List of movies: http://www.imdb.com/title/tt0086567
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/love_story/love-story.png"  width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/vertigo/vertigo.png"  width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/il_sorpasso/il-sorpasso.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/big_hero_6/big-hero-6.png"  width="120px">
 
 ## Samples
 <img src="https://github.com/mad4j/processing-movies/blob/master/examples/checkerboard/checkerboard.png"  width="120px">
