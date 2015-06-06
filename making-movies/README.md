@@ -13,3 +13,6 @@ See also: [Manuale di Scrittura Cinematografica](https://github.com/mad4j/proces
 
 <img src="hulk/hulk.png" width="120px" title="Hulk">
 <img src="avatar/avatar.png" width="120px" title="Avatar">
+<img src="american_history_x/american-history-x.png" width="120px" title="American History X">
+<img src="fight_club/fight-club.png" width="120px" title="Fight Club">
+<img src="shrek/shrek.png" width="120px" title="Shrek">
