@@ -5,10 +5,6 @@ Minimalist movie posters generated using Processing programming language.
 
 See also: [Manuale di Scrittura Cinematografica](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/README.md)
 
-### Mono-Tone
-<img src="https://github.com/mad4j/processing-movies/blob/master/making-movies/hulk/hulk.png" width="120px">
-<img src="https://github.com/mad4j/processing-movies/blob/master/making-movies/avatar/avatar.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/mono-tone/hulk/hulk.png" width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/mono-tone/avatar/avatar.png" width="120px">
 
-### Multi-Tone
-<img src="https://github.com/mad4j/processing-movies/blob/master/making-movies/rush/rush.png" width="120px">
-<img src="https://github.com/mad4j/processing-movies/blob/master/making-movies/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px">
