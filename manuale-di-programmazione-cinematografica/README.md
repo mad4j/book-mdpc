@@ -4,7 +4,7 @@
 Materiale per il libro "Manuale di Scrittura Cinematografica".
 2015, Daniele Olmisani
 
-Lista completa su IMDB: http://www.imdb.com/title/tt0086567
+Lista completa su IMDB: http://www.imdb.com/list/ls072930876/
 
 ## Movies
 <img src="fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px">
