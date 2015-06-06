@@ -6,5 +6,5 @@ Minimalist movie posters generated using Processing programming language *using 
 See also: [Manuale di Scrittura Cinematografica](https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/README.md)
 
 <img src="hulk/hulk.png" width="120px" title="Hulk">
-<img src="https://github.com/mad4j/processing-movies/blob/master/mono-tone/avatar/avatar.png" width="120px" title="Avatar">
+<img src="avatar/avatar.png" width="120px" title="Avatar">
 
