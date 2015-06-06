@@ -1,3 +1,5 @@
+// Making Movies
+// 2015, Daniele Olmisani
 
 final color PAPER = color(244);
 final color INK = color(227, 0, 30);
