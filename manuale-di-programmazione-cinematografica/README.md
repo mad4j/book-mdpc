@@ -1,8 +1,9 @@
-# Processing Movies
-Minimalist movie posters generated using Processing programming language.
+# Manuale si Scrittura Cinematografica
+### Esercizi di scrittura di immagini
 
-List of movies: http://www.imdb.com/title/tt0086567
+Materiale per il libro "Manuale di Scrittura Cinematografica"
 
+Lista completa su IMDB: http://www.imdb.com/title/tt0086567
 
 ## Movies
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px">
