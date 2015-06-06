@@ -1,5 +1,5 @@
-# Making Movies
-Minimalist movie posters generated using Processing programming language.
+# MonoTone
+Minimalist movie posters generated using Processing programming language *using one single color*!!
 
 2015, Daniele Olmisani
 
