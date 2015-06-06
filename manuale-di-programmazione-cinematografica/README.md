@@ -1,7 +1,8 @@
 # Manuale si Scrittura Cinematografica
 ### Esercizi di scrittura di immagini
 
-Materiale per il libro "Manuale di Scrittura Cinematografica"
+Materiale per il libro "Manuale di Scrittura Cinematografica".
+2015, Daniele Olmisani
 
 Lista completa su IMDB: http://www.imdb.com/title/tt0086567
 
