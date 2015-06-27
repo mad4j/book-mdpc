@@ -12,6 +12,7 @@ See also: [Manuale di Scrittura Cinematografica](https://github.com/mad4j/proces
 <img src="pixels/pixels.png" width="120px" title="Pixels">
 <img src="iron_man/iron-man.png" width="120px" title="Iron Man">
 <img src="alien/alien.png" width="120px" title="Alien">
+<img src="the_fast_and_the_furious/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
 
 <img src="hulk/hulk.png" width="120px" title="Hulk">
 <img src="avatar/avatar.png" width="120px" title="Avatar">
