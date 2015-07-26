@@ -3,8 +3,12 @@ Minimalist movie posters generated using Processing programming language.
 
 List of movies: http://www.imdb.com/title/tt0086567
 
+Two collections:
+* Manuale di Programmazione Cinematografica
+* Making Movies
 
 ## Manuale di Programmazione Cinematografica
+### Movies
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/jaws/jaws.png"  width="120px">
@@ -30,6 +34,12 @@ List of movies: http://www.imdb.com/title/tt0086567
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/il_sorpasso/il-sorpasso.png"  width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/big_hero_6/big-hero-6.png"  width="120px">
 
+### Samples
+<img src="https://github.com/mad4j/processing-movies/blob/master/examples/checkerboard/checkerboard.png"  width="120px">
+<img src="https://github.com/mad4j/processing-movies/blob/master/examples/functions/functions.png"  width="120px">
+
+
+
 ## Making Movies
 <img src="making-movies/rush/rush.png" width="120px" title="Rush">
 <img src="making-movies/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
@@ -49,7 +59,4 @@ List of movies: http://www.imdb.com/title/tt0086567
 <img src="making-movies/shrek/shrek.png" width="120px" title="Shrek">
 
 
-## Samples
-<img src="https://github.com/mad4j/processing-movies/blob/master/examples/checkerboard/checkerboard.png"  width="120px">
-<img src="https://github.com/mad4j/processing-movies/blob/master/examples/functions/functions.png"  width="120px">
 
