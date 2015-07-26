@@ -1,5 +1,8 @@
 // Making Movies
-// 2015, Daniele Olmisani
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// Rush
 
 final color PAPER = color(244);
 final color INK = color(227, 0, 30);

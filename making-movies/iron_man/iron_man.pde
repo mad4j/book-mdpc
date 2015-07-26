@@ -1,4 +1,10 @@
 
+// Making Movies
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// Iron Man
+
 final color PAPER = color(180, 5, 30);
 final color INK = color(255, 235, 0);
 

@@ -1,8 +1,9 @@
 
-//Making Movies
-//Daniele Olmisani <daniele.olmisani@gmail.com>
+// Making Movies
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
 
-//Stephen King's Cat's Eye
+// Stephen King's Cat's Eye
 
 final color PAPER = color(15, 15, 15);
 final color INK = color(240, 240, 210);

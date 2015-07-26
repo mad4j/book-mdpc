@@ -1,4 +1,10 @@
 
+// Making Movies
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// The Fast and the Furious
+
 final color PAPER = color(32);
 final color INK = color(242);
 

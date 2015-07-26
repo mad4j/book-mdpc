@@ -1,5 +1,8 @@
 // Making Movies
-// 2015, Daniele Olmisani
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// Shrek
 
 final color PAPER = color(215, 220, 30);
 

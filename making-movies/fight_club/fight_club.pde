@@ -1,5 +1,9 @@
+
 // Making Movies
-// 2015, Daniele Olmisani
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// Fight Club
 
 final color PAPER = color(255, 145, 185);
 

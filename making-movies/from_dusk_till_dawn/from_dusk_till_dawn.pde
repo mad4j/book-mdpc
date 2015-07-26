@@ -1,4 +1,10 @@
 
+// Making Movies
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// From Dusk till Dawn
+
 final color PAPER = color(96, 78, 151);
 final color INK1 = color(225, 0, 50);
 final color INK2 = color(243, 225, 0);

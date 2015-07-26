@@ -1,4 +1,10 @@
 
+// Making Movies
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// Predator
+
 final color PAPER = color(65, 45, 35);
 final color INK = color(175, 10, 10);
 

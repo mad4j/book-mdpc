@@ -1,4 +1,10 @@
 
+// Making Movies
+// Daniele Olmisani <daniele.olmisani@gmail.com>
+// 2015
+
+// Dr. No
+
 final float SIZE_X = 100;
 final float SIZE_Y = SIZE_X / 2.0;
 
