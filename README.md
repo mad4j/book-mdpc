@@ -37,7 +37,7 @@ Two collections:
 ### Samples
 <img src="https://github.com/mad4j/processing-movies/blob/master/examples/checkerboard/checkerboard.png"  width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/examples/functions/functions.png"  width="120px">
-
+<img src="examples/rotate/rotate.png"  width="120px">
 
 
 ## Making Movies
