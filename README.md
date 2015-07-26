@@ -31,22 +31,22 @@ List of movies: http://www.imdb.com/title/tt0086567
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/big_hero_6/big-hero-6.png"  width="120px">
 
 ## Making Movies
-<img src="rush/rush.png" width="120px" title="Rush">
-<img src="from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
-<img src="dr_no/dr-no.png" width="120px" title="Dr. No">
-<img src="kill_bill/kill-bill.png" width="120px" title="Kill Bill">
-<img src="pixels/pixels.png" width="120px" title="Pixels">
-<img src="iron_man/iron-man.png" width="120px" title="Iron Man">
-<img src="alien/alien.png" width="120px" title="Alien">
-<img src="the_fast_and_the_furious/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
-<img src="predator/predator.png" width="120px" title="Predator">
-<img src="cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
+<img src="making-movies/rush/rush.png" width="120px" title="Rush">
+<img src="making-movies/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
+<img src="making-movies/dr_no/dr-no.png" width="120px" title="Dr. No">
+<img src="making-movies/kill_bill/kill-bill.png" width="120px" title="Kill Bill">
+<img src="making-movies/pixels/pixels.png" width="120px" title="Pixels">
+<img src="making-movies/iron_man/iron-man.png" width="120px" title="Iron Man">
+<img src="making-movies/alien/alien.png" width="120px" title="Alien">
+<img src="making-movies/the_fast_and_the_furious/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
+<img src="making-movies/predator/predator.png" width="120px" title="Predator">
+<img src="making-movies/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 
-<img src="hulk/hulk.png" width="120px" title="Hulk">
-<img src="avatar/avatar.png" width="120px" title="Avatar">
-<img src="american_history_x/american-history-x.png" width="120px" title="American History X">
-<img src="fight_club/fight-club.png" width="120px" title="Fight Club">
-<img src="shrek/shrek.png" width="120px" title="Shrek">
+<img src="making-movies/hulk/hulk.png" width="120px" title="Hulk">
+<img src="making-movies/avatar/avatar.png" width="120px" title="Avatar">
+<img src="making-movies/american_history_x/american-history-x.png" width="120px" title="American History X">
+<img src="making-movies/fight_club/fight-club.png" width="120px" title="Fight Club">
+<img src="making-movies/shrek/shrek.png" width="120px" title="Shrek">
 
 
 ## Samples
