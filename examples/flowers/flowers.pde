@@ -7,7 +7,7 @@ void draw() {
 
   translate(width/2.0, height/2.0);
   
-  background(20);
+  background(32);
   fill(255, 255, 0, 125);
 
   noStroke();
