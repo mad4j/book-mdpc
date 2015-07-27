@@ -8,8 +8,6 @@ void draw() {
 
   translate(width/2.0, height/2.0);
 
-  noStroke();
-
   float s = 150;
   float q = 200;
   beginShape();
