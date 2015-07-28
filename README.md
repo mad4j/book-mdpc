@@ -8,6 +8,7 @@ Two collections:
 * Making Movies
 
 ## Manuale di Programmazione Cinematografica
+This the collection is included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 ### Movies
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px">
 <img src="https://github.com/mad4j/processing-movies/blob/master/manuale-di-programmazione-cinematografica/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px">
