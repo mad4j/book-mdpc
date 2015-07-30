@@ -7,7 +7,7 @@ This the collection of code snippets is included in my book "Manuale di Programm
 
 Three main categories of snippets:
 * Movies
-* Samples
+* Tutorials
 * Bonus Pack
 
 ### Movies
@@ -33,34 +33,32 @@ Three main categories of snippets:
 <img src="examples/Movies/modern_times/modern-times.png" width="120px">
 <img src="examples/Movies/love_story/love-story.png"  width="120px">
 <img src="examples/Movies/vertigo/vertigo.png"  width="120px">
-<img src=examples/Movies/il_sorpasso/il-sorpasso.png"  width="120px">
+<img src="examples/Movies/il_sorpasso/il-sorpasso.png"  width="120px">
 <img src="examples/Movies/big_hero_6/big-hero-6.png"  width="120px">
 
 ### Samples
-<img src="examples/checkerboard/checkerboard.png"  width="120px">
-<img src="examples/functions/functions.png"  width="120px">
-<img src="examples/rotate/rotate.png"  width="120px">
-<img src="examples/flowers/flowers.png"  width="120px">
+<img src="examples/Tutorials/checkerboard/checkerboard.png"  width="120px">
+<img src="examples/Tutorials/functions/functions.png"  width="120px">
+<img src="examples/Tutorials/rotate/rotate.png"  width="120px">
+<img src="examples/Tutorials/flowers/flowers.png"  width="120px">
 
 
 ## Making Movies
-<img src="making-movies/rush/rush.png" width="120px" title="Rush">
-<img src="making-movies/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
-<img src="making-movies/dr_no/dr-no.png" width="120px" title="Dr. No">
-<img src="making-movies/kill_bill/kill-bill.png" width="120px" title="Kill Bill">
-<img src="making-movies/pixels/pixels.png" width="120px" title="Pixels">
-<img src="making-movies/iron_man/iron-man.png" width="120px" title="Iron Man">
-<img src="making-movies/alien/alien.png" width="120px" title="Alien">
-<img src="making-movies/the_fast_and_the_furious/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
-<img src="making-movies/predator/predator.png" width="120px" title="Predator">
-<img src="making-movies/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
-<img src="making-movies/memento/memento.png" width="120px" title="Memento">
+<img src="examples/Bonus-Pack/rush/rush.png" width="120px" title="Rush">
+<img src="examples/Bonus-Pack/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
+<img src="examples/Bonus-Pack/dr_no/dr-no.png" width="120px" title="Dr. No">
+<img src="examples/Bonus-Pack/kill_bill/kill-bill.png" width="120px" title="Kill Bill">
+<img src="examples/Bonus-Pack/pixels/pixels.png" width="120px" title="Pixels">
+<img src="examples/Bonus-Pack/iron_man/iron-man.png" width="120px" title="Iron Man">
+<img src="examples/Bonus-Pack/alien/alien.png" width="120px" title="Alien">
+<img src="examples/Bonus-Pack/the_fast_and_the_furious/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
+<img src="examples/Bonus-Pack/predator/predator.png" width="120px" title="Predator">
+<img src="examples/Bonus-Pack/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
+<img src="examples/Bonus-Pack/memento/memento.png" width="120px" title="Memento">
 
-<img src="making-movies/hulk/hulk.png" width="120px" title="Hulk">
-<img src="making-movies/avatar/avatar.png" width="120px" title="Avatar">
-<img src="making-movies/american_history_x/american-history-x.png" width="120px" title="American History X">
-<img src="making-movies/fight_club/fight-club.png" width="120px" title="Fight Club">
-<img src="making-movies/shrek/shrek.png" width="120px" title="Shrek">
-
-
+<img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
+<img src="examples/Bonus-Pack/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
+<img src="examples/Bonus-Pack/Bonus-Pack/american_history_x/american-history-x.png" width="120px" title="American History X">
+<img src="examples/Bonus-Pack/fight_club/fight-club.png" width="120px" title="Fight Club">
+<img src="examples/Bonus-Pack/shrek/shrek.png" width="120px" title="Shrek">
 
