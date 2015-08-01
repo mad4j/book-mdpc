@@ -2,7 +2,7 @@
 final int SIZE = 512;
 
 void setup() {
-  size(SIZE, SIZE);
+  size(512, 512);
   noLoop();
 }
 
