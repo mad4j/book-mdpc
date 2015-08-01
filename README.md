@@ -10,7 +10,7 @@ Three main categories of snippets:
 * Tutorials
 * Bonus Pack
 
-### Movies
+## Movies
 <img src="examples/Movies/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="">
 <img src="examples/Movies/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px" title="">
 <img src="examples/Movies/jaws/jaws.png"  width="120px" title="">
@@ -36,7 +36,7 @@ Three main categories of snippets:
 <img src="examples/Movies/il_sorpasso/il-sorpasso.png"  width="120px" title="">
 <img src="examples/Movies/big_hero_6/big-hero-6.png"  width="120px" title="">
 
-### Samples
+## Samples
 <img src="examples/Tutorials/checkerboard/checkerboard.png"  width="120px" title="">
 <img src="examples/Tutorials/functions/functions.png"  width="120px" title="">
 <img src="examples/Tutorials/rotate/rotate.png"  width="120px" title="">
