@@ -37,10 +37,11 @@ Three main categories of snippets:
 <img src="examples/Movies/big_hero_6/big-hero-6.png"  width="120px" title="">
 
 ## Samples
-<img src="examples/Tutorials/checkerboard/checkerboard.png"  width="120px" title="">
-<img src="examples/Tutorials/functions/functions.png"  width="120px" title="">
-<img src="examples/Tutorials/rotate/rotate.png"  width="120px" title="">
-<img src="examples/Tutorials/flowers/flowers.png"  width="120px" title="">
+<img src="examples/Tutorials/checkerboard/checkerboard.png"  width="120px" title="Checkerboard">
+<img src="examples/Tutorials/functions/functions.png"  width="120px" title="Functions">
+<img src="examples/Tutorials/rotate/rotate.png"  width="120px" title="Rotate">
+<img src="examples/Tutorials/flowers/flowers.png"  width="120px" title="Flowers">
+<img src="examples/Tutorials/moire/moire.png"  width="120px" title="Moriè">
 
 
 ## Making Movies
