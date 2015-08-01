@@ -56,6 +56,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 <img src="examples/Bonus-Pack/memento/memento.png" width="120px" title="Memento">
 <img src="examples/Bonus-Pack/the_thin_red_line/the-thin-red-line.png" width="120px" title="The thin red line">
+<img src="examples/Bonus-Pack/fistful_of_dollars/fistful-of-dollars.png" width="120px" title="Fistful of dollars">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
