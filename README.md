@@ -42,7 +42,7 @@ Three main categories of snippets:
 <img src="examples/Tutorials/rotate/rotate.png"  width="120px" title="Rotate">
 <img src="examples/Tutorials/flowers/flowers.png"  width="120px" title="Flowers">
 <img src="examples/Tutorials/moire/moire.png"  width="120px" title="Moriè">
-
+<img src="examples/Tutorials/sierpinski/sierpinski.png"  width="120px" title="Sierpinski">
 
 ## Making Movies
 <img src="examples/Bonus-Pack/rush/rush.png" width="120px" title="Rush">
