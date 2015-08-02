@@ -13,4 +13,4 @@ for (int i=0; i<width/SCALE; i++) {
   }
 }
 
-save("sierpinsky.png");
+save("sierpinski.png");
