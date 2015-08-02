@@ -1,7 +1,7 @@
 # Manuale di Programmazione Cinematografica
 Minimalist movie posters generated using Processing programming language.
 
-List of movies: http://www.imdb.com/title/tt0086567
+List of movies: http://www.imdb.com/list/ls072930876/
 
 This collection of code snippets is included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 
