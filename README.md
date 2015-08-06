@@ -66,3 +66,5 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/fight_club/fight-club.png" width="120px" title="Fight Club">
 <img src="examples/Bonus-Pack/shrek/shrek.png" width="120px" title="Shrek">
 
+## References
+* https://processing.org/
