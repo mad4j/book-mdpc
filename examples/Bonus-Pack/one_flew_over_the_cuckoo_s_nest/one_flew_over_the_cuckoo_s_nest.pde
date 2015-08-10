@@ -24,5 +24,5 @@ void draw() {
   rectMode(CENTER);
   rect(0, 0.05*SIZE, 1.05*SIZE, 0.25*SIZE, 10);
   
-  save("one-flew-over_the-cukoo-s-nest.png");
+  save("one-flew-over-the-cukoo-s-nest.png");
 }
