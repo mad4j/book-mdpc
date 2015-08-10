@@ -60,7 +60,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/the_thin_red_line/the-thin-red-line.png" width="120px" title="The thin red line">
 <img src="examples/Bonus-Pack/fistful_of_dollars/fistful-of-dollars.png" width="120px" title="Fistful of dollars">
 <img src="examples/Bonus-Pack/the_wall/the-wall.png" width="120px" title="The Wall">
-<img src="examples/Bonus-Pack/one_flew_over_the-cukoo-s-nest.png/one-flew-over-the-cukoo-s-nest.png" width="120px" title="One flew over the cukoo's nest.png">
+<img src="examples/Bonus-Pack/one_flew_over_the_cuckoo_s_nest/one-flew-over-the-cukoo-s-nest.png" width="120px" title="One flew over the cukoo's nest.png">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
