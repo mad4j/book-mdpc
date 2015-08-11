@@ -1,7 +1,7 @@
 
 final color PAPER = color(0, 0, 0);
 final color INK1 = color(120, 60, 255);
-final color INK2 = color(255, 245, 50);
+final color INK2 = color(225, 225, 225);
 
 void  setup() {
   size(480, 640);
@@ -15,7 +15,7 @@ void draw() {
   background(PAPER);
   
   stroke(INK2);
-  strokeWeight(2.0);
+  strokeWeight(3.0);
   
   fill(INK1);
   
