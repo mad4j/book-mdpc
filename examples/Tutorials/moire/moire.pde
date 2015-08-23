@@ -4,14 +4,14 @@ translate(width/2.0, height/2.0);
 
 background(255);
 
-fill(0);
-noStroke();
+noFill();
 
-for (int i = 0; i < 360; i+=2) { 
-  pushMatrix();
-  rotate(radians(i));
-  triangle(0, 0, 400, -3, 400, 3);
-  popMatrix();
+stroke(0);
+strokeWeight(2.0);
+
+for (int i=0; i<100; i++) {
+  ellipse(-50, 0, i*10, i*10);
+  ellipse( 50, 0, i*10, i*10);
 }
 
 save("moire.png");
