@@ -3,7 +3,7 @@ Minimalist movie posters generated using Processing programming language.
 
 List of movies: http://www.imdb.com/list/ls072930876/
 
-This collection of code snippets is included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
+This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 
 Three main categories of snippets:
 * Movies
