@@ -73,5 +73,5 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/shrek/shrek.png" width="120px" title="Shrek">
 
 ## References
-* [Prossing Main page](https://processing.org/)
+* [Processing Main page](https://processing.org/)
 * [Processing Examples Contributiion](https://github.com/processing/processing/wiki/Examples-Overview)
