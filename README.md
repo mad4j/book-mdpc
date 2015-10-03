@@ -64,6 +64,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/coraline/coraline.png" width="120px" title="Coraline">
 <img src="examples/Bonus-Pack/slumdog_millionaire/slumdog-millionaire.png" width="120px" title="Slumdog Millionaire">
 <img src="examples/Bonus-Pack/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
+<img src="examples/Bonus-Pack/gattaca/gattaca.png" width="120px" title="GATTACA">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
