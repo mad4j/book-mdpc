@@ -24,7 +24,7 @@ void draw() {
   
   fill(INK1);
   noStroke();
-  ellipse(width/2.0, height/5.0, 20, 20);
+  ellipse(width/2.0, height/5.0, 25, 25);
   
   save("minions.png");
 }
