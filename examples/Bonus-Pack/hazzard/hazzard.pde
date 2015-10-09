@@ -1,6 +1,7 @@
 
-final color PAPER = color(15, 0, 100);
-final color INK1 = color(250, 0, 0);
+
+final color PAPER = color(250, 0, 0);
+final color INK1 = color(15, 0, 100);
 final color INK2 = color(255);
 
 final int D = 75;
@@ -13,9 +14,9 @@ void setup() {
 
 void draw() {
   
-  background(INK1);
+  background(PAPER);
   
-  fill(PAPER);
+  fill(INK1);
   
   stroke(INK2);
   strokeWeight(20.0);
