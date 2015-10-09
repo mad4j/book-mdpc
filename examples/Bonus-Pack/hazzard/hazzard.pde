@@ -1,10 +1,9 @@
 
 
 final color PAPER = color(250, 0, 0);
-final color INK1 = color(15, 0, 100);
-final color INK2 = color(255);
+final color INK1 = color(255, 255, 255);
+final color INK2 = color(15, 0, 100);
 
-final int D = 75;
 final int S = 8;
 
 void setup() {
@@ -16,20 +15,18 @@ void draw() {
   
   background(PAPER);
   
-  fill(INK1);
+  stroke(INK1);
+  strokeWeight(120.0);
+  line(0, 0, width, height);
+  line(width, 0, 0, height);
   
   stroke(INK2);
-  strokeWeight(20.0);
+  strokeWeight(100.0);
+  line(0, 0, width, height);
+  line(width, 0, 0, height);
   
-  quad(-D, 0, 0, -D, width+D, height, width, height+D);
-  quad(width+D, 0, 0, height+D, 0-D, height, width, 0-D);
-  
+  fill(INK1);
   noStroke();
-  quad(-D, 0, 0, -D, width+D, height, width, height+D);
-  quad(width+D, 0, 0, height+D, 0-D, height, width, 0-D);
-  
-  fill(INK2);
-  //star(width/2.0, height/2.0, 10, 20, 5);
   for (int i=1; i<S; i++) {
     star(i*width/S, i*height/S, 10, 25, 5);
     star((S-i)*width/S, i*height/S, 10, 25, 5);
