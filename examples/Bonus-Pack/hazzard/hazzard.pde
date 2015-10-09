@@ -35,6 +35,27 @@ void draw() {
   save("hazzard.png");
 }
 
+
+void star(float x, float y, float size) {
+  
+  pushMatrix();
+    translate(x, y);
+    scale(size, size);
+    beginShape();
+      vertex(0, -50);
+      vertex(14, -20);
+      vertex(47, -15);
+      vertex(23, 7);
+      vertex(29, 40);
+      vertex(0, 25);
+      vertex(-29, 40);
+      vertex(-23, 7);
+      vertex(-47, -15);
+      vertex(-14, -20);
+     endShape(CLOSE);
+  popMatrix();
+}
+
 void star(float x, float y, float r1, float r2, int n) {
   
   float angle = TWO_PI / n;
