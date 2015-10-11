@@ -55,22 +55,3 @@ void star(float x, float y, float size) {
      endShape(CLOSE);
   popMatrix();
 }
-
-void star(float x, float y, float r1, float r2, int n) {
-  
-  float angle = TWO_PI / n;
-  float halfAngle = angle/2.0;
-  
-  beginShape();
-  
-  for (float a = -HALF_PI; a < TWO_PI-HALF_PI; a += angle) {
-    float sx = x + cos(a) * r2;
-    float sy = y + sin(a) * r2;
-    vertex(sx, sy);
-    sx = x + cos(a+halfAngle) * r1;
-    sy = y + sin(a+halfAngle) * r1;
-    vertex(sx, sy);
-  }
-  
-  endShape(CLOSE);
-}
