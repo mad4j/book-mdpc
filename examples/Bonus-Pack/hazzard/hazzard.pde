@@ -46,6 +46,6 @@ void star(float x, float y, float size) {
       vertex(-47, -15);
       vertex(47, -15);
       vertex(-29, 40);
-     endShape(CLOSE);
+    endShape(CLOSE);
   popMatrix();
 }
