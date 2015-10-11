@@ -28,8 +28,8 @@ void draw() {
   fill(INK1);
   noStroke();
   for (int i=1; i<S; i++) {
-    star(i*width/S, i*height/S, 10, 25, 5);
-    star((S-i)*width/S, i*height/S, 10, 25, 5);
+    star(i*width/S, i*height/S, 0.5);
+    star((S-i)*width/S, i*height/S, 0.5);
   }
   
   save("hazzard.png");
