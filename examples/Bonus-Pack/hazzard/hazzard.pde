@@ -1,5 +1,4 @@
 
-
 final color PAPER = color(250, 0, 0);
 final color INK1 = color(255, 255, 255);
 final color INK2 = color(15, 0, 100);
@@ -43,15 +42,10 @@ void star(float x, float y, float size) {
     scale(size, size);
     beginShape();
       vertex(0, -50);
-      vertex(14, -20);
-      vertex(47, -15);
-      vertex(23, 7);
       vertex(29, 40);
-      vertex(0, 25);
-      vertex(-29, 40);
-      vertex(-23, 7);
       vertex(-47, -15);
-      vertex(-14, -20);
+      vertex(47, -15);
+      vertex(-29, 40);
      endShape(CLOSE);
   popMatrix();
 }
