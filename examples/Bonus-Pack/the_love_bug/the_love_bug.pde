@@ -1,5 +1,5 @@
 
-final color PAPER = color (250, 250, 250);
+final color PAPER = color (240, 240, 240);
 final color INK1 = color(200, 50, 55);
 final color INK2 = color(20, 80,135);
 final color INK3 = color(30, 30, 30);
