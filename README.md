@@ -67,6 +67,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/gattaca/gattaca.png" width="120px" title="GATTACA">
 <img src="examples/Bonus-Pack/hazzard/hazzard.png" width="120px" title="Hazzard">
 <img src="examples/Bonus-Pack/minions/minions.png" width="120px" title="Minions">
+<img src="examples/Bonus-Pack/the_love_bug/the-love-bug.png" width="120px" title="The Love Bug">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
