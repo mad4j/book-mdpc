@@ -41,5 +41,5 @@ void draw() {
   fill(INK5);
   ellipse(0, 0, size, size);
   
-  save("indise-out.png");
+  save("inside-out.png");
 }
