@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Hazzard
 
 final color PAPER = color(250, 0, 0);
 final color INK1 = color(255, 255, 255);

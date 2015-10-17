@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Harry Potter and the deathly hallows
 
 final color PAPER = color(50, 55, 90);
 final color INK = color(215, 175, 65);

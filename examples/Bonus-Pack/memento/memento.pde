@@ -1,4 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
+// Memento
 
 final int SIZE = 200;
 

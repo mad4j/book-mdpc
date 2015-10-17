@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Coraline
 
 final color PAPER = color(100, 145, 140);
 final color INK1 = color(130, 90, 50);

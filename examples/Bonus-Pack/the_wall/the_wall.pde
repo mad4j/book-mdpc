@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// The Wall
 
 final color PAPER = color(255);
 final color INK = color(32);

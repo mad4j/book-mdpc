@@ -1,7 +1,5 @@
-
-// Making Movies
-// Daniele Olmisani <daniele.olmisani@gmail.com>
-// 2015
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
 // The Fast and the Furious
 

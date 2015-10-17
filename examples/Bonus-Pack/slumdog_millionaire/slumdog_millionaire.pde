@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Slumdog millionaire
 
 final color PAPER = color(0, 0, 0);
 final color INK1 = color(120, 60, 255);

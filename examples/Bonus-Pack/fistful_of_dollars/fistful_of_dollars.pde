@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Fistful of dollars
 
 void setup() {
   size(480, 640);

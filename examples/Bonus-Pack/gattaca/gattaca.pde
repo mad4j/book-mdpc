@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Gattaca
 
 final color PAPER = color(110, 70, 75);
 final color INK = color(240);

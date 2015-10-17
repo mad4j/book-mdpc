@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// One flew over the cukoo's nest
 
 final color PAPER = color(240, 240, 240);
 final color INK = color(30, 30, 30);

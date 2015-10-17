@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Inside Out
 
 final color PAPER = color(240);
 final color INK1 = color(150, 125, 185);
