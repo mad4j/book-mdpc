@@ -20,7 +20,7 @@ void setup() {
 
 void draw() {
   
-  float delta = height/(float)INKS.length+1;
+  float delta = (float)height/(INKS.length+1);
   float size = 0.9*delta;
   
   translate(width/2.0, 0);
