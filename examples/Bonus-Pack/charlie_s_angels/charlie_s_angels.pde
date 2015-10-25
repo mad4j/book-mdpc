@@ -14,7 +14,7 @@ void setup() {
 
 void draw() {
   
-  translate(width/2.0, 2*height/3.0);
+  translate(width/2.0, 3*height/5.0);
   
   background(PAPER);
   stroke(INK1);
@@ -24,4 +24,14 @@ void draw() {
   strokeJoin(ROUND);
   
   quad(-W, -H, W, -H, 1.1*W, H, -1.1*W, H);
+  
+  fill(INK1);
+  noStroke();
+  for (int i=1; i<20; i++) {
+    for (int j=3; j<10; j++) {
+      ellipse(-W+i*10, -H+j*10, 5, 5);
+    }
+  }
+  
+  save("charlie-s-angles.png");
 }
