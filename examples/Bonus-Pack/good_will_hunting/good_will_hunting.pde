@@ -27,26 +27,31 @@ void draw() {
   float h1 = height/5.0;
   float h2 = height/8.0;
   
-  line(-w2, 0,  w2, 0);
-  
-  line(-w2, 0, -w1, -h2);
-  line(-w2, 0, -w1,  h2);
-  line( w2, 0,  w1, -h2);
-  line( w2, 0,  w1,  h2);
-  
-  line(-w2, -h1, -w2,  h1);
-  line( w2, -h1,  w2,  h1);
-  
-  points(w2,  0, 4*SIZE);
-  points(w2, h1, 4*SIZE); 
-  points(w1, h2, 4*SIZE);
+  lines(0, 0,  w2, 0, 4*SIZE);
+  lines(w2, 0, w1, h2, 4*SIZE);
+  lines(w2, 0, w2, h1, 4*SIZE);
+
+  //points(w2,  0, 4*SIZE);
+  //points(w2, h1, 4*SIZE); 
+  //points(w1, h2, 4*SIZE);
   
   save("good-will-hunting.png");
 }
+
 
 void points(float x, float y, float s) {
   ellipse( x,  y, s, s);
   ellipse( x, -y, s, s);
   ellipse(-x,  y, s, s);
   ellipse(-x, -y, s, s);
+}
+
+
+void lines(float x1, float y1, float x2, float y2, float s) {
+  line( x1,  y1,  x2,  y2);
+  line(-x1,  y1, -x2,  y2);
+  line( x1, -y1,  x2, -y2);
+  line(-x1, -y1, -x2, -y2);
+  points(x1, y1, s);
+  points(x2, y2, s);
 }
