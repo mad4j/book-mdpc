@@ -27,13 +27,9 @@ void draw() {
   float h1 = height/5.0;
   float h2 = height/8.0;
   
-  lines(0, 0,  w2, 0, 4*SIZE);
-  lines(w2, 0, w1, h2, 4*SIZE);
-  lines(w2, 0, w2, h1, 4*SIZE);
-
-  //points(w2,  0, 4*SIZE);
-  //points(w2, h1, 4*SIZE); 
-  //points(w1, h2, 4*SIZE);
+  lines(-w2, 0, w2, 0, 4*SIZE);
+  lines( w2, 0, w1, h2, 4*SIZE);
+  lines( w2, 0, w2, h1, 4*SIZE);
   
   save("good-will-hunting.png");
 }
