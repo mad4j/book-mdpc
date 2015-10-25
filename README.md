@@ -71,7 +71,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/inside_out/inside-out.png" width="120px" title="Inside Out">
 <img src="examples/Bonus-Pack/good_will_hunting/good-will-hunting.png" width="120px" title="Good Will Hunting">
 <img src="examples/Bonus-Pack/charlie_s_angels/charlie-s-angels.png" width="120px" title="Charlie's Angels">
-<img src="examples/Bonus-Pack/speed_races/speed-racer.png" width="120px" title="Speed Racer">
+<img src="examples/Bonus-Pack/speed_racer/speed-racer.png" width="120px" title="Speed Racer">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
