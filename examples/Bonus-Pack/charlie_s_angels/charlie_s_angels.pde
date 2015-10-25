@@ -33,5 +33,5 @@ void draw() {
     }
   }
   
-  save("charlie-s-angles.png");
+  save("charlie-s-angels.png");
 }
