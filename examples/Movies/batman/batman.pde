@@ -26,8 +26,7 @@ void draw() {
   fill(INK2);
   stroke(INK1);
   strokeWeight(0.5);
-  
-  ellipseMode(CENTER);
+
   ellipse(0, 0, 16, 8);
   
   fill(INK1);
@@ -35,10 +34,10 @@ void draw() {
   
   beginShape();
   for (float x=-7.0; x<=7.0; x+=0.05) {
-    vertex(x, abs(x)<3 ? g(x) : f(x));
+    vertex(x, abs(x)<3 ? g(abs(x)) : f(x));
   }
   for (float x=7.0; x>=-7.0; x-=0.05) {
-    vertex(x, (abs(x)<4 ? h(x) : -f(x)));
+    vertex(x, (abs(x)<4 ? h(abs(x)) : -f(x)));
   }  
   endShape();
   
@@ -52,13 +51,13 @@ void draw() {
 }
 
 float f(float x) {
-  return 3*sqrt(-sq((x/7))+1);
+  return 3*sqrt(1-sq(x/7));
 }
 
 float g(float x) {
-  return 1.5-abs(x/2)-1.35*(sqrt(3-sq(x)+2*abs(x))-2);
+  return (3-x)/2-1.35*(sqrt(3-sq(x)+2*x)-2);
 }
 
 float h(float x) {
-  return abs(x/2)-0.09*sq(x)-3+sqrt(1-sq((abs(abs(x)-2)-1)));
+  return x*(0.5-0.09*x)-3+sqrt(1-sq((abs(x-2)-1)));
 }
