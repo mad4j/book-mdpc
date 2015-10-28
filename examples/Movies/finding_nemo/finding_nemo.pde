@@ -3,14 +3,13 @@
 
 // Finding Nemo
 
-final color PAPER = color(250, 249, 248);
-final color INK1 = color(245, 132, 0);
-final color INK2 = color(34, 34, 34);
+final color PAPER = color(245, 130, 0);
+final color INK1 = color(250);
+final color INK2 = color(35);
 
 final float STROKE = 10.0;
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
@@ -27,25 +26,18 @@ void draw() {
   float dy = height/3.0;
 
   beginShape();
-  curveVertex(0, dy+150);
-  curveVertex(0, dy);
-  curveVertex(dx, dy +20);
-  curveVertex(2*dx, dy -15);
-  curveVertex(width+STROKE, dy);
-  curveVertex(width+STROKE, dy-200);
-  vertex(width+STROKE, 0-STROKE);
-  vertex(0-STROKE, 0-STROKE);
-  endShape();
-  
-  beginShape();
-  curveVertex(0, 2*dy+50);
-  curveVertex(0, 2*dy);
-  curveVertex(dx, 2*dy +50);
-  curveVertex(2*dx, 2*dy +5);
-  curveVertex(width+STROKE, 2*dy);
-  curveVertex(width+STROKE, 2*dy);
-  vertex(width+STROKE, height+STROKE);
-  vertex(-STROKE, height+STROKE);
+    curveVertex(0, dy+150);
+    curveVertex(0, dy);
+    curveVertex(dx, dy+20);
+    curveVertex(2*dx, dy-15);
+    curveVertex(width+STROKE, dy);
+    curveVertex(width+STROKE, dy-200);
+    curveVertex(width+STROKE, 2*dy);
+    curveVertex(width+STROKE, 2*dy);
+    curveVertex(2*dx, 2*dy+5);
+    curveVertex(dx, 2*dy+50);
+    curveVertex(0, 2*dy);
+    curveVertex(0, 2*dy+50);
   endShape();
   
   save("finding-nemo.png");
