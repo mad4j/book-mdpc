@@ -3,11 +3,8 @@
 
 // Wargames
 
-final color PAPER = color(34, 34, 34);
-final color INK = color(0, 186, 86);
-
-final float SCALE = 48.0;
-final float STROKE = 8.0;
+final color PAPER = color(30);
+final color INK = color(0, 185, 85);
 
 void setup() {  
   size(480, 640);
@@ -16,22 +13,21 @@ void setup() {
 
 void draw() {
     
-  scale(SCALE);
+  scale(min(width, height)/10.0);
   
   background(PAPER);
   
   stroke(INK);
   strokeCap(ROUND);
-  strokeWeight(STROKE/SCALE);
+  strokeWeight(80.0/min(width, height));
+  
+  noFill();
   
   line(4, 2, 4, 8);
   line(6, 2, 6, 8);
   
   line(2, 4, 8, 4);
   line(2, 6, 8, 6);
-  
-  noFill();
-  ellipseMode(CENTER);
   
   ellipse(3, 3, 1, 1);
   ellipse(7, 5, 1, 1);
