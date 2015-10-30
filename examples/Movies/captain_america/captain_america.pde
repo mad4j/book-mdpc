@@ -31,16 +31,11 @@ void draw() {
   fill(INK2);
 
   beginShape();
-  
-  for (float a = -HALF_PI; a < TWO_PI-HALF_PI; a += angle) {
-    float sx = x + cos(a) * r2;
-    float sy = y + sin(a) * r2;
-    vertex(sx, sy);
-    sx = x + cos(a+halfAngle) * r1;
-    sy = y + sin(a+halfAngle) * r1;
-    vertex(sx, sy);
-  }
-  
+    vertex(  0, -50); 
+    vertex( 29,  40);
+    vertex(-47, -15); 
+    vertex( 47, -15);
+    vertex(-29,  40);
   endShape(CLOSE);
   
   save("captain-america.png"); 
