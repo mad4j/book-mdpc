@@ -3,8 +3,8 @@
 
 // Modern Times
 
-final color PAPER = color(244, 243, 242);
-final color INK = color(43, 61, 38);
+final color PAPER = color(240);
+final color INK = color(45, 60, 40);
 
 void setup() {
   size(480, 640);
@@ -28,26 +28,24 @@ void draw() {
 void drawGear(float x, float y, float r, float s, float a) {
 
   pushMatrix();
+    fill(INK);
+    noStroke();
+
+    translate(x, y);
+    rotate(a);
   
-  fill(INK);
-  noStroke();
+    rectMode(CENTER);
+    ellipseMode(CENTER);
   
-  translate(x, y);
-  rotate(a);
+    int n = (int)((r*PI) / s);
   
-  rectMode(CENTER);
-  ellipseMode(CENTER);
+    for (int i=0; i<n; i++) {
+      rect(r, 0, s, s);
+      rotate(TWO_PI / n);
+    }
+    ellipse(0, 0, 2*r, 2*r);
   
-  int n = (int)((r*PI) / s);
-  
-  for (int i=0; i<n; i++) {
-    rect(r, 0, s, s);
-    rotate(TWO_PI / n);
-  }
-  ellipse(0, 0, 2*r, 2*r);
-  
-  fill(PAPER);
-  ellipse(0, 0, 5, 5);
-  
+    fill(PAPER);
+    ellipse(0, 0, 5, 5); 
   popMatrix();
 }
