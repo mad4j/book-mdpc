@@ -7,8 +7,8 @@
 // "Batman Curve" 
 // http://mathworld.wolfram.com/BatmanCurve.html
 
-final color PAPER = color(244, 243, 242);
-final color INK1 = color(32, 32, 32);
+final color PAPER = color(245);
+final color INK1 = color(30);
 final color INK2 = color(255, 255, 0);
 
 void setup() {
