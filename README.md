@@ -36,15 +36,6 @@ Three main categories of snippets:
 <img src="examples/Movies/il_sorpasso/il-sorpasso.png"  width="120px" title="">
 <img src="examples/Movies/big_hero_6/big-hero-6.png"  width="120px" title="">
 
-## Samples
-<img src="examples/Tutorials/checkerboard/checkerboard.png"  width="120px" title="Checkerboard">
-<img src="examples/Tutorials/functions/functions.png"  width="120px" title="Functions">
-<img src="examples/Tutorials/rotate/rotate.png"  width="120px" title="Rotate">
-<img src="examples/Tutorials/flowers/flowers.png"  width="120px" title="Flowers">
-<img src="examples/Tutorials/moire/moire.png"  width="120px" title="Moriè">
-<img src="examples/Tutorials/sierpinski/sierpinski.png"  width="120px" title="Sierpinski">
-<img src="examples/Tutorials/mondrian/mondrian.png"  width="120px" title="Mondrian">
-
 ## Bonus Pack
 <img src="examples/Bonus-Pack/rush/rush.png" width="120px" title="Rush">
 <img src="examples/Bonus-Pack/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
