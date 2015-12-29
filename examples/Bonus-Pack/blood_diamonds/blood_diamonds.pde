@@ -17,14 +17,16 @@ void draw() {
   vertex(-60, -20);
   vertex( 60, -20);
   vertex( 80,   0);
-  vertex(  0, 120);
+  vertex(  0, 110);
   vertex(-80,   0);
   endShape(CLOSE);
   
+  translate(0, 150);
+  
   fill(165, 10, 30);
   
-  triangle(0, 130, 10, 150, -10, 150);
-  ellipse(0, 150, 20, 20);
+  triangle(0, -20, 10, 0, -10, 0);
+  ellipse(0, 0, 20, 20);
   
   save("blood-diamonds.png");
 }
