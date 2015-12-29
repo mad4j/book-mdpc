@@ -14,7 +14,7 @@ void setup() {
 
 void draw() {
   
-  float d = min(width, height) / 20.0;
+  float d = min(width, height) / 15.0;
   
   translate(width/2.0, height/3.0);
   
@@ -35,7 +35,7 @@ void draw() {
   
   fill(INK2);
   
-  triangle(0, -d, d/2.0, 0, -d/2.0, 0);
+  triangle(0, -d/0.7, d/2.0, 0, -d/2.0, 0);
   ellipse(0, 0, d, d);
   
   save("blood-diamonds.png");
