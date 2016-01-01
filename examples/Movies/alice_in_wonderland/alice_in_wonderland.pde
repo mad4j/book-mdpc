@@ -3,13 +3,12 @@
 
 // Alice in Wonderland
 
-final color PAPER = color(230, 143, 172);
-final color INK = color(242, 243, 244);
 
-final float SIZE = 300;
+final color PAPER = color(230, 145, 170);
+final color INK = color(240, 245, 245);
+
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
