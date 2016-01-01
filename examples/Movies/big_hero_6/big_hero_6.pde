@@ -4,10 +4,8 @@
 
 // Big Hero 6
 
-final color PAPER = color(244);
-final color INK = color(32);
-
-final int SIZE = 60;
+final color PAPER = color(245);
+final color INK = color(30);
 
 void setup() {
   size(480, 640);
@@ -16,6 +14,8 @@ void setup() {
 
 void draw() {
   
+  float size = 0.125*width;
+  
   translate(width/2.0, height/3.0);
   
   background(PAPER);
@@ -23,11 +23,11 @@ void draw() {
   noStroke();
   
   ellipseMode(CENTER);
-  ellipse(-width/4.0, 0, SIZE, SIZE);
-  ellipse( width/4.0, 0, SIZE, SIZE);
+  ellipse(-width/4.0, 0, size, size);
+  ellipse( width/4.0, 0, size, size);
   
   stroke(INK);
-  strokeWeight(SIZE/10.0);
+  strokeWeight(size/10.0);
   line(-width/4.0, 0, width/4.0, 0);
   
   save("big-hero-6.png");
