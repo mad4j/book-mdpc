@@ -6,8 +6,8 @@
 // See also:
 // 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
 
-final color PAPER = color(255, 236, 132);
-final color INK = color(32, 32, 32);
+final color PAPER = color(255, 235, 130);
+final color INK = color(30, 30, 30);
 
 final float SCALE = 15.0;
 final float STROKE = 3.0;
