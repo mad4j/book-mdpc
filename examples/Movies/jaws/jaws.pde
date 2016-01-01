@@ -3,8 +3,8 @@
 
 // Jaws
 
-final color PAPER = color(0, 103, 165);
-final color INK = color(194, 178, 128);
+final color PAPER = color(0, 105, 165);
+final color INK = color(195, 180, 130);
 
 final float TEETH = 10;;
 
