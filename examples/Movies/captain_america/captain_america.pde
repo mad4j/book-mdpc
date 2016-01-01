@@ -3,10 +3,10 @@
 
 // Captain America: the First Avenger
 
-final color PAPER = color(237, 225, 203);
-final color INK1 = color(217, 50, 42);
-final color INK2 = color(242, 243, 244);
-final color INK3 = color(0, 142, 164);
+final color PAPER = color(235, 225, 205);
+final color INK1 = color(215, 50, 40);
+final color INK2 = color(240, 245, 245);
+final color INK3 = color(0, 140, 165);
 
 void setup() {
   size(480, 640);
