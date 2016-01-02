@@ -21,7 +21,6 @@ void draw() {
   background(PAPER);
   
   noStroke();
-  ellipseMode(CENTER);
   
   fill(INK1);
   arc(0,  0.30*size, 3.6*size, 1.8*size, PI+PI/10.0, TWO_PI-PI/10.0, CHORD);
