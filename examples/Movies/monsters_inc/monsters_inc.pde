@@ -4,7 +4,7 @@
 // Monsters, Inc
 
 final color PAPER = color(90, 200, 200);
-final color INK1= color(240);
+final color INK1 = color(240);
 final color INK2 = color(30);
 
 void setup() {
