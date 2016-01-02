@@ -3,10 +3,8 @@
 
 // Love Story
 
-final color PAPER = color(242, 243, 244);
+final color PAPER = color(240);
 final color INK = color(190, 0, 50);
-
-final int SIZE = 150;
 
 void setup() {
   size(480, 640);
@@ -14,6 +12,8 @@ void setup() {
 }
 
 void draw() {
+  
+  float size = min(width, height) * 0.35;
   
   translate(width/2.0, height/3.0);
   
@@ -25,16 +25,16 @@ void draw() {
   
   pushMatrix();
   rotate(-QUARTER_PI);
-  translate(-SIZE/2.0, 0);
+  translate(-size/2.0, 0);
   
-  ellipse(0, 0, SIZE, SIZE);
-  rect(-SIZE/2.0, 0, SIZE, SIZE);
+  ellipse(0, 0, size, size);
+  rect(-size/2.0, 0, size, size);
   
   popMatrix();
   rotate(QUARTER_PI);
-  translate(SIZE/2.0, 0);
+  translate(size/2.0, 0);
   
-  ellipse(0, 0, SIZE, SIZE);
+  ellipse(0, 0, size, size);
   
   save("love-story.png");
 }
