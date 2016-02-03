@@ -11,30 +11,30 @@ Three main categories of snippets:
 * Bonus Pack
 
 ## Movies
-<img src="examples/Movies/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="">
-<img src="examples/Movies/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px" title="">
-<img src="examples/Movies/jaws/jaws.png"  width="120px" title="">
-<img src="examples/Movies/star_wars/star-wars.png"  width="120px" title="">
-<img src="examples/Movies/profondo_rosso/profondo-rosso.png"  width="120px" title="">
-<img src="examples/Movies/war_games/war-games.png"  width="120px" title="">
-<img src="examples/Movies/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="">
-<img src="examples/Movies/monsters_inc/monsters-inc.png" width="120px" title="">
-<img src="examples/Movies/speed/speed.png" width="120px" title="">
-<img src="examples/Movies/labyrinth/labyrinth.png"  width="120px" title="">
-<img src="examples/Movies/pulp_fiction/pulp-fiction.png"  width="120px" title="">
-<img src="examples/Movies/the_deer_hunter/the-deer-hunter.png"  width="120px" title="">
-<img src="examples/Movies/tron/tron.png" width="120px" title="">
-<img src="examples/Movies/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="">
-<img src="examples/Movies/captain_america/captain-america.png"  width="120px" title="">
-<img src="examples/Movies/finding_nemo/finding-nemo.png"  width="120px" title="">
-<img src="examples/Movies/batman/batman.png"  width="120px" title="">
-<img src="examples/Movies/six_days_seven_nights/six-days-seven-nights.png"  width="120px" title="">
-<img src="examples/Movies/x_2001_a_space_odyssey/2001-a-space-odyssey.png" width="120px" title="">
-<img src="examples/Movies/modern_times/modern-times.png" width="120px" title="">
-<img src="examples/Movies/love_story/love-story.png"  width="120px" title="">
-<img src="examples/Movies/vertigo/vertigo.png"  width="120px" title="">
-<img src="examples/Movies/il_sorpasso/il-sorpasso.png"  width="120px" title="">
-<img src="examples/Movies/big_hero_6/big-hero-6.png"  width="120px" title="">
+<img src="examples/Movies/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
+<img src="examples/Movies/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px" title="The Lord of the Rings">
+<img src="examples/Movies/jaws/jaws.png"  width="120px" title="Jaws">
+<img src="examples/Movies/star_wars/star-wars.png"  width="120px" title="Star Wars">
+<img src="examples/Movies/profondo_rosso/profondo-rosso.png"  width="120px" title="Profondo Rosso">
+<img src="examples/Movies/war_games/war-games.png"  width="120px" title="War Games">
+<img src="examples/Movies/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
+<img src="examples/Movies/monsters_inc/monsters-inc.png" width="120px" title="Monsters Inc">
+<img src="examples/Movies/speed/speed.png" width="120px" title="Speed">
+<img src="examples/Movies/labyrinth/labyrinth.png"  width="120px" title="Labyrinth">
+<img src="examples/Movies/pulp_fiction/pulp-fiction.png"  width="120px" title="Pulp Fiction">
+<img src="examples/Movies/the_deer_hunter/the-deer-hunter.png"  width="120px" title="The deer hunter">
+<img src="examples/Movies/tron/tron.png" width="120px" title="Tron">
+<img src="examples/Movies/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="One hundred and one dalmatians">
+<img src="examples/Movies/captain_america/captain-america.png"  width="120px" title="Captain America">
+<img src="examples/Movies/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
+<img src="examples/Movies/batman/batman.png"  width="120px" title="Batman">
+<img src="examples/Movies/six_days_seven_nights/six-days-seven-nights.png"  width="120px" title="Six days Seven nights">
+<img src="examples/Movies/x_2001_a_space_odyssey/2001-a-space-odyssey.png" width="120px" title="2001 A space odyssey">
+<img src="examples/Movies/modern_times/modern-times.png" width="120px" title="Modern times">
+<img src="examples/Movies/love_story/love-story.png"  width="120px" title="Love story">
+<img src="examples/Movies/vertigo/vertigo.png"  width="120px" title="Vertigo">
+<img src="examples/Movies/il_sorpasso/il-sorpasso.png"  width="120px" title="Il sorpasso">
+<img src="examples/Movies/big_hero_6/big-hero-6.png"  width="120px" title="Big Hero 6">
 
 ## Bonus Pack
 <img src="examples/Bonus-Pack/rush/rush.png" width="120px" title="Rush">
