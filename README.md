@@ -65,6 +65,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/speed_racer/speed-racer.png" width="120px" title="Speed Racer">
 <img src="examples/Bonus-Pack/the_peanuts_movie/the-peanuts-movie.png" width="120px" title="The Peanuts Movie">
 <img src="examples/Bonus-Pack/blood_diamonds/blood-diamonds.png" width="120px" title="Blood Diamonds">
+<img src="examples/Bonus-Pack/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
