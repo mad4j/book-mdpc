@@ -67,6 +67,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/blood_diamonds/blood-diamonds.png" width="120px" title="Blood Diamonds">
 <img src="examples/Bonus-Pack/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 <img src="examples/Bonus-Pack/the_pianist/the-pianist.png" width="120px" title="The Pianist">
+<img src="examples/Bonus-Pack/encounters_of_the_third_kind/encounters-of-the-third-kind.png" width="120px" title="Encounters of_ the Third Kind">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
