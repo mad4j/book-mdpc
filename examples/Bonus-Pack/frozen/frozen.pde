@@ -25,8 +25,8 @@ void draw() {
   
   for (int i=0; i<COUNT; i++) {
     line(0, 0, 0.4*width, 0);
-    for (int k=0; k<4; k++) {
-      float step = 0.1*k*width;
+    for (int k=0; k<5; k++) {
+      float step = 0.07*k*width;
       line(step, 0, step+2*STROKE, 2*STROKE);
       line(step, 0, step+2*STROKE, -2*STROKE);
     }
