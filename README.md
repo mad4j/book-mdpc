@@ -71,12 +71,6 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
 <img src="examples/Bonus-Pack/frozen/frozen.png" width="120px" title="Frozen">
 
-<img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
-<img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
-<img src="examples/Bonus-Pack/american_history_x/american-history-x.png" width="120px" title="American History X">
-<img src="examples/Bonus-Pack/fight_club/fight-club.png" width="120px" title="Fight Club">
-<img src="examples/Bonus-Pack/shrek/shrek.png" width="120px" title="Shrek">
-
 ## References
 * [Processing Main page](https://processing.org/)
 * [Processing Examples Contributiion](https://github.com/processing/processing/wiki/Examples-Overview)
