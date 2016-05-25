@@ -69,6 +69,7 @@ Three main categories of snippets:
 <img src="examples/Bonus-Pack/the_pianist/the-pianist.png" width="120px" title="The Pianist">
 <img src="examples/Bonus-Pack/close_encounters_of_the_third_kind/close-encounters-of-the-third-kind.png" width="120px" title="Close Encounters of the Third Kind">
 <img src="examples/Bonus-Pack/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
+<img src="examples/Bonus-Pack/frozen/frozen.png" width="120px" title="Frozen">
 
 <img src="examples/Bonus-Pack/hulk/hulk.png" width="120px" title="Hulk">
 <img src="examples/Bonus-Pack/avatar/avatar.png" width="120px" title="Avatar">
