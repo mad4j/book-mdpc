@@ -29,7 +29,6 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/vertigo/vertigo.png"  width="120px" title="Vertigo">
 <img src="examples/il_sorpasso/il-sorpasso.png"  width="120px" title="Il sorpasso">
 <img src="examples/big_hero_6/big-hero-6.png"  width="120px" title="Big Hero 6">
-
 <img src="examples/rush/rush.png" width="120px" title="Rush">
 <img src="examples/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
 <img src="examples/dr_no/dr-no.png" width="120px" title="Dr. No">
