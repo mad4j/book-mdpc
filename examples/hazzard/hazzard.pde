@@ -4,7 +4,7 @@
 // Hazzard
 
 final color PAPER = color(250, 0, 0);
-final color INK1 = color(255, 255, 255);
+final color INK1 = color(255);
 final color INK2 = color(15, 0, 100);
 
 final int S = 8;
