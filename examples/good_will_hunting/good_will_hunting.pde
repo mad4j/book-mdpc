@@ -1,15 +1,17 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Good Will Hunting
 
 final color PAPER = color(60);
 final color INK = color(230);
 
 final float SIZE = 5.0;
 
-
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   
@@ -34,14 +36,12 @@ void draw() {
   save("good-will-hunting.png");
 }
 
-
 void points(float x, float y, float s) {
   ellipse( x,  y, s, s);
   ellipse( x, -y, s, s);
   ellipse(-x,  y, s, s);
   ellipse(-x, -y, s, s);
 }
-
 
 void lines(float x1, float y1, float x2, float y2, float s) {
   line( x1,  y1,  x2,  y2);
