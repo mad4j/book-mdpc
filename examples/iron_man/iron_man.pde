@@ -40,5 +40,4 @@ void draw() {
   ellipse(0, 0, 100, 100);
   
   save("iron-man.png");
-  
 }
