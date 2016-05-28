@@ -3,6 +3,9 @@
 
 // Memento
 
+final color PAPER = color(30);
+final color INK = color(240);
+
 final int SIZE = 200;
 
 void setup() {
@@ -16,8 +19,8 @@ void draw() {
   translate(width/2.0, height/2.0);
   rotate(-QUARTER_PI/2);
   
-  background(32);
-  fill(240);
+  background(PAPER);
+  fill(INK);
   
   rectMode(CENTER);
   
@@ -29,5 +32,4 @@ void draw() {
   rect(0, 0, 0.9*SIZE, 0.9*SIZE);
   
   save("memento.png");
-  
 }
