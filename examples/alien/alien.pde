@@ -3,8 +3,8 @@
 
 // Alien
 
-final color PAPER = color(32);
-final color INK = color(224);
+final color PAPER = color(30);
+final color INK = color(225);
 
 final float TEETH = 10;;
 
