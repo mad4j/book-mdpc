@@ -33,7 +33,6 @@ void draw() {
   stroke(PAPER);
   strokeWeight(2.0);
   
-  
   for (int i=0; i<COLS; i++) {
     for (int j=0; j<ROWS; j++) {
       
