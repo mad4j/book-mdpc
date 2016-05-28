@@ -1,9 +1,9 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Fistful of dollars
+// Dr. Strangelove
 
-final color PAPER = color(255, 255, 225);
+final color PAPER = color(255);
 final color INK = color(25, 25, 110);
 
 void setup() {
