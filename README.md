@@ -6,8 +6,8 @@ List of movies: http://www.imdb.com/list/ls072930876/
 This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 
 <img src="examples/x_2001_a_space_odyssey/2001-a-space-odyssey.png" width="120px" title="2001 A space odyssey">
-<img src="examples/alien/alien.png" width="120px" title="Alien">
 <img src="examples/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
+<img src="examples/alien/alien.png" width="120px" title="Alien">
 <img src="examples/batman/batman.png"  width="120px" title="Batman">
 <img src="examples/big_hero_6/big-hero-6.png"  width="120px" title="Big Hero 6">
 <img src="examples/blood_diamonds/blood-diamonds.png" width="120px" title="Blood Diamonds">
