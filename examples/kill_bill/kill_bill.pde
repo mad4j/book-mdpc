@@ -4,7 +4,7 @@
 // Kill Bill
 
 final color PAPER = color(255, 195, 25);
-final color INK = color(32, 32, 32);
+final color INK = color(30);
 
 final int SIZE = 50;
 
