@@ -1,8 +1,11 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Charlie's Angels
 
 final color PAPER = color(245, 180, 50);
 final color INK1 = color(100, 60, 20);
 final color INK2 = color(200);
-
 
 final float W = 100;
 final float H = 60;
