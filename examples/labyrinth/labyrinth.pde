@@ -31,6 +31,8 @@ void draw() {
   strokeCap(ROUND);
   strokeWeight(STROKE / SCALE);
   
+  randomSeed(7);
+  
   for (int x=0; x<MAX_X; x++) {
     for (int y=0; y<MAX_Y; y++) {
 
