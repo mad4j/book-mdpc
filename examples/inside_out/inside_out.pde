@@ -12,7 +12,6 @@ final color[] INKS = new color[] {
   color(150, 195, 82)
 };
 
-
 void setup() {
   size(480, 640);
   noLoop();
