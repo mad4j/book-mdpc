@@ -3,6 +3,9 @@
 
 // Fistful of dollars
 
+final color PAPER = color(55, 50, 0);
+final color INK = color(170, 165, 120);
+
 void setup() {
   size(480, 640);
   noLoop();
@@ -12,10 +15,10 @@ void draw() {
   
   translate(width/2.0, 0);
   
-  background(55, 50, 0);
+  background(PAPER);
   
   strokeWeight(20);
-  stroke(170, 165, 120);
+  stroke(INK);
   noFill();
   
   rectMode(CENTER);
