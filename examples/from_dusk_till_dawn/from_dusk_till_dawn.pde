@@ -3,9 +3,9 @@
 
 // From Dusk till Dawn
 
-final color PAPER = color(96, 78, 151);
+final color PAPER = color(95, 80, 150);
 final color INK1 = color(225, 0, 50);
-final color INK2 = color(243, 225, 0);
+final color INK2 = color(245, 225, 0);
 
 final int SIZE = 200;
 
