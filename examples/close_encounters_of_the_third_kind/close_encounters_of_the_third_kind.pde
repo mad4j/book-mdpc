@@ -1,6 +1,11 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
 
-final color PAPER = color(0, 0, 0);
-final color INK = color(50, 50, 50);
+// Close encounters of the third kind
+
+final color PAPER = color(0);
+final color INK = color(50);
+
 final color[] INKS = new color[] {
   color(240, 0, 0),
   color(0, 240, 0),
