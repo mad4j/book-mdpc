@@ -3,7 +3,7 @@
 
 // Stephen King's Cat's Eye
 
-final color PAPER = color(15, 15, 15);
+final color PAPER = color(15);
 final color INK = color(240, 240, 210);
 
 void setup() {
