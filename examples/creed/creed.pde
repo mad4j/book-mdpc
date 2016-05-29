@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// Creed
 
 final color PAPER = color(20, 35, 85);
 
