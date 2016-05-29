@@ -6,7 +6,7 @@
 final color PAPER = color(20, 35, 85);
 
 final color INK1 = color(225, 0, 20);
-final color INK2 = color(235);
+final color INK2 = color(255);
 
 final int STRIPES = 5;
 
@@ -23,6 +23,7 @@ void draw() {
   float deltaX = width/STRIPES;
   float deltaY = height/4.0;
   
+  fill(INK2);
   for (int i=0; i<STRIPES; i++) {
     star((0.5+i)*deltaX, deltaY/2.0, 0.6);
   }
