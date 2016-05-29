@@ -16,6 +16,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/charlie_s_angels/charlie-s-angels.png" width="120px" title="Charlie's Angels">
 <img src="examples/close_encounters_of_the_third_kind/close-encounters-of-the-third-kind.png" width="120px" title="Close Encounters of the Third Kind">
 <img src="examples/coraline/coraline.png" width="120px" title="Coraline">
+<img src="examples/creed/creed.png" width="120px" title="Creed">
 <img src="examples/dr_no/dr-no.png" width="120px" title="Dr. No">
 <img src="examples/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 <img src="examples/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
