@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// M
 
 final color PAPER = color(250, 185, 105);
 final color INK = color(245, 50, 15);
