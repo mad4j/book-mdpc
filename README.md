@@ -35,6 +35,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/kill_bill/kill-bill.png" width="120px" title="Kill Bill">
 <img src="examples/labyrinth/labyrinth.png"  width="120px" title="Labyrinth">
 <img src="examples/love_story/love-story.png"  width="120px" title="Love story">
+<img src="examples/M/M.png" width="120px" title="M">
 <img src="examples/memento/memento.png" width="120px" title="Memento">
 <img src="examples/minions/minions.png" width="120px" title="Minions">
 <img src="examples/modern_times/modern-times.png" width="120px" title="Modern times">
