@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// Spirited away
 
 final color PAPER = color(20);
 final color INK1 = color(205, 195, 180);
