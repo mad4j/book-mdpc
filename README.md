@@ -54,6 +54,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/speed/speed.png" width="120px" title="Speed">
 <img src="examples/speed_racer/speed-racer.png" width="120px" title="Speed Racer">
 <img src="examples/star_wars/star-wars.png"  width="120px" title="Star Wars">
+<img src="examples/star_wars_the_force_awakens/star-wars-the-force-awakens.png"  width="120px" title="Star Sars the Force awakens">
 <img src="examples/the_deer_hunter/the-deer-hunter.png"  width="120px" title="The deer hunter">
 <img src="examples/the_fast_and_the_furious/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
 <img src="examples/the_lord_of_the_rings/the-lord-of-the-rings.png" width="120px" title="The Lord of the Rings">
