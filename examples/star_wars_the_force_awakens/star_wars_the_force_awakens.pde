@@ -11,7 +11,7 @@ void setup() {
 void draw() {
   
   translate(width/2.0, height/2.0);
-  scale(min(width, height) / 320.0 );
+  scale(min(width, height) / 240.0 );
   
   background(PAPER);
   
