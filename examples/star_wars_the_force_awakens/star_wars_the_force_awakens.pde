@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// Star Wars The Force awakens
 
 final color PAPER = color(220, 210, 170);
 final color INK1 = color(255);
@@ -6,6 +10,7 @@ final color INK3 = color(210, 135, 10);
 
 void setup() {
   size(480, 640);
+  noLoop();
 }
  
 void draw() {
