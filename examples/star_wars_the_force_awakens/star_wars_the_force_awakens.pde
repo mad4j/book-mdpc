@@ -28,7 +28,6 @@ void draw() {
   //body
   ellipse(0, 0, 130, 130);
   
-  //head
   arc(0, -72, 80, 80, -PI, 0);
   arc(0, -72, 80, 23, 0, PI);
   
