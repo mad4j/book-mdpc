@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// Ant Man
 
 
 final color PAPER = color(240);
@@ -11,10 +15,10 @@ void setup() {
 
 void draw() {
   
-  //float s = min(width, height) / 240.0;
+  float s = min(width, height) / 240.0;
   
   translate(width/2.0, height/1.5);
-  scale(2);
+  scale(s);
   
   background(PAPER);
   stroke(INK);
@@ -27,7 +31,7 @@ void draw() {
   point(-1, 3);
   point( 1, 3);
   
-  filter(BLUR);
+  filter(BLUR, s/2.0);
   
   save("ant-man.png");
 }
