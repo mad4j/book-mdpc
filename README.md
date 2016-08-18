@@ -13,6 +13,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/big_hero_6/big-hero-6.png"  width="120px" title="Big Hero 6">
 <img src="examples/blood_diamonds/blood-diamonds.png" width="120px" title="Blood Diamonds">
 <img src="examples/captain_america/captain-america.png"  width="120px" title="Captain America">
+<img src="examples/cars/cars.png" width="120px" title="Cars">
 <img src="examples/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 <img src="examples/charlie_s_angels/charlie-s-angels.png" width="120px" title="Charlie's Angels">
 <img src="examples/close_encounters_of_the_third_kind/close-encounters-of-the-third-kind.png" width="120px" title="Close Encounters of the Third Kind">
