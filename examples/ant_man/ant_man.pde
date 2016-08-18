@@ -23,13 +23,10 @@ void draw() {
   background(PAPER);
   stroke(INK);
   
-  point( 0, 0);
-  point( 0, 1);
-  point(-1, 1);
-  point( 1, 1);
-  point( 0, 2);
-  point(-1, 3);
-  point( 1, 3);
+  line( 0, 0,  0, 2);
+  line(-1, 1,  1, 1);
+  line(-1, 3, -1, 3);
+  line( 1, 3,  1, 3);
   
   filter(BLUR, s/2.0);
   
