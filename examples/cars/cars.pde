@@ -4,7 +4,7 @@
 // Cars
 
 
-final color PAPER = color(225, 63, 60);
+final color PAPER = color(240, 65, 65);
 final color INK = color(255);
 
 
@@ -23,7 +23,7 @@ void draw() {
   
   noStroke();
   
-  arc(0, 0, 0.8*width, 0.25*height, PI, TWO_PI-(QUARTER_PI/2.0), CHORD);
+  arc(0, 0, 0.8*width, 0.25*height, PI, TWO_PI-(0.5*QUARTER_PI), CHORD);
   arc(0.15*width, 0, 0.45*width, 0.4*height, PI+(0.5*QUARTER_PI), TWO_PI-(0.3*QUARTER_PI), CHORD);
   
   fill(PAPER);
