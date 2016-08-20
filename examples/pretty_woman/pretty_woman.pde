@@ -9,6 +9,7 @@ final color INK2 = color(55, 100, 165);
 final color INK3 = color(250, 225, 205);
 final color INK4 = color(135);
 final color INK5 = color(0);
+final int MASK = 40;
 
 
 void setup() {
@@ -30,7 +31,7 @@ void draw() {
   rect(-width/2.0, 0, width, height/2.0);
   
   fill(INK3);
-  stroke(INK5, 40);
+  stroke(INK5, MASK);
   strokeWeight(3.0);
   ellipse(-0.6*width, 0, 1.0*width, 1.0*width);
   ellipse( 0.6*width, 0, 1.0*width, 1.0*width);
