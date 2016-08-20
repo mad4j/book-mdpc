@@ -20,6 +20,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/coraline/coraline.png" width="120px" title="Coraline">
 <img src="examples/creed/creed.png" width="120px" title="Creed">
 <img src="examples/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
+<img src="examples/dune/dune.png" width="120px" title="Dune">
 <img src="examples/fifth_element_the/the-fifth-element.png" width="120px" title="The Fifth Element">
 <img src="examples/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
 <img src="examples/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
