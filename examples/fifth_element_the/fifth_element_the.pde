@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// The Fift Element
 
 
 final color PAPER = color(180, 70, 25);
@@ -34,4 +38,6 @@ void draw() {
   
   ellipse(-width/2.0, 0, width, height/3.0);
   ellipse( width/2.0, 0, width, height/3.0);
+  
+  save("the-fifth-element.png");
 }
