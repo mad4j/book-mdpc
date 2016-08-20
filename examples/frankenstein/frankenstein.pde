@@ -1,3 +1,9 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// Frankenstein
+
+
 
 final color PAPER = color(255, 225, 190);
 final color INK1 = color(255, 205, 150);
