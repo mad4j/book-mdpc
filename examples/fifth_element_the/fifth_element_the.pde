@@ -4,8 +4,8 @@
 // The Fift Element
 
 
-final color PAPER = color(180, 70, 25);
-final color INK = color(250, 225, 205);
+final color PAPER = color(255, 173, 96);
+final color INK = color(240);
 
 void setup() {
   size(480, 640);
