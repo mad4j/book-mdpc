@@ -29,7 +29,7 @@ void draw() {
   rect(-width/2.0, 0, width, height/2.0);
   
   fill(INK3);
-  stroke(0x22FFFFFF & INK4);
+  stroke(0x22000000);
   strokeWeight(3.0);
   ellipse(-0.6*width, 0, 1.0*width, 1.0*width);
   ellipse( 0.6*width, 0, 1.0*width, 1.0*width);
