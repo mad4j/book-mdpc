@@ -21,13 +21,14 @@ void draw() {
   
   quad(0, 0, width, 0, width, height/3.0, 0, height/2.0);
   
-  stroke(INK2);
-  strokeWeight(5.0);
-  
   float dx = width / STEPS;
   float dy = (height/3.0 - height/2.0) / STEPS;
+  
   float s = 0.05 * min(width, height);
-  float d = 0.3 * s;
+  float d = 0.4 * s;
+  
+  stroke(INK2);
+  strokeWeight(s/5);
   
   for (int i=1; i<STEPS; i++) {
     float x = i*dx;
