@@ -46,6 +46,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="One hundred and one dalmatians">
 <img src="examples/pixels/pixels.png" width="120px" title="Pixels">
 <img src="examples/predator/predator.png" width="120px" title="Predator">
+<img src="examples/pretty_woman/pretty-woman.png" width="120px" title="Pretty Woman">
 <img src="examples/profondo_rosso/profondo-rosso.png"  width="120px" title="Profondo Rosso">
 <img src="examples/pulp_fiction/pulp-fiction.png"  width="120px" title="Pulp Fiction">
 <img src="examples/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
