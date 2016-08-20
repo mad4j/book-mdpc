@@ -25,6 +25,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
 <img src="examples/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
 <img src="examples/fistful_of_dollars/fistful-of-dollars.png" width="120px" title="Fistful of dollars">
+<img src="examples/frankenstein/frankenstein.png" width="120px" title="Frankenstein">
 <img src="examples/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
 <img src="examples/frozen/frozen.png" width="120px" title="Frozen">
 <img src="examples/gattaca/gattaca.png" width="120px" title="GATTACA">
