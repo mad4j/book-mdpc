@@ -14,7 +14,9 @@ cp examples.properties $TARGET/book-mdpc
 cp examples.properties $TARGET/book-mdpc.txt
 cp LICENSE $TARGET/book-mdpc
 cp README.md $TARGET/book-mdpc
-zip -rq $TARGET/book-mdpc.zip $TARGET/book-mdpc
+cd $TARGET
+zip -rq book-mdpc.zip book-mdpc/
+cd -
 rm examples.properties
 rm -fR $TARGET/book-mdpc/
 
