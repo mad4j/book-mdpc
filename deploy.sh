@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TARGET=doc
+TARGET=docs
 BUILD=`git rev-list HEAD | wc -l`
 VERSION=`git describe --tags`
 
