@@ -40,11 +40,11 @@ paragraph =
 # compare different versions of the same examples-package, and check if an update is 
 # available. You should think of it as a counter, counting the total number of 
 # releases you've had.
-version = 477
+version = 482
 
 # The version as the user will see it. If blank, the version attribute will be 
 # used here.
-prettyVersion = v1.0-4-g2c0e90d
+prettyVersion = v1.0.1
 
 # The min and max revision of Processing compatible with your examples-package.
 # Note that these fields use the revision and not the version of Processing, 
