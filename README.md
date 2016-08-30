@@ -33,6 +33,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/gattaca/gattaca.png" width="120px" title="GATTACA">
 <img src="examples/godfather_the/the-godfather.png" width="120px" title="The Godfather">
 <img src="examples/good_will_hunting/good-will-hunting.png" width="120px" title="Good Will Hunting">
+<img src="examples/green_lantern/green_latern.png" width="120px" title="Green Lantern">
 <img src="examples/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
 <img src="examples/hazzard/hazzard.png" width="120px" title="Hazzard">
 <img src="examples/inside_out/inside-out.png" width="120px" title="Inside Out">
