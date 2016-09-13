@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2016
+
+// Chicken run
 
 final color PAPER = color(240);
 final color INK = color(230, 140, 35);
