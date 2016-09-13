@@ -31,6 +31,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/frankenstein/frankenstein.png" width="120px" title="Frankenstein">
 <img src="examples/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
 <img src="examples/frozen/frozen.png" width="120px" title="Frozen">
+<img src="examples/gandhi/gandhi.png" width="120px" title="Gandhi">
 <img src="examples/gattaca/gattaca.png" width="120px" title="GATTACA">
 <img src="examples/godfather_the/the-godfather.png" width="120px" title="The Godfather">
 <img src="examples/good_will_hunting/good-will-hunting.png" width="120px" title="Good Will Hunting">
