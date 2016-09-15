@@ -63,6 +63,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
 <img src="examples/rush/rush.png" width="120px" title="Rush">
 <img src="examples/six_days_seven_nights/six-days-seven-nights.png"  width="120px" title="Six days Seven nights">
+<img src="examples/social_network_the/the-social-network.png"  width="120px" title="The Social Network">
 <img src="examples/spirited_away/spirited-away.png"  width="120px" title="Spirited away">
 <img src="examples/slumdog_millionaire/slumdog-millionaire.png" width="120px" title="Slumdog Millionaire">
 <img src="examples/sorpasso_il/il-sorpasso.png"  width="120px" title="Il sorpasso">
