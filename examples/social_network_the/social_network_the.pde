@@ -4,8 +4,8 @@
 // The Social Network
 
 
-final color PAPER = color(65, 80, 110);
-final color INK = color(95, 105, 130);
+final color PAPER = color(60, 90, 150);
+final color INK = color(255);
 
 
 void setup() {
