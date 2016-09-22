@@ -21,9 +21,11 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="One hundred and one dalmatians">
 <img src="examples/peanuts_movie_the/the-peanuts-movie.png" width="120px" title="The Peanuts Movie">
 <img src="examples/profondo_rosso/profondo-rosso.png"  width="120px" title="Profondo Rosso">
+<img src="examples/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
 <img src="examples/social_network_the/the-social-network.png"  width="120px" title="The Social Network">
 <img src="examples/war_games/war-games.png"  width="120px" title="War Games">
 <img src="examples/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
+<img src="examples/star_wars/star-wars.png"  width="120px" title="Star Wars">
 
 
 ## Bonus Pack
@@ -33,18 +35,14 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/ant_man/ant-man.png" width="120px" title="Ant Man">
 <img src="examples/batman/batman.png"  width="120px" title="Batman">
 <img src="examples/big_hero_6/big-hero-6.png"  width="120px" title="Big Hero 6">
-
 <img src="examples/captain_america/captain-america.png"  width="120px" title="Captain America">
-
 <img src="examples/charlie_s_angels/charlie-s-angels.png" width="120px" title="Charlie's Angels">
 <img src="examples/chicken_run/chicken-run.png" width="120px" title="Chicken Run">
 <img src="examples/close_encounters_of_the_third_kind/close-encounters-of-the-third-kind.png" width="120px" title="Close Encounters of the Third Kind">
 <img src="examples/creed/creed.png" width="120px" title="Creed">
-
 <img src="examples/dune/dune.png" width="120px" title="Dune">
 <img src="examples/fast_and_the_furious_the/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
 <img src="examples/fifth_element_the/the-fifth-element.png" width="120px" title="The Fifth Element">
-
 <img src="examples/fistful_of_dollars/fistful-of-dollars.png" width="120px" title="Fistful of dollars">
 <img src="examples/frankenstein/frankenstein.png" width="120px" title="Frankenstein">
 <img src="examples/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
@@ -71,7 +69,6 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/predator/predator.png" width="120px" title="Predator">
 <img src="examples/pretty_woman/pretty-woman.png" width="120px" title="Pretty Woman">
 <img src="examples/pulp_fiction/pulp-fiction.png"  width="120px" title="Pulp Fiction">
-<img src="examples/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
 <img src="examples/rush/rush.png" width="120px" title="Rush">
 <img src="examples/six_days_seven_nights/six-days-seven-nights.png"  width="120px" title="Six days Seven nights">
 <img src="examples/spirited_away/spirited-away.png"  width="120px" title="Spirited away">
@@ -79,7 +76,6 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/sorpasso_il/il-sorpasso.png"  width="120px" title="Il sorpasso">
 <img src="examples/speed/speed.png" width="120px" title="Speed">
 <img src="examples/speed_racer/speed-racer.png" width="120px" title="Speed Racer">
-<img src="examples/star_wars/star-wars.png"  width="120px" title="Star Wars">
 <img src="examples/star_wars_the_force_awakens/star-wars-the-force-awakens.png"  width="120px" title="Star Sars the Force awakens">
 <img src="examples/thin_red_line_the/the-thin-red-line.png" width="120px" title="The thin red line">
 <img src="examples/tron/tron.png" width="120px" title="Tron">
