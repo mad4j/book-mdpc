@@ -1,16 +1,19 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // Blood Dimonds
+
 
 final color PAPER = color(120);
 final color INK1 = color(255);
 final color INK2 = color(165, 10, 30);
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -24,11 +27,11 @@ void draw() {
   fill(INK1);
 
   beginShape();
-  vertex(-3*d, -d);
-  vertex( 3*d, -d);
-  vertex( 4*d,  0);
-  vertex(  0, 5*d);
-  vertex(-4*d,  0);
+    vertex(-3*d, -d);
+    vertex( 3*d, -d);
+    vertex( 4*d,  0);
+    vertex(  0, 5*d);
+    vertex(-4*d,  0);
   endShape(CLOSE);
   
   translate(0, 7*d);
