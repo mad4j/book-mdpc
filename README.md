@@ -14,18 +14,22 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/deer_hunter_the/the-deer-hunter.png"  width="120px" title="The deer hunter">
 <img src="examples/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 <img src="examples/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
+<img src="examples/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
 <img src="examples/frozen/frozen.png" width="120px" title="Frozen">
 <img src="examples/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
 <img src="examples/love_story/love-story.png"  width="120px" title="Love story">
 <img src="examples/minions/minions.png" width="120px" title="Minions">
 <img src="examples/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="One hundred and one dalmatians">
 <img src="examples/peanuts_movie_the/the-peanuts-movie.png" width="120px" title="The Peanuts Movie">
+<img src="examples/pretty_woman/pretty-woman.png" width="120px" title="Pretty Woman">
 <img src="examples/profondo_rosso/profondo-rosso.png"  width="120px" title="Profondo Rosso">
 <img src="examples/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
 <img src="examples/social_network_the/the-social-network.png"  width="120px" title="The Social Network">
-<img src="examples/war_games/war-games.png"  width="120px" title="War Games">
-<img src="examples/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
+<img src="examples/spirited_away/spirited-away.png"  width="120px" title="Spirited away">
 <img src="examples/star_wars/star-wars.png"  width="120px" title="Star Wars">
+<img src="examples/war_games/war-games.png"  width="120px" title="War Games">
+
+
 
 
 ## Bonus Pack
@@ -67,11 +71,11 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/pianist_the/the-pianist.png" width="120px" title="The Pianist">
 <img src="examples/pixels/pixels.png" width="120px" title="Pixels">
 <img src="examples/predator/predator.png" width="120px" title="Predator">
-<img src="examples/pretty_woman/pretty-woman.png" width="120px" title="Pretty Woman">
+
 <img src="examples/pulp_fiction/pulp-fiction.png"  width="120px" title="Pulp Fiction">
 <img src="examples/rush/rush.png" width="120px" title="Rush">
 <img src="examples/six_days_seven_nights/six-days-seven-nights.png"  width="120px" title="Six days Seven nights">
-<img src="examples/spirited_away/spirited-away.png"  width="120px" title="Spirited away">
+
 <img src="examples/slumdog_millionaire/slumdog-millionaire.png" width="120px" title="Slumdog Millionaire">
 <img src="examples/sorpasso_il/il-sorpasso.png"  width="120px" title="Il sorpasso">
 <img src="examples/speed/speed.png" width="120px" title="Speed">
