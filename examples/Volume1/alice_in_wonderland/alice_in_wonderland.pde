@@ -1,19 +1,22 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // Alice in Wonderland
 
+
 final color PAPER = color(230, 145, 170);
-final color INK = color(240, 245, 245);
+final color INK = color(245);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  float size = 0.625*width;
+  float size = 0.625 * min(width, height);
   
   translate(width/2.0, height/3.0);
   
