@@ -6,7 +6,7 @@ List of movies: http://www.imdb.com/list/ls072930876/
 This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 
 ## Volume 1
-<img src="examples/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
+<img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
 <img src="examples/blood_diamonds/blood-diamonds.png" width="120px" title="Blood Diamonds">
 <img src="examples/cars/cars.png" width="120px" title="Cars">
 <img src="examples/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
