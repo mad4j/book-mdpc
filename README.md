@@ -9,7 +9,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
 <img src="examples/volume1/blood_diamonds/blood-diamonds.png" width="120px" title="Blood Diamonds">
 <img src="examples/cars/cars.png" width="120px" title="Cars">
-<img src="examples/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
+<img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 <img src="examples/coraline/coraline.png" width="120px" title="Coraline">
 <img src="examples/deer_hunter_the/the-deer-hunter.png"  width="120px" title="The deer hunter">
 <img src="examples/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
