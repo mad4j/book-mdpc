@@ -1,17 +1,28 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // The Deer Hunter
 
-final color PAPER = color(194, 178, 128);
-final color INK = color(136, 45, 23);
+
+final color PAPER = color(195, 180, 130);
+final color INK = color(135, 45, 25);
+
+final int BULLETS = 6;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
+  
+  float dA = TWO_PI/BULLETS;
+  
+  float cX = min(width, height) / 4;
+  float cY = 0;
+  float s = cX / 1.2;
   
   translate(width/2.0, height/2.0);
     
@@ -19,23 +30,21 @@ void draw() {
   
   noFill();
   stroke(INK);
-  strokeWeight(4.0);
+  strokeWeight(0.04*s);
   
-  ellipseMode(CENTER);
-  
-  for (int i=0; i<6; i++) {
-    ellipse(120, 0, 100, 100);
-    rotate(TWO_PI/6);
+  for (int i=0; i<BULLETS; i++) {
+    ellipse(cX, cY, s, s);
+    rotate(dA);
   }
   
-  rotate(-TWO_PI/6);
+  rotate(-dA);
   
   noStroke();
   fill(INK);
-  ellipse(120, 0, 85, 85);
+  ellipse(cX, cY, 0.85*s, 0.85*s);
   
   stroke(PAPER);
-  point(120, 0);
+  point(cX, cY);
   
   save("the-deer-hunter.png");
 }
