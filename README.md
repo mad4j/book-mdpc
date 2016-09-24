@@ -16,7 +16,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
 <img src="examples/volume1/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
 <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen">
-<img src="examplesvolume1//harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
+<img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
 <img src="examples/volume1/iron_man/iron-man.png" width="120px" title="Iron Man">
 <img src="examples/volume1/love_story/love-story.png"  width="120px" title="Love story">
 <img src="examples/volume1/minions/minions.png" width="120px" title="Minions">
