@@ -1,29 +1,35 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // Coraline
+
 
 final color PAPER = color(100, 145, 140);
 final color INK1 = color(130, 90, 50);
 final color INK2 = color(90, 65, 25);
 final color INK3 = color(30, 30, 30);
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
+  
+  float s = min(width, height) / 4.8;
   
   translate(width/2.0, height/3.0);
   
   background(PAPER);
   
-  drawButton(-100, 0, 100);
-  drawButton( 100, 0, 100);
+  drawButton(-s, 0, s);
+  drawButton( s, 0, s);
   
   save("coraline.png");
 }
+
 
 void drawButton(float x, float y, float s) {
   
