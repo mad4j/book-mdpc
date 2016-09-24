@@ -1,7 +1,8 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // Finding Nemo
+
 
 final color PAPER = color(245, 130, 0);
 final color INK1 = color(250);
@@ -9,10 +10,12 @@ final color INK2 = color(35);
 
 final float STROKE = 10.0;
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
