@@ -1,20 +1,25 @@
-// Manuale di Programmazione Cinematografica
+// Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
 // Dr. Strangelove
 
+
 final color PAPER = color(255);
 final color INK = color(25, 25, 110);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
+  float s = min(width, height);
+  
   translate(width/2.0, height/2.0);
-  scale(1.0, -1.0);
+  scale(s / 480, (-1.33*s) / 640);
   
   background(PAPER);
   
