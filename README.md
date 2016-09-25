@@ -64,6 +64,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 <img src="examples/alien/alien.png" width="120px" title="Alien">
 <img src="examples/batman/batman.png"  width="120px" title="Batman">
+<img src="examples/volume3/bee_movie/bee-movie.png"  width="120px" title="Bee Movie">
 <img src="examples/captain_america/captain-america.png"  width="120px" title="Captain America">
 <img src="examples/chicken_run/chicken-run.png" width="120px" title="Chicken Run">
 <img src="examples/creed/creed.png" width="120px" title="Creed">
