@@ -33,30 +33,30 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 
 ## Volume 2
-<img src="examples/x_2001_a_space_odyssey/2001-a-space-odyssey.png" width="120px" title="2001 A space odyssey">
-<img src="examples/ant_man/ant-man.png" width="120px" title="Ant Man">
-<img src="examples/big_hero_6/big-hero-6.png"  width="120px" title="Big Hero 6">
-<img src="examples/charlie_s_angels/charlie-s-angels.png" width="120px" title="Charlie's Angels">
-<img src="examples/close_encounters_of_the_third_kind/close-encounters-of-the-third-kind.png" width="120px" title="Close Encounters of the Third Kind">
-<img src="examples/dune/dune.png" width="120px" title="Dune">
-<img src="examples/fifth_element_the/the-fifth-element.png" width="120px" title="The Fifth Element">
-<img src="examples/frankenstein/frankenstein.png" width="120px" title="Frankenstein">
-<img src="examples/gandhi/gandhi.png" width="120px" title="Gandhi">
-<img src="examples/godfather_the/the-godfather.png" width="120px" title="The Godfather">
-<img src="examples/green_lantern/green-lantern.png" width="120px" title="Green Lantern">
-<img src="examples/inside_out/inside-out.png" width="120px" title="Inside Out">
-<img src="examples/kill_bill/kill-bill.png" width="120px" title="Kill Bill">
-<img src="examples/lord_of_the_rings_the/the-lord-of-the-rings.png" width="120px" title="The Lord of the Rings">
-<img src="examples/m/M.png" width="120px" title="M">
-<img src="examples/modern_times/modern-times.png" width="120px" title="Modern times">
-<img src="examples/one_flew_over_the_cuckoo_s_nest/one-flew-over-the-cukoo-s-nest.png" width="120px" title="One flew over the cukoo's nest.png">
-<img src="examples/pixels/pixels.png" width="120px" title="Pixels">
-<img src="examples/rush/rush.png" width="120px" title="Rush">
-<img src="examples/slumdog_millionaire/slumdog-millionaire.png" width="120px" title="Slumdog Millionaire">
-<img src="examples/speed/speed.png" width="120px" title="Speed">
-<img src="examples/star_wars_the_force_awakens/star-wars-the-force-awakens.png"  width="120px" title="Star Sars the Force awakens">
-<img src="examples/tron/tron.png" width="120px" title="Tron">
-<img src="examples/wall_the/the-wall.png" width="120px" title="The Wall">
+<img src="examples/volume2/x_2001_a_space_odyssey/2001-a-space-odyssey.png" width="120px" title="2001 A space odyssey">
+<img src="examples/volume2/ant_man/ant-man.png" width="120px" title="Ant Man">
+<img src="examples/volume2/big_hero_6/big-hero-6.png"  width="120px" title="Big Hero 6">
+<img src="examples/volume2/charlie_s_angels/charlie-s-angels.png" width="120px" title="Charlie's Angels">
+<img src="examples/volume2/close_encounters_of_the_third_kind/close-encounters-of-the-third-kind.png" width="120px" title="Close Encounters of the Third Kind">
+<img src="examples/volume2/dune/dune.png" width="120px" title="Dune">
+<img src="examples/volume2/fifth_element_the/the-fifth-element.png" width="120px" title="The Fifth Element">
+<img src="examples/volume2/frankenstein/frankenstein.png" width="120px" title="Frankenstein">
+<img src="examples/volume2/gandhi/gandhi.png" width="120px" title="Gandhi">
+<img src="examples/volume2/godfather_the/the-godfather.png" width="120px" title="The Godfather">
+<img src="examples/volume2/green_lantern/green-lantern.png" width="120px" title="Green Lantern">
+<img src="examples/volume2/inside_out/inside-out.png" width="120px" title="Inside Out">
+<img src="examples/volume2/kill_bill/kill-bill.png" width="120px" title="Kill Bill">
+<img src="examples/volume2/lord_of_the_rings_the/the-lord-of-the-rings.png" width="120px" title="The Lord of the Rings">
+<img src="examples/volume2/m/M.png" width="120px" title="M">
+<img src="examples/volume2/modern_times/modern-times.png" width="120px" title="Modern times">
+<img src="examples/volume2/one_flew_over_the_cuckoo_s_nest/one-flew-over-the-cukoo-s-nest.png" width="120px" title="One flew over the cukoo's nest.png">
+<img src="examples/volume2/pixels/pixels.png" width="120px" title="Pixels">
+<img src="examples/volume2/rush/rush.png" width="120px" title="Rush">
+<img src="examples/volume2/slumdog_millionaire/slumdog-millionaire.png" width="120px" title="Slumdog Millionaire">
+<img src="examples/volume2/speed/speed.png" width="120px" title="Speed">
+<img src="examples/volume2/star_wars_the_force_awakens/star-wars-the-force-awakens.png"  width="120px" title="Star Sars the Force awakens">
+<img src="examples/volume2/tron/tron.png" width="120px" title="Tron">
+<img src="examples/volume2/wall_the/the-wall.png" width="120px" title="The Wall">
 
 
 
