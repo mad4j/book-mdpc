@@ -1,17 +1,20 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // Harry Potter and the deathly hallows
+
 
 final color PAPER = color(50, 55, 90);
 final color INK = color(215, 175, 65);
 
 final int RADIUS = 225;
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
