@@ -89,6 +89,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 ## Volume 4
 
+<img src="examples/volume4/entrapment/entrapment.png"  width="120px" title="Entrapment">
 <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png"  width="120px" title="E.T. the extra-terrestrial">
 
 ## References
