@@ -4,7 +4,7 @@
 // Suicide Squad
 
 
-final color PAPER = color(200, 0, 75);
+final color PAPER = color(175, 20, 25);
 final color INK = color(0);
 
 void setup() {
