@@ -42,5 +42,5 @@ void draw() {
   translate(0.50*width, 0.45*height);
   arc(0, 0, 7*l, 7*l, 0.1*PI, 0.9*PI);
   
-  save("suicide-squad-png");
+  save("suicide-squad.png");
 }
