@@ -18,25 +18,27 @@ void setup() {
 
 void draw() {
   
+  float r = 0.5 * min(width, height);
+  println(r);
+  float d = TWO_PI/3;
+  
   translate(width/2.0, height/2.0);
   rotate(-HALF_PI);
   
   background(PAPER);
   stroke(INK);
-  strokeWeight(8.0);
+  strokeWeight(0.03*r);
   noFill();
   
-  ellipse(0, 0, RADIUS, RADIUS);
-  
-  float delta = TWO_PI/3;
-  
+  ellipse(0, 0, r, r);
+
   beginShape();
   for (int i=0; i<3; i++) {
-    vertex(RADIUS*cos(i*delta), RADIUS*sin(i*delta));
+    vertex(r*cos(i*d), r*sin(i*d));
   }
   endShape(CLOSE);
   
-  line(-RADIUS/2, 0, +RADIUS, 0);
+  line(-r/2, 0, +r, 0);
   
   save("harry-potter-and-the-deathly-hallows.png");
 }
