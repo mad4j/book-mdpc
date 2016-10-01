@@ -13,7 +13,7 @@ void setup() {
 
 void draw() {
   
-  float size = min(width, height) * 0.35;
+  float s = 0.35 * min(width, height);
   
   translate(width/2.0, height/3.0);
   
@@ -25,16 +25,16 @@ void draw() {
   
   pushMatrix();
   rotate(-QUARTER_PI);
-  translate(-size/2.0, 0);
+  translate(-s/2.0, 0);
   
-  ellipse(0, 0, size, size);
-  rect(-size/2.0, 0, size, size);
+  ellipse(0, 0, s, s);
+  rect(-s/2.0, 0, s, s);
   
   popMatrix();
   rotate(QUARTER_PI);
-  translate(size/2.0, 0);
+  translate(s/2.0, 0);
   
-  ellipse(0, 0, size, size);
+  ellipse(0, 0, s, s);
   
   save("love-story.png");
 }
