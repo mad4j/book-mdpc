@@ -1,15 +1,18 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // Love Story
 
+
 final color PAPER = color(240);
 final color INK = color(190, 0, 50);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
