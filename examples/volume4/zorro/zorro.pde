@@ -20,7 +20,6 @@ void draw() {
   
   float s = 0.3 * min(width, height);
   float w = 0.03 * s;
-  println(w);
   
   translate(width/2.0, height/2.0);
   
@@ -39,9 +38,11 @@ void handDraw(float x1, float y1, float x2, float y2, float w) {
   
   strokeWeight(w);
   
-  for (int i=0; i<w*5; i++) {
+  for (int i=0; i<w*4; i++) {
     float d1 = (0.8*w)*randomGaussian();
     float d2 = (0.8*w)*randomGaussian();
-    line(x1+d1, y1+d2, x2-d1, y2-d2);
+    float d3 = (0.8*w)*randomGaussian();
+    float d4 = (0.8*w)*randomGaussian();
+    line(x1+d1, y1+d2, x2+d3, y2+d4);
   } 
 }
