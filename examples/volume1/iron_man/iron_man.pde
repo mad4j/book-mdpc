@@ -1,19 +1,25 @@
-// Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2015
+// Manuale di Programmazione Cinematografica - Volume 1
+// Daniele Olmisani, 2016
 
 // Iron Man
 
+
 final color PAPER = color(180, 5, 30);
 final color INK = color(255, 235, 0);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
+  float s = min(width, height);
+  
   translate(width/2.0, height/2.0);
+  scale(s / 480, (-1.33*s) / 640);
   
   background(PAPER);
   
@@ -33,7 +39,6 @@ void draw() {
   for (int i=0; i<8; i++) {
     rotate(TWO_PI/8);
     quad(0, 0, 220, 45, 220, -45, 0, 0);
-    
   }
   
   fill(INK);
