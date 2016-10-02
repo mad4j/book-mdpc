@@ -90,6 +90,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 ## Volume 4
 
+<img src="examples/volume4/day_the_earth_stood_still_the/day-the-earth-stood-still-the.png"  width="120px" title="The day the Earth stood still">
 <img src="examples/volume4/entrapment/entrapment.png"  width="120px" title="Entrapment">
 <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png"  width="120px" title="E.T. the extra-terrestrial">
 <img src="examples/volume4/suicide_squad/suicide-squad.png"  width="120px" title="Suicide Squad">
