@@ -42,18 +42,21 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/volume2/charlie_s_angels/charlie-s-angels.png" width="120px" title="Charlie's Angels">
 <img src="examples/volume2/close_encounters_of_the_third_kind/close-encounters-of-the-third-kind.png" width="120px" title="Close Encounters of the Third Kind">
 <img src="examples/volume2/dune/dune.png" width="120px" title="Dune">
+<br/>
 <img src="examples/volume2/fifth_element_the/the-fifth-element.png" width="120px" title="The Fifth Element">
 <img src="examples/volume2/frankenstein/frankenstein.png" width="120px" title="Frankenstein">
 <img src="examples/volume2/gandhi/gandhi.png" width="120px" title="Gandhi">
 <img src="examples/volume2/godfather_the/the-godfather.png" width="120px" title="The Godfather">
 <img src="examples/volume2/green_lantern/green-lantern.png" width="120px" title="Green Lantern">
 <img src="examples/volume2/inside_out/inside-out.png" width="120px" title="Inside Out">
+<br/>
 <img src="examples/volume2/kill_bill/kill-bill.png" width="120px" title="Kill Bill">
 <img src="examples/volume2/lord_of_the_rings_the/the-lord-of-the-rings.png" width="120px" title="The Lord of the Rings">
 <img src="examples/volume2/m/M.png" width="120px" title="M">
 <img src="examples/volume2/modern_times/modern-times.png" width="120px" title="Modern times">
 <img src="examples/volume2/one_flew_over_the_cuckoo_s_nest/one-flew-over-the-cukoo-s-nest.png" width="120px" title="One flew over the cukoo's nest.png">
 <img src="examples/volume2/pixels/pixels.png" width="120px" title="Pixels">
+<br/>
 <img src="examples/volume2/rush/rush.png" width="120px" title="Rush">
 <img src="examples/volume2/slumdog_millionaire/slumdog-millionaire.png" width="120px" title="Slumdog Millionaire">
 <img src="examples/volume2/speed/speed.png" width="120px" title="Speed">
@@ -71,18 +74,21 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/volume3/captain_america/captain-america.png"  width="120px" title="Captain America">
 <img src="examples/volume3/chicken_run/chicken-run.png" width="120px" title="Chicken Run">
 <img src="examples/volume3/creed/creed.png" width="120px" title="Creed">
+<br/>
 <img src="examples/volume3/fast_and_the_furious_the/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious">
 <img src="examples/volume3/fistful_of_dollars/fistful-of-dollars.png" width="120px" title="Fistful of dollars">
 <img src="examples/volume3/from_dusk_till_dawn/from-dusk-till-dawn.png" width="120px" title="From Dusk till Dawn">
 <img src="examples/volume3/gattaca/gattaca.png" width="120px" title="GATTACA">
 <img src="examples/volume3/good_will_hunting/good-will-hunting.png" width="120px" title="Good Will Hunting">
 <img src="examples/volume3/hazzard/hazzard.png" width="120px" title="Hazzard">
+<br/>
 <img src="examples/volume3/jaws/jaws.png"  width="120px" title="Jaws">
 <img src="examples/volume3/labyrinth/labyrinth.png"  width="120px" title="Labyrinth">
 <img src="examples/volume3/love_bug_the/the-love-bug.png" width="120px" title="The Love Bug">
 <img src="examples/volume3/memento/memento.png" width="120px" title="Memento">
 <img src="examples/volume3/monsters_inc/monsters-inc.png" width="120px" title="Monsters Inc">
 <img src="examples/volume3/pianist_the/the-pianist.png" width="120px" title="The Pianist">
+<br/>
 <img src="examples/volume3/pulp_fiction/pulp-fiction.png"  width="120px" title="Pulp Fiction">
 <img src="examples/volume3/six_days_seven_nights/six-days-seven-nights.png"  width="120px" title="Six days Seven nights">
 <img src="examples/volume3/sorpasso_il/il-sorpasso.png"  width="120px" title="Il sorpasso">
