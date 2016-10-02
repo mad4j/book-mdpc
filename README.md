@@ -12,18 +12,21 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 <img src="examples/volume1/coraline/coraline.png" width="120px" title="Coraline">
 <img src="examples/volume1/deer_hunter_the/the-deer-hunter.png"  width="120px" title="The deer hunter">
+<br/>
 <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
 <img src="examples/volume1/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
 <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen">
 <img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
 <img src="examples/volume1/iron_man/iron-man.png" width="120px" title="Iron Man">
+<br/>
 <img src="examples/volume1/love_story/love-story.png"  width="120px" title="Love story">
 <img src="examples/volume1/minions/minions.png" width="120px" title="Minions">
 <img src="examples/volume1/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="One hundred and one dalmatians">
 <img src="examples/volume1/peanuts_movie_the/the-peanuts-movie.png" width="120px" title="The Peanuts Movie">
 <img src="examples/volume1/predator/predator.png" width="120px" title="Predator">
 <img src="examples/volume1/pretty_woman/pretty-woman.png" width="120px" title="Pretty Woman">
+<br/>
 <img src="examples/volume1/profondo_rosso/profondo-rosso.png"  width="120px" title="Profondo Rosso">
 <img src="examples/volume1/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs">
 <img src="examples/volume1/social_network_the/the-social-network.png"  width="120px" title="The Social Network">
