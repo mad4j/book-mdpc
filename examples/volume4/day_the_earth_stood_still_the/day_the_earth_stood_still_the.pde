@@ -1,3 +1,8 @@
+// Manuale di Programmazione Cinematografica - Volume 4
+// Daniele Olmisani, 2016
+
+// The day the Earth stood still
+
 
 final color PAPER = color(35);
 final color INK = color(240);
@@ -7,6 +12,7 @@ void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
