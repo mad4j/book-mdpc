@@ -24,4 +24,6 @@ void draw() {
   
   ellipse(0, 0, 0.3*s, 0.2*s);
   filter(BLUR, 6);
+  
+  save("the-day-the-earth-stood-still.png");
 }
