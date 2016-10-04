@@ -36,11 +36,11 @@ void draw() {
   
   strokeWeight(s);
   
-  rotate(PI/(LINES+1));
-  triangle(5*s, 0, width,  height/3, width, -20*s);
+  resetMatrix();
+  translate(width/2.0, height/2.0);
   
-  rotate(PI);
-  triangle(5*s, 0, width, -height/3, width,  20*s);
+  triangle( 5*s, 0,  width, -height/3,  width, 20*s);
+  triangle(-5*s, 0, -width, -height/3, -width, 20*s);
   
   save("spider-man.png");
 }
