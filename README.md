@@ -102,8 +102,10 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/volume4/day_the_earth_stood_still_the/the-day-the-earth-stood-still.png"  width="120px" title="The day the Earth stood still">
 <img src="examples/volume4/entrapment/entrapment.png"  width="120px" title="Entrapment">
 <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png"  width="120px" title="E.T. the extra-terrestrial">
+<img src="examples/volume4/spiderman/spider-man.png"  width="120px" title="Spider-man">
 <img src="examples/volume4/suicide_squad/suicide-squad.png"  width="120px" title="Suicide Squad">
 <img src="examples/volume4/thor/thor.png"  width="120px" title="Thor">
+<br/>
 <img src="examples/volume4/zorro/zorro.png"  width="120px" title="Zorro">
 
 
