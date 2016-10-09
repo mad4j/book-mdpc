@@ -1,3 +1,8 @@
+// Manuale di Programmazione Cinematografica - Volume 4
+// Daniele Olmisani, 2016
+
+// The birds
+
 
 final color PAPER = color(255);
 final color INK = color(30);
