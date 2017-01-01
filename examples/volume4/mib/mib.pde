@@ -3,6 +3,7 @@
 
 // MIB
 
+
 final color PAPER = color(0);
 final color INK1 = color(240);
 final color INK2 = color(170, 10, 45);
@@ -12,6 +13,7 @@ void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
