@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Blood Dimonds
+// Blood Dimond
 
 
 final color PAPER = color(120);
@@ -41,5 +41,5 @@ void draw() {
   triangle(0, -d/0.7, d/2.0, 0, -d/2.0, 0);
   ellipse(0, 0, d, d);
   
-  save("blood-diamonds.png");
+  save("blood-diamond.png");
 }
