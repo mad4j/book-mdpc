@@ -18,7 +18,7 @@ void draw() {
   
   float s = 0.1 * min(width, height);
   
-  translate(0.5*width, 0.6*height);
+  translate(0.5*width, 0.3*height);
   
   background(PAPER);
   
