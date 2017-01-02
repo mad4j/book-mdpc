@@ -110,6 +110,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 <img src="examples/volume4/suicide_squad/suicide-squad.png"  width="120px" title="Suicide Squad">
 <img src="examples/volume4/thor/thor.png"  width="120px" title="Thor">
 <img src="examples/volume4/titanic/titanic.png"  width="120px" title="Titanic">
+<img src="examples/volume4/wonder_woman/wonder-woman.png"  width="120px" title="Wonder Woman">
 <img src="examples/volume4/zorro/zorro.png"  width="120px" title="Zorro">
 
 
