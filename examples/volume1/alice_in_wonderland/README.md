@@ -13,7 +13,7 @@ Le ragazzine troppo curiose fanno fanno sempre strani incontri e rischiano di pe
 <img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">
 
 
-## il codice
+## Il codice
 ```processing
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
