@@ -7,8 +7,7 @@ di Clyde Geronimi, Wilfred Jackson, Hamilton Luske
 http://www.imdb.com/title/tt0043274/
 
 ## Descrizione
-
-xxxxxx
+Le ragazzine troppo curiose rischiano di perdere la testa.
 
 ## Locandina
 <img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">
