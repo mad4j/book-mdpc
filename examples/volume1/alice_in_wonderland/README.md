@@ -6,14 +6,14 @@ di Clyde Geronimi, Wilfred Jackson, Hamilton Luske
 
 http://www.imdb.com/title/tt0043274/
 
-## Descrizione
-Le ragazzine troppo curiose rischiano di perdere la testa.
+## Il film in 140 caratteri
+Le ragazzine troppo curiose fanno fanno sempre strani incontri e rischiano di perdere la testa.
 
-## Locandina
+## La locandina
 <img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">
 
 
-## Codice
+## il codice
 ```processing
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
