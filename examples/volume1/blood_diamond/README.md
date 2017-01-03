@@ -18,11 +18,12 @@ Le ragazzine troppo curiose fanno fanno strani incontri e rischiano di perdere l
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Alice in Wonderland
+// Blood Dimond
 
 
-final color PAPER = color(230, 145, 170);
-final color INK = color(245);
+final color PAPER = color(120);
+final color INK1 = color(255);
+final color INK2 = color(165, 10, 30);
 
 
 void setup() {
@@ -33,24 +34,29 @@ void setup() {
 
 void draw() {
   
-  float size = 0.625 * min(width, height);
+  float d = min(width, height) / 15.0;
   
   translate(width/2.0, height/3.0);
   
   background(PAPER);
-  
   noStroke();
   
-  fill(INK);
-  ellipse(0, 0, size, size);
+  fill(INK1);
+
+  beginShape();
+    vertex(-3*d, -d);
+    vertex( 3*d, -d);
+    vertex( 4*d,  0);
+    vertex(  0, 5*d);
+    vertex(-4*d,  0);
+  endShape(CLOSE);
   
-  fill(PAPER);
-  ellipse(0, -0.17*size, 1.08*size, size);
+  translate(0, 7*d);
   
-  stroke(PAPER);
-  for (float i=-size; i<size; i+=size/8) {
-    line(i, 0, i, height); 
-  }
+  fill(INK2);
   
-  save("alice-in-wonderland.png");
+  triangle(0, -d/0.7, d/2.0, 0, -d/2.0, 0);
+  ellipse(0, 0, d, d);
+  
+  save("blood-diamond.png");
 }```
