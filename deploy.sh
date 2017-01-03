@@ -9,6 +9,7 @@ echo "Building '$VERSION' / build '$BUILD' in folder '$TARGET'..."
 rm -fR $TARGET/
 mkdir -p $TARGET/book-mdpc/examples
 cp -R examples/ $TARGET/book-mdpc/examples
+find $TARGET/ -type f -name '*.template' -delete
 sed -e "s/##BUILD##/$BUILD/g" -e "s/##VERSION##/$VERSION/g" examples.properties.template  > examples.properties
 cp examples.properties $TARGET/book-mdpc
 cp examples.properties $TARGET/book-mdpc.txt
