@@ -9,7 +9,9 @@ This collection of code snippets will be included in my book "Manuale di Program
 <a href="examples/volume1/alice_in_wonderland/">
 <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
 </a>
+<a href="examples/volume1/blood_diamond/">
 <img src="examples/volume1/blood_diamond/blood-diamond.png" width="120px" title="Blood Diamond">
+</a>
 <img src="examples/volume1/cars/cars.png" width="120px" title="Cars">
 <img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 <img src="examples/volume1/coraline/coraline.png" width="120px" title="Coraline">
