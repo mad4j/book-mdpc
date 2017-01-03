@@ -7,7 +7,7 @@ di Clyde Geronimi, Wilfred Jackson, Hamilton Luske
 http://www.imdb.com/title/tt0043274/
 
 ## Il film in breve
-Le ragazzine troppo curiose fanno fanno strani incontri e rischiano di perdere la testa.
+Le ragazzine troppo curiose fanno strani incontri e rischiano di perdere la testa.
 
 ## La locandina
 <img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">
