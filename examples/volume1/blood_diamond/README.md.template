@@ -1,16 +1,16 @@
-# Alice in Wonderland
+# Blood Diamond
 
-di Clyde Geronimi, Wilfred Jackson, Hamilton Luske
+di Edward Zwick
 
-1951 - Animazione, Avventura
+2006 - Avventura, Drammatico, Thriller
 
-http://www.imdb.com/title/tt0043274/
+http://www.imdb.com/title/tt0450259/
 
 ## Il film in breve
 Le ragazzine troppo curiose fanno fanno strani incontri e rischiano di perdere la testa.
 
 ## La locandina
-<img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">
+<img src="blood-diamond.png"  width="360px" title="Blood Diamond">
 
 
 ## Il codice
