@@ -6,6 +6,7 @@ for f in $(find . -name README.md.template); do
     SNIPPET=`ls *.pde`
     sed -e "/##SNIPPET##/{
         r$SNIPPET
+        a
         d    
     }" README.md.template > README.md
     cd - > /dev/null
