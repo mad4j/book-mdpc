@@ -4,7 +4,7 @@
 name = Manuale di Programmazione Cinematografica
 
 # List of authors. Links can be provided using the syntax [author name](url).
-authorList = [Daniele Olmisani](https://github.com/mad4j)
+authors = [Daniele Olmisani](https://github.com/mad4j)
 
 # A web page for your examples-package, NOT a direct link to where to download it.
 url = https://github.com/mad4j/book-mdpc
