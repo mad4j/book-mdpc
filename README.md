@@ -1,8 +1,6 @@
 # Manuale di Programmazione Cinematografica
 Minimalist movie posters generated using Processing programming language.
 
-List of movies: http://www.imdb.com/list/ls072930876/
-
 This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 
 ## Volume 1
@@ -103,20 +101,22 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 ## Volume 4
 
+
+<img src="examples/volume4/a_team_the/the-a-team.png"  width="120px" title="The A-Team">
 <img src="examples/volume4/birds_the/the-birds.png"  width="120px" title="The birds">
 <img src="examples/volume4/day_the_earth_stood_still_the/the-day-the-earth-stood-still.png"  width="120px" title="The day the Earth stood still">
 <img src="examples/volume4/entrapment/entrapment.png"  width="120px" title="Entrapment">
 <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png"  width="120px" title="E.T. the extra-terrestrial">
 <img src="examples/volume4/ice_age/ice-age.png"  width="120px" title="Ice Age">
-<img src="examples/volume4/mib/mib.png"  width="120px" title="MIB">
 <br/>
+<img src="examples/volume4/mib/mib.png"  width="120px" title="MIB">
 <img src="examples/volume4/signs/signs.png"  width="120px" title="Signs">
 <img src="examples/volume4/spiderman/spider-man.png"  width="120px" title="Spider-man">
 <img src="examples/volume4/suicide_squad/suicide-squad.png"  width="120px" title="Suicide Squad">
 <img src="examples/volume4/thor/thor.png"  width="120px" title="Thor">
 <img src="examples/volume4/titanic/titanic.png"  width="120px" title="Titanic">
-<img src="examples/volume4/wonder_woman/wonder-woman.png"  width="120px" title="Wonder Woman">
 <br/>
+<img src="examples/volume4/wonder_woman/wonder-woman.png"  width="120px" title="Wonder Woman">
 <img src="examples/volume4/zorro/zorro.png"  width="120px" title="Zorro">
 
 
