@@ -1,21 +1,27 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// The Lord of the Rings
+// The Lord of the Rings (1978)
+// Animation, Adventure, Fantasy 
+// http://www.imdb.com/title/tt0077869/
 
-final color PAPER = color(43, 61, 38);
-final color INK = color(243, 220, 0);
 
-final int SIZE = 300;
+final color PAPER = color(45, 60, 40);
+final color INK = color(245, 220, 0);
+
+final float  SIZE = 0.625;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/2.0);
+  translate(0.5*width, 0.5*height);
+  scale(min(width, height));
  
   background(PAPER);
   
