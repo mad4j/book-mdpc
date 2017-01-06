@@ -18,11 +18,11 @@ void setup() {
 
 void draw() {
   
-  float s = min(width, height);
-  float u = 1.0 / s;
+  final float S = min(width, height);
+  final float U = 1.0 / S;
 
   translate(0.6*width, 0.5*height);
-  scale(s);
+  scale(S);
   
   background(PAPER);
   
@@ -32,7 +32,7 @@ void draw() {
   
   fill(INK2);
   stroke(INK2);
-  strokeWeight(12*u);
+  strokeWeight(12*U);
   
   line(0.0, 0.0, 2.0, 0.0);
   triangle(-2.0, -1.5, 0.0, 0.0, -2.0, -1.3);
