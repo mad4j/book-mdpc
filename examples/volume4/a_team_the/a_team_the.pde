@@ -37,5 +37,5 @@ void draw() {
   line(0.0, 0.0, 2.0, 0.0);
   triangle(-2.0, -1.5, 0.0, 0.0, -2.0, -1.3);
   
-  save("a-team.png");
+  save("the-a-team.png");
 }
