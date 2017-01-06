@@ -24,21 +24,21 @@ void draw() {
   background(PAPER);
   
   translate(0.5*width, 0.3*height);
-  
+  scale(s);
   
   stroke(PAPER);
   strokeCap(SQUARE);
-  strokeWeight(0.017*s);
+  strokeWeight(0.015);
   
   fill(INK1);
-  ellipse(0, 0, 0.65*s, 0.35*s);
+  ellipse(0, 0, 0.65, 0.35);
   
   fill(INK2);
-  arc(0, 0.25*s, 0.58*s, 0.80*s, -DELTA*PI, (1+DELTA)*PI, CHORD);
+  arc(0, 0.25, 0.58, 0.80, -DELTA*PI, (1+DELTA)*PI, CHORD);
   
   stroke(INK1);
-  strokeWeight(0.03*s);
-  line(0, 0, 0.05*s, -0.22*s);
+  strokeWeight(0.03);
+  line(0, 0, 0.05, -0.22);
   
   save("ice-age.png");
 }
