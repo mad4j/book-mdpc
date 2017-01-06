@@ -6,7 +6,7 @@
 // http://www.imdb.com/title/tt0268380/
 
 
-final color PAPER = color(180, 220, 250);
+final color PAPER = color(230, 245, 250);
 final color INK1 = color(145, 95, 55);
 final color INK2 = color(198, 155, 100);
 
@@ -22,6 +22,7 @@ void setup() {
 void draw() {
   
   float s = min(width, height);
+  float u = 1.0 / s;
   
   background(PAPER);
   
@@ -30,7 +31,7 @@ void draw() {
   
   stroke(PAPER);
   strokeCap(SQUARE);
-  strokeWeight(0.015);
+  strokeWeight(7*u);
   
   fill(INK1);
   ellipse(0, 0, 0.65, 0.35);
@@ -39,7 +40,7 @@ void draw() {
   arc(0, 0.25, 0.58, 0.80, -DELTA*PI, (1+DELTA)*PI, CHORD);
   
   stroke(INK1);
-  strokeWeight(0.030);
+  strokeWeight(15*u);
   line(0, 0, 0.05, -0.22);
   
   save("ice-age.png");
