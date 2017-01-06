@@ -6,7 +6,7 @@
 // http://www.imdb.com/title/tt0268380/
 
 
-final color PAPER = color(240);
+final color PAPER = color(180, 220, 250);
 final color INK1 = color(145, 95, 55);
 final color INK2 = color(198, 155, 100);
 
