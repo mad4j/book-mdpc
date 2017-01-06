@@ -1,7 +1,9 @@
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
 
-// Ice Age
+// Ice Age (2002)
+// Animation, Adventure, Comedy
+// http://www.imdb.com/title/tt0268380/
 
 
 final color PAPER = color(240);
@@ -37,7 +39,7 @@ void draw() {
   arc(0, 0.25, 0.58, 0.80, -DELTA*PI, (1+DELTA)*PI, CHORD);
   
   stroke(INK1);
-  strokeWeight(0.03);
+  strokeWeight(0.030);
   line(0, 0, 0.05, -0.22);
   
   save("ice-age.png");
