@@ -19,7 +19,7 @@ void setup() {
 void draw() {
   
   final float S = min(width, height);
-  final float U = 1.0 / S;
+  final float U = 0.002;
 
   translate(0.6*width, 0.5*height);
   scale(S);
