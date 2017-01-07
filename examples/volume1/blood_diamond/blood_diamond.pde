@@ -1,7 +1,9 @@
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Blood Dimond
+// Blood Diamond (2006)
+// Adventure, Drama, Thriller
+// http://www.imdb.com/title/tt0450259
 
 
 final color PAPER = color(120);
