@@ -110,11 +110,12 @@ This collection of code snippets will be included in my book "Manuale di Program
 <br/>
 <img src="examples/volume4/mib/mib.png"  width="120px" title="MIB">
 <img src="examples/volume4/petit_prince_le/le-petit-prince.png"  width="120px" title="Le Petit Prince">
+<img src="examples/volume4/shining/shining.png"  width="120px" title="Shining">
 <img src="examples/volume4/signs/signs.png"  width="120px" title="Signs">
 <img src="examples/volume4/spiderman/spider-man.png"  width="120px" title="Spider-man">
 <img src="examples/volume4/stargate/stargate.png"  width="120px" title="Stargate">
-<img src="examples/volume4/suicide_squad/suicide-squad.png"  width="120px" title="Suicide Squad">
 <br/>
+<img src="examples/volume4/suicide_squad/suicide-squad.png"  width="120px" title="Suicide Squad">
 <img src="examples/volume4/thor/thor.png"  width="120px" title="Thor">
 <img src="examples/volume4/titanic/titanic.png"  width="120px" title="Titanic">
 <img src="examples/volume4/wonder_woman/wonder-woman.png"  width="120px" title="Wonder Woman">
