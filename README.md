@@ -126,9 +126,8 @@ Follow these links to download MdPC code sketches:
 <img src="examples/volume4/thor/thor.png"  width="120px" title="Thor">
 <img src="examples/volume4/titanic/titanic.png"  width="120px" title="Titanic">
 <img src="examples/volume4/wonder_woman/wonder-woman.png"  width="120px" title="Wonder Woman">
-<br/>
 <img src="examples/volume4/zorro/zorro.png"  width="120px" title="Zorro">
-
+<br/>
 
 ## References
 * [Processing Main page](https://processing.org/)
