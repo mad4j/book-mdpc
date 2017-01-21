@@ -42,5 +42,5 @@ void draw() {
   ellipse(-0.15,  0.0, 0.06, 0.06);
   ellipse( 0.15, -0.0, 0.06, 0.06);
   
-  save("black-hole-the.png");
+  save("the-black-hole.png");
 }
