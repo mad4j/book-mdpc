@@ -5,8 +5,8 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 ## Last Release
 Follow these links to download MdPC code sketches:
-- [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mpc.zip)
-- [release description](http://mad4j.github.io/book-mdpc/book-mpc.txt)
+- [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mdpc.zip)
+- [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
 
 
 ## Volume 1
