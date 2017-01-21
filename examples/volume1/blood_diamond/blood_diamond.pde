@@ -7,7 +7,7 @@
 
 
 final color PAPER = color(120);
-final color INK1 = color(255, 200, 245);
+final color INK1 = color(255, 235, 230);
 final color INK2 = color(165, 10, 30);
 
 
