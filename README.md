@@ -3,6 +3,12 @@ Minimalist movie posters generated using Processing programming language.
 
 This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 
+## Last Release
+Follow these links to download MdPC code sketches:
+- [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mpc.zip)
+- [release description](http://mad4j.github.io/book-mdpc/book-mpc.txt)
+
+
 ## Volume 1
 <a href="examples/volume1/alice_in_wonderland/">
 <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
