@@ -4,7 +4,7 @@ Minimalist movie posters generated using Processing programming language.
 This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
 
 
-Started the conversion to P5.js. Wellcome to any contribution.
+Started the conversion to [P5.js](https://github.com/mad4j/book-mdpc/blob/book-mdpc-p5.js/README.md). Wellcome to any contribution.
 
 
 ## Last Release
