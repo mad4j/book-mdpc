@@ -1,7 +1,9 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Labyrinth
+// Labyrinth (1986)
+// Adventure, Family, Fantasy
+// http://www.imdb.com/title/tt0091369/
 
 // See also:
 // 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
