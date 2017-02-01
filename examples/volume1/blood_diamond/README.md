@@ -1,13 +1,13 @@
-# Blood Diamond
+# Blood Diamond (2006)
 
 di Edward Zwick
 
-2006 - Avventura, Drammatico, Thriller
+Avventura, Drammatico, Thriller
 
 http://www.imdb.com/title/tt0450259/
 
 ## Il film in breve
-Le ragazzine troppo curiose fanno fanno strani incontri e rischiano di perdere la testa.
+Un diamante senza prezzo rappresenta il sogno di chi vuole impadronirsene: salvezza, ricchezza, redenzione.
 
 ## La locandina
 <img src="blood-diamond.png"  width="360px" title="Blood Diamond">
@@ -18,11 +18,13 @@ Le ragazzine troppo curiose fanno fanno strani incontri e rischiano di perdere l
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Blood Dimond
+// Blood Diamond (2006)
+// Adventure, Drama, Thriller
+// http://www.imdb.com/title/tt0450259
 
 
 final color PAPER = color(120);
-final color INK1 = color(255);
+final color INK1 = color(255, 235, 230);
 final color INK2 = color(165, 10, 30);
 
 
