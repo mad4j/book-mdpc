@@ -2,13 +2,14 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Vertigo
+// Vertigo (1958)
+// Mystery, Romance, Thriller
+// http://www.imdb.com/title/tt0052357/
 
-final color PAPER = color(228, 20, 20);
-final color INK = color(242, 243, 244);
 
-int spiralSizeMin=50;
-float arStart=1.3, arEnd=2.0;
+final color PAPER = color(230, 20, 20);
+final color INK = color(240);
+
 
 void setup() {
   size(480, 640);
@@ -17,19 +18,23 @@ void setup() {
 
 void draw() {
   
-  translate(width/2.0, height/2.0);
+  final float S = min(width, height);
+  final float U = 0.002;
+  
+  translate(0.5*width, 0.5*height);
+  scale(S);
   
   background(PAPER);
   
   noFill();
   stroke(INK);
-  strokeWeight(2.0);
+  strokeWeight(2.0*U);
   
   for (int i=0; i<250; i++) {
     
-    float a = TWO_PI / (0.03*i+1);
-    float r = 50.0 * (9.0/(0.015*i+1) + 1);
-    float s = 2.0 - 70.0 / (3*i+100);
+    float a = TWO_PI / (1.0+i*0.03);
+    float r = 0.1 * (9.0/(0.015*i+1.0) + 1.0);
+    float s = 2.0 - 70.0 / (3.0*i+100.0);
     
     pushMatrix();
       rotate(a);
@@ -39,5 +44,3 @@ void draw() {
   
   save("vertigo.png");
 }
-
-
