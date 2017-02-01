@@ -8,16 +8,19 @@
 // See also:
 // 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
 
+
 final color PAPER = color(255, 235, 130);
 final color INK = color(30);
 
 final float SCALE = 30.0;
 final float STROKE = 6.0;
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
