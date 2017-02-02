@@ -56,5 +56,5 @@ void draw() {
   ellipse(-0.2, 0.58, 0.3, 0.2);
   ellipse( 0.2, 0.58, 0.3, 0.2);
   
-  save("tonari_no_totoro.png");
+  save("tonari-no-totoro.png");
 }
