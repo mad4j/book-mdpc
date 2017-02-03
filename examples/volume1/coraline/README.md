@@ -16,7 +16,7 @@ TBD
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Coraline
+// Coraline (2009)
 
 
 final color PAPER = color(100, 145, 140);
