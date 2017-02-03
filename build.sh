@@ -1,14 +1,15 @@
 #!/bin/bash
 
+SOURCE=examples
 TARGET=docs
 ROOT=`pwd`
 
 echo "removing files..."
 rm -fR $TARGET/
-find examples/ -name README.md -exec rm {} \;
+find $SOURCE/ -name README.md -exec rm {} \;
 
 echo "starting building process..."
-for f in $(find . -name metadata); do
+for f in $(find $SOURCE/ -name metadata); do
     cd `dirname $f`
     source metadata
     echo "processing `pwd` ..."
