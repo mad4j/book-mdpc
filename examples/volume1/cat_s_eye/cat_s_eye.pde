@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Stephen King's Cat's Eye
+// Stephen King's Cat's Eye (1985)
 
 
 final color PAPER = color(15);
