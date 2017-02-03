@@ -128,11 +128,13 @@ Use PDE File -> Examples... -> Add examples or follow these links to manually do
 <img src="examples/volume4/stargate/stargate.png"  width="120px" title="Stargate">
 <img src="examples/volume4/suicide_squad/suicide-squad.png"  width="120px" title="Suicide Squad">
 <img src="examples/volume4/thor/thor.png"  width="120px" title="Thor">
+<img src="examples/volume4/tonari_no_totoro/tonari-no-totoro.png"  width="120px" title="Tonari no Totoro">
 <img src="examples/volume4/titanic/titanic.png"  width="120px" title="Titanic">
 <img src="examples/volume4/wonder_woman/wonder-woman.png"  width="120px" title="Wonder Woman">
+<br/>
 <img src="examples/volume4/zorro/zorro.png"  width="120px" title="Zorro">
 <br/>
 
 ## References
 * [Processing Main page](https://processing.org/)
-* [Processing Examples Contributiion](https://github.com/processing/processing/wiki/Examples-Overview)
+* [Processing Examples Contribution](https://github.com/processing/processing/wiki/Examples-Overview)
