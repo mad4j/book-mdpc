@@ -1,3 +1,18 @@
+# Dr. Strangelove (1964)
+
+Commedia
+
+## Il film in breve
+TBD
+
+[details](https://www.imdb.com/title/tt0057012/)
+
+## La locandina
+<img src="dr-strangelove.png"  width="360px" title="Dr. Strangelove">
+
+
+## Il codice
+```processing
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
@@ -36,3 +51,4 @@ void draw() {
   
   save("dr-strangelove.png");
 }
+```

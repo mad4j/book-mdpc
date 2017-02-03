@@ -46,8 +46,6 @@ void draw() {
   
   fill(PAPER);
   
-  
-  
   ellipse(-1.3*d,     -d, d, d);
   ellipse( 1.3*d, -1.3*d, d, d);
   

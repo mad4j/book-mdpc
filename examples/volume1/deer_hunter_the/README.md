@@ -1,3 +1,18 @@
+# The Deer Hunter (1979)
+
+Drammatico, Guerra
+
+## Il film in breve
+TBD
+
+[details](https://www.imdb.com/title/tt0077416/)
+
+## La locandina
+<img src="the-deer-hunter.png"  width="360px" title="The Deer Hunter">
+
+
+## Il codice
+```processing
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
@@ -48,3 +63,4 @@ void draw() {
   
   save("the-deer-hunter.png");
 }
+```
