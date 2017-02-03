@@ -23,7 +23,9 @@ Use PDE File -> Examples... -> Add examples or follow these links to manually do
 <a href="examples/volume1/cars/">
 <img src="examples/volume1/cars/cars.png" width="120px" title="Cars">
 </a>
+<a href="examples/volume1/cat_s_eye/">
 <img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
+</a>
 <img src="examples/volume1/coraline/coraline.png" width="120px" title="Coraline">
 <img src="examples/volume1/deer_hunter_the/the-deer-hunter.png"  width="120px" title="The deer hunter">
 <br/>
