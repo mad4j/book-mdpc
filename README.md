@@ -15,21 +15,23 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 
 ## Volume 1
 <a href="examples/volume1/alice_in_wonderland/">
-<img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
+  <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png"  width="120px" title="Alice in Wonderland">
 </a>
 <a href="examples/volume1/blood_diamond/">
-<img src="examples/volume1/blood_diamond/blood-diamond.png" width="120px" title="Blood Diamond">
+  <img src="examples/volume1/blood_diamond/blood-diamond.png" width="120px" title="Blood Diamond">
 </a>
 <a href="examples/volume1/cars/">
-<img src="examples/volume1/cars/cars.png" width="120px" title="Cars">
+  <img src="examples/volume1/cars/cars.png" width="120px" title="Cars">
 </a>
 <a href="examples/volume1/cat_s_eye/">
-<img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
+  <img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 </a>
 <a href="examples/volume1/coraline/">
-<img src="examples/volume1/coraline/coraline.png" width="120px" title="Coraline">
+  <img src="examples/volume1/coraline/coraline.png" width="120px" title="Coraline">
 </a>
-<img src="examples/volume1/deer_hunter_the/the-deer-hunter.png"  width="120px" title="The deer hunter">
+<a href="examples/volume1/deer_hunter_the/">
+  <img src="examples/volume1/deer_hunter_the/the-deer-hunter.png.png" width="120px" title="The Deer Hunter">
+</a>
 <br/>
 <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
