@@ -17,8 +17,6 @@ Un diamante senza prezzo rappresenta i sogni di chi vuole impadronirsene: salvez
 // Daniele Olmisani, 2016
 
 // Blood Diamond (2006)
-// Adventure, Drama, Thriller
-// http://www.imdb.com/title/tt0450259
 
 
 final color PAPER = color(120);

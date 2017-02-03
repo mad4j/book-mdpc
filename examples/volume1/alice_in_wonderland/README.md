@@ -16,7 +16,7 @@ Le ragazzine troppo curiose fanno strani incontri e rischiano di perdere la test
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Alice in Wonderland
+// Alice in Wonderland (1951)
 
 
 final color PAPER = color(230, 145, 170);
