@@ -1,0 +1,17 @@
+# ##TITLE## (##YEAR##)
+
+##GENRE##
+
+## Il film in breve
+##DESCRIPTION##
+
+[details](##URL##)
+
+## La locandina
+<img src="##POSTER##"  width="360px" title="##TITLE##">
+
+
+## Il codice
+```processing
+##SNIPPET##
+```

@@ -1,3 +1,18 @@
+# Cars (2006)
+
+Animazione, Avventura, Commedia
+
+## Il film in breve
+TBD
+
+[details](https://www.imdb.com/title/tt0317219/)
+
+## La locandina
+<img src="cars.png"  width="360px" title="Cars">
+
+
+## Il codice
+```processing
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
@@ -38,3 +53,4 @@ void draw() {
   
   save("cars.png");
 }
+```

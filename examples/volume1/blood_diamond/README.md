@@ -1,13 +1,11 @@
 # Blood Diamond (2006)
 
-di Edward Zwick
-
 Avventura, Drammatico, Thriller
 
-http://www.imdb.com/title/tt0450259/
-
 ## Il film in breve
-Un diamante senza prezzo rappresenta il sogno di chi vuole impadronirsene: salvezza, ricchezza, redenzione.
+Un diamante senza prezzo rappresenta i sogni di chi vuole impadronirsene: salvezza, ricchezza, redenzione.
+
+[details](https://www.imdb.com/title/tt0450259/)
 
 ## La locandina
 <img src="blood-diamond.png"  width="360px" title="Blood Diamond">

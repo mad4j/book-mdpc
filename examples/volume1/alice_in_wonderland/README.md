@@ -1,13 +1,11 @@
-# Alice in Wonderland
+# Alice in Wonderland (1951)
 
-di Clyde Geronimi, Wilfred Jackson, Hamilton Luske
-
-1951 - Animazione, Avventura
-
-http://www.imdb.com/title/tt0043274/
+Animazione, Avventura
 
 ## Il film in breve
 Le ragazzine troppo curiose fanno strani incontri e rischiano di perdere la testa.
+
+[details](https://www.imdb.com/title/tt0043274/)
 
 ## La locandina
 <img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">
