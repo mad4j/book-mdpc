@@ -1,7 +1,22 @@
+# Coraline (2009)
+
+Animazione, Famiglia, Fantasy
+
+## Il film in breve
+TBD
+
+[details](https://www.imdb.com/title/tt0327597/)
+
+## La locandina
+<img src="coraline.png"  width="360px" title="Coraline">
+
+
+## Il codice
+```processing
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Coraline (2009)
+// Coraline
 
 
 final color PAPER = color(100, 145, 140);
@@ -61,3 +76,4 @@ void drawButton(float x, float y, float s) {
    
   popMatrix();
 }
+```
