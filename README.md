@@ -8,7 +8,7 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 
 ## Last Release
-Use PDE File -> Examples... -> Add examples or follow these links to manually download MdPC code sketches:
+Use PDE `File -> Examples... -> Add examples` or follow these links to manually download MdPC code sketches:
 - [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mdpc.zip)
 - [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
 
@@ -26,7 +26,9 @@ Use PDE File -> Examples... -> Add examples or follow these links to manually do
 <a href="examples/volume1/cat_s_eye/">
 <img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye">
 </a>
+<a href="examples/volume1/coraline/">
 <img src="examples/volume1/coraline/coraline.png" width="120px" title="Coraline">
+</a>
 <img src="examples/volume1/deer_hunter_the/the-deer-hunter.png"  width="120px" title="The deer hunter">
 <br/>
 <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
