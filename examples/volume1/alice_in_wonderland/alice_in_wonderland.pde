@@ -7,7 +7,7 @@
 final color PAPER = color(230, 145, 170);
 final color INK = color(245);
 
-final float L =0.625;
+final float L = 0.625;
 final int COUNT = 8;
 
 
