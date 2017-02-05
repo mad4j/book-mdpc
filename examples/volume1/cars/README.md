@@ -22,6 +22,9 @@ TBD
 final color PAPER = color(205, 40, 10);
 final color INK = color(255);
 
+final float L = 0.8;
+final float D = 0.1*L;
+
 
 void setup() {
   size(480, 640);
@@ -31,23 +34,23 @@ void setup() {
 
 void draw() {
   
-  float s = 0.8*width;
-  float d = 0.1*s;
+  final float F = min(width, height);
   
-  translate(width/2.0, height/2.0);
+  translate(0.5*width, 0.5*height);
+  scale(F);
   
   background(PAPER);
   fill(INK);
   
   noStroke();
   
-  arc(0, 0, s, 0.40*s, PI, TWO_PI-(0.5*QUARTER_PI), CHORD);
-  arc(0.20*s, 0, 0.55*s, 0.65*s, PI+(0.5*QUARTER_PI), TWO_PI-(0.3*QUARTER_PI), CHORD);
+  arc(0, 0, L, 0.40*L, PI, TWO_PI-(0.5*QUARTER_PI), CHORD);
+  arc(0.20*L, 0, 0.55*L, 0.65*L, PI+(0.5*QUARTER_PI), TWO_PI-(0.3*QUARTER_PI), CHORD);
   
   fill(PAPER);
   
-  ellipse(-1.3*d,     -d, d, d);
-  ellipse( 1.3*d, -1.3*d, d, d);
+  ellipse(-1.3*D,     -D, D, D);
+  ellipse( 1.3*D, -1.3*D, D, D);
   
   save("cars.png");
 }
