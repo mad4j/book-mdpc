@@ -5,7 +5,7 @@
 
 
 final color PAPER = color(30);
-final color INK = color(180, 160, 90);
+final color INK = color(190, 170, 100);
 
 
 void setup() {
