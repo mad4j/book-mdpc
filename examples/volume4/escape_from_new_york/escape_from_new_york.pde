@@ -36,6 +36,7 @@ void draw() {
   save("escape-from-new-york.png");
 }
 
+
 void drawTurtle(String path, float dL, float dA) {
  
   int k = 1;
@@ -58,32 +59,12 @@ void drawTurtle(String path, float dL, float dA) {
         rotate(-k*dA);
         k = 1;
         break;
-      case '1':
-        k = 1;
-        break;
-      case '2':
-        k = 2;
-        break;
-      case '3':
-        k = 3;
-        break;
-      case '4':
-        k = 4;
-        break;
-      case '5':
-        k = 5;
-        break;
-      case '6':
-        k = 6;
-        break;
-      case '7':
-        k = 7;
-        break;
-      case '8':
-        k = 8;
-        break;
+      case '1': case '2': 
+      case '3': case '4':
+      case '5': case '6':
+      case '7': case '8':
       case '9':
-        k = 9;
+        k = c-'0';
         break;
       default:
     }
