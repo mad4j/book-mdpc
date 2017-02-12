@@ -36,7 +36,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume1/dr_strangelove/">
   <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 </a>
-
 <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
 <img src="examples/volume1/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
 <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen">
