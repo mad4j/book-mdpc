@@ -16,10 +16,10 @@ void setup() {
 
 void draw() {
   
-  float s = min(width, height);
+  final float F = min(width, height);
   
-  translate(width/2.0, height/2.0);
-  scale(s / 480, (-1.33*s) / 640);
+  translate(0.5*width, 0.5*height);
+  scale(F);
   
   background(PAPER);
   
@@ -27,12 +27,12 @@ void draw() {
   noStroke();
   
   rectMode(CENTER);
-  rect(0, 0, 100, 250, 150, 150, 150, 150);
-  translate(0, 80);
-  quad(-50, 0, 50, 0, 15, 100, -15, 100);
-  translate(0, 70);
-  quad(0, 0, 0, 50,  50, 75,  50, 25);
-  quad(0, 0, 0, 50, -50, 75, -50, 25);
+  rect(0, 0, 0.20, 0.52, 0.30, 0.30, 0.30, 0.30);
+  translate(0, -0.15);
+  quad(-0.10, 0, 0.10, 0, 0.05, -0.20, -0.05, -0.20);
+  translate(0, -0.15);
+  quad(0, 0, 0, -0.10,  0.10, -0.15,  0.10, -0.05);
+  quad(0, 0, 0, -0.10, -0.10, -0.15, -0.10, -0.05);
   
   save("dr-strangelove.png");
 }
