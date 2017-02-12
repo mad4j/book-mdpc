@@ -284,9 +284,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/ice_age">
     <img src="examples/volume4/ice_age/ice-age.png" width="120px" title="ice_age"/>
 </a>
-<a href="examples/volume4/inception">
-    <img src="examples/volume4/inception/" width="120px" title="inception"/>
-</a>
 <a href="examples/volume4/mib">
     <img src="examples/volume4/mib/mib.png" width="120px" title="mib"/>
 </a>
@@ -296,10 +293,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/shining">
     <img src="examples/volume4/shining/shining.png" width="120px" title="shining"/>
 </a>
-<br/>
 <a href="examples/volume4/signs">
     <img src="examples/volume4/signs/signs.png" width="120px" title="signs"/>
 </a>
+<br/>
 <a href="examples/volume4/spiderman">
     <img src="examples/volume4/spiderman/spider-man.png" width="120px" title="spiderman"/>
 </a>
@@ -315,10 +312,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/titanic">
     <img src="examples/volume4/titanic/titanic.png" width="120px" title="titanic"/>
 </a>
-<br/>
 <a href="examples/volume4/tonari_no_totoro">
     <img src="examples/volume4/tonari_no_totoro/tonari-no-totoro.png" width="120px" title="tonari_no_totoro"/>
 </a>
+<br/>
 <a href="examples/volume4/wonder_woman">
     <img src="examples/volume4/wonder_woman/wonder-woman.png" width="120px" title="wonder_woman"/>
 </a>
