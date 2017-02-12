@@ -5,7 +5,7 @@ Animazione, Famiglia, Fantasy
 ## Il film in breve
 TBD
 
-[details](https://www.imdb.com/title/tt0327597/)
+[dettagli](https://www.imdb.com/title/tt0327597/)
 
 ## La locandina
 <img src="coraline.png"  width="360px" title="Coraline">

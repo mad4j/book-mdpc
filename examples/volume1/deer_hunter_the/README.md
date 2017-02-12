@@ -5,7 +5,7 @@ Drammatico, Guerra
 ## Il film in breve
 TBD
 
-[details](https://www.imdb.com/title/tt0077416/)
+[dettagli](https://www.imdb.com/title/tt0077416/)
 
 ## La locandina
 <img src="the-deer-hunter.png"  width="360px" title="The Deer Hunter">

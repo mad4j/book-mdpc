@@ -5,7 +5,7 @@ Commedia, Horror, Thriller
 ## Il film in breve
 TBD
 
-[details](https://www.imdb.com/title/tt0088889/)
+[dettagli](https://www.imdb.com/title/tt0088889/)
 
 ## La locandina
 <img src="cat's-eye.png"  width="360px" title="Cat's Eye">

@@ -3,9 +3,9 @@
 Drammatico, Romantico, Thriller
 
 ## Il film in breve
-Attratta da un giovane milionario con problemi comportamentali, scopre che essere legata e corcata come un cotechino non rientra nella sua idea di romanticismo
+Bella giovane ed inspiegabilemente ancora vergine, scopre che essere legata e corcata non rientra nella sua idea di romanticismo
 
-[details](https://www.imdb.com/title/tt0057012/)
+[dettagli](https://www.imdb.com/title/tt2322441/)
 
 ## La locandina
 <img src="fifty-shades-of-grey.png"  width="360px" title="Fifty Shades of Grey">

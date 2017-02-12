@@ -5,7 +5,7 @@ Animazione, Avventura
 ## Il film in breve
 Le ragazzine troppo curiose fanno strani incontri e rischiano di perdere la testa.
 
-[details](https://www.imdb.com/title/tt0043274/)
+[dettagli](https://www.imdb.com/title/tt0043274/)
 
 ## La locandina
 <img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">

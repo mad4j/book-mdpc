@@ -5,7 +5,7 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 TBD
 
-[details](https://www.imdb.com/title/tt0317219/)
+[dettagli](https://www.imdb.com/title/tt0317219/)
 
 ## La locandina
 <img src="cars.png"  width="360px" title="Cars">
