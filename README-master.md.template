@@ -1,0 +1,38 @@
+# Manuale di Programmazione Cinematografica
+Minimalist movie posters generated using Processing programming language.
+
+This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
+
+
+[Started the conversion to P5.js](https://github.com/mad4j/book-mdpc/blob/book-mdpc-p5.js/README.md): welcome to any contribution.
+
+
+## Last Release
+Use PDE `File -> Examples... -> Add examples` or follow these links to manually download MdPC code sketches:
+- [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mdpc.zip)
+- [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
+
+
+## Volume 1
+
+##VOLUME1##
+
+
+## Volume 2
+
+##VOLUME2##
+
+
+## Volume 3
+
+##VOLUME3##
+
+
+## Volume 4
+
+##VOLUME4##
+
+
+## References
+* [Processing Main page](https://processing.org/)
+* [Processing Examples Contribution](https://github.com/processing/processing/wiki/Examples-Overview)
