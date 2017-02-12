@@ -42,7 +42,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty Shades of Grey"/>
 </a>
 <a href="examples/volume1/finding_nemo">
-    <img src="examples/volume1/finding_nemo/finding-nemo.png" width="120px" title="Fifty Shades of Grey"/>
+    <img src="examples/volume1/finding_nemo/finding-nemo.png" width="120px" title="Finding Nemo"/>
 </a>
 <a href="examples/volume1/frozen">
     <img src="examples/volume1/frozen/frozen.png" width="120px" title="frozen"/>
