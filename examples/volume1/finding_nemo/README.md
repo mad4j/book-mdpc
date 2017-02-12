@@ -1,7 +1,22 @@
+# Finding Nemo (2003)
+
+Animazione, Avventura, Commedia
+
+## Il film in breve
+TBD
+
+[dettagli](https://www.imdb.com/title/tt0266543/)
+
+## La locandina
+<img src="finding-nemo.png"  width="360px" title="Finding Nemo">
+
+
+## Il codice
+```processing
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Finding Nemo (2003)
+// Finding Nemo
 
 
 final color PAPER = color(245, 130, 0);
@@ -45,3 +60,4 @@ void draw() {
   
   save("finding-nemo.png");
 }
+```
