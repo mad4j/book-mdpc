@@ -36,11 +36,21 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume1/dr_strangelove/">
   <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
 </a>
-<img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
-<img src="examples/volume1/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
-<img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen">
-<img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
-<img src="examples/volume1/iron_man/iron-man.png" width="120px" title="Iron Man">
+<a href="examples/volume1/fifty_shades_of_grey/">
+  <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
+</a>
+<a href="examples/volume1/finding_nemo/">
+  <img src="examples/volume1/finding_nemo/finding-nemo.png" width="120px" title="Finding Nemo">
+</a>
+<a href="examples/volume1/frozen/">
+  <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen">
+</a>
+<a href="examples/volume1/harry_potter_and_the_deathly_hallows/">
+  <img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows">
+</a>
+<a href="examples/volume1/iron_man/">
+  <img src="examples/volume1/iron_man/iron-man.png" width="120px" title="Iron Man">
+</a>
 <br/>
 <img src="examples/volume1/love_story/love-story.png"  width="120px" title="Love story">
 <img src="examples/volume1/minions/minions.png" width="120px" title="Minions">
