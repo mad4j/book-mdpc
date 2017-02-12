@@ -33,7 +33,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
   <img src="examples/volume1/deer_hunter_the/the-deer-hunter.png" width="120px" title="The Deer Hunter">
 </a>
 <br/>
-<img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
+<a href="examples/volume1/dr_strangelove/">
+  <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr Strangelove">
+</a>
+
 <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty shades of gray">
 <img src="examples/volume1/finding_nemo/finding-nemo.png"  width="120px" title="Finding Nemo">
 <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen">
