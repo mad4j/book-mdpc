@@ -1,12 +1,16 @@
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
+// Volume 1
+
 // Daniele Olmisani, 2016
+
 
 // Dr. Strangelove (1964)
 
 
-final color PAPER = color(255);
+final color PAPER = color(240);
 final color INK = color(25, 25, 110);
 
+final float S = 0.10;
 
 void setup() {
   size(480, 640);
@@ -27,12 +31,15 @@ void draw() {
   noStroke();
   
   rectMode(CENTER);
-  rect(0, 0, 0.20, 0.52, 0.30, 0.30, 0.30, 0.30);
-  translate(0, -0.15);
-  quad(-0.10, 0, 0.10, 0, 0.05, -0.20, -0.05, -0.20);
-  translate(0, -0.15);
-  quad(0, 0, 0, -0.10,  0.10, -0.15,  0.10, -0.05);
-  quad(0, 0, 0, -0.10, -0.10, -0.15, -0.10, -0.05);
+  
+  rect(0, 0, 2*S, 5*S, 3*S);
+  
+  translate(0, -1.5*S);
+  quad(-S, 0, S, 0, 0.5*S, -2*S, -0.5*S, -2*S);
+  
+  translate(0, -1.5*S);
+  quad(0, 0, 0, -S,  S, -1.5*S,  S, -0.5*S);
+  quad(0, 0, 0, -S, -S, -1.5*S, -S, -0.5*S);
   
   save("dr-strangelove.png");
 }
