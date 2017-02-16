@@ -31,11 +31,11 @@ function build_index {
       TITLE=$NAME
     fi
     
-    echo "<a href=\"$SOURCE/$1/$NAME\">" >> $INDEX_FILE
+    echo "<a href=\"$SOURCE/$1/$NAME/README.md\">" >> $INDEX_FILE
     echo "    <img src=\"$SOURCE/$1/$NAME/$POSTER\" width=\"120px\" title=\"$TITLE\"/>" >> $INDEX_FILE
     echo "</a>" >> $INDEX_FILE
     let COUNTER=COUNTER+1
-    if [ $COUNTER -eq 6 ]; then
+    if [ $COUNTER -eq 5 ]; then
       COUNTER=0
       echo "<br/>" >> $INDEX_FILE
     fi

@@ -1,1 +1,0 @@
-# Manuale di Programmazione Cinematografica
