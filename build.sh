@@ -13,7 +13,7 @@ function build_index {
 
   COUNTER=0
   for f in $(find $SOURCE/$1/* -maxdepth 0 -type d ); do
-  
+
     cd $f
     NAME=`basename $f`
     POSTER=`ls *.png`
@@ -25,17 +25,17 @@ function build_index {
     fi
 
     # look for metadata
-    if [ -a metadata ]; then 
+    if [ -a metadata ]; then
       source metadata
     else
       TITLE=$NAME
     fi
-    
+
     echo "<a href=\"$SOURCE/$1/$NAME/README.md\">" >> $INDEX_FILE
     echo "    <img src=\"$SOURCE/$1/$NAME/$POSTER\" width=\"120px\" title=\"$TITLE\"/>" >> $INDEX_FILE
     echo "</a>" >> $INDEX_FILE
     let COUNTER=COUNTER+1
-    if [ $COUNTER -eq 5 ]; then
+    if [ $COUNTER -eq 6 ]; then
       COUNTER=0
       echo "<br/>" >> $INDEX_FILE
     fi
@@ -54,13 +54,13 @@ build_index volume4
 
 sed -e "/##VOLUME1##/{
     rvolume1.txt
-    d 
+    d
   }" -e "/##VOLUME2##/{
     rvolume2.txt
     d
   }" -e "/##VOLUME3##/{
     rvolume3.txt
-    d 
+    d
   }" -e "/##VOLUME4##/{
     rvolume4.txt
     d
@@ -89,4 +89,3 @@ for f in $(find $SOURCE/ -name metadata); do
     cd - > /dev/null
 done
 echo "DONE"
-
