@@ -1,7 +1,8 @@
 
-SOURCE=examples
-TARGET=docs
 ROOT=`pwd`
+SOURCE=examples
+TARGET=./
+
 
 echo "Building web site..."
 
