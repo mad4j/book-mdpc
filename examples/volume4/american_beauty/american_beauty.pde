@@ -23,7 +23,7 @@ void draw() {
  
   final float F = S*min(width, height);
   
-  translate(0.5*width, 0.6*height);
+  translate(0.6*width, 0.6*height);
   scale(F);
   
   rotate(0.15*PI);
