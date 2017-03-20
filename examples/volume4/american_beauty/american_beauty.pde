@@ -6,7 +6,7 @@
 
 final color PAPER = color(240, 195, 160);
 final color INK1 = color(100, 155, 50);
-final color INK2 = color(110, 10, 25);
+final color INK2 = color(150, 50, 35);
 
 final float S = 0.1;
 final float U = 0.02;
