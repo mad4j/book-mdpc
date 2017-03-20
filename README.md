@@ -274,14 +274,13 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/day_the_earth_stood_still_the/README.md">
     <img src="examples/volume4/day_the_earth_stood_still_the/the-day-the-earth-stood-still.png" width="120px" title="day_the_earth_stood_still_the"/>
 </a>
-<br/>
 <a href="examples/volume4/entrapment/README.md">
     <img src="examples/volume4/entrapment/entrapment.png" width="120px" title="entrapment"/>
 </a>
+<br/>
 <a href="examples/volume4/escape_from_new_york/README.md">
     <img src="examples/volume4/escape_from_new_york/escape-from-new-york.png" width="120px" title="escape_from_new_york"/>
 </a>
-<br/>
 <a href="examples/volume4/et_the_extra_terrestrial/README.md">
     <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png" width="120px" title="et_the_extra_terrestrial"/>
 </a>
@@ -291,24 +290,22 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/mib/README.md">
     <img src="examples/volume4/mib/mib.png" width="120px" title="mib"/>
 </a>
-<br/>
 <a href="examples/volume4/petit_prince_le/README.md">
     <img src="examples/volume4/petit_prince_le/le-petit-prince.png" width="120px" title="petit_prince_le"/>
 </a>
 <a href="examples/volume4/shining/README.md">
     <img src="examples/volume4/shining/shining.png" width="120px" title="shining"/>
 </a>
+<br/>
 <a href="examples/volume4/signs/README.md">
     <img src="examples/volume4/signs/signs.png" width="120px" title="signs"/>
 </a>
-<br/>
 <a href="examples/volume4/spiderman/README.md">
     <img src="examples/volume4/spiderman/spider-man.png" width="120px" title="spiderman"/>
 </a>
 <a href="examples/volume4/stargate/README.md">
     <img src="examples/volume4/stargate/stargate.png" width="120px" title="stargate"/>
 </a>
-<br/>
 <a href="examples/volume4/suicide_squad/README.md">
     <img src="examples/volume4/suicide_squad/suicide-squad.png" width="120px" title="suicide_squad"/>
 </a>
@@ -318,14 +315,13 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/titanic/README.md">
     <img src="examples/volume4/titanic/titanic.png" width="120px" title="titanic"/>
 </a>
+<br/>
 <a href="examples/volume4/tonari_no_totoro/README.md">
     <img src="examples/volume4/tonari_no_totoro/tonari-no-totoro.png" width="120px" title="tonari_no_totoro"/>
 </a>
-<br/>
 <a href="examples/volume4/wonder_woman/README.md">
     <img src="examples/volume4/wonder_woman/wonder-woman.png" width="120px" title="wonder_woman"/>
 </a>
-<br/>
 <a href="examples/volume4/zorro/README.md">
     <img src="examples/volume4/zorro/zorro.png" width="120px" title="zorro"/>
 </a>
