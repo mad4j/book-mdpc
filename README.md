@@ -293,10 +293,13 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/petit_prince_le/README.md">
     <img src="examples/volume4/petit_prince_le/le-petit-prince.png" width="120px" title="petit_prince_le"/>
 </a>
+<a href="examples/volume4/psycho/README.md">
+    <img src="examples/volume4/psycho/psycho.png" width="120px" title="psycho"/>
+</a>
+<br/>
 <a href="examples/volume4/shining/README.md">
     <img src="examples/volume4/shining/shining.png" width="120px" title="shining"/>
 </a>
-<br/>
 <a href="examples/volume4/signs/README.md">
     <img src="examples/volume4/signs/signs.png" width="120px" title="signs"/>
 </a>
@@ -312,10 +315,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/thor/README.md">
     <img src="examples/volume4/thor/thor.png" width="120px" title="thor"/>
 </a>
+<br/>
 <a href="examples/volume4/titanic/README.md">
     <img src="examples/volume4/titanic/titanic.png" width="120px" title="titanic"/>
 </a>
-<br/>
 <a href="examples/volume4/tonari_no_totoro/README.md">
     <img src="examples/volume4/tonari_no_totoro/tonari-no-totoro.png" width="120px" title="tonari_no_totoro"/>
 </a>
