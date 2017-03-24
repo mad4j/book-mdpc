@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Love Story (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="love-story.png"  width="360px" title="zorro">
+<img src="love-story.png"  width="360px" title="Love Story">
 
 
 ## Il codice

@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Spirited away (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="spirited-away.png"  width="360px" title="zorro">
+<img src="spirited-away.png"  width="360px" title="Spirited away">
 
 
 ## Il codice

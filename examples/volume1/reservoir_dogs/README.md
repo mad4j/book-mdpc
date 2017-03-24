@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Reservoir Dogs (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="reservoir-dogs.png"  width="360px" title="zorro">
+<img src="reservoir-dogs.png"  width="360px" title="Reservoir Dogs">
 
 
 ## Il codice

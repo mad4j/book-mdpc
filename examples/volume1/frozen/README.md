@@ -1,6 +1,6 @@
 # Frozen (2013)
 
-Animation, Adventure, Comedy
+Animazione, Avventura, Commedia
 
 ## Il film in breve
 TBV

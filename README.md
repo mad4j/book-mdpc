@@ -48,48 +48,48 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen"/>
 </a>
 <a href="examples/volume1/harry_potter_and_the_deathly_hallows/README.md">
-    <img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="harry_potter_and_the_deathly_hallows"/>
+    <img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows"/>
 </a>
 <a href="examples/volume1/iron_man/README.md">
-    <img src="examples/volume1/iron_man/iron-man.png" width="120px" title="iron_man"/>
+    <img src="examples/volume1/iron_man/iron-man.png" width="120px" title="Iron Man"/>
 </a>
 <br/>
 <a href="examples/volume1/love_story/README.md">
-    <img src="examples/volume1/love_story/love-story.png" width="120px" title="love_story"/>
+    <img src="examples/volume1/love_story/love-story.png" width="120px" title="Love Story"/>
 </a>
 <a href="examples/volume1/minions/README.md">
-    <img src="examples/volume1/minions/minions.png" width="120px" title="minions"/>
+    <img src="examples/volume1/minions/minions.png" width="120px" title="Minions"/>
 </a>
 <a href="examples/volume1/one_hundred_and_one_dalmatians/README.md">
-    <img src="examples/volume1/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="one_hundred_and_one_dalmatians"/>
+    <img src="examples/volume1/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="One hundred and one Dalmatians"/>
 </a>
 <a href="examples/volume1/peanuts_movie_the/README.md">
-    <img src="examples/volume1/peanuts_movie_the/the-peanuts-movie.png" width="120px" title="peanuts_movie_the"/>
+    <img src="examples/volume1/peanuts_movie_the/the-peanuts-movie.png" width="120px" title="The Peanuts Movie"/>
 </a>
 <a href="examples/volume1/predator/README.md">
-    <img src="examples/volume1/predator/predator.png" width="120px" title="predator"/>
+    <img src="examples/volume1/predator/predator.png" width="120px" title="Predator"/>
 </a>
 <a href="examples/volume1/pretty_woman/README.md">
-    <img src="examples/volume1/pretty_woman/pretty-woman.png" width="120px" title="pretty_woman"/>
+    <img src="examples/volume1/pretty_woman/pretty-woman.png" width="120px" title="Pretty Woman"/>
 </a>
 <br/>
 <a href="examples/volume1/profondo_rosso/README.md">
-    <img src="examples/volume1/profondo_rosso/profondo-rosso.png" width="120px" title="profondo_rosso"/>
+    <img src="examples/volume1/profondo_rosso/profondo-rosso.png" width="120px" title="Profondo Rosso"/>
 </a>
 <a href="examples/volume1/reservoir_dogs/README.md">
-    <img src="examples/volume1/reservoir_dogs/reservoir-dogs.png" width="120px" title="reservoir_dogs"/>
+    <img src="examples/volume1/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs"/>
 </a>
 <a href="examples/volume1/social_network_the/README.md">
-    <img src="examples/volume1/social_network_the/the-social-network.png" width="120px" title="social_network_the"/>
+    <img src="examples/volume1/social_network_the/the-social-network.png" width="120px" title="The Social Network"/>
 </a>
 <a href="examples/volume1/spirited_away/README.md">
-    <img src="examples/volume1/spirited_away/spirited-away.png" width="120px" title="spirited_away"/>
+    <img src="examples/volume1/spirited_away/spirited-away.png" width="120px" title="Spirited away"/>
 </a>
 <a href="examples/volume1/star_wars/README.md">
-    <img src="examples/volume1/star_wars/star-wars.png" width="120px" title="star_wars"/>
+    <img src="examples/volume1/star_wars/star-wars.png" width="120px" title="Star Wars"/>
 </a>
 <a href="examples/volume1/war_games/README.md">
-    <img src="examples/volume1/war_games/war-games.png" width="120px" title="war_games"/>
+    <img src="examples/volume1/war_games/war-games.png" width="120px" title="War Games"/>
 </a>
 <br/>
 

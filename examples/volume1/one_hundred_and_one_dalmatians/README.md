@@ -1,4 +1,4 @@
-# zorro (TBV)
+# One hundred and one Dalmatians (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="one-hundred-and-one-dalmatians.png"  width="360px" title="zorro">
+<img src="one-hundred-and-one-dalmatians.png"  width="360px" title="One hundred and one Dalmatians">
 
 
 ## Il codice

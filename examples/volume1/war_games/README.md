@@ -1,4 +1,4 @@
-# zorro (TBV)
+# War Games (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="war-games.png"  width="360px" title="zorro">
+<img src="war-games.png"  width="360px" title="War Games">
 
 
 ## Il codice

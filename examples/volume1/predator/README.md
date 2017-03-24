@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Predator (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="predator.png"  width="360px" title="zorro">
+<img src="predator.png"  width="360px" title="Predator">
 
 
 ## Il codice

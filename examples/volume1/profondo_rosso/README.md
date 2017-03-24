@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Profondo Rosso (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="profondo-rosso.png"  width="360px" title="zorro">
+<img src="profondo-rosso.png"  width="360px" title="Profondo Rosso">
 
 
 ## Il codice

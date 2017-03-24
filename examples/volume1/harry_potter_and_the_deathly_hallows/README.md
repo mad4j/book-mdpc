@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Harry Potter and the Deathly Hallows (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="harry-potter-and-the-deathly-hallows.png"  width="360px" title="zorro">
+<img src="harry-potter-and-the-deathly-hallows.png"  width="360px" title="Harry Potter and the Deathly Hallows">
 
 
 ## Il codice

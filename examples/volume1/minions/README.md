@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Minions (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="minions.png"  width="360px" title="zorro">
+<img src="minions.png"  width="360px" title="Minions">
 
 
 ## Il codice

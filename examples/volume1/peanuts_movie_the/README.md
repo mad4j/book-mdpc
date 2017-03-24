@@ -1,4 +1,4 @@
-# zorro (TBV)
+# The Peanuts Movie (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="the-peanuts-movie.png"  width="360px" title="zorro">
+<img src="the-peanuts-movie.png"  width="360px" title="The Peanuts Movie">
 
 
 ## Il codice

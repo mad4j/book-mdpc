@@ -1,4 +1,4 @@
-# zorro (TBV)
+# The Social Network (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="the-social-network.png"  width="360px" title="zorro">
+<img src="the-social-network.png"  width="360px" title="The Social Network">
 
 
 ## Il codice

@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Pretty Woman (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="pretty-woman.png"  width="360px" title="zorro">
+<img src="pretty-woman.png"  width="360px" title="Pretty Woman">
 
 
 ## Il codice

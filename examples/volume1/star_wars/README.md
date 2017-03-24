@@ -1,4 +1,4 @@
-# zorro (TBV)
+# Star Wars (TBV)
 
 TBV
 
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="star-wars.png"  width="360px" title="zorro">
+<img src="star-wars.png"  width="360px" title="Star Wars">
 
 
 ## Il codice
