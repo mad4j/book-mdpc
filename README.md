@@ -45,7 +45,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume1/finding_nemo/finding-nemo.png" width="120px" title="Finding Nemo"/>
 </a>
 <a href="examples/volume1/frozen/README.md">
-    <img src="examples/volume1/frozen/frozen.png" width="120px" title="frozen"/>
+    <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen"/>
 </a>
 <a href="examples/volume1/harry_potter_and_the_deathly_hallows/README.md">
     <img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="harry_potter_and_the_deathly_hallows"/>

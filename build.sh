@@ -72,7 +72,8 @@ echo "starting building process..."
 for f in $(find $SOURCE/ -name metadata); do
     cd `dirname $f`
     source metadata
-    echo "processing `pwd` ..."
+    TMP=`pwd`
+    echo "processing `basename $TMP` ..."
     SNIPPET=`ls *.pde`
     POSTER=`ls *.png`
     sed -e "s/##TITLE##/$TITLE/" \
