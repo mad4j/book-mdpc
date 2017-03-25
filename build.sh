@@ -25,6 +25,11 @@ function build_index {
       continue
     fi
 
+    # retrieve info from movie database
+    if [ ! -f info.json ]; then
+      curl -s http://www.omdbapi.com/?t=$NAME | jq . > info.json
+    fi
+
     # create a draft metadata if not preset
     if [ ! -f metadata ]; then
       echo "creating metadata for $NAME ..."
