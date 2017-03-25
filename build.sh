@@ -28,7 +28,10 @@ function build_index {
     # retrieve info from movie database
     if [ ! -f info.json ]; then
       echo "retrieving movie info for $NAME ..."
-      TEMP=${NAME%_the}
+      TEMP=$NAME
+      TEMP=${TEMP%_the}
+      TEMP=${TEMP%_le}
+      TEMP=${TEMP%_il}
       curl -s http://www.omdbapi.com/?t=$TEMP | jq . > info.json
     fi
 
@@ -62,7 +65,7 @@ function build_index {
 }
 
 echo "removing genereated README files..."
-find $ROOT/ -name README.md -exec rm {} \;
+find $ROOT/ -name README.md -delete
 
 build_index volume1
 build_index volume2
