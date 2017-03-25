@@ -19,6 +19,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume1/alice_in_wonderland/README.md">
     <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png" width="120px" title="Alice in Wonderland"/>
 </a>
+
+[Alice](examples/volume1/alice_in_wonderland/README.md)
+
 <a href="examples/volume1/blood_diamond/README.md">
     <img src="examples/volume1/blood_diamond/blood-diamond.png" width="120px" title="Blood Diamond"/>
 </a>
