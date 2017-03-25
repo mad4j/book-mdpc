@@ -1,7 +1,8 @@
 #!/bin/bash
 
 SOURCE=examples
-TARGET=docs
+TEMPLATES=templates
+
 ROOT=`pwd`
 
 function build_index {
@@ -73,7 +74,7 @@ sed -e "/##VOLUME1##/{
   }" -e "/##VOLUME4##/{
     rvolume4.txt
     d
-  }" $ROOT/README-master.md.template > README.md
+  }" $ROOT/$TEMPLATES/README-master.md.template > README.md
 
 rm $ROOT/volume?.txt
 
@@ -95,7 +96,7 @@ for f in $(find $SOURCE/ -name metadata); do
         r$SNIPPET
         a
         d
-      }" $ROOT/README.md.template > README.md
+      }" $ROOT/$TEMPLATES/README.md.template > README.md
     cd - > /dev/null
 done
 echo "DONE"
