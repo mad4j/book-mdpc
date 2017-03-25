@@ -1,4 +1,22 @@
 {
-  "Response": "False",
-  "Error": "Movie not found!"
+  "Title": "The Thin Red Line",
+  "Year": "1998",
+  "Rated": "R",
+  "Released": "15 Jan 1999",
+  "Runtime": "170 min",
+  "Genre": "Drama, War",
+  "Director": "Terrence Malick",
+  "Writer": "James Jones (novel), Terrence Malick (screenplay)",
+  "Actors": "Nick Nolte, Jim Caviezel, Sean Penn, Elias Koteas",
+  "Plot": "Terrence Malick's adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.",
+  "Language": "English, Tok Pisin, Japanese, Greek",
+  "Country": "USA",
+  "Awards": "Nominated for 7 Oscars. Another 20 wins & 41 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDlmNDQ0YjItNTlhMS00MDkyLWE4YzEtMDczMzliODU5MTMzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "Metascore": "78",
+  "imdbRating": "7.6",
+  "imdbVotes": "143,602",
+  "imdbID": "tt0120863",
+  "Type": "movie",
+  "Response": "True"
 }
