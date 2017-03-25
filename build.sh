@@ -24,6 +24,16 @@ function build_index {
       continue
     fi
 
+    # create a draft metadata if not preset
+    if [ ! -f metadata ]; then
+      echo "creating metadata for $NAME ..."
+      echo "TITLE=\"$NAME\"" >> metadata
+      echo "YEAR=\"TBV\"" >> metadata
+      echo "GENRE=\"TBV\"" >> metadata
+      echo "URL=\"TBV\"" >> metadata
+      echo "DESCRIPTION=\"TBV\"" >> metadata 
+    fi
+
     # look for metadata
     if [ -a metadata ]; then
       source metadata
@@ -44,7 +54,6 @@ function build_index {
 }
 
 echo "removing genereated README files..."
-rm -fR $TARGET/
 find $ROOT/ -name README.md -exec rm {} \;
 
 build_index volume1
