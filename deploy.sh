@@ -2,6 +2,7 @@
 
 TEMP=temp
 TARGET=.
+TEMPLATES=templates
 
 BUILD=`git rev-list HEAD | wc -l`
 VERSION=`git describe --tags`
@@ -23,14 +24,15 @@ mkdir -p $TEMP/book-mdpc/examples
 # create contents
 cp -R examples/ $TEMP/book-mdpc/
 find $TEMP/ -type f -name '*.template' -delete
-sed -e "s/##BUILD##/$BUILD/g" -e "s/##VERSION##/$VERSION/g" examples.properties.template  > examples.properties
+sed -e "s/##BUILD##/$BUILD/g" \
+    -e "s/##VERSION##/$VERSION/g" $TEMPLATES/examples.properties.template  > examples.properties
 cp examples.properties $TEMP/book-mdpc
 cp examples.properties $TEMP/book-mdpc.txt
 cp LICENSE $TEMP/book-mdpc
 cp README.md $TEMP/book-mdpc
 cd $TEMP
 zip -rq book-mdpc.zip book-mdpc/
-cd -
+cd - > /dev/null
 cp $TEMP/book-mdpc.txt $TARGET/
 cp $TEMP/book-mdpc.zip $TARGET/
 
