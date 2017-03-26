@@ -1,6 +1,6 @@
-# escape_from_new_york (TBV)
+# Escape from New York (1981)
 
-TBV
+Action, Sci-Fi
 
 ## Il film in breve
 TBV
@@ -8,7 +8,7 @@ TBV
 [dettagli](TBV)
 
 ## La locandina
-<img src="escape-from-new-york.png"  width="360px" title="escape_from_new_york">
+<img src="escape-from-new-york.png"  width="360px" title="Escape from New York">
 
 
 ## Il codice
