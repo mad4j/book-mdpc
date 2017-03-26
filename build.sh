@@ -5,6 +5,18 @@ TEMPLATES=templates
 
 ROOT=`pwd`
 
+function retrieve_info {
+  if [ ! -f info.json ]; then
+    echo "retrieving movie info for $1 ..."
+    TEMP=$1
+    TEMP=${TEMP%_the}
+    TEMP=${TEMP%_le}
+    TEMP=${TEMP%_il}
+    TEMP=${TEMP#x_}
+    curl -s http://www.omdbapi.com/?t=$TEMP | jq . > info.json
+  fi
+}
+
 function build_index {
 
   echo "building index on $1 ..."
@@ -26,15 +38,8 @@ function build_index {
     fi
 
     # retrieve info from movie database
-    if [ ! -f info.json ]; then
-      echo "retrieving movie info for $NAME ..."
-      TEMP=$NAME
-      TEMP=${TEMP%_the}
-      TEMP=${TEMP%_le}
-      TEMP=${TEMP%_il}
-      curl -s http://www.omdbapi.com/?t=$TEMP | jq . > info.json
-    fi
-
+    retrieve_info $NAME
+ 
     # create a draft metadata if not preset
     if [ ! -f metadata ]; then
       echo "creating metadata for $NAME ..."
@@ -64,7 +69,7 @@ function build_index {
   done
 }
 
-echo "removing genereated README files..."
+echo "removing generated README files..."
 find $ROOT/ -name README.md -delete
 
 build_index volume1
