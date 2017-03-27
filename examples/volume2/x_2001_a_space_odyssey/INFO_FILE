@@ -1,0 +1,22 @@
+{
+  "Title": "2001: A Space Odyssey",
+  "Year": "1968",
+  "Rated": "G",
+  "Released": "12 May 1968",
+  "Runtime": "149 min",
+  "Genre": "Adventure, Sci-Fi",
+  "Director": "Stanley Kubrick",
+  "Writer": "Stanley Kubrick (screenplay), Arthur C. Clarke (screenplay)",
+  "Actors": "Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",
+  "Plot": "Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+  "Language": "English, Russian",
+  "Country": "UK, USA",
+  "Awards": "Won 1 Oscar. Another 13 wins & 7 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+  "Metascore": "86",
+  "imdbRating": "8.3",
+  "imdbVotes": "452,254",
+  "imdbID": "tt0062622",
+  "Type": "movie",
+  "Response": "True"
+}

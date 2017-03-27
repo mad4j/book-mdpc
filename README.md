@@ -16,7 +16,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 ## Volume 1
 
 
-<a href="/examples/volume1/alice_in_wonderland/README.md">
+<a href="examples/volume1/alice_in_wonderland/README.md">
     <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png" width="120px" title="Alice in Wonderland"/>
 </a>
 <a href="examples/volume1/blood_diamond/README.md">
@@ -279,7 +279,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 </a>
 <br/>
 <a href="examples/volume4/escape_from_new_york/README.md">
-    <img src="examples/volume4/escape_from_new_york/escape-from-new-york.png" width="120px" title="escape_from_new_york"/>
+    <img src="examples/volume4/escape_from_new_york/escape-from-new-york.png" width="120px" title="Escape from New York"/>
 </a>
 <a href="examples/volume4/et_the_extra_terrestrial/README.md">
     <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png" width="120px" title="et_the_extra_terrestrial"/>

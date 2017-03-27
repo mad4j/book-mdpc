@@ -63,6 +63,6 @@ for f in $(find $ROOT -name $ID_FILE); do
 done
 
 COUNT=`find $ROOT -name $INFO_FILE | wc -l`
-echo "[GETINFO] $COUNT info files in local repository ..."
+echo "[GETINFO] $COUNT info files ($INFO_FILE) in local repository ..."
 
 echo "... DONE"
