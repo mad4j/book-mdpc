@@ -1,9 +1,9 @@
 # Blood Diamond (2006)
 
-
+2006
 
 ## Il film in breve
-TBV
+A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.
 
 [dettagli](https://www.imdb.com/title/tt0450259/)
 

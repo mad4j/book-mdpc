@@ -1,9 +1,9 @@
 # E.T. the Extra-Terrestrial (1982)
 
-
+1982
 
 ## Il film in breve
-TBV
+A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.
 
 [dettagli](https://www.imdb.com/title/tt0083866/)
 

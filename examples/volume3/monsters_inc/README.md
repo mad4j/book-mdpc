@@ -1,9 +1,9 @@
 # Monsters, Inc. (2001)
 
-
+2001
 
 ## Il film in breve
-TBV
+In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
 
 [dettagli](https://www.imdb.com/title/tt0198781/)
 

@@ -1,9 +1,9 @@
 # Labyrinth (1986)
 
-
+1986
 
 ## Il film in breve
-TBV
+A 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
 [dettagli](https://www.imdb.com/title/tt0091369/)
 

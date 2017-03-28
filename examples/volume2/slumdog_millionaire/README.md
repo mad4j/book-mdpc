@@ -1,9 +1,9 @@
 # Slumdog Millionaire (2008)
 
-
+2008
 
 ## Il film in breve
-TBV
+A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"
 
 [dettagli](https://www.imdb.com/title/tt1010048/)
 

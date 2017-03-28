@@ -1,9 +1,9 @@
 # The Shining (1980)
 
-
+1980
 
 ## Il film in breve
-TBV
+A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.
 
 [dettagli](https://www.imdb.com/title/tt0081505/)
 

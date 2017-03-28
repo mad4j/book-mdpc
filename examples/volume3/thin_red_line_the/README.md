@@ -1,9 +1,9 @@
 # The Thin Red Line (1998)
 
-
+1998
 
 ## Il film in breve
-TBV
+Terrence Malick's adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.
 
 [dettagli](https://www.imdb.com/title/tt0120863/)
 

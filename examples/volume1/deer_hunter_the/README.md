@@ -1,9 +1,9 @@
 # The Deer Hunter (1978)
 
-
+1978
 
 ## Il film in breve
-TBV
+An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.
 
 [dettagli](https://www.imdb.com/title/tt0077416/)
 

@@ -1,9 +1,9 @@
 # Green Lantern (2011)
 
-
+2011
 
 ## Il film in breve
-TBV
+Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps.
 
 [dettagli](https://www.imdb.com/title/tt1133985/)
 

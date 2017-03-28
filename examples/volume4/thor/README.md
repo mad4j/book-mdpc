@@ -1,9 +1,9 @@
 # Thor (2011)
 
-
+2011
 
 ## Il film in breve
-TBV
+The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.
 
 [dettagli](https://www.imdb.com/title/tt0800369/)
 

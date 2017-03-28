@@ -1,9 +1,9 @@
 # Ice Age (2002)
 
-
+2002
 
 ## Il film in breve
-TBV
+Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.
 
 [dettagli](https://www.imdb.com/title/tt0268380/)
 

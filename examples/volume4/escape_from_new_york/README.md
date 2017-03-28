@@ -1,9 +1,9 @@
 # Escape from New York (1981)
 
-
+1981
 
 ## Il film in breve
-TBV
+In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.
 
 [dettagli](https://www.imdb.com/title/tt0082340/)
 

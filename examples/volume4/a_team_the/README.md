@@ -1,9 +1,9 @@
 # The A-Team (2010)
 
-
+2010
 
 ## Il film in breve
-TBV
+A group of Iraq War veterans looks to clear their name with the U.S. military, who suspect the four men of committing a crime for which they were framed.
 
 [dettagli](https://www.imdb.com/title/tt0429493/)
 

@@ -1,9 +1,9 @@
 # 2001: A Space Odyssey (1968)
 
-
+1968
 
 ## Il film in breve
-TBV
+Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
 [dettagli](https://www.imdb.com/title/tt0062622/)
 

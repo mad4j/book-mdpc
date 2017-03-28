@@ -1,9 +1,9 @@
 # Entrapment (1999)
 
-
+1999
 
 ## Il film in breve
-TBV
+An insurance agent is sent by her employer to track down and help capture an art thief.
 
 [dettagli](https://www.imdb.com/title/tt0137494/)
 

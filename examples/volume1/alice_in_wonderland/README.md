@@ -1,9 +1,9 @@
 # Alice in Wonderland (1951)
 
-
+1951
 
 ## Il film in breve
-TBV
+Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.
 
 [dettagli](https://www.imdb.com/title/tt0043274/)
 

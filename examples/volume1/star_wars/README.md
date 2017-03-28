@@ -1,9 +1,9 @@
 # Star Wars: Episode IV - A New Hope (1977)
 
-
+1977
 
 ## Il film in breve
-TBV
+Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
 
 [dettagli](https://www.imdb.com/title/tt0076759/)
 

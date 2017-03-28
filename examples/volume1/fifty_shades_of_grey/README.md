@@ -1,9 +1,9 @@
 # Fifty Shades of Grey (2015)
 
-
+2015
 
 ## Il film in breve
-TBV
+Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.
 
 [dettagli](https://www.imdb.com/title/tt2322441/)
 

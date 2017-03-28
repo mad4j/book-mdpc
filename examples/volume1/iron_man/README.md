@@ -1,9 +1,9 @@
 # Iron Man (2008)
 
-
+2008
 
 ## Il film in breve
-TBV
+After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
 
 [dettagli](https://www.imdb.com/title/tt0371746/)
 

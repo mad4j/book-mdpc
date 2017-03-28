@@ -1,9 +1,9 @@
 # Suicide Squad (2016)
 
-
+2016
 
 ## Il film in breve
-TBV
+A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
 
 [dettagli](https://www.imdb.com/title/tt1386697/)
 

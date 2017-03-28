@@ -1,9 +1,9 @@
 # Six Days Seven Nights (1998)
 
-
+1998
 
 ## Il film in breve
-TBV
+Robin Monroe, a New York magazine editor, and the gruff pilot Quinn Harris must put aside their mutual dislike if they are to survive after crash landing on a deserted South Seas island.
 
 [dettagli](https://www.imdb.com/title/tt0120828/)
 

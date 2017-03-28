@@ -1,9 +1,9 @@
 # Pretty Woman (1990)
 
-
+1990
 
 ## Il film in breve
-TBV
+A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.
 
 [dettagli](https://www.imdb.com/title/tt0100405/)
 

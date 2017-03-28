@@ -1,9 +1,9 @@
 # Creed (2015)
 
-
+2015
 
 ## Il film in breve
-TBV
+The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
 
 [dettagli](https://www.imdb.com/title/tt3076658/)
 

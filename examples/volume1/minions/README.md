@@ -1,9 +1,9 @@
 # Minions (2015)
 
-
+2015
 
 ## Il film in breve
-TBV
+Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.
 
 [dettagli](https://www.imdb.com/title/tt2293640/)
 

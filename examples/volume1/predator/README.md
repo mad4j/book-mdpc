@@ -1,9 +1,9 @@
 # Predator (1987)
 
-
+1987
 
 ## Il film in breve
-TBV
+A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.
 
 [dettagli](https://www.imdb.com/title/tt0093773/)
 

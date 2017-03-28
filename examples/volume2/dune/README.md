@@ -1,9 +1,9 @@
 # Dune (1984)
 
-
+1984
 
 ## Il film in breve
-TBV
+A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
 
 [dettagli](https://www.imdb.com/title/tt0087182/)
 

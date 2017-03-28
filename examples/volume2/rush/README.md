@@ -1,9 +1,9 @@
 # Rush (2013)
 
-
+2013
 
 ## Il film in breve
-TBV
+The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
 
 [dettagli](https://www.imdb.com/title/tt1979320/)
 

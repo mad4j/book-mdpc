@@ -1,9 +1,9 @@
 # Close Encounters of the Third Kind (1977)
 
-
+1977
 
 ## Il film in breve
-TBV
+After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.
 
 [dettagli](https://www.imdb.com/title/tt0075860/)
 

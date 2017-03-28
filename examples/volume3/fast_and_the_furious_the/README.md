@@ -1,9 +1,9 @@
 # The Fast and the Furious (2001)
 
-
+2001
 
 ## Il film in breve
-TBV
+Los Angeles police officer Brian O'Connor must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.
 
 [dettagli](https://www.imdb.com/title/tt0232500/)
 

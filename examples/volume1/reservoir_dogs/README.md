@@ -1,9 +1,9 @@
 # Reservoir Dogs (1992)
 
-
+1992
 
 ## Il film in breve
-TBV
+After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
 
 [dettagli](https://www.imdb.com/title/tt0105236/)
 

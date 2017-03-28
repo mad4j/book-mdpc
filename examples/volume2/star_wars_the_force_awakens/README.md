@@ -1,9 +1,9 @@
 # Star Wars: The Force Awakens (2015)
 
-
+2015
 
 ## Il film in breve
-TBV
+Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.
 
 [dettagli](https://www.imdb.com/title/tt2488496/)
 

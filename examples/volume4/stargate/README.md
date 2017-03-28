@@ -1,9 +1,9 @@
 # Stargate (1994)
 
-
+1994
 
 ## Il film in breve
-TBV
+An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
 
 [dettagli](https://www.imdb.com/title/tt0111282/)
 

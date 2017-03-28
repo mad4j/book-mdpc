@@ -1,9 +1,9 @@
 # Gattaca (1997)
 
-
+1997
 
 ## Il film in breve
-TBV
+A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
 [dettagli](https://www.imdb.com/title/tt0119177/)
 

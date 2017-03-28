@@ -1,9 +1,9 @@
 # Frankenstein (1931)
 
-
+1931
 
 ## Il film in breve
-TBV
+An obsessed scientist assembles a living being from parts of exhumed corpses.
 
 [dettagli](https://www.imdb.com/title/tt0021884/)
 

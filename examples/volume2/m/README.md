@@ -1,9 +1,9 @@
 # M (1931)
 
-
+1931
 
 ## Il film in breve
-TBV
+When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
 
 [dettagli](https://www.imdb.com/title/tt0022100/)
 

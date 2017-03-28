@@ -1,9 +1,9 @@
 # A Fistful of Dollars (1964)
 
-
+1964
 
 ## Il film in breve
-TBV
+A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.
 
 [dettagli](https://www.imdb.com/title/tt0058461/)
 

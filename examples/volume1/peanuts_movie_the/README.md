@@ -1,9 +1,9 @@
 # The Peanuts Movie (2015)
 
-
+2015
 
 ## Il film in breve
-TBV
+Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.
 
 [dettagli](https://www.imdb.com/title/tt2452042/)
 

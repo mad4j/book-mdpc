@@ -1,9 +1,9 @@
 # Il Sorpasso (1962)
 
-
+1962
 
 ## Il film in breve
-TBV
+An impulsive braggart takes a shy law student for a two-day ride through the Roman and Tuscany countries.
 
 [dettagli](https://www.imdb.com/title/tt0056512/)
 

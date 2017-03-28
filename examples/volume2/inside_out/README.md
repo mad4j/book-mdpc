@@ -1,9 +1,9 @@
 # Inside Out (2015)
 
-
+2015
 
 ## Il film in breve
-TBV
+After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
 
 [dettagli](https://www.imdb.com/title/tt2096673/)
 

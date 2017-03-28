@@ -1,9 +1,9 @@
 # Bee Movie (2007)
 
-
+2007
 
 ## Il film in breve
-TBV
+Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey, and subsequently decides to sue them.
 
 [dettagli](https://www.imdb.com/title/tt0389790/)
 

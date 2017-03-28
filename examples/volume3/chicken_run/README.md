@@ -1,9 +1,9 @@
 # Chicken Run (2000)
 
-
+2000
 
 ## Il film in breve
-TBV
+When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.
 
 [dettagli](https://www.imdb.com/title/tt0120630/)
 

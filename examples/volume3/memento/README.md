@@ -1,9 +1,9 @@
 # Memento (2000)
 
-
+2000
 
 ## Il film in breve
-TBV
+A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.
 
 [dettagli](https://www.imdb.com/title/tt0209144/)
 

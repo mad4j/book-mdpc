@@ -1,9 +1,9 @@
 # Good Will Hunting (1997)
 
-
+1997
 
 ## Il film in breve
-TBV
+Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
 
 [dettagli](https://www.imdb.com/title/tt0119217/)
 

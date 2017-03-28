@@ -1,9 +1,9 @@
 # Coraline (2009)
 
-
+2009
 
 ## Il film in breve
-TBV
+An adventurous girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.
 
 [dettagli](https://www.imdb.com/title/tt0327597/)
 

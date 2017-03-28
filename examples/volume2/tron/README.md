@@ -1,9 +1,9 @@
 # TRON (1982)
 
-
+1982
 
 ## Il film in breve
-TBV
+A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
 
 [dettagli](https://www.imdb.com/title/tt0084827/)
 

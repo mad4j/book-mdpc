@@ -1,9 +1,9 @@
 # Gandhi (1982)
 
-
+1982
 
 ## Il film in breve
-TBV
+Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.
 
 [dettagli](https://www.imdb.com/title/tt0083987/)
 

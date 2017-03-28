@@ -1,9 +1,9 @@
 # Pulp Fiction (1994)
 
-
+1994
 
 ## Il film in breve
-TBV
+The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
 
 [dettagli](https://www.imdb.com/title/tt0110912/)
 

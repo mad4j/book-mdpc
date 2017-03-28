@@ -1,9 +1,9 @@
 # The Love Bug (1968)
 
-
+1968
 
 ## Il film in breve
-TBV
+A race car driver becomes a champion with a Volkswagen Beetle with a mind of its own.
 
 [dettagli](https://www.imdb.com/title/tt0064603/)
 

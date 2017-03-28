@@ -1,9 +1,9 @@
 # War Games (2011)
 
-
+2011
 
 ## Il film in breve
-TBV
+Seven friends travel to the countryside to play war in the woods. They stumble upon three paranoid and sadistic ex-soldiers.
 
 [dettagli](https://www.imdb.com/title/tt1543459/)
 

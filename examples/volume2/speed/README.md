@@ -1,9 +1,9 @@
 # Speed (1994)
 
-
+1994
 
 ## Il film in breve
-TBV
+A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.
 
 [dettagli](https://www.imdb.com/title/tt0111257/)
 

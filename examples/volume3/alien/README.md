@@ -1,9 +1,9 @@
 # Alien (1979)
 
-
+1979
 
 ## Il film in breve
-TBV
+After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious life-form, and soon realize that its life cycle has merely begun.
 
 [dettagli](https://www.imdb.com/title/tt0078748/)
 

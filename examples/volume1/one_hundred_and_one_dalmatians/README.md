@@ -1,14 +1,14 @@
-# Redefining the Line: The Making of One Hundred and One Dalmatians (2001)
+# 101 Dalmatians (1961)
 
-
+1961
 
 ## Il film in breve
-TBV
+When a litter of Dalmatian puppies are abducted by the minions of Cruella de Vil, the parents must find them before she uses them for a diabolical fashion statement.
 
-[dettagli](https://www.imdb.com/title/tt4576582/)
+[dettagli](https://www.imdb.com/title/tt0055254/)
 
 ## La locandina
-<img src="one-hundred-and-one-dalmatians.png"  width="360px" title="Redefining the Line: The Making of One Hundred and One Dalmatians">
+<img src="one-hundred-and-one-dalmatians.png"  width="360px" title="101 Dalmatians">
 
 
 ## Il codice

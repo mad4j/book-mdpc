@@ -1,9 +1,9 @@
 # Big Hero 6 (2014)
 
-
+2014
 
 ## Il film in breve
-TBV
+The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
 
 [dettagli](https://www.imdb.com/title/tt2245084/)
 

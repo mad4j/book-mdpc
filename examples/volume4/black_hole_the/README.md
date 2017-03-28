@@ -1,9 +1,9 @@
 # The Black Hole (1979)
 
-
+1979
 
 ## Il film in breve
-TBV
+A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.
 
 [dettagli](https://www.imdb.com/title/tt0078869/)
 

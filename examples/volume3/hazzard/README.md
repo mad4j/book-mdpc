@@ -1,9 +1,9 @@
 # Hazzard (2012)
 
-
+2012
 
 ## Il film in breve
-TBV
+Dr. Linda Hazzard strongly believed that fasting was the only logical remedy for all maladies, and watched as 40 of her patients withered into death's embrace in the early 1900s.
 
 [dettagli](https://www.imdb.com/title/tt2316697/)
 

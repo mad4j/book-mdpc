@@ -1,9 +1,9 @@
 # Cars (2006)
 
-
+2006
 
 ## Il film in breve
-TBV
+A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
 
 [dettagli](https://www.imdb.com/title/tt0317219/)
 

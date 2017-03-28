@@ -1,9 +1,9 @@
 # Vertigo (1958)
 
-
+1958
 
 ## Il film in breve
-TBV
+A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.
 
 [dettagli](https://www.imdb.com/title/tt0052357/)
 

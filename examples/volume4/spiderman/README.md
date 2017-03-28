@@ -1,14 +1,14 @@
-# Spiderman (1990)
+# Spider-Man (2002)
 
-
+2002
 
 ## Il film in breve
-TBV
+When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.
 
-[dettagli](https://www.imdb.com/title/tt0100669/)
+[dettagli](https://www.imdb.com/title/tt0145487/)
 
 ## La locandina
-<img src="spider-man.png"  width="360px" title="Spiderman">
+<img src="spider-man.png"  width="360px" title="Spider-Man">
 
 
 ## Il codice

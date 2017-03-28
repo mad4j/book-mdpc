@@ -1,9 +1,9 @@
 # The Birds (1963)
 
-
+1963
 
 ## Il film in breve
-TBV
+A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.
 
 [dettagli](https://www.imdb.com/title/tt0056869/)
 

@@ -1,9 +1,9 @@
 # From Dusk Till Dawn (1996)
 
-
+1996
 
 ## Il film in breve
-TBV
+Two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires, with chaotic results.
 
 [dettagli](https://www.imdb.com/title/tt0116367/)
 

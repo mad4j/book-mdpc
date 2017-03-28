@@ -1,9 +1,9 @@
 # Modern Times (1936)
 
-
+1936
 
 ## Il film in breve
-TBV
+The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
 
 [dettagli](https://www.imdb.com/title/tt0027977/)
 

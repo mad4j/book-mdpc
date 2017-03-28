@@ -55,13 +55,14 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
 
     TITLE="`jq -r .Title $INFO_FILE`"
     YEAR="`jq -r .Year $INFO_FILE`"
+    GENRE="`jq -r .Year $INFO_FILE`"
     URL="https://www.imdb.com/title/`jq -r .imdbID $INFO_FILE`/"
-    DESCRIPTION="TBV"
+    DESCRIPTION="`jq -r .Plot $INFO_FILE`"
 
     SNIPPET=`ls *.pde`
     POSTER=`ls *.png`
 
-    echo "processing `basename $TMP` ..."
+    echo "[BUILDPAGES] processing `basename $TMP` ..."
     
     sed -e "s/##TITLE##/$TITLE/" \
       -e "s/##YEAR##/$YEAR/" \

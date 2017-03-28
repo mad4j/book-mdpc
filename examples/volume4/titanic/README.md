@@ -1,9 +1,9 @@
 # Titanic (1997)
 
-
+1997
 
 ## Il film in breve
-TBV
+A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 
 [dettagli](https://www.imdb.com/title/tt0120338/)
 

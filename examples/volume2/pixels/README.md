@@ -1,9 +1,9 @@
 # Pixels (2015)
 
-
+2015
 
 ## Il film in breve
-TBV
+When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.
 
 [dettagli](https://www.imdb.com/title/tt2120120/)
 
