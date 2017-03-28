@@ -1,6 +1,6 @@
 # Blood Diamond (2006)
 
-2006
+Adventure, Drama, Thriller
 
 ## Il film in breve
 A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.

@@ -1,6 +1,6 @@
 # Thor (2011)
 
-2011
+Action, Adventure, Fantasy
 
 ## Il film in breve
 The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.

@@ -1,6 +1,6 @@
 # Stargate (1994)
 
-1994
+Action, Adventure, Sci-Fi
 
 ## Il film in breve
 An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.

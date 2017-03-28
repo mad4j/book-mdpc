@@ -1,6 +1,6 @@
 # Dune (1984)
 
-1984
+Action, Adventure, Sci-Fi
 
 ## Il film in breve
 A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.

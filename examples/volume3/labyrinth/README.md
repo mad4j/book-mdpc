@@ -1,6 +1,6 @@
 # Labyrinth (1986)
 
-1986
+Adventure, Family, Fantasy
 
 ## Il film in breve
 A 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.

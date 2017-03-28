@@ -1,6 +1,6 @@
 # Good Will Hunting (1997)
 
-1997
+Drama
 
 ## Il film in breve
 Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.

@@ -1,6 +1,6 @@
 # Gattaca (1997)
 
-1997
+Drama, Sci-Fi, Thriller
 
 ## Il film in breve
 A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.

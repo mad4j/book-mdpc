@@ -1,6 +1,6 @@
 # Ice Age (2002)
 
-2002
+Animation, Adventure, Comedy
 
 ## Il film in breve
 Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.

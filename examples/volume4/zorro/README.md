@@ -1,6 +1,6 @@
 # Zorro (1975)
 
-1975
+Action, Adventure, Comedy
 
 ## Il film in breve
 In the New World, a new Spanish governor finds the province of Nueva Aragón under the iron fist of the corrupt Colonel Huerta and vows to bring justice under the guise of a masked avenger.

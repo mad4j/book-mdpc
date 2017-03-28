@@ -1,6 +1,6 @@
 # Modern Times (1936)
 
-1936
+Comedy, Drama, Family
 
 ## Il film in breve
 The Tramp struggles to live in modern industrial society with the help of a young homeless woman.

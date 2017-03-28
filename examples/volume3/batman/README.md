@@ -1,6 +1,6 @@
 # Batman (1989)
 
-1989
+Action, Adventure
 
 ## Il film in breve
 The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.

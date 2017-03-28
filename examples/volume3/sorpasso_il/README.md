@@ -1,6 +1,6 @@
 # Il Sorpasso (1962)
 
-1962
+Comedy, Drama
 
 ## Il film in breve
 An impulsive braggart takes a shy law student for a two-day ride through the Roman and Tuscany countries.

@@ -1,6 +1,6 @@
 # Green Lantern (2011)
 
-2011
+Action, Adventure, Sci-Fi
 
 ## Il film in breve
 Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps.

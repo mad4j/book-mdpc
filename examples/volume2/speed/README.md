@@ -1,6 +1,6 @@
 # Speed (1994)
 
-1994
+Action, Adventure, Crime
 
 ## Il film in breve
 A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.

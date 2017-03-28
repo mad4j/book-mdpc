@@ -1,6 +1,6 @@
 # Spider-Man (2002)
 
-2002
+Action, Adventure
 
 ## Il film in breve
 When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.

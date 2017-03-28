@@ -1,6 +1,6 @@
 # The Social Network (2010)
 
-2010
+Biography, Drama
 
 ## Il film in breve
 Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.

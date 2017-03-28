@@ -1,6 +1,6 @@
 # Frankenstein (1931)
 
-1931
+Drama, Horror, Sci-Fi
 
 ## Il film in breve
 An obsessed scientist assembles a living being from parts of exhumed corpses.

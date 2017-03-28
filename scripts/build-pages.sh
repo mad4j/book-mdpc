@@ -48,14 +48,14 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
 
     # do not overwrite existing readme file
     if [ -f $OUTPUT_FILE ]; then
-        echo "[BUILDPAGES] skipping `basename $TMP` ..."
+#        echo "[BUILDPAGES] skipping `basename $TMP` ..."
         continue
     fi
 
 
     TITLE="`jq -r .Title $INFO_FILE`"
     YEAR="`jq -r .Year $INFO_FILE`"
-    GENRE="`jq -r .Year $INFO_FILE`"
+    GENRE="`jq -r .Genre $INFO_FILE`"
     URL="https://www.imdb.com/title/`jq -r .imdbID $INFO_FILE`/"
     DESCRIPTION="`jq -r .Plot $INFO_FILE`"
 

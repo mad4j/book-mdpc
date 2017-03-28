@@ -1,6 +1,6 @@
 # From Dusk Till Dawn (1996)
 
-1996
+Action, Crime, Horror
 
 ## Il film in breve
 Two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires, with chaotic results.

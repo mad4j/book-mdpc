@@ -1,6 +1,6 @@
 # Pixels (2015)
 
-2015
+Action, Comedy, Sci-Fi
 
 ## Il film in breve
 When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.

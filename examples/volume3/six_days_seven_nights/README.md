@@ -1,6 +1,6 @@
 # Six Days Seven Nights (1998)
 
-1998
+Action, Adventure, Comedy
 
 ## Il film in breve
 Robin Monroe, a New York magazine editor, and the gruff pilot Quinn Harris must put aside their mutual dislike if they are to survive after crash landing on a deserted South Seas island.

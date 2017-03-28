@@ -1,6 +1,6 @@
 # A Fistful of Dollars (1964)
 
-1964
+Western
 
 ## Il film in breve
 A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.

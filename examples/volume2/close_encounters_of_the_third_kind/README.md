@@ -1,6 +1,6 @@
 # Close Encounters of the Third Kind (1977)
 
-1977
+Drama, Sci-Fi
 
 ## Il film in breve
 After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.

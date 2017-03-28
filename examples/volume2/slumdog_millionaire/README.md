@@ -1,6 +1,6 @@
 # Slumdog Millionaire (2008)
 
-2008
+Drama
 
 ## Il film in breve
 A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"

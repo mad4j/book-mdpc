@@ -1,6 +1,6 @@
 # E.T. the Extra-Terrestrial (1982)
 
-1982
+Family, Sci-Fi
 
 ## Il film in breve
 A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.

@@ -1,6 +1,6 @@
 # Reservoir Dogs (1992)
 
-1992
+Crime, Drama, Thriller
 
 ## Il film in breve
 After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.

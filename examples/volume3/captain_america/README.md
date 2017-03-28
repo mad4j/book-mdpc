@@ -1,6 +1,6 @@
 # Captain America: The First Avenger (2011)
 
-2011
+Action, Adventure, Sci-Fi
 
 ## Il film in breve
 Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.

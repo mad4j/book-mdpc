@@ -1,6 +1,6 @@
 # Jaws (1975)
 
-1975
+Adventure, Drama, Thriller
 
 ## Il film in breve
 A giant great white shark arrives on the shores of a New England beach resort and wreaks havoc with bloody attacks on swimmers, until a part-time sheriff teams up with a marine biologist and an old seafarer to hunt the monster down.

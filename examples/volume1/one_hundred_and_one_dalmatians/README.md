@@ -1,6 +1,6 @@
 # 101 Dalmatians (1961)
 
-1961
+Animation, Adventure, Comedy
 
 ## Il film in breve
 When a litter of Dalmatian puppies are abducted by the minions of Cruella de Vil, the parents must find them before she uses them for a diabolical fashion statement.

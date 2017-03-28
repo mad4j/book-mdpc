@@ -1,6 +1,6 @@
 # The Thin Red Line (1998)
 
-1998
+Drama, War
 
 ## Il film in breve
 Terrence Malick's adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.

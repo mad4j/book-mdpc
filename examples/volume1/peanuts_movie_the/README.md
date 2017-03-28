@@ -1,6 +1,6 @@
 # The Peanuts Movie (2015)
 
-2015
+Animation, Adventure, Comedy
 
 ## Il film in breve
 Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.

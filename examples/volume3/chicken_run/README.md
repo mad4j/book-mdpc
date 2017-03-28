@@ -1,6 +1,6 @@
 # Chicken Run (2000)
 
-2000
+Animation, Adventure, Comedy
 
 ## Il film in breve
 When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.

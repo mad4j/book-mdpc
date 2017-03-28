@@ -1,6 +1,6 @@
 # The Black Hole (1979)
 
-1979
+Action, Sci-Fi
 
 ## Il film in breve
 A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.

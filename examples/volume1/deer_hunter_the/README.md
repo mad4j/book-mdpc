@@ -1,6 +1,6 @@
 # The Deer Hunter (1978)
 
-1978
+Drama, War
 
 ## Il film in breve
 An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.

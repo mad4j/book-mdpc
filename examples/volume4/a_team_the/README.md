@@ -1,6 +1,6 @@
 # The A-Team (2010)
 
-2010
+Action, Adventure, Comedy
 
 ## Il film in breve
 A group of Iraq War veterans looks to clear their name with the U.S. military, who suspect the four men of committing a crime for which they were framed.

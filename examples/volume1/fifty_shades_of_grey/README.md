@@ -1,6 +1,6 @@
 # Fifty Shades of Grey (2015)
 
-2015
+Drama, Romance, Thriller
 
 ## Il film in breve
 Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.

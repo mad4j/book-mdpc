@@ -1,6 +1,6 @@
 # Memento (2000)
 
-2000
+Mystery, Thriller
 
 ## Il film in breve
 A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.
