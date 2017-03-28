@@ -1,0 +1,36 @@
+{
+  "Title": "Cat's Eye",
+  "Year": "1985",
+  "Rated": "PG-13",
+  "Released": "12 Apr 1985",
+  "Runtime": "94 min",
+  "Genre": "Comedy, Horror, Thriller",
+  "Director": "Lewis Teague",
+  "Writer": "Stephen King (screenplay)",
+  "Actors": "Drew Barrymore, James Woods, Alan King, Kenneth McMillan",
+  "Plot": "A stray cat is the linking element of three tales of suspense and horror.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "2 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTA0MDliYzMtYTNhMS00MjkyLWExMGItYzY5MjFhOTNmZjRhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.2",
+  "imdbVotes": "17,444",
+  "imdbID": "tt0088889",
+  "Type": "movie",
+  "DVD": "01 Oct 2002",
+  "BoxOffice": "N/A",
+  "Production": "WARNER BROTHERS PICTURES",
+  "Website": "N/A",
+  "Response": "True"
+}
