@@ -1,6 +1,6 @@
 # American Beauty (1999)
 
-Drama, Romance
+Drammatico, Sentimentale
 
 ## Il film in breve
 A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.

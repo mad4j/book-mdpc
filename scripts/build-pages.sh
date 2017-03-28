@@ -8,8 +8,8 @@ INFO_FILE=info.json
 TEMPLATE_FILE=README.md.template
 OUTPUT_FILE=README.md
 
-echo "[BUILDPAGES] retrieve movie info from IMDB site ..."
-echo "          use -c or --cleanup to remove obsolete files"
+echo "[BUILDPAGES] building README files form downloaded movie infomration ..."
+echo "             use -c or --cleanup to remove obsolete files"
 
 # check for root folder
 
@@ -53,14 +53,35 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
     fi
 
 
+    # retrive page info form downloaded json file
     TITLE="`jq -r .Title $INFO_FILE`"
     YEAR="`jq -r .Year $INFO_FILE`"
     GENRE="`jq -r .Genre $INFO_FILE`"
     URL="https://www.imdb.com/title/`jq -r .imdbID $INFO_FILE`/"
     DESCRIPTION="`jq -r .Plot $INFO_FILE`"
 
+    # look for projec files
     SNIPPET=`ls *.pde`
     POSTER=`ls *.png`
+
+    # translate labels
+    GENRE="${GENRE/Comedy/Commedia}"
+    GENRE="${GENRE/Drama/Drammatico}"
+    GENRE="${GENRE/Adventure/Avventura}"
+    GENRE="${GENRE/Sci-Fi/Fantascienza}"
+    GENRE="${GENRE/Animation/Animazione}"
+    GENRE="${GENRE/War/Guerra}"
+    GENRE="${GENRE/Romance/Sentimentale}"
+    GENRE="${GENRE/Crime/Poliziesco}"
+    GENRE="${GENRE/Biography/Biografico}" 
+    GENRE="${GENRE/Family/Family}"
+    GENRE="${GENRE/Thriller/Thriller}"
+    GENRE="${GENRE/Horror/Horror}"
+    GENRE="${GENRE/Fantasy/Fantascico}"  
+    GENRE="${GENRE/Action/Azione}"
+    GENRE="${GENRE/History/Storico}"
+    GENRE="${GENRE/Sport/Sportivo}"
+    GENRE="${GENRE/Erotic/Erotico}" 
 
     echo "[BUILDPAGES] processing `basename $TMP` ..."
     

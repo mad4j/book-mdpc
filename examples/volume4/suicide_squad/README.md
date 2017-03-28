@@ -1,6 +1,6 @@
 # Suicide Squad (2016)
 
-Action, Adventure, Fantasy
+Azione, Avventura, Fantascico
 
 ## Il film in breve
 A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.

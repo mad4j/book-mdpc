@@ -1,6 +1,6 @@
 # Titanic (1997)
 
-Drama, Romance
+Drammatico, Sentimentale
 
 ## Il film in breve
 A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.

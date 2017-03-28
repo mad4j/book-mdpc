@@ -1,6 +1,6 @@
 # Escape from New York (1981)
 
-Action, Sci-Fi
+Azione, Fantascienza
 
 ## Il film in breve
 In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.

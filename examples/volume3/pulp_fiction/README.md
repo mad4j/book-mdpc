@@ -1,6 +1,6 @@
 # Pulp Fiction (1994)
 
-Crime, Drama
+Poliziesco, Drammatico
 
 ## Il film in breve
 The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.

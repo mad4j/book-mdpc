@@ -1,6 +1,6 @@
 # Entrapment (1999)
 
-Action, Crime, Romance
+Azione, Poliziesco, Sentimentale
 
 ## Il film in breve
 An insurance agent is sent by her employer to track down and help capture an art thief.

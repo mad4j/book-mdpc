@@ -1,6 +1,6 @@
 # The Love Bug (1968)
 
-Comedy, Family, Sport
+Commedia, Family, Sportivo
 
 ## Il film in breve
 A race car driver becomes a champion with a Volkswagen Beetle with a mind of its own.

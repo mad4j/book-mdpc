@@ -1,6 +1,6 @@
 # Speed Racer (2008)
 
-Action, Family, Sci-Fi
+Azione, Family, Fantascienza
 
 ## Il film in breve
 A young driver, Speed Racer, aspires to be champion of the racing world with the help of his family and his high-tech Mach 5 automobile.
