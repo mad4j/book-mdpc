@@ -1,14 +1,14 @@
-# batman (TBV)
+# Batman (1989)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0096895/)
 
 ## La locandina
-<img src="batman.png"  width="360px" title="batman">
+<img src="batman.png"  width="360px" title="Batman">
 
 
 ## Il codice

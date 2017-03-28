@@ -1,14 +1,14 @@
-# rush (TBV)
+# Rush (2013)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt1979320/)
 
 ## La locandina
-<img src="rush.png"  width="360px" title="rush">
+<img src="rush.png"  width="360px" title="Rush">
 
 
 ## Il codice

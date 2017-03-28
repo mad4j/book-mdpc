@@ -1,14 +1,14 @@
-# good_will_hunting (TBV)
+# Good Will Hunting (1997)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0119217/)
 
 ## La locandina
-<img src="good-will-hunting.png"  width="360px" title="good_will_hunting">
+<img src="good-will-hunting.png"  width="360px" title="Good Will Hunting">
 
 
 ## Il codice

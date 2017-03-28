@@ -1,14 +1,14 @@
-# black_hole_the (TBV)
+# The Black Hole (1979)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0078869/)
 
 ## La locandina
-<img src="the-black-hole.png"  width="360px" title="black_hole_the">
+<img src="the-black-hole.png"  width="360px" title="The Black Hole">
 
 
 ## Il codice

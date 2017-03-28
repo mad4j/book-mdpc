@@ -1,14 +1,14 @@
-# titanic (TBV)
+# Titanic (1997)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0120338/)
 
 ## La locandina
-<img src="titanic.png"  width="360px" title="titanic">
+<img src="titanic.png"  width="360px" title="Titanic">
 
 
 ## Il codice

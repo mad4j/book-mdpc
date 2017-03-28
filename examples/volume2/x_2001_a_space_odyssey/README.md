@@ -1,14 +1,14 @@
-# x_2001_a_space_odyssey (TBV)
+# 2001: A Space Odyssey (1968)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0062622/)
 
 ## La locandina
-<img src="2001-a-space-odyssey.png"  width="360px" title="x_2001_a_space_odyssey">
+<img src="2001-a-space-odyssey.png"  width="360px" title="2001: A Space Odyssey">
 
 
 ## Il codice

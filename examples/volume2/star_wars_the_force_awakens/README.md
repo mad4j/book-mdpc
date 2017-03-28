@@ -1,14 +1,14 @@
-# star_wars_the_force_awakens (TBV)
+# Star Wars: The Force Awakens (2015)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt2488496/)
 
 ## La locandina
-<img src="star-wars-the-force-awakens.png"  width="360px" title="star_wars_the_force_awakens">
+<img src="star-wars-the-force-awakens.png"  width="360px" title="Star Wars: The Force Awakens">
 
 
 ## Il codice

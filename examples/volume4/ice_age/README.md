@@ -1,14 +1,14 @@
-# ice_age (TBV)
+# Ice Age (2002)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0268380/)
 
 ## La locandina
-<img src="ice-age.png"  width="360px" title="ice_age">
+<img src="ice-age.png"  width="360px" title="Ice Age">
 
 
 ## Il codice

@@ -1,14 +1,14 @@
-# gandhi (TBV)
+# Gandhi (1982)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0083987/)
 
 ## La locandina
-<img src="gandhi.png"  width="360px" title="gandhi">
+<img src="gandhi.png"  width="360px" title="Gandhi">
 
 
 ## Il codice

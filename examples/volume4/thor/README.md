@@ -1,14 +1,14 @@
-# thor (TBV)
+# Thor (2011)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0800369/)
 
 ## La locandina
-<img src="thor.png"  width="360px" title="thor">
+<img src="thor.png"  width="360px" title="Thor">
 
 
 ## Il codice

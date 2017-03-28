@@ -1,14 +1,14 @@
-# Star Wars (TBV)
+# Star Wars: Episode IV - A New Hope (1977)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0076759/)
 
 ## La locandina
-<img src="star-wars.png"  width="360px" title="Star Wars">
+<img src="star-wars.png"  width="360px" title="Star Wars: Episode IV - A New Hope">
 
 
 ## Il codice

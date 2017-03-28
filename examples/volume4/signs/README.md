@@ -1,14 +1,14 @@
-# signs (TBV)
+# Signs (2002)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0286106/)
 
 ## La locandina
-<img src="signs.png"  width="360px" title="signs">
+<img src="signs.png"  width="360px" title="Signs">
 
 
 ## Il codice

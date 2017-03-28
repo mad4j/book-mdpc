@@ -1,14 +1,14 @@
-# bee_movie (TBV)
+# Bee Movie (2007)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0389790/)
 
 ## La locandina
-<img src="bee-movie.png"  width="360px" title="bee_movie">
+<img src="bee-movie.png"  width="360px" title="Bee Movie">
 
 
 ## Il codice

@@ -1,14 +1,14 @@
-# from_dusk_till_dawn (TBV)
+# From Dusk Till Dawn (1996)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0116367/)
 
 ## La locandina
-<img src="from-dusk-till-dawn.png"  width="360px" title="from_dusk_till_dawn">
+<img src="from-dusk-till-dawn.png"  width="360px" title="From Dusk Till Dawn">
 
 
 ## Il codice

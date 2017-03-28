@@ -1,14 +1,14 @@
-# jaws (TBV)
+# Jaws (1975)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0073195/)
 
 ## La locandina
-<img src="jaws.png"  width="360px" title="jaws">
+<img src="jaws.png"  width="360px" title="Jaws">
 
 
 ## Il codice

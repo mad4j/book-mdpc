@@ -1,14 +1,14 @@
-# pulp_fiction (TBV)
+# Pulp Fiction (1994)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0110912/)
 
 ## La locandina
-<img src="pulp-fiction.png"  width="360px" title="pulp_fiction">
+<img src="pulp-fiction.png"  width="360px" title="Pulp Fiction">
 
 
 ## Il codice

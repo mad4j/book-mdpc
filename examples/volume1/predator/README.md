@@ -1,11 +1,11 @@
-# Predator (TBV)
+# Predator (1987)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0093773/)
 
 ## La locandina
 <img src="predator.png"  width="360px" title="Predator">

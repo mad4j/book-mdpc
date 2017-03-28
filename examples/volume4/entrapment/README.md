@@ -1,14 +1,14 @@
-# entrapment (TBV)
+# Entrapment (1999)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0137494/)
 
 ## La locandina
-<img src="entrapment.png"  width="360px" title="entrapment">
+<img src="entrapment.png"  width="360px" title="Entrapment">
 
 
 ## Il codice

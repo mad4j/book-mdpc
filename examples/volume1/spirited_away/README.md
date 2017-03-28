@@ -1,14 +1,14 @@
-# Spirited away (TBV)
+# Spirited Away (2001)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0245429/)
 
 ## La locandina
-<img src="spirited-away.png"  width="360px" title="Spirited away">
+<img src="spirited-away.png"  width="360px" title="Spirited Away">
 
 
 ## Il codice

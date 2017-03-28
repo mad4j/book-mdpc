@@ -1,14 +1,14 @@
-# spiderman (TBV)
+# Spiderman (1990)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0100669/)
 
 ## La locandina
-<img src="spider-man.png"  width="360px" title="spiderman">
+<img src="spider-man.png"  width="360px" title="Spiderman">
 
 
 ## Il codice

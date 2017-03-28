@@ -1,14 +1,14 @@
-# speed (TBV)
+# Speed (1994)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0111257/)
 
 ## La locandina
-<img src="speed.png"  width="360px" title="speed">
+<img src="speed.png"  width="360px" title="Speed">
 
 
 ## Il codice

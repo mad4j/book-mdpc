@@ -1,11 +1,11 @@
-# Pretty Woman (TBV)
+# Pretty Woman (1990)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0100405/)
 
 ## La locandina
 <img src="pretty-woman.png"  width="360px" title="Pretty Woman">

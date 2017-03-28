@@ -1,14 +1,14 @@
-# creed (TBV)
+# Creed (2015)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt3076658/)
 
 ## La locandina
-<img src="creed.png"  width="360px" title="creed">
+<img src="creed.png"  width="360px" title="Creed">
 
 
 ## Il codice

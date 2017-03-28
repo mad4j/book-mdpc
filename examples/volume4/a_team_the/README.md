@@ -1,14 +1,14 @@
-# a_team_the (TBV)
+# The A-Team (2010)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0429493/)
 
 ## La locandina
-<img src="the-a-team.png"  width="360px" title="a_team_the">
+<img src="the-a-team.png"  width="360px" title="The A-Team">
 
 
 ## Il codice

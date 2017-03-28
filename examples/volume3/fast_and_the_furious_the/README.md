@@ -1,14 +1,14 @@
-# fast_and_the_furious_the (TBV)
+# The Fast and the Furious (2001)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0232500/)
 
 ## La locandina
-<img src="the-fast-and-the-furious.png"  width="360px" title="fast_and_the_furious_the">
+<img src="the-fast-and-the-furious.png"  width="360px" title="The Fast and the Furious">
 
 
 ## Il codice

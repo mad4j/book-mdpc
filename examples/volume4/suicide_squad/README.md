@@ -1,14 +1,14 @@
-# suicide_squad (TBV)
+# Suicide Squad (2016)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt1386697/)
 
 ## La locandina
-<img src="suicide-squad.png"  width="360px" title="suicide_squad">
+<img src="suicide-squad.png"  width="360px" title="Suicide Squad">
 
 
 ## Il codice

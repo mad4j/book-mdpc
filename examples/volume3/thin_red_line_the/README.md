@@ -1,14 +1,14 @@
-# thin_red_line_the (TBV)
+# The Thin Red Line (1998)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0120863/)
 
 ## La locandina
-<img src="the-thin-red-line.png"  width="360px" title="thin_red_line_the">
+<img src="the-thin-red-line.png"  width="360px" title="The Thin Red Line">
 
 
 ## Il codice

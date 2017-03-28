@@ -1,14 +1,14 @@
-# memento (TBV)
+# Memento (2000)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0209144/)
 
 ## La locandina
-<img src="memento.png"  width="360px" title="memento">
+<img src="memento.png"  width="360px" title="Memento">
 
 
 ## Il codice

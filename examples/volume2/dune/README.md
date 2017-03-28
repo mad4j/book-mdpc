@@ -1,14 +1,14 @@
-# dune (TBV)
+# Dune (1984)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0087182/)
 
 ## La locandina
-<img src="dune.png"  width="360px" title="dune">
+<img src="dune.png"  width="360px" title="Dune">
 
 
 ## Il codice

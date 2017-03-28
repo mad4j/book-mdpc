@@ -1,14 +1,14 @@
-# vertigo (TBV)
+# Vertigo (1958)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0052357/)
 
 ## La locandina
-<img src="vertigo.png"  width="360px" title="vertigo">
+<img src="vertigo.png"  width="360px" title="Vertigo">
 
 
 ## Il codice

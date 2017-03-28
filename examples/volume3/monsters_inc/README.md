@@ -1,14 +1,14 @@
-# monsters_inc (TBV)
+# Monsters, Inc. (2001)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0198781/)
 
 ## La locandina
-<img src="monsters-inc.png"  width="360px" title="monsters_inc">
+<img src="monsters-inc.png"  width="360px" title="Monsters, Inc.">
 
 
 ## Il codice

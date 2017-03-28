@@ -1,9 +1,9 @@
 # Coraline (2009)
 
-Animazione, Famiglia, Fantasy
+
 
 ## Il film in breve
-TBD
+TBV
 
 [dettagli](https://www.imdb.com/title/tt0327597/)
 

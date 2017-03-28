@@ -1,14 +1,14 @@
-# green_lantern (TBV)
+# Green Lantern (2011)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt1133985/)
 
 ## La locandina
-<img src="green-lantern.png"  width="360px" title="green_lantern">
+<img src="green-lantern.png"  width="360px" title="Green Lantern">
 
 
 ## Il codice

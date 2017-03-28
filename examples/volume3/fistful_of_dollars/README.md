@@ -1,14 +1,14 @@
-# fistful_of_dollars (TBV)
+# A Fistful of Dollars (1964)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0058461/)
 
 ## La locandina
-<img src="fistful-of-dollars.png"  width="360px" title="fistful_of_dollars">
+<img src="fistful-of-dollars.png"  width="360px" title="A Fistful of Dollars">
 
 
 ## Il codice

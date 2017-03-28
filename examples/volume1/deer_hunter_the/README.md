@@ -1,9 +1,9 @@
-# The Deer Hunter (1979)
+# The Deer Hunter (1978)
 
-Drammatico, Guerra
+
 
 ## Il film in breve
-TBD
+TBV
 
 [dettagli](https://www.imdb.com/title/tt0077416/)
 

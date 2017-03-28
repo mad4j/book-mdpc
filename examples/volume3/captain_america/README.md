@@ -1,14 +1,14 @@
-# captain_america (TBV)
+# Captain America: The First Avenger (2011)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0458339/)
 
 ## La locandina
-<img src="captain-america.png"  width="360px" title="captain_america">
+<img src="captain-america.png"  width="360px" title="Captain America: The First Avenger">
 
 
 ## Il codice

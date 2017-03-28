@@ -1,14 +1,14 @@
-# speed_racer (TBV)
+# Speed Racer (2008)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0811080/)
 
 ## La locandina
-<img src="speed-racer.png"  width="360px" title="speed_racer">
+<img src="speed-racer.png"  width="360px" title="Speed Racer">
 
 
 ## Il codice

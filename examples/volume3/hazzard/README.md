@@ -1,14 +1,14 @@
-# hazzard (TBV)
+# Hazzard (2012)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt2316697/)
 
 ## La locandina
-<img src="hazzard.png"  width="360px" title="hazzard">
+<img src="hazzard.png"  width="360px" title="Hazzard">
 
 
 ## Il codice

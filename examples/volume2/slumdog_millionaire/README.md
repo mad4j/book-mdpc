@@ -1,14 +1,14 @@
-# slumdog_millionaire (TBV)
+# Slumdog Millionaire (2008)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt1010048/)
 
 ## La locandina
-<img src="slumdog-millionaire.png"  width="360px" title="slumdog_millionaire">
+<img src="slumdog-millionaire.png"  width="360px" title="Slumdog Millionaire">
 
 
 ## Il codice

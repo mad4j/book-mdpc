@@ -1,11 +1,11 @@
-# The Social Network (TBV)
+# The Social Network (2010)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt1285016/)
 
 ## La locandina
 <img src="the-social-network.png"  width="360px" title="The Social Network">

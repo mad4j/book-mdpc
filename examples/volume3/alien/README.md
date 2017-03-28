@@ -1,14 +1,14 @@
-# alien (TBV)
+# Alien (1979)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0078748/)
 
 ## La locandina
-<img src="alien.png"  width="360px" title="alien">
+<img src="alien.png"  width="360px" title="Alien">
 
 
 ## Il codice

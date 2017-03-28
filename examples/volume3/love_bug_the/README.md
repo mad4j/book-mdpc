@@ -1,14 +1,14 @@
-# love_bug_the (TBV)
+# The Love Bug (1968)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0064603/)
 
 ## La locandina
-<img src="the-love-bug.png"  width="360px" title="love_bug_the">
+<img src="the-love-bug.png"  width="360px" title="The Love Bug">
 
 
 ## Il codice

@@ -1,9 +1,9 @@
 # Fifty Shades of Grey (2015)
 
-Drammatico, Romantico, Thriller
+
 
 ## Il film in breve
-Bella giovane ed inspiegabilemente ancora vergine, scopre che essere legata e corcata non rientra nella sua idea di romanticismo
+TBV
 
 [dettagli](https://www.imdb.com/title/tt2322441/)
 

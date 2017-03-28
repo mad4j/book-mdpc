@@ -1,14 +1,14 @@
-# tron (TBV)
+# TRON (1982)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0084827/)
 
 ## La locandina
-<img src="tron.png"  width="360px" title="tron">
+<img src="tron.png"  width="360px" title="TRON">
 
 
 ## Il codice

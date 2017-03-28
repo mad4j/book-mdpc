@@ -1,14 +1,14 @@
-# pixels (TBV)
+# Pixels (2015)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt2120120/)
 
 ## La locandina
-<img src="pixels.png"  width="360px" title="pixels">
+<img src="pixels.png"  width="360px" title="Pixels">
 
 
 ## Il codice

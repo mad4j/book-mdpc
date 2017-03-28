@@ -1,11 +1,11 @@
-# The Peanuts Movie (TBV)
+# The Peanuts Movie (2015)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt2452042/)
 
 ## La locandina
 <img src="the-peanuts-movie.png"  width="360px" title="The Peanuts Movie">

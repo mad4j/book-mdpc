@@ -1,11 +1,11 @@
 # Escape from New York (1981)
 
-Action, Sci-Fi
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0082340/)
 
 ## La locandina
 <img src="escape-from-new-york.png"  width="360px" title="Escape from New York">

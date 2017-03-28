@@ -1,14 +1,14 @@
-# frankenstein (TBV)
+# Frankenstein (1931)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0021884/)
 
 ## La locandina
-<img src="frankenstein.png"  width="360px" title="frankenstein">
+<img src="frankenstein.png"  width="360px" title="Frankenstein">
 
 
 ## Il codice

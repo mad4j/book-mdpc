@@ -1,11 +1,11 @@
-# Reservoir Dogs (TBV)
+# Reservoir Dogs (1992)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0105236/)
 
 ## La locandina
 <img src="reservoir-dogs.png"  width="360px" title="Reservoir Dogs">

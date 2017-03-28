@@ -1,12 +1,9 @@
----
----
-
 # Alice in Wonderland (1951)
 
-Animazione, Avventura
+
 
 ## Il film in breve
-Le ragazzine troppo curiose fanno strani incontri e rischiano di perdere la testa.
+TBV
 
 [dettagli](https://www.imdb.com/title/tt0043274/)
 

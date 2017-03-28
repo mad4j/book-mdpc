@@ -1,11 +1,11 @@
-# War Games (TBV)
+# War Games (2011)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt1543459/)
 
 ## La locandina
 <img src="war-games.png"  width="360px" title="War Games">

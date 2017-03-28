@@ -1,14 +1,14 @@
-# kill_bill (TBV)
+# Kill Bill: Vol. 1 (2003)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0266697/)
 
 ## La locandina
-<img src="kill-bill.png"  width="360px" title="kill_bill">
+<img src="kill-bill.png"  width="360px" title="Kill Bill: Vol. 1">
 
 
 ## Il codice

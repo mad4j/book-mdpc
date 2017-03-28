@@ -1,14 +1,14 @@
-# inside_out (TBV)
+# Inside Out (2015)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt2096673/)
 
 ## La locandina
-<img src="inside-out.png"  width="360px" title="inside_out">
+<img src="inside-out.png"  width="360px" title="Inside Out">
 
 
 ## Il codice

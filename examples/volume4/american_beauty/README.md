@@ -1,14 +1,14 @@
-# american_beauty (TBV)
+# American Beauty (1999)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0169547/)
 
 ## La locandina
-<img src="american-beauty.png"  width="360px" title="american_beauty">
+<img src="american-beauty.png"  width="360px" title="American Beauty">
 
 
 ## Il codice

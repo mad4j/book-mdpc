@@ -1,14 +1,14 @@
-# six_days_seven_nights (TBV)
+# Six Days Seven Nights (1998)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0120828/)
 
 ## La locandina
-<img src="six-days-seven-nights.png"  width="360px" title="six_days_seven_nights">
+<img src="six-days-seven-nights.png"  width="360px" title="Six Days Seven Nights">
 
 
 ## Il codice

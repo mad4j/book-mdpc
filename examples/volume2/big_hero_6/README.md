@@ -1,14 +1,14 @@
-# big_hero_6 (TBV)
+# Big Hero 6 (2014)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt2245084/)
 
 ## La locandina
-<img src="big-hero-6.png"  width="360px" title="big_hero_6">
+<img src="big-hero-6.png"  width="360px" title="Big Hero 6">
 
 
 ## Il codice

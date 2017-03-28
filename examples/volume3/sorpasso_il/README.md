@@ -1,14 +1,14 @@
-# sorpasso_il (TBV)
+# Il Sorpasso (1962)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0056512/)
 
 ## La locandina
-<img src="il-sorpasso.png"  width="360px" title="sorpasso_il">
+<img src="il-sorpasso.png"  width="360px" title="Il Sorpasso">
 
 
 ## Il codice

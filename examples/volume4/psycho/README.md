@@ -1,14 +1,14 @@
-# psycho (TBV)
+# Psycho (1960)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0054215/)
 
 ## La locandina
-<img src="psycho.png"  width="360px" title="psycho">
+<img src="psycho.png"  width="360px" title="Psycho">
 
 
 ## Il codice

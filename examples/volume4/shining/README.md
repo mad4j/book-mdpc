@@ -1,14 +1,14 @@
-# shining (TBV)
+# The Shining (1980)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0081505/)
 
 ## La locandina
-<img src="shining.png"  width="360px" title="shining">
+<img src="shining.png"  width="360px" title="The Shining">
 
 
 ## Il codice

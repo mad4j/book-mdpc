@@ -1,9 +1,9 @@
 # Cars (2006)
 
-Animazione, Avventura, Commedia
+
 
 ## Il film in breve
-TBD
+TBV
 
 [dettagli](https://www.imdb.com/title/tt0317219/)
 

@@ -1,14 +1,14 @@
-# birds_the (TBV)
+# The Birds (1963)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0056869/)
 
 ## La locandina
-<img src="the-birds.png"  width="360px" title="birds_the">
+<img src="the-birds.png"  width="360px" title="The Birds">
 
 
 ## Il codice

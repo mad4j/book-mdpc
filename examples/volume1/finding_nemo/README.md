@@ -1,9 +1,9 @@
 # Finding Nemo (2003)
 
-Animazione, Avventura, Commedia
+
 
 ## Il film in breve
-TBD
+TBV
 
 [dettagli](https://www.imdb.com/title/tt0266543/)
 

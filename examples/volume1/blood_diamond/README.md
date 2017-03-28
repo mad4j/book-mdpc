@@ -1,9 +1,9 @@
 # Blood Diamond (2006)
 
-Avventura, Drammatico, Thriller
+
 
 ## Il film in breve
-Un diamante senza prezzo rappresenta i sogni di chi vuole impadronirsene: salvezza, ricchezza, redenzione.
+TBV
 
 [dettagli](https://www.imdb.com/title/tt0450259/)
 

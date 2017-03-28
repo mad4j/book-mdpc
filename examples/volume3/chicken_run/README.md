@@ -1,14 +1,14 @@
-# chicken_run (TBV)
+# Chicken Run (2000)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0120630/)
 
 ## La locandina
-<img src="chicken-run.png"  width="360px" title="chicken_run">
+<img src="chicken-run.png"  width="360px" title="Chicken Run">
 
 
 ## Il codice

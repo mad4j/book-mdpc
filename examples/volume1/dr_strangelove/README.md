@@ -1,14 +1,14 @@
-# Dr. Strangelove (1964)
+# Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
 
-Commedia
+
 
 ## Il film in breve
-TBD
+TBV
 
 [dettagli](https://www.imdb.com/title/tt0057012/)
 
 ## La locandina
-<img src="dr-strangelove.png"  width="360px" title="Dr. Strangelove">
+<img src="dr-strangelove.png"  width="360px" title="Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb">
 
 
 ## Il codice

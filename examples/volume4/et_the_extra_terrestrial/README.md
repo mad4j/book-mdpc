@@ -1,14 +1,14 @@
-# et_the_extra_terrestrial (TBV)
+# E.T. the Extra-Terrestrial (1982)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0083866/)
 
 ## La locandina
-<img src="et-the-extra-terrestrial.png"  width="360px" title="et_the_extra_terrestrial">
+<img src="et-the-extra-terrestrial.png"  width="360px" title="E.T. the Extra-Terrestrial">
 
 
 ## Il codice

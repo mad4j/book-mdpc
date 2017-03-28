@@ -1,14 +1,14 @@
-# modern_times (TBV)
+# Modern Times (1936)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0027977/)
 
 ## La locandina
-<img src="modern-times.png"  width="360px" title="modern_times">
+<img src="modern-times.png"  width="360px" title="Modern Times">
 
 
 ## Il codice

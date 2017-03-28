@@ -1,14 +1,14 @@
-# labyrinth (TBV)
+# Labyrinth (1986)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0091369/)
 
 ## La locandina
-<img src="labyrinth.png"  width="360px" title="labyrinth">
+<img src="labyrinth.png"  width="360px" title="Labyrinth">
 
 
 ## Il codice

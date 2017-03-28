@@ -1,14 +1,14 @@
-# close_encounters_of_the_third_kind (TBV)
+# Close Encounters of the Third Kind (1977)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0075860/)
 
 ## La locandina
-<img src="close-encounters-of-the-third-kind.png"  width="360px" title="close_encounters_of_the_third_kind">
+<img src="close-encounters-of-the-third-kind.png"  width="360px" title="Close Encounters of the Third Kind">
 
 
 ## Il codice

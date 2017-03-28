@@ -1,14 +1,14 @@
-# stargate (TBV)
+# Stargate (1994)
 
-TBV
+
 
 ## Il film in breve
 TBV
 
-[dettagli](TBV)
+[dettagli](https://www.imdb.com/title/tt0111282/)
 
 ## La locandina
-<img src="stargate.png"  width="360px" title="stargate">
+<img src="stargate.png"  width="360px" title="Stargate">
 
 
 ## Il codice

@@ -1,11 +1,11 @@
 # Frozen (2013)
 
-Animazione, Avventura, Commedia
+
 
 ## Il film in breve
 TBV
 
-[dettagli](http://www.imdb.com/title/tt2294629/)
+[dettagli](https://www.imdb.com/title/tt2294629/)
 
 ## La locandina
 <img src="frozen.png"  width="360px" title="Frozen">
