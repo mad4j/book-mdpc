@@ -1,6 +1,6 @@
 # Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
 
-Comedy
+Commedia
 
 ## Il film in breve
 An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.

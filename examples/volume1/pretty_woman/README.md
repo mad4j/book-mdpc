@@ -1,6 +1,6 @@
 # Pretty Woman (1990)
 
-Comedy, Romance
+Commedia, Sentimentale
 
 ## Il film in breve
 A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.

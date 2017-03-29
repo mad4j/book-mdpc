@@ -1,6 +1,6 @@
 # Gandhi (1982)
 
-Biography, Drama, History
+Biografico, Drammatico, Storico
 
 ## Il film in breve
 Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.

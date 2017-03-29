@@ -1,6 +1,6 @@
 # Minions (2015)
 
-Animation, Action, Adventure
+Animazione, Azione, Avventura
 
 ## Il film in breve
 Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.

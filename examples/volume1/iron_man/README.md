@@ -1,6 +1,6 @@
 # Iron Man (2008)
 
-Action, Adventure, Sci-Fi
+Azione, Avventura, Fantascienza
 
 ## Il film in breve
 After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.

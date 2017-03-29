@@ -1,6 +1,6 @@
 # The Fifth Element (1997)
 
-Action, Adventure, Sci-Fi
+Azione, Avventura, Fantascienza
 
 ## Il film in breve
 In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr Zorg at bay.

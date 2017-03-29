@@ -1,6 +1,6 @@
 # Star Wars: Episode IV - A New Hope (1977)
 
-Action, Adventure, Fantasy
+Azione, Avventura, Fantascico
 
 ## Il film in breve
 Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.

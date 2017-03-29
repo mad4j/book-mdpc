@@ -1,6 +1,6 @@
 # Alien (1979)
 
-Horror, Sci-Fi
+Horror, Fantascienza
 
 ## Il film in breve
 After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious life-form, and soon realize that its life cycle has merely begun.

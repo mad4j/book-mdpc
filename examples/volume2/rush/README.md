@@ -1,6 +1,6 @@
 # Rush (2013)
 
-Action, Biography, Drama
+Azione, Biografico, Drammatico
 
 ## Il film in breve
 The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.

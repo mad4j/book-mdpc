@@ -1,6 +1,6 @@
 # Creed (2015)
 
-Drama, Sport
+Drammatico, Sportivo
 
 ## Il film in breve
 The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.

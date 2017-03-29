@@ -1,6 +1,6 @@
 # War Games (2011)
 
-Action, Horror, Thriller
+Azione, Horror, Thriller
 
 ## Il film in breve
 Seven friends travel to the countryside to play war in the woods. They stumble upon three paranoid and sadistic ex-soldiers.

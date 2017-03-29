@@ -1,6 +1,6 @@
 # 2001: A Space Odyssey (1968)
 
-Adventure, Sci-Fi
+Avventura, Fantascienza
 
 ## Il film in breve
 Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.

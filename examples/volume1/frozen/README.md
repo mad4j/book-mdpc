@@ -1,6 +1,6 @@
 # Frozen (2013)
 
-Animation, Adventure, Comedy
+Animazione, Avventura, Commedia
 
 ## Il film in breve
 When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.

@@ -1,6 +1,6 @@
 # Star Wars: The Force Awakens (2015)
 
-Action, Adventure, Fantasy
+Azione, Avventura, Fantascico
 
 ## Il film in breve
 Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.

@@ -1,6 +1,6 @@
 # Finding Nemo (2003)
 
-Animation, Adventure, Comedy
+Animazione, Avventura, Commedia
 
 ## Il film in breve
 After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.

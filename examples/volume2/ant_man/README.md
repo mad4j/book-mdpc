@@ -1,6 +1,6 @@
 # Ant-Man (2015)
 
-Action, Adventure, Comedy
+Azione, Avventura, Commedia
 
 ## Il film in breve
 Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.
