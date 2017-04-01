@@ -1,0 +1,40 @@
+{
+  "Title": "Charlie's Angels",
+  "Year": "2000",
+  "Rated": "PG-13",
+  "Released": "03 Nov 2000",
+  "Runtime": "98 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "McG",
+  "Writer": "Ryan Rowe, Ed Solomon, John August, Ivan Goff (TV series), Ben Roberts (TV series)",
+  "Actors": "Cameron Diaz, Drew Barrymore, Lucy Liu, Bill Murray",
+  "Plot": "Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.",
+  "Language": "English, German, Finnish, Japanese, Cantonese",
+  "Country": "USA, Germany",
+  "Awards": "13 wins & 27 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGI1NTM5MTItNDcxMS00YTIwLTg1NjUtNzE5ZGE5NDkxMmU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "5.5",
+  "imdbVotes": "149,639",
+  "imdbID": "tt0160127",
+  "Type": "movie",
+  "DVD": "11 Dec 2001",
+  "BoxOffice": "$124,420,707.00",
+  "Production": "Columbia Pictures",
+  "Website": "http://www.spe.sony.com/movies/jump/charliesangels.html",
+  "Response": "True"
+}
