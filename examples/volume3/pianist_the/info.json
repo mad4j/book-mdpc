@@ -1,0 +1,40 @@
+{
+  "Title": "The Pianist",
+  "Year": "2002",
+  "Rated": "R",
+  "Released": "28 Mar 2003",
+  "Runtime": "150 min",
+  "Genre": "Biography, Drama, War",
+  "Director": "Roman Polanski",
+  "Writer": "Ronald Harwood (screenplay), Wladyslaw Szpilman (book)",
+  "Actors": "Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard",
+  "Plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+  "Language": "English, German, Russian",
+  "Country": "France, Poland, Germany, UK",
+  "Awards": "Won 3 Oscars. Another 52 wins & 73 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "8.5",
+  "imdbVotes": "534,695",
+  "imdbID": "tt0253474",
+  "Type": "movie",
+  "DVD": "27 May 2003",
+  "BoxOffice": "$32,519,322.00",
+  "Production": "Focus Features",
+  "Website": "http://www.thepianistmovie.com/",
+  "Response": "True"
+}
