@@ -1,14 +1,14 @@
-# War Games (2011)
+# WarGames (1983)
 
-Azione, Horror, Thriller
+Fantascienza, Thriller
 
 ## Il film in breve
-Seven friends travel to the countryside to play war in the woods. They stumble upon three paranoid and sadistic ex-soldiers.
+A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
 
-[dettagli](https://www.imdb.com/title/tt1543459/)
+[dettagli](https://www.imdb.com/title/tt0086567/)
 
 ## La locandina
-<img src="war-games.png"  width="360px" title="War Games">
+<img src="war-games.png"  width="360px" title="WarGames">
 
 
 ## Il codice
