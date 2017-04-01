@@ -65,16 +65,16 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
     POSTER=`ls *.png`
 
     # translate labels
-    GENRE="${GENRE/Comedy/Commedia}"
-    GENRE="${GENRE/Drama/Drammatico}"
     GENRE="${GENRE/Adventure/Avventura}"
-    GENRE="${GENRE/Sci-Fi/Fantascienza}"
     GENRE="${GENRE/Animation/Animazione}"
-    GENRE="${GENRE/War/Guerra}"
-    GENRE="${GENRE/Romance/Sentimentale}"
+    GENRE="${GENRE/Biography/Biografico}"
+    GENRE="${GENRE/Comedy/Commedia}"
     GENRE="${GENRE/Crime/Poliziesco}"
-    GENRE="${GENRE/Biography/Biografico}" 
-    GENRE="${GENRE/Family/Family}"
+    GENRE="${GENRE/Drama/Drammatico}"
+    GENRE="${GENRE/Romance/Sentimentale}"
+    GENRE="${GENRE/Sci-Fi/Fantascienza}"
+    GENRE="${GENRE/War/Guerra}"
+    GENRE="${GENRE/Family/Ragazzi}"
     GENRE="${GENRE/Thriller/Thriller}"
     GENRE="${GENRE/Horror/Horror}"
     GENRE="${GENRE/Fantasy/Fantascico}"  

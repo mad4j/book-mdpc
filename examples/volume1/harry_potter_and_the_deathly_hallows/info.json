@@ -1,0 +1,40 @@
+{
+  "Title": "Harry Potter and the Deathly Hallows: Part 1",
+  "Year": "2010",
+  "Rated": "PG-13",
+  "Released": "19 Nov 2010",
+  "Runtime": "146 min",
+  "Genre": "Adventure, Family, Fantasy",
+  "Director": "David Yates",
+  "Writer": "Steve Kloves (screenplay), J.K. Rowling (novel)",
+  "Actors": "Bill Nighy, Emma Watson, Richard Griffiths, Harry Melling",
+  "Plot": "As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.",
+  "Language": "English",
+  "Country": "UK, USA",
+  "Awards": "Nominated for 2 Oscars. Another 16 wins & 51 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "7.7",
+  "imdbVotes": "351,164",
+  "imdbID": "tt0926084",
+  "Type": "movie",
+  "DVD": "15 Apr 2011",
+  "BoxOffice": "$294,980,434.00",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://www.HarryPotter.com/",
+  "Response": "True"
+}
