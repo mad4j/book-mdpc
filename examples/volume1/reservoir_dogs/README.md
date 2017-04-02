@@ -1,6 +1,6 @@
 # Reservoir Dogs (1992)
 
-Poliziesco, Drammatico, Thriller
+Poliziesco, Drammatico, Giallo
 
 ## Il film in breve
 After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.

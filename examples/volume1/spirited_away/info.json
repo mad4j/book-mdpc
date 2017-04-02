@@ -11,12 +11,30 @@
   "Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
   "Language": "Japanese",
   "Country": "Japan",
-  "Awards": "Won 1 Oscar. Another 54 wins & 24 nominations.",
-  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmU5OTQ0OWQtOTY0OS00Yjg4LWE1NDYtNDRhYWMxYWY4OTMwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Awards": "Won 1 Oscar. Another 56 wins & 26 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTM1NTg1Ml5BMl5BanBnXkFtZTgwOTgzMTMyMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
   "Metascore": "94",
   "imdbRating": "8.6",
-  "imdbVotes": "446,732",
+  "imdbVotes": "451,573",
   "imdbID": "tt0245429",
   "Type": "movie",
+  "DVD": "15 Apr 2003",
+  "BoxOffice": "$9,855,615.00",
+  "Production": "Walt Disney Pictures",
+  "Website": "http://bventertainment.go.com/movies/spiritedaway",
   "Response": "True"
 }

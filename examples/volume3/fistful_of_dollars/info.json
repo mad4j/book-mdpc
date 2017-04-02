@@ -13,10 +13,24 @@
   "Country": "Italy, Spain, West Germany",
   "Awards": "1 win & 1 nomination.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzODAxMzg1MzZeQTJeQWpwZ15BbWU3MDgwMzE5ODk@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "8.0",
   "imdbVotes": "156,050",
   "imdbID": "tt0058461",
   "Type": "movie",
+  "DVD": "19 Jun 2001",
+  "BoxOffice": "N/A",
+  "Production": "MGM Home Entertainment",
+  "Website": "N/A",
   "Response": "True"
 }

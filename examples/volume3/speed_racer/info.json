@@ -13,10 +13,28 @@
   "Country": "USA, Australia, Germany",
   "Awards": "13 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5MjgxMDE4OTVeQTJeQWpwZ15BbWU3MDgyNjc4NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
   "Metascore": "37",
   "imdbRating": "6.1",
   "imdbVotes": "59,401",
   "imdbID": "tt0811080",
   "Type": "movie",
+  "DVD": "16 Sep 2008",
+  "BoxOffice": "$43,929,341.00",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://speedracerthemovie.warnerbros.com/",
   "Response": "True"
 }

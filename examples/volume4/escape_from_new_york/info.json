@@ -13,10 +13,24 @@
   "Country": "UK, USA",
   "Awards": "4 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "7.2",
   "imdbVotes": "95,689",
   "imdbID": "tt0082340",
   "Type": "movie",
+  "DVD": "21 Nov 2000",
+  "BoxOffice": "N/A",
+  "Production": "MGM Home Entertainment",
+  "Website": "N/A",
   "Response": "True"
 }

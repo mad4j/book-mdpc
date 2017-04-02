@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 1 Oscar. Another 48 wins & 64 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
   "Metascore": "90",
   "imdbRating": "8.1",
   "imdbVotes": "740,498",
   "imdbID": "tt0266543",
   "Type": "movie",
+  "DVD": "07 May 2013",
+  "BoxOffice": "$380,529,370.00",
+  "Production": "Walt Disney Pictures",
+  "Website": "http://disney.go.com/disneyvideos/animatedfilms/findingnemo/index2.html",
   "Response": "True"
 }

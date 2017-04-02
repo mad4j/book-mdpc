@@ -13,10 +13,24 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 3 wins & 5 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "7.7",
-  "imdbVotes": "134,014",
+  "imdbVotes": "135,488",
   "imdbID": "tt0056869",
   "Type": "movie",
+  "DVD": "28 Mar 2000",
+  "BoxOffice": "N/A",
+  "Production": "Universal Pictures",
+  "Website": "N/A",
   "Response": "True"
 }

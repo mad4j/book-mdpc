@@ -13,10 +13,28 @@
   "Country": "UK, USA, France",
   "Awards": "Nominated for 1 Golden Globe. Another 23 wins & 26 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2UyYjFkNzAtYzIyMC00MGI1LTlkNDktNzUyOGQ5NTI2ZGFjXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
   "Metascore": "88",
   "imdbRating": "7.0",
-  "imdbVotes": "144,884",
+  "imdbVotes": "146,190",
   "imdbID": "tt0120630",
   "Type": "movie",
+  "DVD": "21 Nov 2000",
+  "BoxOffice": "$106,604,314.00",
+  "Production": "Dreamworks Pictures",
+  "Website": "http://www.reel.com/reel.asp?node=chickenrun",
   "Response": "True"
 }

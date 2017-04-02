@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 5 Oscars. Another 51 wins & 112 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
   "Metascore": "81",
   "imdbRating": "8.1",
   "imdbVotes": "643,416",
   "imdbID": "tt2488496",
   "Type": "movie",
+  "DVD": "05 Apr 2016",
+  "BoxOffice": "$936,658,640.00",
+  "Production": "Walt Disney Pictures",
+  "Website": "http://starwars.com/",
   "Response": "True"
 }

@@ -1,6 +1,6 @@
 # Coraline (2009)
 
-Animazione, Family, Fantascico
+Animazione, Ragazzi, Fantascico
 
 ## Il film in breve
 An adventurous girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.

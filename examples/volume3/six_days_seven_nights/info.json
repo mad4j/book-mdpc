@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "2 wins & 5 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDgwYzNlMjYtNjQxMy00NjQxLWJiMTItNjkzZTQ0ZTZiMTcyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
   "Metascore": "51",
   "imdbRating": "5.8",
   "imdbVotes": "62,481",
   "imdbID": "tt0120828",
   "Type": "movie",
+  "DVD": "08 Dec 1998",
+  "BoxOffice": "N/A",
+  "Production": "Disney",
+  "Website": "N/A",
   "Response": "True"
 }

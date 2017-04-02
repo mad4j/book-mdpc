@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 8 wins & 10 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
   "Metascore": "51",
   "imdbRating": "6.9",
   "imdbVotes": "224,992",
   "imdbID": "tt0100405",
   "Type": "movie",
+  "DVD": "19 May 1998",
+  "BoxOffice": "N/A",
+  "Production": "Buena Vista",
+  "Website": "N/A",
   "Response": "True"
 }

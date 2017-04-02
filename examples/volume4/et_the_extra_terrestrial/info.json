@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 4 Oscars. Another 47 wins & 32 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
   "Metascore": "91",
   "imdbRating": "7.9",
   "imdbVotes": "295,306",
   "imdbID": "tt0083866",
   "Type": "movie",
+  "DVD": "22 Oct 2002",
+  "BoxOffice": "N/A",
+  "Production": "Universal Pictures",
+  "Website": "http://www.et20.com/",
   "Response": "True"
 }

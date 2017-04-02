@@ -13,10 +13,24 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 2 wins & 4 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwNTU3Njk5N15BMl5BanBnXkFtZTgwMzUyMDI3NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "57%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "6.6",
-  "imdbVotes": "99,892",
+  "imdbVotes": "100,385",
   "imdbID": "tt0087182",
   "Type": "movie",
+  "DVD": "16 Mar 1998",
+  "BoxOffice": "N/A",
+  "Production": "MCA Universal Home Video",
+  "Website": "N/A",
   "Response": "True"
 }

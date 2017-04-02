@@ -13,10 +13,24 @@
   "Country": "Germany",
   "Awards": "2 wins.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNjA5NzU5MV5BMl5BanBnXkFtZTgwMDk1MTA5MTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "8.4",
-  "imdbVotes": "103,868",
+  "imdbVotes": "104,893",
   "imdbID": "tt0022100",
   "Type": "movie",
+  "DVD": "20 Oct 1998",
+  "BoxOffice": "$17,599.00",
+  "Production": "Foremco",
+  "Website": "N/A",
   "Response": "True"
 }

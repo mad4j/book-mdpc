@@ -13,10 +13,24 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 1 nomination.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODY1ZDAzNjQtMWU5YS00NzYxLTk3MDQtYTI5MDRkMjgyNmMxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "7.4",
   "imdbVotes": "100,447",
   "imdbID": "tt0043274",
   "Type": "movie",
+  "DVD": "01 Feb 2011",
+  "BoxOffice": "N/A",
+  "Production": "Film Chest",
+  "Website": "N/A",
   "Response": "True"
 }

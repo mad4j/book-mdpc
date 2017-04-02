@@ -1,6 +1,6 @@
 # The Fast and the Furious (2001)
 
-Azione, Poliziesco, Thriller
+Azione, Poliziesco, Giallo
 
 ## Il film in breve
 Los Angeles police officer Brian O'Connor must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.

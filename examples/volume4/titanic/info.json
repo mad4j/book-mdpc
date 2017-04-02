@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 11 Oscars. Another 110 wins & 74 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
   "Metascore": "74",
   "imdbRating": "7.7",
   "imdbVotes": "833,953",
   "imdbID": "tt0120338",
   "Type": "movie",
+  "DVD": "10 Sep 2012",
+  "BoxOffice": "N/A",
+  "Production": "Paramount Pictures",
+  "Website": "http://www.titanicmovie.com/",
   "Response": "True"
 }

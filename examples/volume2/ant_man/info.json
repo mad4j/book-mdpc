@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 BAFTA Film Award. Another 3 wins & 29 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
   "Metascore": "64",
   "imdbRating": "7.3",
   "imdbVotes": "358,276",
   "imdbID": "tt0478970",
   "Type": "movie",
+  "DVD": "08 Dec 2015",
+  "BoxOffice": "$138,002,223.00",
+  "Production": "Disney/Marvel",
+  "Website": "http://www.facebook.com/antman",
   "Response": "True"
 }

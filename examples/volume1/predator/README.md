@@ -1,6 +1,6 @@
 # Predator (1987)
 
-Azione, Fantascienza, Thriller
+Azione, Fantascienza, Giallo
 
 ## Il film in breve
 A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.

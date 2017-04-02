@@ -1,6 +1,6 @@
 # Cat's Eye (1985)
 
-Commedia, Horror, Thriller
+Commedia, Orrore, Giallo
 
 ## Il film in breve
 A stray cat is the linking element of three tales of suspense and horror.

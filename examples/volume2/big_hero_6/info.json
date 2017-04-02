@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 1 Oscar. Another 13 wins & 54 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
   "Metascore": "74",
   "imdbRating": "7.8",
   "imdbVotes": "304,085",
   "imdbID": "tt2245084",
   "Type": "movie",
+  "DVD": "24 Feb 2015",
+  "BoxOffice": "N/A",
+  "Production": "Walt Disney Pictures",
+  "Website": "http://www.disney.com/BigHero6",
   "Response": "True"
 }

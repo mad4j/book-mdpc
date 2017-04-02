@@ -1,6 +1,6 @@
 # WarGames (1983)
 
-Fantascienza, Thriller
+Fantascienza, Giallo
 
 ## Il film in breve
 A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.

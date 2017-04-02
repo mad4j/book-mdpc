@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 5 wins & 30 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
   "Metascore": "60",
   "imdbRating": "7.6",
   "imdbVotes": "342,988",
   "imdbID": "tt0268380",
   "Type": "movie",
+  "DVD": "26 Nov 2002",
+  "BoxOffice": "$176,400,000.00",
+  "Production": "20th Century Fox",
+  "Website": "http://www.iceagemovie.com",
   "Response": "True"
 }

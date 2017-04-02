@@ -1,0 +1,40 @@
+{
+  "Title": "The Little Prince",
+  "Year": "2015",
+  "Rated": "PG",
+  "Released": "05 Aug 2016",
+  "Runtime": "108 min",
+  "Genre": "Animation, Adventure, Drama",
+  "Director": "Mark Osborne",
+  "Writer": "Irena Brignull (screenplay), Bob Persichetti (screenplay), Antoine de Saint-Exupéry (novel)",
+  "Actors": "Jeff Bridges, Mackenzie Foy, Rachel McAdams, Marion Cotillard",
+  "Plot": "A little girl lives in a very grown-up world with her mother, who tries to prepare her for it. Her neighbor, the Aviator, introduces the girl to an extraordinary world where anything is possible, the world of the Little Prince.",
+  "Language": "English, French",
+  "Country": "France",
+  "Awards": "3 wins & 9 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzY4MDA2NjM2NV5BMl5BanBnXkFtZTgwOTcwODM2OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "Metascore": "70",
+  "imdbRating": "7.8",
+  "imdbVotes": "38,336",
+  "imdbID": "tt1754656",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "Netflix",
+  "Website": "http://www.thelittleprincemovie.com/",
+  "Response": "True"
+}

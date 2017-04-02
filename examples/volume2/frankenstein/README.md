@@ -1,6 +1,6 @@
 # Frankenstein (1931)
 
-Drammatico, Horror, Fantascienza
+Drammatico, Orrore, Fantascienza
 
 ## Il film in breve
 An obsessed scientist assembles a living being from parts of exhumed corpses.

@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 5 Oscars. Another 103 wins & 96 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4NTI5NzYyNV5BMl5BanBnXkFtZTgwNTkxNTYxMTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
   "Metascore": "86",
   "imdbRating": "8.4",
   "imdbVotes": "864,148",
   "imdbID": "tt0169547",
   "Type": "movie",
+  "DVD": "02 Jan 2002",
+  "BoxOffice": "N/A",
+  "Production": "Dream Works",
+  "Website": "http://www.amazon.com/exec/obidos/subst/video/misc/dreamworks/american-beauty/ab-home.html/002-3821383-4244813",
   "Response": "True"
 }

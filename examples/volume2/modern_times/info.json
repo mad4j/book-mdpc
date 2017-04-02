@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "4 wins & 1 nomination.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
   "Metascore": "96",
   "imdbRating": "8.5",
   "imdbVotes": "153,714",
   "imdbID": "tt0027977",
   "Type": "movie",
+  "DVD": "23 Aug 2010",
+  "BoxOffice": "N/A",
+  "Production": "United Artists",
+  "Website": "http://www.kino.com/moderntimes",
   "Response": "True"
 }

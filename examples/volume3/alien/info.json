@@ -13,10 +13,28 @@
   "Country": "UK, USA",
   "Awards": "Won 1 Oscar. Another 16 wins & 19 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
   "Metascore": "83",
   "imdbRating": "8.5",
   "imdbVotes": "598,591",
   "imdbID": "tt0078748",
   "Type": "movie",
+  "DVD": "06 Jan 2004",
+  "BoxOffice": "N/A",
+  "Production": "20th Century Fox",
+  "Website": "http://www.foxmovies.com/index1.html",
   "Response": "True"
 }

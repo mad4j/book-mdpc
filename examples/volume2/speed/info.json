@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 2 Oscars. Another 16 wins & 19 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjc0MjYyN2EtZGRhMy00NzJiLWI2Y2QtYzhiYTU3NzAxNzg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
   "Metascore": "78",
   "imdbRating": "7.2",
   "imdbVotes": "270,703",
   "imdbID": "tt0111257",
   "Type": "movie",
+  "DVD": "03 Nov 1998",
+  "BoxOffice": "N/A",
+  "Production": "20th Century Fox",
+  "Website": "http://www.foxhome.com/speed/index_frames.html",
   "Response": "True"
 }

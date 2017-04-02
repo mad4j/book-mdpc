@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "4 wins & 9 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjk3YmZhMDAtOWUzMS00YjE5LTkxNzAtY2I1NGZjMDA2ZTk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
   "Metascore": "52",
   "imdbRating": "7.3",
   "imdbVotes": "228,277",
   "imdbID": "tt0116367",
   "Type": "movie",
+  "DVD": "15 Jun 1998",
+  "BoxOffice": "N/A",
+  "Production": "Dimension Films",
+  "Website": "N/A",
   "Response": "True"
 }

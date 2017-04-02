@@ -13,10 +13,24 @@
   "Country": "USA",
   "Awards": "Nominated for 2 Oscars. Another 8 wins & 4 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "8.4",
-  "imdbVotes": "263,013",
+  "imdbVotes": "265,410",
   "imdbID": "tt0052357",
   "Type": "movie",
+  "DVD": "31 Mar 1998",
+  "BoxOffice": "N/A",
+  "Production": "Paramount Pictures",
+  "Website": "N/A",
   "Response": "True"
 }

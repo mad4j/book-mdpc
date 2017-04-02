@@ -13,10 +13,28 @@
   "Country": "USA, UK",
   "Awards": "Nominated for 4 Oscars. Another 13 wins & 6 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkxYjUxNDYtZGY0My00NTc2LThiZmYtNmNmNmU0NGVkZWYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
   "Metascore": "96",
   "imdbRating": "8.5",
   "imdbVotes": "360,051",
   "imdbID": "tt0057012",
   "Type": "movie",
+  "DVD": "02 Nov 2004",
+  "BoxOffice": "N/A",
+  "Production": "Sony Pictures",
+  "Website": "N/A",
   "Response": "True"
 }

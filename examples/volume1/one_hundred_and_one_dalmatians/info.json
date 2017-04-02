@@ -13,10 +13,24 @@
   "Country": "USA",
   "Awards": "Won 1 BAFTA Film Award. Another 2 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGMyMjE4OGUtNGZmMC00YzdmLThkMWYtZWIzMmEzNjA4MzVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "7.2",
   "imdbVotes": "117,978",
   "imdbID": "tt0055254",
   "Type": "movie",
+  "DVD": "04 Mar 2008",
+  "BoxOffice": "N/A",
+  "Production": "Buena Vista",
+  "Website": "http://disney.go.com/disneyvideos/animatedfilms/101/Index.html",
   "Response": "True"
 }

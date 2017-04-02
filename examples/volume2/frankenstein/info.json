@@ -13,10 +13,24 @@
   "Country": "USA",
   "Awards": "3 wins & 3 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWM3MjliNGUtNmJjMi00ZjFmLWEyYWItZGVjNmUyMGQ2MDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "7.9",
   "imdbVotes": "50,701",
   "imdbID": "tt0021884",
   "Type": "movie",
+  "DVD": "28 Aug 2001",
+  "BoxOffice": "N/A",
+  "Production": "Universal Pictures Company",
+  "Website": "N/A",
   "Response": "True"
 }

@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 1 Oscar. Another 11 wins & 28 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "26%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
   "Metascore": "40",
   "imdbRating": "6.3",
   "imdbVotes": "366,780",
   "imdbID": "tt1386697",
   "Type": "movie",
+  "DVD": "13 Dec 2016",
+  "BoxOffice": "$325,021,779.00",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://www.suicidesquad.com/",
   "Response": "True"
 }

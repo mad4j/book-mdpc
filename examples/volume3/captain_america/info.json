@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "3 wins & 43 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "8%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
   "Metascore": "66",
   "imdbRating": "6.9",
   "imdbVotes": "539,921",
   "imdbID": "tt0458339",
   "Type": "movie",
+  "DVD": "22 Jul 1992",
+  "BoxOffice": "N/A",
+  "Production": "Paramount",
+  "Website": "N/A",
   "Response": "True"
 }

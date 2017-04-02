@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 1 Oscar. Another 13 wins & 37 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
   "Metascore": "92",
   "imdbRating": "7.7",
   "imdbVotes": "145,332",
   "imdbID": "tt0075860",
   "Type": "movie",
+  "DVD": "13 Nov 2007",
+  "BoxOffice": "N/A",
+  "Production": "Sony Pictures Releasing",
+  "Website": "N/A",
   "Response": "True"
 }

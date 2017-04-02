@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 2 Oscars. Another 19 wins & 61 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
   "Metascore": "79",
   "imdbRating": "7.9",
   "imdbVotes": "729,172",
   "imdbID": "tt0371746",
   "Type": "movie",
+  "DVD": "30 Sep 2008",
+  "BoxOffice": "$318,298,180.00",
+  "Production": "Paramount Pictures",
+  "Website": "http://www.ironmanmovie.com/",
   "Response": "True"
 }

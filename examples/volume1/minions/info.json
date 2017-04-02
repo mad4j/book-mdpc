@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 BAFTA Film Award. Another 1 win & 18 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
   "Metascore": "56",
   "imdbRating": "6.4",
   "imdbVotes": "156,540",
   "imdbID": "tt2293640",
   "Type": "movie",
+  "DVD": "08 Dec 2015",
+  "BoxOffice": "$277,969,969.00",
+  "Production": "Universal Pictures",
+  "Website": "http://www.minionsmovie.com/",
   "Response": "True"
 }

@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 7 wins & 41 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
   "Metascore": "80",
   "imdbRating": "7.7",
   "imdbVotes": "153,644",
   "imdbID": "tt0327597",
   "Type": "movie",
+  "DVD": "21 Jul 2009",
+  "BoxOffice": "$75,169,351.00",
+  "Production": "Focus Features",
+  "Website": "http://www.coraline.com/",
   "Response": "True"
 }

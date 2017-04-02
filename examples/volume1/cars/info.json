@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 2 Oscars. Another 27 wins & 28 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
   "Metascore": "73",
   "imdbRating": "7.1",
   "imdbVotes": "278,257",
   "imdbID": "tt0317219",
   "Type": "movie",
+  "DVD": "07 Nov 2006",
+  "BoxOffice": "$244,052,771.00",
+  "Production": "Buena Vista",
+  "Website": "http://www.carsthemovie.com",
   "Response": "True"
 }

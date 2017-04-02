@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "3 wins & 30 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDUwMDUyMDAyNF5BMl5BanBnXkFtZTYwMDQ3NzM3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
   "Metascore": "59",
   "imdbRating": "6.7",
   "imdbVotes": "283,260",
   "imdbID": "tt0286106",
   "Type": "movie",
+  "DVD": "07 Jan 2003",
+  "BoxOffice": "$227,935,522.00",
+  "Production": "Buena Vista Distribution Compa",
+  "Website": "http://bventertainment.go.com/movies/signs/index.html",
   "Response": "True"
 }

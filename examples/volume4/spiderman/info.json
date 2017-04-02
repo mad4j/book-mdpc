@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 2 Oscars. Another 14 wins & 56 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk3MTE5MDU5NV5BMl5BanBnXkFtZTYwMjY3NTY3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
   "Metascore": "73",
   "imdbRating": "7.3",
   "imdbVotes": "568,088",
   "imdbID": "tt0145487",
   "Type": "movie",
+  "DVD": "01 Nov 2002",
+  "BoxOffice": "$403,706,375.00",
+  "Production": "Columbia Pictures",
+  "Website": "http://spiderman.sonypictures.com/",
   "Response": "True"
 }

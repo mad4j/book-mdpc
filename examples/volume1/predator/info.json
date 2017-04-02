@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 3 wins & 4 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2QwYmFmZTEtNzY2Mi00ZWMyLWEwY2YtMGIyNGZjMWExOWEyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
   "Metascore": "36",
   "imdbRating": "7.8",
   "imdbVotes": "301,666",
   "imdbID": "tt0093773",
   "Type": "movie",
+  "DVD": "26 Dec 2000",
+  "BoxOffice": "N/A",
+  "Production": "20th Century Fox",
+  "Website": "N/A",
   "Response": "True"
 }

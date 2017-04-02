@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 6 Oscars. Another 50 wins & 28 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
   "Metascore": "92",
   "imdbRating": "8.7",
   "imdbVotes": "963,318",
   "imdbID": "tt0076759",
   "Type": "movie",
+  "DVD": "21 Sep 2004",
+  "BoxOffice": "N/A",
+  "Production": "20th Century Fox",
+  "Website": "http://www.starwars.com/episode-iv/",
   "Response": "True"
 }

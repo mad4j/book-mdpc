@@ -13,10 +13,28 @@
   "Country": "UK, Germany, USA",
   "Awards": "Nominated for 2 Golden Globes. Another 6 wins & 58 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
   "Metascore": "75",
   "imdbRating": "8.1",
   "imdbVotes": "332,908",
   "imdbID": "tt1979320",
   "Type": "movie",
+  "DVD": "28 Jan 2014",
+  "BoxOffice": "$22,442,876.00",
+  "Production": "Universal Pictures",
+  "Website": "http://www.rushmovie.com/",
   "Response": "True"
 }

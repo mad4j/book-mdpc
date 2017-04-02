@@ -1,6 +1,6 @@
 # Gattaca (1997)
 
-Drammatico, Fantascienza, Thriller
+Drammatico, Fantascienza, Giallo
 
 ## Il film in breve
 A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.

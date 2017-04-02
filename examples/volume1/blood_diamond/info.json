@@ -13,10 +13,28 @@
   "Country": "Germany, USA",
   "Awards": "Nominated for 5 Oscars. Another 8 wins & 26 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MTYyNjkwNV5BMl5BanBnXkFtZTcwODE3MTI0MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "62%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
   "Metascore": "64",
   "imdbRating": "8.0",
   "imdbVotes": "416,694",
   "imdbID": "tt0450259",
   "Type": "movie",
+  "DVD": "20 Mar 2007",
+  "BoxOffice": "$57,300,000.00",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://www.blooddiamondmovie.com/",
   "Response": "True"
 }

@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Golden Globe. Another 27 wins & 98 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDg1Mzg4M15BMl5BanBnXkFtZTYwMDExOTc3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
   "Metascore": "69",
   "imdbRating": "8.1",
   "imdbVotes": "777,625",
   "imdbID": "tt0266697",
   "Type": "movie",
+  "DVD": "13 Apr 2004",
+  "BoxOffice": "N/A",
+  "Production": "Miramax Films",
+  "Website": "http://www.kill-bill.com/",
   "Response": "True"
 }

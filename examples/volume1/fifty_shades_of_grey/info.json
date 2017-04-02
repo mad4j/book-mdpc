@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 9 wins & 23 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "25%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
   "Metascore": "46",
   "imdbRating": "4.1",
   "imdbVotes": "240,335",
   "imdbID": "tt2322441",
   "Type": "movie",
+  "DVD": "08 May 2015",
+  "BoxOffice": "$189,859,585.00",
+  "Production": "Focus Features",
+  "Website": "http://www.fiftyshadesmovie.com/",
   "Response": "True"
 }

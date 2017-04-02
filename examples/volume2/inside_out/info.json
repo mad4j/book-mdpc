@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 1 Oscar. Another 91 wins & 95 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
   "Metascore": "94",
   "imdbRating": "8.2",
   "imdbVotes": "403,239",
   "imdbID": "tt2096673",
   "Type": "movie",
+  "DVD": "03 Nov 2015",
+  "BoxOffice": "$264,317,903.00",
+  "Production": "Disney/Pixar",
+  "Website": "https://www.facebook.com/PixarInsideOut",
   "Response": "True"
 }

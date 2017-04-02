@@ -13,10 +13,28 @@
   "Country": "UK, USA",
   "Awards": "3 wins & 5 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
   "Metascore": "61",
   "imdbRating": "8.4",
   "imdbVotes": "650,049",
   "imdbID": "tt0081505",
   "Type": "movie",
+  "DVD": "29 Jun 1999",
+  "BoxOffice": "N/A",
+  "Production": "Warner Bros. Pictures",
+  "Website": "N/A",
   "Response": "True"
 }

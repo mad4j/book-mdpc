@@ -1,6 +1,6 @@
 # Alice in Wonderland (1951)
 
-Animazione, Avventura, Family
+Animazione, Avventura, Ragazzi
 
 ## Il film in breve
 Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.

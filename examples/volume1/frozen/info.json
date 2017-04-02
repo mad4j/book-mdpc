@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 2 Oscars. Another 74 wins & 57 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
   "Metascore": "74",
   "imdbRating": "7.5",
   "imdbVotes": "445,962",
   "imdbID": "tt2294629",
   "Type": "movie",
+  "DVD": "18 Mar 2014",
+  "BoxOffice": "$400,736,600.00",
+  "Production": "Walt Disney Pictures",
+  "Website": "http://www.disney.com/frozen",
   "Response": "True"
 }

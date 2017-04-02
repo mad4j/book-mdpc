@@ -1,0 +1,40 @@
+{
+  "Title": "Men in Black",
+  "Year": "1997",
+  "Rated": "PG-13",
+  "Released": "02 Jul 1997",
+  "Runtime": "98 min",
+  "Genre": "Adventure, Comedy, Family",
+  "Director": "Barry Sonnenfeld",
+  "Writer": "Lowell Cunningham (comic), Ed Solomon (screen story), Ed Solomon (screenplay)",
+  "Actors": "Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio",
+  "Plot": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+  "Language": "English, Spanish",
+  "Country": "USA",
+  "Awards": "Won 1 Oscar. Another 18 wins & 39 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA2MzI5Nzc0N15BMl5BanBnXkFtZTcwODE2NDU2MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "Metascore": "71",
+  "imdbRating": "7.3",
+  "imdbVotes": "422,007",
+  "imdbID": "tt0119654",
+  "Type": "movie",
+  "DVD": "23 Oct 1997",
+  "BoxOffice": "N/A",
+  "Production": "Columbia TriStar International",
+  "Website": "N/A",
+  "Response": "True"
+}

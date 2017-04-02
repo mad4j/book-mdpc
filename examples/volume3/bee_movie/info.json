@@ -13,10 +13,28 @@
   "Country": "USA, Australia",
   "Awards": "Nominated for 1 Golden Globe. Another 1 win & 14 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
   "Metascore": "54",
   "imdbRating": "6.2",
   "imdbVotes": "111,053",
   "imdbID": "tt0389790",
   "Type": "movie",
+  "DVD": "11 Mar 2008",
+  "BoxOffice": "$126,597,121.00",
+  "Production": "Paramount Pictures",
+  "Website": "http://www.BeeMovie.com/",
   "Response": "True"
 }

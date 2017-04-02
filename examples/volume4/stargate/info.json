@@ -13,10 +13,28 @@
   "Country": "France, USA",
   "Awards": "6 wins & 6 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWEyYTQzNzQtZTg5OS00NDhkLTg1NjYtMzA5Y2MyYjYzNWQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
   "Metascore": "42",
   "imdbRating": "7.1",
   "imdbVotes": "153,102",
   "imdbID": "tt0111282",
   "Type": "movie",
+  "DVD": "17 Jun 1997",
+  "BoxOffice": "N/A",
+  "Production": "Artisan Home Entertainment",
+  "Website": "N/A",
   "Response": "True"
 }

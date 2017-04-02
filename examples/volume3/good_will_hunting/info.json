@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 2 Oscars. Another 22 wins & 55 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
   "Metascore": "70",
   "imdbRating": "8.3",
   "imdbVotes": "643,024",
   "imdbID": "tt0119217",
   "Type": "movie",
+  "DVD": "08 Dec 1998",
+  "BoxOffice": "N/A",
+  "Production": "Miramax Films",
+  "Website": "http://www.miramax.com/movie/good-will-hunting/",
   "Response": "True"
 }

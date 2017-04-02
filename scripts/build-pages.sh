@@ -75,14 +75,14 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
     GENRE="${GENRE/Sci-Fi/Fantascienza}"
     GENRE="${GENRE/War/Guerra}"
     GENRE="${GENRE/Family/Ragazzi}"
-    GENRE="${GENRE/Thriller/Thriller}"
-    GENRE="${GENRE/Horror/Horror}"
+    GENRE="${GENRE/Thriller/Giallo}"
+    GENRE="${GENRE/Horror/Orrore}"
     GENRE="${GENRE/Fantasy/Fantascico}"  
     GENRE="${GENRE/Action/Azione}"
     GENRE="${GENRE/History/Storico}"
     GENRE="${GENRE/Sport/Sportivo}"
     GENRE="${GENRE/Erotic/Erotico}"
-    GENRE="${GENRE/Mistery/Giallo}" 
+    GENRE="${GENRE/Mistery/Mistero}" 
 
     echo "[BUILDPAGES] processing `basename $TMP` ..."
     

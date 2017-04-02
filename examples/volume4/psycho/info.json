@@ -13,10 +13,24 @@
   "Country": "USA",
   "Awards": "Nominated for 4 Oscars. Another 5 wins & 9 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "8.5",
   "imdbVotes": "446,526",
   "imdbID": "tt0054215",
   "Type": "movie",
+  "DVD": "06 Mar 2001",
+  "BoxOffice": "N/A",
+  "Production": "Paramount Pictures",
+  "Website": "N/A",
   "Response": "True"
 }

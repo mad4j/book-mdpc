@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Oscar. Another 45 wins & 60 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg5NDM1MDI4NF5BMl5BanBnXkFtZTgwMzg0MzQxNzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
   "Metascore": "82",
   "imdbRating": "7.6",
   "imdbVotes": "171,582",
   "imdbID": "tt3076658",
   "Type": "movie",
+  "DVD": "01 Mar 2016",
+  "BoxOffice": "$81,157,671.00",
+  "Production": "Warner Bros.",
+  "Website": "http://creedthemovie.com/",
   "Response": "True"
 }

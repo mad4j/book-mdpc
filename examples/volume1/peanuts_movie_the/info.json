@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Nominated for 1 Golden Globe. Another 1 win & 46 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE5NzMxNzkwNl5BMl5BanBnXkFtZTgwOTQ0Nzk5NzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
   "Metascore": "67",
   "imdbRating": "7.1",
   "imdbVotes": "32,959",
   "imdbID": "tt2452042",
   "Type": "movie",
+  "DVD": "08 Mar 2016",
+  "BoxOffice": "$106,132,048.00",
+  "Production": "20th Century Fox",
+  "Website": "http://www.peanutsmovie.com",
   "Response": "True"
 }

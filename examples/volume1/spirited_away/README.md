@@ -1,6 +1,6 @@
 # Spirited Away (2001)
 
-Animazione, Avventura, Family
+Animazione, Avventura, Ragazzi
 
 ## Il film in breve
 During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.

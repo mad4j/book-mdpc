@@ -13,10 +13,24 @@
   "Country": "Italy",
   "Awards": "4 wins & 2 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjYzNjQyNl5BMl5BanBnXkFtZTgwOTgyNjQ2MTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
   "Metascore": "N/A",
   "imdbRating": "8.2",
   "imdbVotes": "6,225",
   "imdbID": "tt0056512",
   "Type": "movie",
+  "DVD": "28 Apr 2014",
+  "BoxOffice": "N/A",
+  "Production": "Fair Film",
+  "Website": "N/A",
   "Response": "True"
 }

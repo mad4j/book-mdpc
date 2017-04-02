@@ -13,10 +13,28 @@
   "Country": "USA",
   "Awards": "Won 1 Oscar. Another 60 wins & 68 nominations.",
   "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "94/100"
+    }
+  ],
   "Metascore": "94",
   "imdbRating": "8.9",
   "imdbVotes": "1,399,893",
   "imdbID": "tt0110912",
   "Type": "movie",
+  "DVD": "19 May 1998",
+  "BoxOffice": "N/A",
+  "Production": "Miramax Films",
+  "Website": "N/A",
   "Response": "True"
 }

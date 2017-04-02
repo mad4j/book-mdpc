@@ -1,6 +1,6 @@
 # Deep Red (1975)
 
-Horror, Mystery, Thriller
+Orrore, Mystery, Giallo
 
 ## Il film in breve
 After witnessing the murder of a famous psychic, a musician teams up with a feisty reporter to find the killer while evading attempts on their lives by the unseen assailant bent on keeping a dark secret buried.
