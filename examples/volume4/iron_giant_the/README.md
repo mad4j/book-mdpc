@@ -1,14 +1,14 @@
-# null (null)
+#  ()
 
-null
+
 
 ## Il film in breve
-null
 
-[dettagli](https://www.imdb.com/title/null/)
+
+[dettagli](https://www.imdb.com/title//)
 
 ## La locandina
-<img src="the-iron-giant.png"  width="360px" title="null">
+<img src="the-iron-giant.png"  width="360px" title="">
 
 
 ## Il codice
