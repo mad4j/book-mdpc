@@ -5,18 +5,6 @@ TEMPLATES=templates
 
 ROOT=`pwd`
 
-function retrieve_info {
-  if [ ! -f info.json ]; then
-    echo "retrieving movie info for $1 ..."
-    TEMP=$1
-    TEMP=${TEMP%_the}
-    TEMP=${TEMP%_le}
-    TEMP=${TEMP%_il}
-    TEMP=${TEMP#x_}
-    curl -s http://www.omdbapi.com/?t=$TEMP | jq . > info.json
-  fi
-}
-
 function build_index {
 
   echo "building index on $1 ..."
@@ -35,19 +23,6 @@ function build_index {
     if [ -z $POSTER ]; then
       cd - > /dev/null
       continue
-    fi
-
-    # retrieve info from movie database
-    retrieve_info $NAME
- 
-    # create a draft metadata if not preset
-    if [ ! -f metadata ]; then
-      echo "creating metadata for $NAME ..."
-      echo "TITLE=\"$NAME\"" >> metadata
-      echo "YEAR=\"TBV\"" >> metadata
-      echo "GENRE=\"TBV\"" >> metadata
-      echo "URL=\"TBV\"" >> metadata
-      echo "DESCRIPTION=\"TBV\"" >> metadata 
     fi
 
     # look for metadata
@@ -70,7 +45,7 @@ function build_index {
 }
 
 echo "removing generated README files..."
-find $ROOT/ -name README.md -delete
+rm -f $ROOT/README.md
 
 build_index volume1
 build_index volume2
@@ -93,25 +68,5 @@ sed -e "/##VOLUME1##/{
 
 rm $ROOT/volume?.txt
 
-echo "starting building process..."
-for f in $(find $SOURCE/ -name metadata); do
-    cd `dirname $f`
-    source metadata
-    TMP=`pwd`
-    echo "processing `basename $TMP` ..."
-    SNIPPET=`ls *.pde`
-    POSTER=`ls *.png`
-    sed -e "s/##TITLE##/$TITLE/" \
-      -e "s/##YEAR##/$YEAR/" \
-      -e "s/##GENRE##/$GENRE/" \
-      -e "s/##DESCRIPTION##/$DESCRIPTION/" \
-      -e "s/##POSTER##/$POSTER/" \
-      -e "s/##URL##/${URL//\//\\/}/" \
-      -e "/##SNIPPET##/{
-        r$SNIPPET
-        a
-        d
-      }" $ROOT/$TEMPLATES/README.md.template > README.md
-    cd - > /dev/null
-done
+
 echo "DONE"

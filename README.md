@@ -287,16 +287,19 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/ice_age/README.md">
     <img src="examples/volume4/ice_age/ice-age.png" width="120px" title="ice_age"/>
 </a>
+<a href="examples/volume4/iron_giant_the/README.md">
+    <img src="examples/volume4/iron_giant_the/the-iron-giant.png" width="120px" title="iron_giant_the"/>
+</a>
 <a href="examples/volume4/mib/README.md">
     <img src="examples/volume4/mib/mib.png" width="120px" title="mib"/>
 </a>
 <a href="examples/volume4/petit_prince_le/README.md">
     <img src="examples/volume4/petit_prince_le/le-petit-prince.png" width="120px" title="petit_prince_le"/>
 </a>
+<br/>
 <a href="examples/volume4/psycho/README.md">
     <img src="examples/volume4/psycho/psycho.png" width="120px" title="psycho"/>
 </a>
-<br/>
 <a href="examples/volume4/shining/README.md">
     <img src="examples/volume4/shining/shining.png" width="120px" title="shining"/>
 </a>
@@ -312,10 +315,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/suicide_squad/README.md">
     <img src="examples/volume4/suicide_squad/suicide-squad.png" width="120px" title="suicide_squad"/>
 </a>
+<br/>
 <a href="examples/volume4/thor/README.md">
     <img src="examples/volume4/thor/thor.png" width="120px" title="thor"/>
 </a>
-<br/>
 <a href="examples/volume4/titanic/README.md">
     <img src="examples/volume4/titanic/titanic.png" width="120px" title="titanic"/>
 </a>
