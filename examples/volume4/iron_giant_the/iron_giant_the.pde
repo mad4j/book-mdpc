@@ -1,3 +1,7 @@
+// Manuale di Programmazione Cinematografica - Volume 4
+// Daniele Olmisani, 2017
+
+// The Iron Giant (1999)
 
 final color PAPER = color(110, 190, 190);
 final color INK = color(20, 5, 60);
