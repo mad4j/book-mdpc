@@ -1,4 +1,41 @@
 {
-  "Response": "False",
-  "Error": "No API key provided."
+  "Title": "The Iron Giant",
+  "Year": "1999",
+  "Rated": "PG",
+  "Released": "06 Aug 1999",
+  "Runtime": "86 min",
+  "Genre": "Animation, Action, Adventure",
+  "Director": "Brad Bird",
+  "Writer": "Tim McCanlies (screenplay), Brad Bird (screen story by), Ted Hughes (based on the book \"The Iron Man\" by), Jerry Si
+egel (character created by: Superman), Joe Shuster (character created by: Superman)",
+  "Actors": "Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon",
+  "Plot": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "20 wins & 18 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNDU2Njk0OV5BMl5BanBnXkFtZTgwODc3Njc3NjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "8.0",
+  "imdbVotes": "138,296",
+  "imdbID": "tt0129167",
+  "Type": "movie",
+  "DVD": "23 Nov 1999",
+  "BoxOffice": "N/A",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://www.irongiant.com",
+  "Response": "True"
 }
