@@ -22,6 +22,9 @@ if [ ! -d $ROOT/$TARGET ]; then
     exit -1
 fi
 
+echo "[BUILDPAGES] working on '$ROOT'"
+
+
 # check for dependencies
 if [ -z "`jq --version`" ]; then
     echo "[BUILDPAGES] ERROR: missing required tool: jq."
@@ -48,7 +51,7 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
 
     # do not overwrite existing readme file
     if [ -f $OUTPUT_FILE ]; then
-#        echo "[BUILDPAGES] skipping `basename $TMP` ..."
+        echo "[BUILDPAGES] skipping `basename $TMP` on '$TMP' ..."
         continue
     fi
 
