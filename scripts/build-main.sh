@@ -5,9 +5,10 @@ TEMPLATES=templates
 
 ROOT=`pwd`
 
+
 function build_index {
 
-  echo "building index on $1 ..."
+  echo "[BUILDMAIN] building index on $1 ..."
 
   INDEX_FILE="$ROOT/$1.txt"
   echo "" > $INDEX_FILE
@@ -17,6 +18,9 @@ function build_index {
 
     cd $f
     NAME=`basename $f`
+
+    echo "[BUILDMAIN] working on '$NAME'"
+
     POSTER=`ls *.png`
 
     # skip if no poster is present
@@ -44,7 +48,20 @@ function build_index {
   done
 }
 
-echo "removing generated README files..."
+# check for root folder
+
+if [ ! -d $ROOT/$TARGET ]; then
+    ROOT=$(dirname $ROOT)
+fi
+
+if [ ! -d $ROOT/$TARGET ]; then
+    echo "[BUILDMAIN] ERROR: unable to find root folder."
+    exit -1
+fi
+
+echo "[BUILDMAIN] working on '$ROOT'"
+
+echo "[BUILDMAIN] removing generated README file..."
 rm -f $ROOT/README.md
 
 build_index volume1
@@ -69,4 +86,4 @@ sed -e "/##VOLUME1##/{
 rm $ROOT/volume?.txt
 
 
-echo "DONE"
+echo "[BUILDMAIN] DONE"
