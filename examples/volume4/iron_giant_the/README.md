@@ -1,14 +1,14 @@
-#  ()
+# The Iron Giant (1999)
 
-
+Animazione, Azione, Avventura
 
 ## Il film in breve
+A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
 
-
-[dettagli](https://www.imdb.com/title//)
+[dettagli](https://www.imdb.com/title/tt0129167/)
 
 ## La locandina
-<img src="the-iron-giant.png"  width="360px" title="">
+<img src="the-iron-giant.png"  width="360px" title="The Iron Giant">
 
 
 ## Il codice
