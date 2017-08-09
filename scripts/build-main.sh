@@ -3,7 +3,8 @@
 SOURCE=examples
 TEMPLATES=templates
 
-TEMPLATE=README-main.template
+TEMPLATE_FILE=README-main.md.template
+INFO_FILE=info.json
 
 ROOT=`pwd`
 
@@ -32,8 +33,10 @@ function build_index {
       continue
     fi
 
+    TITLE="`jq -r .Title $INFO_FILE`"
+
     echo "<a href=\"$SOURCE/$1/$NAME/README.md\">" >> $INDEX_FILE
-    echo "    <img src=\"$SOURCE/$1/$NAME/$POSTER\" width=\"120px\" title=\"$NAME\"/>" >> $INDEX_FILE
+    echo "    <img src=\"$SOURCE/$1/$NAME/$POSTER\" width=\"120px\" title=\"$TITLE\"/>" >> $INDEX_FILE
     echo "</a>" >> $INDEX_FILE
     let COUNTER=COUNTER+1
     if [ $COUNTER -eq 6 ]; then
@@ -45,7 +48,6 @@ function build_index {
 }
 
 # check for root folder
-
 if [ ! -d $ROOT/$TARGET ]; then
     ROOT=$(dirname $ROOT)
 fi
@@ -55,7 +57,19 @@ if [ ! -d $ROOT/$TARGET ]; then
     exit -1
 fi
 
-echo "[BUILDMAIN] working on '$ROOT'"
+# check for template file
+if [ ! -f $ROOT/$TEMPLATES/$TEMPLATE_FILE ]; then
+    echo "[BUILDMAIN] ERROR: unable to find page template '$TEMPLATE_FILE'."
+    exit -1
+fi
+
+# check for dependencies
+if [ -z "`jq --version`" ]; then
+    echo "[BUILDPAGES] ERROR: missing required tool: jq."
+    exit -1
+fi
+
+echo "[BUILDMAIN] working on '$ROOT' using template '$TEMPLATE_FILE'..."
 
 echo "[BUILDMAIN] removing generated README file..."
 rm -f $ROOT/README.md
@@ -77,7 +91,7 @@ sed -e "/##VOLUME1##/{
   }" -e "/##VOLUME4##/{
     rvolume4.txt
     d
-  }" $ROOT/$TEMPLATES/README-main.md.template > README.md
+  }" $ROOT/$TEMPLATES/$TEMPLATE_FILE > README.md
 
 rm $ROOT/volume?.txt
 
