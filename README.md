@@ -17,81 +17,81 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 
 
 <a href="examples/volume1/alice_in_wonderland/README.md">
-    <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png" width="120px" title="Alice in Wonderland"/>
+    <img src="examples/volume1/alice_in_wonderland/alice-in-wonderland.png" width="120px" title="alice_in_wonderland"/>
 </a>
 <a href="examples/volume1/blood_diamond/README.md">
-    <img src="examples/volume1/blood_diamond/blood-diamond.png" width="120px" title="Blood Diamond"/>
+    <img src="examples/volume1/blood_diamond/blood-diamond.png" width="120px" title="blood_diamond"/>
 </a>
 <a href="examples/volume1/cars/README.md">
-    <img src="examples/volume1/cars/cars.png" width="120px" title="Cars"/>
+    <img src="examples/volume1/cars/cars.png" width="120px" title="cars"/>
 </a>
 <a href="examples/volume1/cat_s_eye/README.md">
-    <img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="Cat's Eye"/>
+    <img src="examples/volume1/cat_s_eye/cat's-eye.png" width="120px" title="cat_s_eye"/>
 </a>
 <a href="examples/volume1/coraline/README.md">
-    <img src="examples/volume1/coraline/coraline.png" width="120px" title="Coraline"/>
+    <img src="examples/volume1/coraline/coraline.png" width="120px" title="coraline"/>
 </a>
 <a href="examples/volume1/deer_hunter_the/README.md">
-    <img src="examples/volume1/deer_hunter_the/the-deer-hunter.png" width="120px" title="The Deer Hunter"/>
+    <img src="examples/volume1/deer_hunter_the/the-deer-hunter.png" width="120px" title="deer_hunter_the"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume1/dr_strangelove/README.md">
-    <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="Dr. Strangelove"/>
+    <img src="examples/volume1/dr_strangelove/dr-strangelove.png" width="120px" title="dr_strangelove"/>
 </a>
 <a href="examples/volume1/fifty_shades_of_grey/README.md">
-    <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="Fifty Shades of Grey"/>
+    <img src="examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png" width="120px" title="fifty_shades_of_grey"/>
 </a>
 <a href="examples/volume1/finding_nemo/README.md">
-    <img src="examples/volume1/finding_nemo/finding-nemo.png" width="120px" title="Finding Nemo"/>
+    <img src="examples/volume1/finding_nemo/finding-nemo.png" width="120px" title="finding_nemo"/>
 </a>
 <a href="examples/volume1/frozen/README.md">
-    <img src="examples/volume1/frozen/frozen.png" width="120px" title="Frozen"/>
+    <img src="examples/volume1/frozen/frozen.png" width="120px" title="frozen"/>
 </a>
 <a href="examples/volume1/harry_potter_and_the_deathly_hallows/README.md">
-    <img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="Harry Potter and the Deathly Hallows"/>
+    <img src="examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png" width="120px" title="harry_potter_and_the_deathly_hallows"/>
 </a>
 <a href="examples/volume1/iron_man/README.md">
-    <img src="examples/volume1/iron_man/iron-man.png" width="120px" title="Iron Man"/>
+    <img src="examples/volume1/iron_man/iron-man.png" width="120px" title="iron_man"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume1/love_story/README.md">
-    <img src="examples/volume1/love_story/love-story.png" width="120px" title="Love Story"/>
+    <img src="examples/volume1/love_story/love-story.png" width="120px" title="love_story"/>
 </a>
 <a href="examples/volume1/minions/README.md">
-    <img src="examples/volume1/minions/minions.png" width="120px" title="Minions"/>
+    <img src="examples/volume1/minions/minions.png" width="120px" title="minions"/>
 </a>
 <a href="examples/volume1/one_hundred_and_one_dalmatians/README.md">
-    <img src="examples/volume1/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="One hundred and one Dalmatians"/>
+    <img src="examples/volume1/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png" width="120px" title="one_hundred_and_one_dalmatians"/>
 </a>
 <a href="examples/volume1/peanuts_movie_the/README.md">
-    <img src="examples/volume1/peanuts_movie_the/the-peanuts-movie.png" width="120px" title="The Peanuts Movie"/>
+    <img src="examples/volume1/peanuts_movie_the/the-peanuts-movie.png" width="120px" title="peanuts_movie_the"/>
 </a>
 <a href="examples/volume1/predator/README.md">
-    <img src="examples/volume1/predator/predator.png" width="120px" title="Predator"/>
+    <img src="examples/volume1/predator/predator.png" width="120px" title="predator"/>
 </a>
 <a href="examples/volume1/pretty_woman/README.md">
-    <img src="examples/volume1/pretty_woman/pretty-woman.png" width="120px" title="Pretty Woman"/>
+    <img src="examples/volume1/pretty_woman/pretty-woman.png" width="120px" title="pretty_woman"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume1/profondo_rosso/README.md">
-    <img src="examples/volume1/profondo_rosso/profondo-rosso.png" width="120px" title="Profondo Rosso"/>
+    <img src="examples/volume1/profondo_rosso/profondo-rosso.png" width="120px" title="profondo_rosso"/>
 </a>
 <a href="examples/volume1/reservoir_dogs/README.md">
-    <img src="examples/volume1/reservoir_dogs/reservoir-dogs.png" width="120px" title="Reservoir Dogs"/>
+    <img src="examples/volume1/reservoir_dogs/reservoir-dogs.png" width="120px" title="reservoir_dogs"/>
 </a>
 <a href="examples/volume1/social_network_the/README.md">
-    <img src="examples/volume1/social_network_the/the-social-network.png" width="120px" title="The Social Network"/>
+    <img src="examples/volume1/social_network_the/the-social-network.png" width="120px" title="social_network_the"/>
 </a>
 <a href="examples/volume1/spirited_away/README.md">
-    <img src="examples/volume1/spirited_away/spirited-away.png" width="120px" title="Spirited away"/>
+    <img src="examples/volume1/spirited_away/spirited-away.png" width="120px" title="spirited_away"/>
 </a>
 <a href="examples/volume1/star_wars/README.md">
-    <img src="examples/volume1/star_wars/star-wars.png" width="120px" title="Star Wars"/>
+    <img src="examples/volume1/star_wars/star-wars.png" width="120px" title="star_wars"/>
 </a>
 <a href="examples/volume1/war_games/README.md">
-    <img src="examples/volume1/war_games/war-games.png" width="120px" title="War Games"/>
+    <img src="examples/volume1/war_games/war-games.png" width="120px" title="war_games"/>
 </a>
-<br/>
+<br class="index-separator"/>
 
 
 ## Volume 2
@@ -115,7 +115,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume2/fifth_element_the/README.md">
     <img src="examples/volume2/fifth_element_the/the-fifth-element.png" width="120px" title="fifth_element_the"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume2/frankenstein/README.md">
     <img src="examples/volume2/frankenstein/frankenstein.png" width="120px" title="frankenstein"/>
 </a>
@@ -134,7 +134,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume2/kill_bill/README.md">
     <img src="examples/volume2/kill_bill/kill-bill.png" width="120px" title="kill_bill"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume2/lord_of_the_rings_the/README.md">
     <img src="examples/volume2/lord_of_the_rings_the/the-lord-of-the-rings.png" width="120px" title="lord_of_the_rings_the"/>
 </a>
@@ -153,7 +153,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume2/rush/README.md">
     <img src="examples/volume2/rush/rush.png" width="120px" title="rush"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume2/slumdog_millionaire/README.md">
     <img src="examples/volume2/slumdog_millionaire/slumdog-millionaire.png" width="120px" title="slumdog_millionaire"/>
 </a>
@@ -172,7 +172,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume2/x_2001_a_space_odyssey/README.md">
     <img src="examples/volume2/x_2001_a_space_odyssey/2001-a-space-odyssey.png" width="120px" title="x_2001_a_space_odyssey"/>
 </a>
-<br/>
+<br class="index-separator"/>
 
 
 ## Volume 3
@@ -196,7 +196,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume3/creed/README.md">
     <img src="examples/volume3/creed/creed.png" width="120px" title="creed"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume3/fast_and_the_furious_the/README.md">
     <img src="examples/volume3/fast_and_the_furious_the/the-fast-and-the-furious.png" width="120px" title="fast_and_the_furious_the"/>
 </a>
@@ -215,7 +215,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume3/hazzard/README.md">
     <img src="examples/volume3/hazzard/hazzard.png" width="120px" title="hazzard"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume3/jaws/README.md">
     <img src="examples/volume3/jaws/jaws.png" width="120px" title="jaws"/>
 </a>
@@ -234,7 +234,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume3/pianist_the/README.md">
     <img src="examples/volume3/pianist_the/the-pianist.png" width="120px" title="pianist_the"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume3/pulp_fiction/README.md">
     <img src="examples/volume3/pulp_fiction/pulp-fiction.png" width="120px" title="pulp_fiction"/>
 </a>
@@ -253,7 +253,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume3/vertigo/README.md">
     <img src="examples/volume3/vertigo/vertigo.png" width="120px" title="vertigo"/>
 </a>
-<br/>
+<br class="index-separator"/>
 
 
 ## Volume 4
@@ -277,9 +277,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/entrapment/README.md">
     <img src="examples/volume4/entrapment/entrapment.png" width="120px" title="entrapment"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume4/escape_from_new_york/README.md">
-    <img src="examples/volume4/escape_from_new_york/escape-from-new-york.png" width="120px" title="Escape from New York"/>
+    <img src="examples/volume4/escape_from_new_york/escape-from-new-york.png" width="120px" title="escape_from_new_york"/>
 </a>
 <a href="examples/volume4/et_the_extra_terrestrial/README.md">
     <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png" width="120px" title="et_the_extra_terrestrial"/>
@@ -296,7 +296,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/petit_prince_le/README.md">
     <img src="examples/volume4/petit_prince_le/le-petit-prince.png" width="120px" title="petit_prince_le"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume4/psycho/README.md">
     <img src="examples/volume4/psycho/psycho.png" width="120px" title="psycho"/>
 </a>
@@ -315,7 +315,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/suicide_squad/README.md">
     <img src="examples/volume4/suicide_squad/suicide-squad.png" width="120px" title="suicide_squad"/>
 </a>
-<br/>
+<br class="index-separator"/>
 <a href="examples/volume4/thor/README.md">
     <img src="examples/volume4/thor/thor.png" width="120px" title="thor"/>
 </a>

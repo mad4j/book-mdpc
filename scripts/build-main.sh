@@ -3,11 +3,14 @@
 SOURCE=examples
 TEMPLATES=templates
 
+TEMPLATE=README-main.template
+
 ROOT=`pwd`
 
 
 function build_index {
 
+  echo
   echo "[BUILDMAIN] building index on $1 ..."
 
   INDEX_FILE="$ROOT/$1.txt"
@@ -29,20 +32,13 @@ function build_index {
       continue
     fi
 
-    # look for metadata
-    if [ -a metadata ]; then
-      source metadata
-    else
-      TITLE=$NAME
-    fi
-
     echo "<a href=\"$SOURCE/$1/$NAME/README.md\">" >> $INDEX_FILE
-    echo "    <img src=\"$SOURCE/$1/$NAME/$POSTER\" width=\"120px\" title=\"$TITLE\"/>" >> $INDEX_FILE
+    echo "    <img src=\"$SOURCE/$1/$NAME/$POSTER\" width=\"120px\" title=\"$NAME\"/>" >> $INDEX_FILE
     echo "</a>" >> $INDEX_FILE
     let COUNTER=COUNTER+1
     if [ $COUNTER -eq 6 ]; then
       COUNTER=0
-      echo "<br/>" >> $INDEX_FILE
+      echo "<br class=\"index-separator\"/>" >> $INDEX_FILE
     fi
     cd - > /dev/null
   done
@@ -81,7 +77,7 @@ sed -e "/##VOLUME1##/{
   }" -e "/##VOLUME4##/{
     rvolume4.txt
     d
-  }" $ROOT/$TEMPLATES/README-master.md.template > README.md
+  }" $ROOT/$TEMPLATES/README-main.md.template > README.md
 
 rm $ROOT/volume?.txt
 
