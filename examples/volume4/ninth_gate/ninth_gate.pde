@@ -1,3 +1,8 @@
+// Manuale di Programmazione Cinematografica - Volume 4
+// Daniele Olmisani, 2017
+
+// The Ninth Gate (1999)
+
 
 final color PAPER = color(0);
 final color INK = color(250, 180, 50);
@@ -40,7 +45,6 @@ void draw() {
     scale(-1, 1);
     
     if (i%2 != 0) {
-      //translate(-0.07, -0.215);
       translate(-0.5*D, 2*L-2.5*U-(D+R)*sin(2*A));
       rotate(2*A);
     }
