@@ -50,5 +50,5 @@ void draw() {
     }
   } 
 
-  save("ninth-gate.png");
+  save("the-ninth-gate.png");
 }
