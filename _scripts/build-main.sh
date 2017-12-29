@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOURCE=examples
-TEMPLATES=templates
+TEMPLATES=_templates
 
 TEMPLATE_FILE=README-main.md.template
 INFO_FILE=info.json
