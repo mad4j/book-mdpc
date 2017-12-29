@@ -18,7 +18,7 @@ function build_index {
   echo "" > $INDEX_FILE
 
   COUNTER=0
-  for f in $(find $SOURCE/$1/* -maxdepth 0 -type d ); do
+  for f in $(find $ROOT/$SOURCE/$1/* -maxdepth 0 -type d ); do
 
     cd $f
     NAME=`basename $f`
@@ -48,11 +48,11 @@ function build_index {
 }
 
 # check for root folder
-if [ ! -d $ROOT/$TARGET ]; then
+if [ ! -d $ROOT/$SOURCE ]; then
     ROOT=$(dirname $ROOT)
 fi
 
-if [ ! -d $ROOT/$TARGET ]; then
+if [ ! -d $ROOT/$SOURCE ]; then
     echo "[BUILDMAIN] ERROR: unable to find root folder."
     exit -1
 fi
@@ -80,18 +80,18 @@ build_index volume3
 build_index volume4
 
 sed -e "/##VOLUME1##/{
-    rvolume1.txt
+    r$ROOT/volume1.txt
     d
   }" -e "/##VOLUME2##/{
-    rvolume2.txt
+    r$ROOT/volume2.txt
     d
   }" -e "/##VOLUME3##/{
-    rvolume3.txt
+    r$ROOT/volume3.txt
     d
   }" -e "/##VOLUME4##/{
-    rvolume4.txt
+    r$ROOT/volume4.txt
     d
-  }" $ROOT/$TEMPLATES/$TEMPLATE_FILE > README.md
+  }" $ROOT/$TEMPLATES/$TEMPLATE_FILE > $ROOT/README.md
 
 rm $ROOT/volume?.txt
 
