@@ -259,11 +259,11 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 ## Volume 4
 
 
-<a href="examples/volume4/a_team_the/README.md">
-    <img src="examples/volume4/a_team_the/the-a-team.png" width="120px" title="The A-Team"/>
-</a>
 <a href="examples/volume4/american_beauty/README.md">
     <img src="examples/volume4/american_beauty/american-beauty.png" width="120px" title="American Beauty"/>
+</a>
+<a href="examples/volume4/a_team_the/README.md">
+    <img src="examples/volume4/a_team_the/the-a-team.png" width="120px" title="The A-Team"/>
 </a>
 <a href="examples/volume4/birds_the/README.md">
     <img src="examples/volume4/birds_the/the-birds.png" width="120px" title="The Birds"/>
@@ -293,10 +293,13 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/mib/README.md">
     <img src="examples/volume4/mib/mib.png" width="120px" title="Men in Black"/>
 </a>
+<a href="examples/volume4/ninth_gate_the/README.md">
+    <img src="examples/volume4/ninth_gate_the/the-ninth-gate.png" width="120px" title="The Ninth Gate"/>
+</a>
+<br class="index-separator"/>
 <a href="examples/volume4/petit_prince_le/README.md">
     <img src="examples/volume4/petit_prince_le/le-petit-prince.png" width="120px" title="The Little Prince"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume4/psycho/README.md">
     <img src="examples/volume4/psycho/psycho.png" width="120px" title="Psycho"/>
 </a>
@@ -312,10 +315,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/stargate/README.md">
     <img src="examples/volume4/stargate/stargate.png" width="120px" title="Stargate"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume4/suicide_squad/README.md">
     <img src="examples/volume4/suicide_squad/suicide-squad.png" width="120px" title="Suicide Squad"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume4/thor/README.md">
     <img src="examples/volume4/thor/thor.png" width="120px" title="Thor"/>
 </a>
@@ -331,6 +334,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/zorro/README.md">
     <img src="examples/volume4/zorro/zorro.png" width="120px" title="Zorro"/>
 </a>
+<br class="index-separator"/>
 
 
 ## References
