@@ -9,8 +9,8 @@ final color INK = color(250, 180, 50);
 
 final float A = TWO_PI / 5;
 final float R = 0.3;
-final float L = 0.025;
-final float D =(2*L) / tan(0.25*A);
+final float L = 0.05;
+final float D = L / tan(0.25*A);
 
 
 void setup() {
@@ -20,8 +20,6 @@ void setup() {
 
 
 void draw() {
-  
-  println(L*cos(R));
   
   final float S =  min(width, height);
   final float U = 0.002;  
@@ -35,18 +33,19 @@ void draw() {
   
     noStroke();
     fill(PAPER);
-    quad(-R, -L, 0.0, -L, 0.0, L, -(D+R), L);
+    quad(-R, 0.0, 0.0, 0.0, 0.0, L, -R-D, L);
     
     stroke(INK);
     strokeWeight(5*U);
-    line(-R, -L, 0.0, -L);
-    line(-(D+R), L, +0.0, L);
+    line(-R, 0.0, 0.0, 0.0);
+    line(-R-D, L, +0.0, L);
     
     scale(-1, 1);
     
     if (i%2 != 0) {
-      translate(-0.5*D, 2*L-2.5*U-(D+R)*sin(2*A));
+      translate(-R, 0.0);
       rotate(2*A);
+      translate(-R, 0.0);
     }
   } 
 
