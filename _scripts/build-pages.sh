@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ROOT=`pwd`
-TEMPLATES=templates
+TEMPLATES=_templates
 TARGET=examples
 
 INFO_FILE=info.json
