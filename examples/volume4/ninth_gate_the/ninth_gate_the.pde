@@ -35,19 +35,19 @@ void draw() {
   
     noStroke();
     fill(PAPER);
-    quad(L2, 0.0, 0.0, 0.0, 0.0, T, L1, T);
+    quad(L2, 0, 0, 0, 0, T, L1, T);
     
     stroke(INK);
     strokeWeight(D);
-    line(L2, 0.0, 0.0, 0.0);
-    line(L1, T, 0.0, T);
+    line(L2, 0, 0, 0);
+    line(L1, T, 0, T);
     
     scale(-1, 1);
     
     if (i%2 != 0) {
-      translate(L2+0.5*D, 0.0);
+      translate(L2+0.5*D, 0);
       rotate(-2*A);
-      translate(L2+0.5*D, 0.0);
+      translate(L2+0.5*D, 0);
     }
   } 
 
