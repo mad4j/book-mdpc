@@ -22,7 +22,9 @@ void setup() {
 void draw() {
   
   final float S =  min(width, height);
-  final float U = 0.002;  
+  final float U = 0.002;
+  
+  final float D = 100*T*U;
   
   translate(0.5*width, 0.5*height);
   scale(S);
@@ -36,16 +38,16 @@ void draw() {
     quad(L2, 0.0, 0.0, 0.0, 0.0, T, L1, T);
     
     stroke(INK);
-    strokeWeight(100*T*U);
+    strokeWeight(D);
     line(L2, 0.0, 0.0, 0.0);
     line(L1, T, 0.0, T);
     
     scale(-1, 1);
     
     if (i%2 != 0) {
-      translate(L2, 0.0);
+      translate(L2+0.5*D, 0.0);
       rotate(-2*A);
-      translate(L2, 0.0);
+      translate(L2+0.5*D, 0.0);
     }
   } 
 
