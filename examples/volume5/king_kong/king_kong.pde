@@ -1,5 +1,5 @@
 // Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 201
+// Daniele Olmisani, 2018
 
 // King Kong (1933)
 
