@@ -23,9 +23,10 @@ echo "[BUIDFILMOGRAPHY] working on '$ROOT'"
 # remove old output
 rm -f $ROOT/$OUTPUT_FILE
 
-# find all info files
-LIST=`find $ROOT/$SOURCE -name $INFO_FILE`
+# build table header
+echo -e "Title\tYear\tDirector\tGenre\tCountry" >> $ROOT/$OUTPUT_FILE
 
+# build table content
 for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
 
     echo "[BUIDFILMOGRAPHY] working on '$(basename $(dirname $f))'..."
@@ -38,3 +39,5 @@ for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
 
     echo -e "$TITLE\t$YEAR\t$DIRECTOR\t$GENRE\t$COUNTRY" >> $ROOT/$OUTPUT_FILE
 done
+
+echo "[BUIDFILMOGRAPHY] ... DONE"
