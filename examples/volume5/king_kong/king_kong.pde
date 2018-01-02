@@ -45,10 +45,12 @@ void draw() {
   
   pushMatrix();
   translate(-0.085, 0.22);
+  rotate(0.1*QUARTER_PI);
   drawHand();
   
   popMatrix();
   translate(0.085, 0.32);
+  rotate(-0.1*QUARTER_PI);
   drawHand();
   
   save("king-kong.png");
