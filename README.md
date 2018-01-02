@@ -342,6 +342,9 @@ See also the complete project [filmography](filmography.tsv)
 <a href="examples/volume5/king_kong/README.md">
     <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
 </a>
+<a href="examples/volume5/v_for_vendetta/README.md">
+    <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="null"/>
+</a>
 
 
 ## References
