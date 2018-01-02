@@ -9,6 +9,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 - [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
 
 
+See also the complete project [filmography](filmography.tsv)
+
+
 ## Volume 1
 
 
@@ -337,7 +340,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 
 
 <a href="examples/volume5/king_kong/README.md">
-    <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="null"/>
+    <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
 </a>
 
 
