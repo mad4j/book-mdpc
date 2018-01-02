@@ -9,7 +9,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 - [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
 
 
-See also the complete project [filmography](filmography.tsv)
+See also the complete project [filmography](filmography.tsv).
 
 
 ## Volume 1
@@ -342,8 +342,11 @@ See also the complete project [filmography](filmography.tsv)
 <a href="examples/volume5/king_kong/README.md">
     <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
 </a>
+<a href="examples/volume5/star_trek/README.md">
+    <img src="examples/volume5/star_trek/star-trek.png" width="120px" title="Star Trek: The Motion Picture"/>
+</a>
 <a href="examples/volume5/v_for_vendetta/README.md">
-    <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="null"/>
+    <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
 
 

@@ -1,0 +1,40 @@
+{
+  "Title": "Star Trek: The Motion Picture",
+  "Year": "1979",
+  "Rated": "G",
+  "Released": "08 Dec 1979",
+  "Runtime": "132 min",
+  "Genre": "Adventure, Mystery, Sci-Fi",
+  "Director": "Robert Wise",
+  "Writer": "Gene Roddenberry (based on Star Trek created by), Harold Livingston (screenplay), Alan Dean Foster (story)",
+  "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",
+  "Plot": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine and hopefully stop the intruder.",
+  "Language": "English, Klingon",
+  "Country": "USA",
+  "Awards": "Nominated for 3 Oscars. Another 4 wins & 16 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzNlMzNlNmQtNmYzNS00YmU5LWIzYWQtMDRkYzIzNzEzOTIyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "44%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "Metascore": "48",
+  "imdbRating": "6.4",
+  "imdbVotes": "69,437",
+  "imdbID": "tt0079945",
+  "Type": "movie",
+  "DVD": "06 Nov 2001",
+  "BoxOffice": "N/A",
+  "Production": "Paramount Home Video",
+  "Website": "N/A",
+  "Response": "True"
+}
