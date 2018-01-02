@@ -2,7 +2,7 @@
 
 SOURCE=examples
 INFO_FILE=info.json
-OUTPUT_FILE=filmography.csv
+OUTPUT_FILE=filmography.tsv
 
 
 ROOT=`pwd`
@@ -33,6 +33,8 @@ for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
     TITLE="`jq -r .Title $f`"
     YEAR="`jq -r .Year $f`"
     GENRE="`jq -r .Genre $f`"
+    DIRECTOR="`jq -r .Director $f`"
+    COUNTRY="`jq -r .Country $f`"
 
-    echo -e "$TITLE\t$YEAR\t$GENRE" >> $ROOT/$OUTPUT_FILE
+    echo -e "$TITLE\t$YEAR\t$DIRECTOR\t$GENRE\t$COUNTRY" >> $ROOT/$OUTPUT_FILE
 done
