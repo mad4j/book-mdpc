@@ -78,6 +78,7 @@ build_index volume1
 build_index volume2
 build_index volume3
 build_index volume4
+build_index volume5
 
 sed -e "/##VOLUME1##/{
     r$ROOT/volume1.txt
@@ -90,6 +91,9 @@ sed -e "/##VOLUME1##/{
     d
   }" -e "/##VOLUME4##/{
     r$ROOT/volume4.txt
+    d
+  }" -e "/##VOLUME5##/{
+    r$ROOT/volume5.txt
     d
   }" $ROOT/$TEMPLATES/$TEMPLATE_FILE > $ROOT/README.md
 

@@ -31,6 +31,13 @@ if [ -z "`jq --version`" ]; then
     exit -1
 fi
 
+if  [ -z "$OMDB_APIKEY" ]; then
+    echo "[GETINFO] ERROR: mssing OMDB_APIKEY environment variable."
+    exit -1
+else 
+    echo "[GETINO] INFO: found OMDB apikey:'$OMDB_APIKEY'."
+fi
+
 # check for command line params
 for p in "$@"; do
     case $p in
@@ -56,8 +63,8 @@ for f in $(find $ROOT -name $ID_FILE); do
     fi
 
     ID=`cat $ID_FILE`
-    echo "[GETINFO] retriving info for `basename $TMP` with id:$ID ..."
-    curl -s http://www.omdbapi.com/?i=$ID | jq . > $INFO_FILE
+    echo "[GETINFO] retriving info for `basename $TMP` with id:'$ID' using key:'$OMDB_APIKEY'..."
+    curl -s 'http://www.omdbapi.com/?i=$ID&apikey=$OMDB_APIKEY' | jq . > $INFO_FILE
     
     cd - > /dev/null
 done

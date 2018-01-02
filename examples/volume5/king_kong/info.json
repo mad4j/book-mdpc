@@ -1,0 +1,36 @@
+{
+  "Title": "King Kong",
+  "Year": "1933",
+  "Rated": "PASSED",
+  "Released": "07 Apr 1933",
+  "Runtime": "100 min",
+  "Genre": "Adventure, Horror, Sci-Fi",
+  "Director": "Merian C. Cooper, Ernest B. Schoedsack",
+  "Writer": "James Ashmore Creelman (screen play), Ruth Rose (screen play), Merian C. Cooper (from an idea conceived by), Edgar Wallace (from an idea conceived by)",
+  "Actors": "Fay Wray, Robert Armstrong, Bruce Cabot, Frank Reicher",
+  "Plot": "A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "3 wins & 7 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM0MTEyMjQxOF5BMl5BanBnXkFtZTgwNzYwNTk1MjE@._V1._CR8.883331298828125,6.5333404541015625,344,488_SY132_CR2,0,89,132_AL_.jpg_V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "7.9",
+  "imdbVotes": "69,217",
+  "imdbID": "tt0024216",
+  "Type": "movie",
+  "DVD": "22 Nov 2005",
+  "BoxOffice": "N/A",
+  "Production": "RKO Pictures",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -333,6 +333,16 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <br class="index-separator"/>
 
 
+## Volume 5
+
+
+<a href="examples/volume5/king_kong/README.md">
+    <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="null"/>
+</a>
+
+
 ## References
 * [Processing Main page](https://processing.org/)
 * [Processing Examples Contribution](https://github.com/processing/processing/wiki/Examples-Overview)
+* [IMDB](http://www.imdb.com/)
+* [OMDB API](http://www.omdbapi.com/)
