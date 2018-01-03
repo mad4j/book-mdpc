@@ -1,0 +1,40 @@
+{
+  "Title": "Back to the Future",
+  "Year": "1985",
+  "Rated": "PG",
+  "Released": "03 Jul 1985",
+  "Runtime": "116 min",
+  "Genre": "Adventure, Comedy, Sci-Fi",
+  "Director": "Robert Zemeckis",
+  "Writer": "Robert Zemeckis, Bob Gale",
+  "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+  "Plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Won 1 Oscar. Another 19 wins & 25 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "8.5",
+  "imdbVotes": "826,482",
+  "imdbID": "tt0088763",
+  "Type": "movie",
+  "DVD": "17 Dec 2002",
+  "BoxOffice": "$2,925,880",
+  "Production": "Universal Pictures",
+  "Website": "http://www.bttfmovie.com/",
+  "Response": "True"
+}

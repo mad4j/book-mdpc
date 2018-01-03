@@ -341,6 +341,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 ## Volume 5
 
 
+<a href="examples/volume5/back_to_the_future/README.md">
+    <img src="examples/volume5/back_to_the_future/back-to-the-future.png" width="120px" title="Back to the Future"/>
+</a>
 <a href="examples/volume5/king_kong/README.md">
     <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
 </a>
