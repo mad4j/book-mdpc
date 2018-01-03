@@ -64,7 +64,7 @@ for f in $(find $ROOT -name $ID_FILE); do
 
     ID=`cat $ID_FILE`
     echo "[GETINFO] retriving info for `basename $TMP` with id:'$ID' using key:'$OMDB_APIKEY'..."
-    curl -s 'http://www.omdbapi.com/?i=$ID&apikey=$OMDB_APIKEY' | jq . > $INFO_FILE
+    curl -s "http://www.omdbapi.com/?i=$ID&apikey=$OMDB_APIKEY" | jq . > $INFO_FILE
     
     cd - > /dev/null
 done
