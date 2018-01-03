@@ -1,6 +1,3 @@
----
----
-
 # Alice in Wonderland (1951)
 
 Animazione, Avventura, Ragazzi
