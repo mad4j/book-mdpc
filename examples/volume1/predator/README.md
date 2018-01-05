@@ -15,7 +15,7 @@ A team of commandos on a mission in a Central American jungle find themselves hu
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

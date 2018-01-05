@@ -15,7 +15,7 @@ When aliens misinterpret video feeds of classic arcade games as a declaration of
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

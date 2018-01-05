@@ -15,7 +15,7 @@ An alien lands and tells the people of Earth that they must live peacefully or b
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
 

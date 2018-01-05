@@ -15,7 +15,7 @@ Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

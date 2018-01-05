@@ -15,7 +15,7 @@ Two criminals and their hostages unknowingly seek temporary refuge in an establi
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

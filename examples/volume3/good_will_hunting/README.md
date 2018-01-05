@@ -15,7 +15,7 @@ Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help fr
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

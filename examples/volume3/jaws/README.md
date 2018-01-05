@@ -15,7 +15,7 @@ A giant great white shark arrives on the shores of a New England beach resort an
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

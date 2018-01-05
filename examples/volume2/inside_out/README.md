@@ -15,7 +15,7 @@ After young Riley is uprooted from her Midwest life and moved to San Francisco, 
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

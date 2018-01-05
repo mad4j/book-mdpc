@@ -15,7 +15,7 @@ Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a 
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
 

@@ -15,7 +15,7 @@ An Amazon princess leaves her island home to explore the world and, in doing so,
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
 

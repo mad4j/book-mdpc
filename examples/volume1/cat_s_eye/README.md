@@ -15,7 +15,7 @@ A stray cat is the linking element of three tales of suspense and horror.
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 

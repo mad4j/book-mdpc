@@ -15,7 +15,7 @@ An obsessed scientist assembles a living being from parts of exhumed corpses.
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 

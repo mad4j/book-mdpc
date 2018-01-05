@@ -15,7 +15,7 @@ Three decades after the defeat of the Galactic Empire, a new threat arises. The 
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 

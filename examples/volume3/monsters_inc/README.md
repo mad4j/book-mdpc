@@ -15,7 +15,7 @@ In order to power the city, monsters have to scare children so that they scream.
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

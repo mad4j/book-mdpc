@@ -15,7 +15,7 @@ Dr. Linda Hazzard strongly believed that fasting was the only logical remedy for
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

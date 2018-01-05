@@ -15,7 +15,7 @@ A race car driver becomes a champion with a Volkswagen Beetle with a mind of its
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

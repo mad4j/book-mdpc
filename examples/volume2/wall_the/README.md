@@ -15,7 +15,7 @@ A confined but troubled rock star descends into madness in the midst of his phys
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

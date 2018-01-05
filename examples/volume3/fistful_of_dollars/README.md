@@ -15,7 +15,7 @@ A wandering gunfighter plays two rival families against each other in a town tor
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

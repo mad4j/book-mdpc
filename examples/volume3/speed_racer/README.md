@@ -15,7 +15,7 @@ A young driver, Speed Racer, aspires to be champion of the racing world with the
 
 
 ## Il codice
-```processing
+```java
 
 final color PAPER = color(230, 165, 25);
 final color INK = color(225, 40, 45);

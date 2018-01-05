@@ -15,7 +15,7 @@ A criminal pleads insanity after getting into trouble again and once in the ment
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

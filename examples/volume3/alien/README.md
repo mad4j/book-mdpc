@@ -15,7 +15,7 @@ After a space merchant vessel perceives an unknown transmission as distress call
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

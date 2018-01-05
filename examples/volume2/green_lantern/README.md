@@ -15,7 +15,7 @@ Reckless test pilot Hal Jordan is granted an alien ring that bestows him with ot
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 

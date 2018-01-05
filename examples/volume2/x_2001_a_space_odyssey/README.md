@@ -15,7 +15,7 @@ Humanity finds a mysterious, obviously artificial object buried beneath the Luna
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 

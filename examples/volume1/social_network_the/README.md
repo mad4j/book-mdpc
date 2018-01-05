@@ -15,7 +15,7 @@ Harvard student Mark Zuckerberg creates the social networking site that would be
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 

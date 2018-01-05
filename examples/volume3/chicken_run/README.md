@@ -15,7 +15,7 @@ When a cockerel apparently flies into a chicken farm, the chickens see him as an
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 

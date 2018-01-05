@@ -15,7 +15,7 @@ An interstellar teleportation device, found in Egypt, leads to a planet with hum
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
 

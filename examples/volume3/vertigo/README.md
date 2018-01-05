@@ -15,7 +15,7 @@ A San Francisco detective suffering from acrophobia investigates the strange act
 
 
 ## Il codice
-```processing
+```java
 
 // Manuale di Programmazione Cinematografica - Volume 3
 // Daniele Olmisani, 2015

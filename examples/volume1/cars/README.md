@@ -15,7 +15,7 @@ A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, wh
 
 
 ## Il codice
-```processing
+```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
