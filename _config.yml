@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+theme: "jekyll-theme-minimal"
+title: "Manuale di Programmazione Cinematografica"
+description: "Il cinema tra le righe... di codice!"
