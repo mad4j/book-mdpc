@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/vertigo/
+---
 # Vertigo (1958)
 
 Mystery, Sentimentale, Giallo

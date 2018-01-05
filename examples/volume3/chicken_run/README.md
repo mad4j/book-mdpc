@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/chicken_run/
+---
 # Chicken Run (2000)
 
 Animazione, Avventura, Commedia

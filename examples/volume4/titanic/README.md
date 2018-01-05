@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/titanic/
+---
 # Titanic (1997)
 
 Drammatico, Sentimentale

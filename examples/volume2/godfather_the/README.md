@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/godfather_the/
+---
 # The Godfather (1972)
 
 Poliziesco, Drammatico

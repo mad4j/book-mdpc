@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/mib/
+---
 # Men in Black (1997)
 
 Avventura, Commedia, Ragazzi

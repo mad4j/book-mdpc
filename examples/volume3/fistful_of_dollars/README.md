@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/fistful_of_dollars/
+---
 # A Fistful of Dollars (1964)
 
 Western

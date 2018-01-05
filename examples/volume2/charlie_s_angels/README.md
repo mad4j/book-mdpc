@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/charlie_s_angels/
+---
 # Charlie's Angels (2000)
 
 Azione, Avventura, Commedia

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/fifty_shades_of_grey/
+---
 # Fifty Shades of Grey (2015)
 
 Drammatico, Sentimentale, Giallo

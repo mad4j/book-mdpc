@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/coraline/
+---
 # Coraline (2009)
 
 Animazione, Ragazzi, Fantascico

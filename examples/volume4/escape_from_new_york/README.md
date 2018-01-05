@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/escape_from_new_york/
+---
 # Escape from New York (1981)
 
 Azione, Fantascienza

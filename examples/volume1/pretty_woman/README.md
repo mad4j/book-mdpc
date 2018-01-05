@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/pretty_woman/
+---
 # Pretty Woman (1990)
 
 Commedia, Sentimentale

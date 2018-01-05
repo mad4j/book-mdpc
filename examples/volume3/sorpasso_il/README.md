@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/sorpasso_il/
+---
 # Il Sorpasso (1962)
 
 Commedia, Drammatico

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/cat_s_eye/
+---
 # Cat's Eye (1985)
 
 Commedia, Orrore, Giallo

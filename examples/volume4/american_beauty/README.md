@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/american_beauty/
+---
 # American Beauty (1999)
 
 Drammatico, Sentimentale

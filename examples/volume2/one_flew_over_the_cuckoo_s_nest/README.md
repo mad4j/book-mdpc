@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/one_flew_over_the_cuckoo_s_nest/
+---
 # One Flew Over the Cuckoo's Nest (1975)
 
 Drammatico

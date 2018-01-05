@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/iron_man/
+---
 # Iron Man (2008)
 
 Azione, Avventura, Fantascienza

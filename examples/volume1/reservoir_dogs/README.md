@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/reservoir_dogs/
+---
 # Reservoir Dogs (1992)
 
 Poliziesco, Drammatico, Giallo

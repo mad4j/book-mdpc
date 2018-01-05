@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/birds_the/
+---
 # The Birds (1963)
 
 Drammatico, Orrore, Mystery

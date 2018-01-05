@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/tonari_no_totoro/
+---
 # My Neighbor Totoro (1988)
 
 Animazione, Ragazzi, Fantascico

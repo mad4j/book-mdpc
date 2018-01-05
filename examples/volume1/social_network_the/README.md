@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/social_network_the/
+---
 # The Social Network (2010)
 
 Biografico, Drammatico

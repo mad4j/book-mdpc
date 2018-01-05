@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/six_days_seven_nights/
+---
 # Six Days Seven Nights (1998)
 
 Azione, Avventura, Commedia

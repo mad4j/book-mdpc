@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/dune/
+---
 # Dune (1984)
 
 Azione, Avventura, Fantascienza

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/blood_diamond/
+---
 # Blood Diamond (2006)
 
 Avventura, Drammatico, Giallo

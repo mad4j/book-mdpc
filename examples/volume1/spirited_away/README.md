@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/spirited_away/
+---
 # Spirited Away (2001)
 
 Animazione, Avventura, Ragazzi

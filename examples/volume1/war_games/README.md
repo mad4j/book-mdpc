@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/war_games/
+---
 # WarGames (1983)
 
 Fantascienza, Giallo

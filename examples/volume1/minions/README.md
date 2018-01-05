@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/minions/
+---
 # Minions (2015)
 
 Animazione, Azione, Avventura

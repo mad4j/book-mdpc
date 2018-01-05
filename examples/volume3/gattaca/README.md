@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/gattaca/
+---
 # Gattaca (1997)
 
 Drammatico, Fantascienza, Giallo

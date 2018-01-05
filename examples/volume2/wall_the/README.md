@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/wall_the/
+---
 # Pink Floyd: The Wall (1982)
 
 Animazione, Drammatico, Fantascico

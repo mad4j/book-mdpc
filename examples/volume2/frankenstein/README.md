@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/frankenstein/
+---
 # Frankenstein (1931)
 
 Drammatico, Orrore, Fantascienza

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/kill_bill/
+---
 # Kill Bill: Vol. 1 (2003)
 
 Azione, Poliziesco, Giallo

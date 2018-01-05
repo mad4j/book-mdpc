@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/cars/
+---
 # Cars (2006)
 
 Animazione, Avventura, Commedia

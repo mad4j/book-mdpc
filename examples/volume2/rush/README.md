@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/rush/
+---
 # Rush (2013)
 
 Azione, Biografico, Drammatico

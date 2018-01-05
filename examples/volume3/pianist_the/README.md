@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/pianist_the/
+---
 # The Pianist (2002)
 
 Biografico, Drammatico, Guerra

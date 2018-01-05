@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/profondo_rosso/
+---
 # Deep Red (1975)
 
 Orrore, Mystery, Giallo

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/modern_times/
+---
 # Modern Times (1936)
 
 Commedia, Drammatico, Ragazzi

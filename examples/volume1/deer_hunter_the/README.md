@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/deer_hunter_the/
+---
 # The Deer Hunter (1978)
 
 Drammatico, Guerra

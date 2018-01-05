@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/black_hole_the/
+---
 # The Black Hole (1979)
 
 Azione, Fantascienza

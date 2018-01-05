@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/suicide_squad/
+---
 # Suicide Squad (2016)
 
 Azione, Avventura, Fantascico

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/bee_movie/
+---
 # Bee Movie (2007)
 
 Animazione, Avventura, Commedia

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/alien/
+---
 # Alien (1979)
 
 Orrore, Fantascienza

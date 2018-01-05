@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/one_hundred_and_one_dalmatians/
+---
 # 101 Dalmatians (1961)
 
 Animazione, Avventura, Commedia

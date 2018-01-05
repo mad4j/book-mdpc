@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/gandhi/
+---
 # Gandhi (1982)
 
 Biografico, Drammatico, Storico

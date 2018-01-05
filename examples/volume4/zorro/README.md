@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/zorro/
+---
 # Zorro (1975)
 
 Azione, Avventura, Commedia

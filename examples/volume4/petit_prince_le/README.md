@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/petit_prince_le/
+---
 # The Little Prince (2015)
 
 Animazione, Avventura, Drammatico

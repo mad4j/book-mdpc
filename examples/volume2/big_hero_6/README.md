@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/big_hero_6/
+---
 # Big Hero 6 (2014)
 
 Animazione, Azione, Avventura
@@ -14,18 +17,21 @@ The special bond that develops between plus-sized inflatable robot Baymax, and p
 ## Il codice
 ```processing
 
-// Manuale di Programmazione Cinematografica
+// Manuale di Programmazione Cinematografica - Volume 2
 // Daniele Olmisani, 2015
 
 // Big Hero 6
 
+
 final color PAPER = color(245);
 final color INK = color(30);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   

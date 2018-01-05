@@ -51,7 +51,7 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
 
     # do not overwrite existing readme file
     if [ -f $OUTPUT_FILE ]; then
-        echo "[BUILDPAGES] skipping `basename $TMP` on '$TMP' ..."
+        echo "[BUILDPAGES] skipping '`basename $TMP`' ..."
         continue
     fi
 
@@ -62,6 +62,8 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
     GENRE="`jq -r .Genre $INFO_FILE`"
     URL="https://www.imdb.com/title/`jq -r .imdbID $INFO_FILE`/"
     DESCRIPTION="`jq -r .Plot $INFO_FILE`"
+
+    LINK="\/$TARGET\/"$(basename $(dirname $TMP))"\/"$(basename $TMP)"\/"
 
     # look for projec files
     SNIPPET=`ls *.pde`
@@ -87,9 +89,10 @@ for f in $(find $ROOT/$TARGET -name $INFO_FILE); do
     GENRE="${GENRE/Erotic/Erotico}"
     GENRE="${GENRE/Mistery/Mistero}" 
 
-    echo "[BUILDPAGES] processing `basename $TMP` ..."
+    echo "[BUILDPAGES] processing '`basename $TMP`' ..."
     
     sed -e "s/##TITLE##/$TITLE/" \
+      -e "s/##LINK##/$LINK/" \
       -e "s/##YEAR##/$YEAR/" \
       -e "s/##GENRE##/$GENRE/" \
       -e "s/##DESCRIPTION##/$DESCRIPTION/" \

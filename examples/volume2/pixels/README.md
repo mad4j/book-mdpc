@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/pixels/
+---
 # Pixels (2015)
 
 Azione, Commedia, Fantascienza

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/batman/
+---
 # Batman (1989)
 
 Azione, Avventura

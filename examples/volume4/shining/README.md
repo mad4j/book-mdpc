@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/shining/
+---
 # The Shining (1980)
 
 Drammatico, Orrore

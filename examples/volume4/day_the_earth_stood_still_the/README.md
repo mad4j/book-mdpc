@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/day_the_earth_stood_still_the/
+---
 # The Day the Earth Stood Still (1951)
 
 Drammatico, Fantascienza

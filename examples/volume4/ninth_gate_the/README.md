@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/ninth_gate_the/
+---
 # The Ninth Gate (1999)
 
 Mystery, Giallo
@@ -13,7 +16,7 @@ A rare book dealer, while seeking out the last two copies of a demon text, gets 
 
 ## Il codice
 ```processing
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // The Ninth Gate (1999)
@@ -23,9 +26,9 @@ final color PAPER = color(0);
 final color INK = color(250, 180, 50);
 
 final float A = TWO_PI / 5;
-final float R = 0.3;
-final float L = 0.05;
-final float D = L / tan(0.25*A);
+final float T = 0.05;
+final float L1 = 0.4;
+final float L2 = L1 - (T / tan(0.25*A));
 
 
 void setup() {
@@ -37,7 +40,9 @@ void setup() {
 void draw() {
   
   final float S =  min(width, height);
-  final float U = 0.002;  
+  final float U = 0.002;
+  
+  final float D = 100*T*U;
   
   translate(0.5*width, 0.5*height);
   scale(S);
@@ -48,19 +53,19 @@ void draw() {
   
     noStroke();
     fill(PAPER);
-    quad(-R, 0.0, 0.0, 0.0, 0.0, L, -R-D, L);
+    quad(L2, 0, 0, 0, 0, T, L1, T);
     
     stroke(INK);
-    strokeWeight(5*U);
-    line(-R, 0.0, 0.0, 0.0);
-    line(-R-D, L, +0.0, L);
+    strokeWeight(D);
+    line(L2, 0, 0, 0);
+    line(L1, T, 0, T);
     
     scale(-1, 1);
     
     if (i%2 != 0) {
-      translate(-R, 0.0);
-      rotate(2*A);
-      translate(-R, 0.0);
+      translate(L2+0.5*D, 0);
+      rotate(-2*A);
+      translate(L2+0.5*D, 0);
     }
   } 
 

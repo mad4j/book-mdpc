@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/inside_out/
+---
 # Inside Out (2015)
 
 Animazione, Avventura, Commedia

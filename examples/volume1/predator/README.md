@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/predator/
+---
 # Predator (1987)
 
 Azione, Fantascienza, Giallo

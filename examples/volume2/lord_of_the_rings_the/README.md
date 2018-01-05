@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/lord_of_the_rings_the/
+---
 # The Lord of the Rings (1978)
 
 Animazione, Avventura, Fantascico

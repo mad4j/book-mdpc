@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/captain_america/
+---
 # Captain America: The First Avenger (2011)
 
 Azione, Avventura, Fantascienza

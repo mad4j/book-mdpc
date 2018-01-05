@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/love_story/
+---
 # Love Story (1970)
 
 Drammatico, Sentimentale

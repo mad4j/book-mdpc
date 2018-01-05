@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume5/star_trek/
+---
 # Star Trek: The Motion Picture (1979)
 
 Avventura, Mystery, Fantascienza

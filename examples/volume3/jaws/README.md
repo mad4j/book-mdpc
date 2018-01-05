@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/jaws/
+---
 # Jaws (1975)
 
 Avventura, Drammatico, Giallo

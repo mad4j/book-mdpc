@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/finding_nemo/
+---
 # Finding Nemo (2003)
 
 Animazione, Avventura, Commedia

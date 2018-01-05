@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/love_bug_the/
+---
 # The Love Bug (1968)
 
 Commedia, Ragazzi, Sportivo

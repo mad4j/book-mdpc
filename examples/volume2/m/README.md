@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/m/
+---
 # M (1931)
 
 Poliziesco, Drammatico, Mystery

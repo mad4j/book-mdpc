@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/slumdog_millionaire/
+---
 # Slumdog Millionaire (2008)
 
 Drammatico

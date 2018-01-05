@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/spiderman/
+---
 # Spider-Man (2002)
 
 Azione, Avventura

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/frozen/
+---
 # Frozen (2013)
 
 Animazione, Avventura, Commedia

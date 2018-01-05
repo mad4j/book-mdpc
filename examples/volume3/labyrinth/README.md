@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/labyrinth/
+---
 # Labyrinth (1986)
 
 Avventura, Ragazzi, Fantascico

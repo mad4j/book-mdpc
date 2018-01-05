@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/fast_and_the_furious_the/
+---
 # The Fast and the Furious (2001)
 
 Azione, Poliziesco, Giallo

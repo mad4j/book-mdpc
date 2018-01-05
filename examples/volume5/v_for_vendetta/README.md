@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume5/v_for_vendetta/
+---
 # V for Vendetta (2005)
 
 Azione, Drammatico, Fantascienza

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/monsters_inc/
+---
 # Monsters, Inc. (2001)
 
 Animazione, Avventura, Commedia

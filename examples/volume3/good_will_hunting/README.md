@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/good_will_hunting/
+---
 # Good Will Hunting (1997)
 
 Drammatico

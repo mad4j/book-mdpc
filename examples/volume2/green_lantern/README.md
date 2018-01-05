@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/green_lantern/
+---
 # Green Lantern (2011)
 
 Azione, Avventura, Fantascienza

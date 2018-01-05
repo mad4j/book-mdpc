@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/signs/
+---
 # Signs (2002)
 
 Drammatico, Mystery, Fantascienza

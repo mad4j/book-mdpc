@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/close_encounters_of_the_third_kind/
+---
 # Close Encounters of the Third Kind (1977)
 
 Drammatico, Fantascienza

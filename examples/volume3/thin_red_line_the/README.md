@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/thin_red_line_the/
+---
 # The Thin Red Line (1998)
 
 Drammatico, Guerra

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/et_the_extra_terrestrial/
+---
 # E.T. the Extra-Terrestrial (1982)
 
 Ragazzi, Fantascienza

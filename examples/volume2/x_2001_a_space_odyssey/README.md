@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/x_2001_a_space_odyssey/
+---
 # 2001: A Space Odyssey (1968)
 
 Avventura, Fantascienza

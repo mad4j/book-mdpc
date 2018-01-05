@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/peanuts_movie_the/
+---
 # The Peanuts Movie (2015)
 
 Animazione, Avventura, Commedia

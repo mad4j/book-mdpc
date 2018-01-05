@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/creed/
+---
 # Creed (2015)
 
 Drammatico, Sportivo

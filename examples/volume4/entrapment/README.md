@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/entrapment/
+---
 # Entrapment (1999)
 
 Azione, Poliziesco, Sentimentale

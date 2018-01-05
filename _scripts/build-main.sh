@@ -35,7 +35,7 @@ function build_index {
 
     TITLE="`jq -r .Title $INFO_FILE`"
 
-    echo "<a href=\"$SOURCE/$1/$NAME/README.md\">" >> $INDEX_FILE
+    echo "<a href=\"$SOURCE/$1/$NAME/\">" >> $INDEX_FILE
     echo "    <img src=\"$SOURCE/$1/$NAME/$POSTER\" width=\"120px\" title=\"$TITLE\"/>" >> $INDEX_FILE
     echo "</a>" >> $INDEX_FILE
     let COUNTER=COUNTER+1

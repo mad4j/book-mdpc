@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/ice_age/
+---
 # Ice Age (2002)
 
 Animazione, Avventura, Commedia

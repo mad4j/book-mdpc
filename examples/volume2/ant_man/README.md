@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/ant_man/
+---
 # Ant-Man (2015)
 
 Azione, Avventura, Commedia
@@ -13,7 +16,7 @@ Armed with a super-suit with the astonishing ability to shrink in scale but incr
 
 ## Il codice
 ```processing
-// Manuale di Programmazione Cinematografica
+// Manuale di Programmazione Cinematografica - Volume 2
 // Daniele Olmisani, 2016
 
 // Ant Man

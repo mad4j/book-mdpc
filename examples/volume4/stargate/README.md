@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/stargate/
+---
 # Stargate (1994)
 
 Azione, Avventura, Fantascienza

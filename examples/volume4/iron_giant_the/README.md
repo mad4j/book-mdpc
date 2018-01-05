@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/iron_giant_the/
+---
 # The Iron Giant (1999)
 
 Animazione, Azione, Avventura
@@ -18,16 +21,19 @@ A young boy befriends a giant robot from outer space that a paranoid government 
 
 // The Iron Giant (1999)
 
-final color PAPER = color(110, 190, 190);
-final color INK = color(20, 5, 60);
 
-final float L1 = 0.7;
-final float L2 = 0.6*L1;
+final color PAPER = color(235, 135, 85);
+final color INK1 = color(60, 45, 35);
+final color INK2 = color(255, 255, 205);
+
+final float L = 0.7;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -38,22 +44,22 @@ void draw() {
   scale(S);
   
   background(PAPER);
-  strokeWeight(4*U);
+  strokeWeight(3*U);
   
-  fill(INK);
+  fill(INK1);
 
   noStroke();
   rectMode(CENTER);
-  rect(0, 0, L1, L2);
-  ellipse(0, -0.5*L2, L1, L1);
+  rect(0, 0, L, 0.6*L);
+  ellipse(0, -0.3*L, L, L);
   
-  fill(PAPER);
-  ellipse(-0.4*L2, -0.4*L2, 0.3*L1, 0.3*L1);
-  ellipse( 0.4*L2, -0.4*L2, 0.3*L1, 0.3*L1);
+  fill(INK2);
+  ellipse(-0.24*L, -0.24*L, 0.3*L, 0.3*L);
+  ellipse( 0.24*L, -0.24*L, 0.3*L, 0.3*L);
   
-  fill(INK);
+  fill(INK1);
   stroke(PAPER);
-  quad(0, -0.4*L2, -0.15*L2, -0.8*L1, 0, -0.9*L1, 0.15*L2, -0.8*L1);
+  quad(0, 0, -0.1*L, -0.8*L, 0, -0.9*L, 0.1*L, -0.8*L);
   
   save("the-iron-giant.png");
 }

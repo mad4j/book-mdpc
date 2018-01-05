@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/hazzard/
+---
 # Hazzard (2012)
 
 Documentary, Short, Mystery

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/speed/
+---
 # Speed (1994)
 
 Azione, Avventura, Poliziesco
@@ -18,17 +21,21 @@ A young police officer must prevent a bomb exploding aboard a city bus by keepin
 
 // Speed
 
+
 final color PAPER = color(0);
 final color INK1 = color(255);
 final color INK2 = color(255, 0, 0);
 
+
 final int NOTCHES = 16;
 final float TAILS = PI/8.0;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -52,5 +59,4 @@ void draw() {
   
   save("speed.png");
 }
-
 ```

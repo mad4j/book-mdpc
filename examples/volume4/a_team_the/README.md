@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/a_team_the/
+---
 # The A-Team (2010)
 
 Azione, Avventura, Commedia

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/harry_potter_and_the_deathly_hallows/
+---
 # Harry Potter and the Deathly Hallows: Part 1 (2010)
 
 Avventura, Ragazzi, Fantascico

@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/star_wars_the_force_awakens/
+---
 # Star Wars: The Force Awakens (2015)
 
 Azione, Avventura, Fantascico

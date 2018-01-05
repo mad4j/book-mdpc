@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/from_dusk_till_dawn/
+---
 # From Dusk Till Dawn (1996)
 
 Azione, Poliziesco, Orrore

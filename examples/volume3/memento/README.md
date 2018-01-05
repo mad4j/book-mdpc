@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/memento/
+---
 # Memento (2000)
 
 Mystery, Giallo

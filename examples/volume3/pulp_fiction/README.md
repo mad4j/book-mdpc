@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/pulp_fiction/
+---
 # Pulp Fiction (1994)
 
 Poliziesco, Drammatico

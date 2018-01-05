@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume4/thor/
+---
 # Thor (2011)
 
 Azione, Avventura, Fantascico

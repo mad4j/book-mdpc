@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume3/speed_racer/
+---
 # Speed Racer (2008)
 
 Azione, Ragazzi, Fantascienza

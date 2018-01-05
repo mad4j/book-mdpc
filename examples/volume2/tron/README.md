@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume2/tron/
+---
 # TRON (1982)
 
 Azione, Avventura, Fantascienza

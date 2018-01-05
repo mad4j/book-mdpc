@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume1/star_wars/
+---
 # Star Wars: Episode IV - A New Hope (1977)
 
 Azione, Avventura, Fantascico
