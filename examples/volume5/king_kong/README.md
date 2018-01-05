@@ -1,3 +1,6 @@
+---
+permalink: /examples/volume5/king_kong/
+---
 # King Kong (1933)
 
 Avventura, Orrore, Fantascienza
@@ -14,7 +17,7 @@ A film crew goes to a tropical island for an exotic location shoot and discovers
 ## Il codice
 ```processing
 // Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 201
+// Daniele Olmisani, 2018
 
 // King Kong (1933)
 
@@ -60,10 +63,12 @@ void draw() {
   
   pushMatrix();
   translate(-0.085, 0.22);
+  rotate(0.1*QUARTER_PI);
   drawHand();
   
   popMatrix();
   translate(0.085, 0.32);
+  rotate(-0.1*QUARTER_PI);
   drawHand();
   
   save("king-kong.png");
@@ -77,8 +82,8 @@ void drawHand() {
   
   rectMode(CENTER);
   
-  rect(0, 0.00, 0.07, 0.03, 0.04);
-  rect(0, 0.03, 0.07, 0.03, 0.04);
-  rect(0, 0.06, 0.07, 0.03, 0.04);
+  rect(0.00, 0.00, 0.07, 0.03, 0.04);
+  rect(0.00, 0.03, 0.07, 0.03, 0.04);
+  rect(0.00, 0.06, 0.07, 0.03, 0.04);
 }
 ```
