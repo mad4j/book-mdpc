@@ -1,5 +1,5 @@
 ---
-permalink: /book-mdpc/examples/volume1/alice_in_wonderland/
+permalink: /examples/volume1/alice_in_wonderland/
 ---
 # Alice in Wonderland (1951)
 
