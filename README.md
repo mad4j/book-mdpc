@@ -1,5 +1,5 @@
 # Manuale di Programmazione Cinematografica
-> In cinema tra le righe... di codice
+> Il cinema tra le righe... di codice
 
 Minimalist movie posters generated using Processing programming language.
 
