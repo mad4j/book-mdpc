@@ -4,6 +4,7 @@
 
 - - -
 
+image::assets/docs/alice-in-wonderland.png[align="center"]
 
 
 <<<
@@ -12,6 +13,7 @@
 
 ----
 
+include::assets/docs/alice_in_wonderland.pde[]
 
 ----
 
@@ -22,6 +24,7 @@
 
 - - -
 
+image::assets/docs/blood-diamond.png[align="center"]
 
 
 <<<
@@ -30,6 +33,7 @@
 
 ----
 
+include::assets/docs/blood_diamond.pde[]
 
 ----
 
@@ -40,6 +44,7 @@
 
 - - -
 
+image::assets/docs/cars.png[align="center"]
 
 
 <<<
@@ -48,6 +53,7 @@
 
 ----
 
+include::assets/docs/cars.pde[]
 
 ----
 
@@ -58,6 +64,7 @@
 
 - - -
 
+image::assets/docs/cat's-eye.png[align="center"]
 
 
 <<<
@@ -66,6 +73,7 @@
 
 ----
 
+include::assets/docs/cat_s_eye.pde[]
 
 ----
 
@@ -76,6 +84,7 @@
 
 - - -
 
+image::assets/docs/coraline.png[align="center"]
 
 
 <<<
@@ -84,6 +93,7 @@
 
 ----
 
+include::assets/docs/coraline.pde[]
 
 ----
 
@@ -94,6 +104,7 @@
 
 - - -
 
+image::assets/docs/the-deer-hunter.png[align="center"]
 
 
 <<<
@@ -102,6 +113,7 @@
 
 ----
 
+include::assets/docs/deer_hunter_the.pde[]
 
 ----
 
@@ -112,6 +124,7 @@
 
 - - -
 
+image::assets/docs/dr-strangelove.png[align="center"]
 
 
 <<<
@@ -120,6 +133,7 @@
 
 ----
 
+include::assets/docs/dr_strangelove.pde[]
 
 ----
 
@@ -130,6 +144,7 @@
 
 - - -
 
+image::assets/docs/fifty-shades-of-grey.png[align="center"]
 
 
 <<<
@@ -138,6 +153,7 @@
 
 ----
 
+include::assets/docs/fifty_shades_of_grey.pde[]
 
 ----
 
@@ -148,6 +164,7 @@
 
 - - -
 
+image::assets/docs/finding-nemo.png[align="center"]
 
 
 <<<
@@ -156,6 +173,7 @@
 
 ----
 
+include::assets/docs/finding_nemo.pde[]
 
 ----
 
@@ -166,6 +184,7 @@
 
 - - -
 
+image::assets/docs/frozen.png[align="center"]
 
 
 <<<
@@ -174,6 +193,7 @@
 
 ----
 
+include::assets/docs/frozen.pde[]
 
 ----
 
@@ -184,6 +204,7 @@
 
 - - -
 
+image::assets/docs/harry-potter-and-the-deathly-hallows.png[align="center"]
 
 
 <<<
@@ -192,6 +213,7 @@
 
 ----
 
+include::assets/docs/harry_potter_and_the_deathly_hallows.pde[]
 
 ----
 
@@ -202,6 +224,7 @@
 
 - - -
 
+image::assets/docs/iron-man.png[align="center"]
 
 
 <<<
@@ -210,6 +233,7 @@
 
 ----
 
+include::assets/docs/iron_man.pde[]
 
 ----
 
@@ -220,6 +244,7 @@
 
 - - -
 
+image::assets/docs/love-story.png[align="center"]
 
 
 <<<
@@ -228,6 +253,7 @@
 
 ----
 
+include::assets/docs/love_story.pde[]
 
 ----
 
@@ -238,6 +264,7 @@
 
 - - -
 
+image::assets/docs/minions.png[align="center"]
 
 
 <<<
@@ -246,6 +273,7 @@
 
 ----
 
+include::assets/docs/minions.pde[]
 
 ----
 
@@ -256,6 +284,7 @@
 
 - - -
 
+image::assets/docs/one-hundred-and-one-dalmatians.png[align="center"]
 
 
 <<<
@@ -264,6 +293,7 @@
 
 ----
 
+include::assets/docs/one_hundred_and_one_dalmatians.pde[]
 
 ----
 
@@ -274,6 +304,7 @@
 
 - - -
 
+image::assets/docs/the-peanuts-movie.png[align="center"]
 
 
 <<<
@@ -282,6 +313,7 @@
 
 ----
 
+include::assets/docs/peanuts_movie_the.pde[]
 
 ----
 
@@ -292,6 +324,7 @@
 
 - - -
 
+image::assets/docs/predator.png[align="center"]
 
 
 <<<
@@ -300,6 +333,7 @@
 
 ----
 
+include::assets/docs/predator.pde[]
 
 ----
 
@@ -310,6 +344,7 @@
 
 - - -
 
+image::assets/docs/pretty-woman.png[align="center"]
 
 
 <<<
@@ -318,6 +353,7 @@
 
 ----
 
+include::assets/docs/pretty_woman.pde[]
 
 ----
 
@@ -328,6 +364,7 @@
 
 - - -
 
+image::assets/docs/profondo-rosso.png[align="center"]
 
 
 <<<
@@ -336,6 +373,7 @@
 
 ----
 
+include::assets/docs/profondo_rosso.pde[]
 
 ----
 
@@ -346,6 +384,7 @@
 
 - - -
 
+image::assets/docs/reservoir-dogs.png[align="center"]
 
 
 <<<
@@ -354,6 +393,7 @@
 
 ----
 
+include::assets/docs/reservoir_dogs.pde[]
 
 ----
 
@@ -364,6 +404,7 @@
 
 - - -
 
+image::assets/docs/the-social-network.png[align="center"]
 
 
 <<<
@@ -372,6 +413,7 @@
 
 ----
 
+include::assets/docs/social_network_the.pde[]
 
 ----
 
@@ -382,6 +424,7 @@
 
 - - -
 
+image::assets/docs/spirited-away.png[align="center"]
 
 
 <<<
@@ -390,6 +433,7 @@
 
 ----
 
+include::assets/docs/spirited_away.pde[]
 
 ----
 
@@ -400,6 +444,7 @@
 
 - - -
 
+image::assets/docs/star-wars.png[align="center"]
 
 
 <<<
@@ -408,6 +453,7 @@
 
 ----
 
+include::assets/docs/star_wars.pde[]
 
 ----
 
@@ -418,6 +464,7 @@
 
 - - -
 
+image::assets/docs/war-games.png[align="center"]
 
 
 <<<
@@ -426,6 +473,7 @@
 
 ----
 
+include::assets/docs/war_games.pde[]
 
 ----
 
