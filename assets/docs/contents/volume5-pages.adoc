@@ -4,18 +4,16 @@
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/back_to_the_future/back-to-the-future.png[align="center"]
+image::assets/docs/back-to-the-future.png[align="center"]
 
 
 <<<
-
-.back_to_the_future.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/back_to_the_future/back_to_the_future.pde[]
+include::assets/docs/back_to_the_future.pde[]
 
 ----
 
@@ -26,18 +24,16 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/back_t
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/king_kong/king-kong.png[align="center"]
+image::assets/docs/king-kong.png[align="center"]
 
 
 <<<
-
-.king_kong.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/king_kong/king_kong.pde[]
+include::assets/docs/king_kong.pde[]
 
 ----
 
@@ -48,18 +44,16 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/king_k
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/star_trek/star-trek.png[align="center"]
+image::assets/docs/star-trek.png[align="center"]
 
 
 <<<
-
-.star_trek.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/star_trek/star_trek.pde[]
+include::assets/docs/star_trek.pde[]
 
 ----
 
@@ -70,18 +64,16 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/star_t
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/v_for_vendetta/v-for-vendetta.png[align="center"]
+image::assets/docs/v-for-vendetta.png[align="center"]
 
 
 <<<
-
-.v_for_vendetta.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume5/v_for_vendetta/v_for_vendetta.pde[]
+include::assets/docs/v_for_vendetta.pde[]
 
 ----
 

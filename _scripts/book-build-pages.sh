@@ -4,7 +4,8 @@ LABEL=BUILDPAGES
 
 SOURCE=examples
 INFO_FILE=info.json
-OUTPUT=assets/docs/contents
+BASE=assets/docs
+OUTPUT=$BASE/contents
 
 ROOT=`pwd`
 
@@ -21,7 +22,7 @@ fi
 
 echo "[$LABEL] root folder '$(basename $ROOT)'..."
 
-# remove old output
+# create output folder, if needed
 mkdir -p $ROOT/$OUTPUT/
 
 for d in $(find $ROOT/$SOURCE -mindepth 1 -maxdepth 1 -type d); do
@@ -50,12 +51,12 @@ for d in $(find $ROOT/$SOURCE -mindepth 1 -maxdepth 1 -type d); do
 
         echo -e "\n=== $TITLE" >> $DOCFILE
         echo -e "\n- - -" >> $DOCFILE
-        echo -e "\nimage::$image[align=\"center\"]" >> $DOCFILE
+        echo -e "\nimage::$BASE/$(basename $image)[align=\"center\"]" >> $DOCFILE
         echo -e "\n\n<<<" >> $DOCFILE
-        echo -e "\n.$(basename $code)" >> $DOCFILE
+#       echo -e "\n.$(basename $code)" >> $DOCFILE
         echo -e "\n[source,java]" >> $DOCFILE
         echo -e "\n----" >> $DOCFILE
-        echo -e "\ninclude::$code[]" >> $DOCFILE
+        echo -e "\ninclude::$BASE/$(basename $code)[]" >> $DOCFILE
         echo -e "\n----" >> $DOCFILE
         echo -e "\n\n<<<" >> $DOCFILE
 

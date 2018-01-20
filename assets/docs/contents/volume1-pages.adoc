@@ -4,18 +4,14 @@
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/alice_in_wonderland/alice-in-wonderland.png[align="center"]
 
 
 <<<
-
-.alice_in_wonderland.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/alice_in_wonderland/alice_in_wonderland.pde[]
 
 ----
 
@@ -26,18 +22,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/alice_
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/blood_diamond/blood-diamond.png[align="center"]
 
 
 <<<
-
-.blood_diamond.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/blood_diamond/blood_diamond.pde[]
 
 ----
 
@@ -48,18 +40,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/blood_
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/cars/cars.png[align="center"]
 
 
 <<<
-
-.cars.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/cars/cars.pde[]
 
 ----
 
@@ -70,18 +58,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/cars/c
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/cat_s_eye/cat's-eye.png[align="center"]
 
 
 <<<
-
-.cat_s_eye.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/cat_s_eye/cat_s_eye.pde[]
 
 ----
 
@@ -92,18 +76,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/cat_s_
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/coraline/coraline.png[align="center"]
 
 
 <<<
-
-.coraline.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/coraline/coraline.pde[]
 
 ----
 
@@ -114,18 +94,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/corali
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/deer_hunter_the/the-deer-hunter.png[align="center"]
 
 
 <<<
-
-.deer_hunter_the.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/deer_hunter_the/deer_hunter_the.pde[]
 
 ----
 
@@ -136,18 +112,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/deer_h
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/dr_strangelove/dr-strangelove.png[align="center"]
 
 
 <<<
-
-.dr_strangelove.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/dr_strangelove/dr_strangelove.pde[]
 
 ----
 
@@ -158,18 +130,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/dr_str
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/fifty_shades_of_grey/fifty-shades-of-grey.png[align="center"]
 
 
 <<<
-
-.fifty_shades_of_grey.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/fifty_shades_of_grey/fifty_shades_of_grey.pde[]
 
 ----
 
@@ -180,18 +148,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/fifty_
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/finding_nemo/finding-nemo.png[align="center"]
 
 
 <<<
-
-.finding_nemo.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/finding_nemo/finding_nemo.pde[]
 
 ----
 
@@ -202,18 +166,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/findin
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/frozen/frozen.png[align="center"]
 
 
 <<<
-
-.frozen.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/frozen/frozen.pde[]
 
 ----
 
@@ -224,18 +184,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/frozen
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/harry_potter_and_the_deathly_hallows/harry-potter-and-the-deathly-hallows.png[align="center"]
 
 
 <<<
-
-.harry_potter_and_the_deathly_hallows.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/harry_potter_and_the_deathly_hallows/harry_potter_and_the_deathly_hallows.pde[]
 
 ----
 
@@ -246,18 +202,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/harry_
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/iron_man/iron-man.png[align="center"]
 
 
 <<<
-
-.iron_man.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/iron_man/iron_man.pde[]
 
 ----
 
@@ -268,18 +220,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/iron_m
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/love_story/love-story.png[align="center"]
 
 
 <<<
-
-.love_story.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/love_story/love_story.pde[]
 
 ----
 
@@ -290,18 +238,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/love_s
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/minions/minions.png[align="center"]
 
 
 <<<
-
-.minions.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/minions/minions.pde[]
 
 ----
 
@@ -312,18 +256,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/minion
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/one_hundred_and_one_dalmatians/one-hundred-and-one-dalmatians.png[align="center"]
 
 
 <<<
-
-.one_hundred_and_one_dalmatians.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/one_hundred_and_one_dalmatians/one_hundred_and_one_dalmatians.pde[]
 
 ----
 
@@ -334,18 +274,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/one_hu
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/peanuts_movie_the/the-peanuts-movie.png[align="center"]
 
 
 <<<
-
-.peanuts_movie_the.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/peanuts_movie_the/peanuts_movie_the.pde[]
 
 ----
 
@@ -356,18 +292,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/peanut
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/predator/predator.png[align="center"]
 
 
 <<<
-
-.predator.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/predator/predator.pde[]
 
 ----
 
@@ -378,18 +310,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/predat
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/pretty_woman/pretty-woman.png[align="center"]
 
 
 <<<
-
-.pretty_woman.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/pretty_woman/pretty_woman.pde[]
 
 ----
 
@@ -400,18 +328,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/pretty
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/profondo_rosso/profondo-rosso.png[align="center"]
 
 
 <<<
-
-.profondo_rosso.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/profondo_rosso/profondo_rosso.pde[]
 
 ----
 
@@ -422,18 +346,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/profon
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/reservoir_dogs/reservoir-dogs.png[align="center"]
 
 
 <<<
-
-.reservoir_dogs.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/reservoir_dogs/reservoir_dogs.pde[]
 
 ----
 
@@ -444,18 +364,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/reserv
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/social_network_the/the-social-network.png[align="center"]
 
 
 <<<
-
-.social_network_the.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/social_network_the/social_network_the.pde[]
 
 ----
 
@@ -466,18 +382,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/social
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/spirited_away/spirited-away.png[align="center"]
 
 
 <<<
-
-.spirited_away.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/spirited_away/spirited_away.pde[]
 
 ----
 
@@ -488,18 +400,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/spirit
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/star_wars/star-wars.png[align="center"]
 
 
 <<<
-
-.star_wars.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/star_wars/star_wars.pde[]
 
 ----
 
@@ -510,18 +418,14 @@ include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/star_w
 
 - - -
 
-image::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/war_games/war-games.png[align="center"]
 
 
 <<<
-
-.war_games.pde
 
 [source,java]
 
 ----
 
-include::/mnt/c/Users/Daniele/Documents/GitHub/book-mdpc/examples/volume1/war_games/war_games.pde[]
 
 ----
 
