@@ -19,7 +19,8 @@ Cousins Bo, Luke, and Daisy Duke, and their uncle Jesse, egg on the authorities 
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Hazzard
+// The Dukes of Hazzard (2005)
+
 
 final color PAPER = color(250, 0, 0);
 final color INK1 = color(255);
@@ -27,10 +28,12 @@ final color INK2 = color(15, 0, 100);
 
 final int S = 8;
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
