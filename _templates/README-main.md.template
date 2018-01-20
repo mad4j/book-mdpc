@@ -9,6 +9,8 @@ This collection of code snippets will be included in my book "Manuale di Program
 
 See also the complete project [filmography](filmography.tsv).
 
+This project is hosted and maintained on [GitHub](https://github.com/mad4j/book-mdpc).
+
 
 ## Last Release
 Use PDE `File -> Examples... -> Add examples` or follow these links to manually download MdPC code sketches:
