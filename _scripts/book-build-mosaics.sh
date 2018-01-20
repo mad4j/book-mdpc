@@ -25,7 +25,8 @@ mkdir -p $ROOT/$OUTPUT/
 for d in $(find $ROOT/$SOURCE -mindepth 1 -maxdepth 1 -type d); do
     v=$(basename $d)
     echo "[BUIDMOSAICS] working on $v..."
-    montage `find $d -name *.png -type f` -geometry 120x160+0+0 $ROOT/$OUTPUT/$v-mosaic.png
+#   montage `find $d -name *.png -type f` -geometry 120x160+0+0 $ROOT/$OUTPUT/$v-mosaic.png
+    montage `find $d -name *.png -type f` -geometry +0+0 $ROOT/$OUTPUT/$v-mosaic.png
 done
 
 
