@@ -1,6 +1,8 @@
 # Manuale di Programmazione Cinematografica
 > Il cinema tra le righe... di codice
 
+__by Daniele Olmisani <daniele.olmisani@gmail.com>__
+
 Minimalist movie posters generated using Processing programming language.
 
 This collection of code snippets will be included in my book "Manuale di Programmazione Cinematografica". A survey of computer programming exercises using Java and Processing.
