@@ -34,7 +34,7 @@ Questa sezione...
 
 <<<
 
-include::assets/docs/contents/volume1-content.adoc[]
+include::assets/docs/contents/volume1-pages.adoc[]
 
 
 <<<
@@ -43,7 +43,7 @@ include::assets/docs/contents/volume1-content.adoc[]
 Questa sezione contiene informazioni riguardanti i film citati in questo libro.
 Gran parte dei dati riportati sono stati riportati dal sito IMDB.
 
-include::filmography.adoc[]
+include::assets/docs/contents/volume1-filmography.adoc[]
 
 <<<
 == Riferimenti
