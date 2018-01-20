@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOURCE=examples
-OUTPUT=_mosaics
+OUTPUT=assets/docs/figures
 
 ROOT=`pwd`
 
@@ -18,16 +18,15 @@ fi
 
 echo "[BUIDMOSAICS] root folder '$(basename $ROOT)'..."
 
-# remove old output
-rm -fr $ROOT/$OUTPUT/
+# create output folder, if needed
 mkdir -p $ROOT/$OUTPUT/
 
 for d in $(find $ROOT/$SOURCE -mindepth 1 -maxdepth 1 -type d); do
     v=$(basename $d)
+    OUTFILE=$ROOT/$OUTPUT/$v-mosaic.png
+    rm -f $OUTFILE
     echo "[BUIDMOSAICS] working on $v..."
-#   montage `find $d -name *.png -type f` -geometry 120x160+0+0 $ROOT/$OUTPUT/$v-mosaic.png
-    montage `find $d -name *.png -type f` -geometry +0+0 $ROOT/$OUTPUT/$v-mosaic.png
+    montage `find $d -name *.png -type f` -geometry +0+0 $OUTFILE
 done
-
 
 echo "[BUIDMOSAIC] ... DONE"
