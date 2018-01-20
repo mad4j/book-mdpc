@@ -1,0 +1,40 @@
+{
+  "Title": "The Dukes of Hazzard",
+  "Year": "2005",
+  "Rated": "PG-13",
+  "Released": "05 Aug 2005",
+  "Runtime": "104 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "Jay Chandrasekhar",
+  "Writer": "John O'Brien (screenplay), John O'Brien (story), Jonathan L. Davis (story), Gy Waldron (characters)",
+  "Actors": "Johnny Knoxville, Seann William Scott, Alice Greczyn, Steve Lemme",
+  "Plot": "Cousins Bo, Luke, and Daisy Duke, and their uncle Jesse, egg on the authorities of Hazzard County, Boss Hogg and Sheriff Coltrane.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "5 wins & 14 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwOTYxODI4OV5BMl5BanBnXkFtZTcwNDYxODIzMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "33/100"
+    }
+  ],
+  "Metascore": "33",
+  "imdbRating": "5.1",
+  "imdbVotes": "69,682",
+  "imdbID": "tt0377818",
+  "Type": "movie",
+  "DVD": "06 Dec 2005",
+  "BoxOffice": "$80,206,743",
+  "Production": "Warner Bros. Pictures",
+  "Website": "http://dukesofhazzard.warnerbros.com/",
+  "Response": "True"
+}

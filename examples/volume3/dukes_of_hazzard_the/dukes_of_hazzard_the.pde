@@ -1,21 +1,3 @@
----
-permalink: /examples/volume3/hazzard/
----
-# Hazzard (2012)
-
-Documentary, Short, Mystery
-
-## Il film in breve
-Dr. Linda Hazzard strongly believed that fasting was the only logical remedy for all maladies, and watched as 40 of her patients withered into death's embrace in the early 1900s.
-
-[dettagli](https://www.imdb.com/title/tt2316697/)
-
-## La locandina
-<img src="hazzard.png"  width="360px" title="Hazzard">
-
-
-## Il codice
-```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
@@ -53,7 +35,7 @@ void draw() {
     star((S-i)*width/S, i*height/S, 0.5);
   }
   
-  save("hazzard.png");
+  save("the-dukes-of-hazzard.png");
 }
 
 
@@ -71,4 +53,3 @@ void star(float x, float y, float size) {
     endShape(CLOSE);
   popMatrix();
 }
-```

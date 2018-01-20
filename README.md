@@ -202,6 +202,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume3/creed/creed.png" width="120px" title="Creed"/>
 </a>
 <br class="index-separator"/>
+<a href="examples/volume3/dukes_of_hazzard_the/">
+    <img src="examples/volume3/dukes_of_hazzard_the/the-dukes-of-hazzard.png" width="120px" title="The Dukes of Hazzard"/>
+</a>
 <a href="examples/volume3/fast_and_the_furious_the/">
     <img src="examples/volume3/fast_and_the_furious_the/the-fast-and-the-furious.png" width="120px" title="The Fast and the Furious"/>
 </a>
@@ -216,9 +219,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 </a>
 <a href="examples/volume3/good_will_hunting/">
     <img src="examples/volume3/good_will_hunting/good-will-hunting.png" width="120px" title="Good Will Hunting"/>
-</a>
-<a href="examples/volume3/hazzard/">
-    <img src="examples/volume3/hazzard/hazzard.png" width="120px" title="Hazzard"/>
 </a>
 <br class="index-separator"/>
 <a href="examples/volume3/jaws/">

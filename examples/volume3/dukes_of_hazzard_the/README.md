@@ -1,3 +1,21 @@
+---
+permalink: /examples/volume3/dukes_of_hazzard_the/
+---
+# The Dukes of Hazzard (2005)
+
+Azione, Avventura, Commedia
+
+## Il film in breve
+Cousins Bo, Luke, and Daisy Duke, and their uncle Jesse, egg on the authorities of Hazzard County, Boss Hogg and Sheriff Coltrane.
+
+[dettagli](https://www.imdb.com/title/tt0377818/)
+
+## La locandina
+<img src="the-dukes-of-hazzard.png"  width="360px" title="The Dukes of Hazzard">
+
+
+## Il codice
+```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
@@ -35,7 +53,7 @@ void draw() {
     star((S-i)*width/S, i*height/S, 0.5);
   }
   
-  save("hazzard.png");
+  save("the-dukes-of-hazzard.png");
 }
 
 
@@ -53,3 +71,4 @@ void star(float x, float y, float size) {
     endShape(CLOSE);
   popMatrix();
 }
+```
