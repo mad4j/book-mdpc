@@ -1,11 +1,14 @@
 #!/bin/bash
 
-SOURCE=examples/volume1
-INFO_FILE=info.json
-OUTPUT_FILE=filmography.adoc
+LABEL=BUILDFILMOGRAPHY
 
+SOURCE=examples
+OUTPUT=assets/docs/contents
+
+INFO_FILE=info.json
 
 ROOT=`pwd`
+
 
 # check for root folder
 
@@ -14,36 +17,43 @@ if [ ! -d $ROOT/$SOURCE ]; then
 fi
 
 if [ ! -d $ROOT/$SOURCE ]; then
-    echo "[BUIDFILMOGRAPHY] ERROR: unable to find root folder."
+    echo "[$LABEL] ERROR: unable to find root folder."
     exit -1
 fi
 
-echo "[BUIDFILMOGRAPHY] working on '$ROOT'"
+echo "[$LABEL] working on '$(basename $ROOT)'"
 
-# remove old output
-rm -f $ROOT/$OUTPUT_FILE
+# create output folder, if needed
+mkdir -p $ROOT/$OUTPUT/
 
-# build table header
-#echo -e "Title\tYear\tDirector\tGenre\tCountry" >> $ROOT/$OUTPUT_FILE
+for d in $(find $ROOT/$SOURCE -mindepth 1 -maxdepth 1 -type d); do
 
+    echo -e
+    echo "[$LABEL] working on $(basename $d)..."
 
-# build table content
-for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
+    # create new ooutput file
+    DOCFILE=$ROOT/$OUTPUT/$(basename $d)-filmography.adoc
+    rm -f $DOCFILE
+    echo -e > $DOCFILE
 
-    echo "[BUIDFILMOGRAPHY] working on '$(basename $(dirname $f))'..."
+    # build table content
+    for f in $(find $d -name $INFO_FILE -type f ); do
 
-    TITLE="`jq -r .Title $f`"
-    YEAR="`jq -r .Year $f`"
-    GENRE="`jq -r .Genre $f`"
-    DIRECTOR="`jq -r .Director $f`"
-    COUNTRY="`jq -r .Country $f`"
-    PLOT="`jq -r .Plot $f`"
+        echo "[$LABEL] working on '$(basename $(dirname $f))'..."
 
-    echo -e "=== $TITLE\n" >> $ROOT/$OUTPUT_FILE
-    echo -e "di $DIRECTOR\n" >> $ROOT/$OUTPUT_FILE
-    echo -e "$GENRE\n" >> $ROOT/$OUTPUT_FILE
-    echo -e "($YEAR) $COUNTRY\n" >> $ROOT/$OUTPUT_FILE
-    echo -e "$\n" >> $ROOT/$OUTPUT_FILE
+        TITLE="`jq -r .Title $f`"
+        YEAR="`jq -r .Year $f`"
+        GENRE="`jq -r .Genre $f`"
+        DIRECTOR="`jq -r .Director $f`"
+        COUNTRY="`jq -r .Country $f`"
+        PLOT="`jq -r .Plot $f`"
+
+        echo -e "=== $TITLE\n" >> $DOCFILE
+        echo -e "di $DIRECTOR\n" >> $DOCFILE
+        echo -e "$GENRE\n" >> $DOCFILE
+        echo -e "($YEAR) $COUNTRY\n" >> $DOCFILE
+        echo -e "$PLOT\n" >> $DOCFILE
+    done
 done
 
-echo "[BUIDFILMOGRAPHY] ... DONE"
+echo "[$LABEL] ... DONE"
