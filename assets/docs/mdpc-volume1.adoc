@@ -21,7 +21,7 @@ A Maria...
 toc::[]
 
 <<<
-image::assets/docs/figures/volume1-mosaic.png[]
+image::figures/volume1-mosaic.png[]
 <<<
 
 <<<
@@ -34,7 +34,7 @@ Questa sezione...
 
 <<<
 
-include::assets/docs/contents/volume1-pages.adoc[]
+include::contents/volume1-pages.adoc[]
 
 
 <<<
@@ -43,7 +43,7 @@ include::assets/docs/contents/volume1-pages.adoc[]
 Questa sezione contiene informazioni riguardanti i film citati in questo libro.
 Gran parte dei dati riportati sono stati riportati dal sito IMDB.
 
-include::assets/docs/contents/volume1-filmography.adoc[]
+include::contents/volume1-filmography.adoc[]
 
 <<<
 == Riferimenti
