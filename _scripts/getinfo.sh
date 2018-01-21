@@ -19,6 +19,9 @@ if [ ! -d $ROOT/examples ]; then
     exit -1
 fi
 
+# load OMDB API Key
+source $ROOT/_scripts/setKey.sh
+
 # check for dependencies
 if [ -z "`curl --version`" ]; then
     echo "[GETINFO] ERROR: missing required tool: curl."
