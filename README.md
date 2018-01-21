@@ -1,5 +1,5 @@
 # Manuale di Programmazione Cinematografica
-> Il cinema tra le righe... di codice
+> Il cinema tra le righe... di codice!
 
 __by Daniele Olmisani__
 
@@ -350,6 +350,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 </a>
 <a href="examples/volume5/king_kong/">
     <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
+</a>
+<a href="examples/volume5/moana/">
+    <img src="examples/volume5/moana/moana.png" width="120px" title="Moana"/>
 </a>
 <a href="examples/volume5/star_trek/">
     <img src="examples/volume5/star_trek/star-trek.png" width="120px" title="Star Trek: The Motion Picture"/>
