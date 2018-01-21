@@ -1,0 +1,40 @@
+{
+  "Title": "Moana",
+  "Year": "2016",
+  "Rated": "PG",
+  "Released": "23 Nov 2016",
+  "Runtime": "107 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Ron Clements, John Musker, Don Hall(co-director), Chris Williams(co-director)",
+  "Writer": "Jared Bush (screenplay by), Ron Clements (story by), John Musker (story by), Chris Williams (story by), Don Hall (story by), Pamela Ribon (story by), Aaron Kandell (story by), Jordan Kandell (story by)",
+  "Actors": "Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",
+  "Plot": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 2 Oscars. Another 17 wins & 81 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.6",
+  "imdbVotes": "171,963",
+  "imdbID": "tt3521164",
+  "Type": "movie",
+  "DVD": "07 Mar 2017",
+  "BoxOffice": "$248,752,120",
+  "Production": "Walt Disney Pictures",
+  "Website": "http://movies.disney.com/moana",
+  "Response": "True"
+}
