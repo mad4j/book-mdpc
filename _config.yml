@@ -2,3 +2,6 @@
 title: "MdPC"
 description: "Manuale di Programmazione Cinematografica. Minimalist movie posters generated using Processing programming language."
 show_downloads: false
+
+plugins:
+  - jekyll-seo-tag
