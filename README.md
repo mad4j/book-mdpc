@@ -354,12 +354,16 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/moana/">
     <img src="examples/volume5/moana/moana.png" width="120px" title="Moana"/>
 </a>
+<a href="examples/volume5/neverending_story_the/">
+    <img src="examples/volume5/neverending_story_the/the-neverending-story.png" width="120px" title=""/>
+</a>
 <a href="examples/volume5/star_trek/">
     <img src="examples/volume5/star_trek/star-trek.png" width="120px" title="Star Trek: The Motion Picture"/>
 </a>
 <a href="examples/volume5/v_for_vendetta/">
     <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
+<br class="index-separator"/>
 
 
 ## References

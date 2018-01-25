@@ -1,0 +1,40 @@
+{
+  "Title": "The NeverEnding Story",
+  "Year": "1984",
+  "Rated": "PG",
+  "Released": "20 Jul 1984",
+  "Runtime": "102 min",
+  "Genre": "Adventure, Drama, Family",
+  "Director": "Wolfgang Petersen",
+  "Writer": "Wolfgang Petersen (screenplay), Herman Weigel (screenplay), Michael Ende (novel), Robert Easton (additional dialogue)",
+  "Actors": "Barret Oliver, Gerald McRaney, Chris Eastman, Darryl Cooksey",
+  "Plot": "A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.",
+  "Language": "English",
+  "Country": "West Germany, USA",
+  "Awards": "5 wins & 7 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRmZjFhZDEtN2Y5NC00ZTZkLTg4MWUtMjM5ZjNiY2M2OTBlXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "Metascore": "46",
+  "imdbRating": "7.4",
+  "imdbVotes": "110,292",
+  "imdbID": "tt0088323",
+  "Type": "movie",
+  "DVD": "03 Sep 2001",
+  "BoxOffice": "N/A",
+  "Production": "Warner Home Video",
+  "Website": "N/A",
+  "Response": "True"
+}
