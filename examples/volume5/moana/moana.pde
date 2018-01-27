@@ -9,7 +9,8 @@ final color INK = color(160, 40, 25);
 
 
 void setup() {
-  size(480, 640);
+  size(480, 640, P2D);
+  smooth(8);
   noLoop();
 }
 
