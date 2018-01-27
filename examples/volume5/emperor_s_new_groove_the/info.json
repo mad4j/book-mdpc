@@ -1,0 +1,40 @@
+{
+  "Title": "The Emperor's New Groove",
+  "Year": "2000",
+  "Rated": "G",
+  "Released": "15 Dec 2000",
+  "Runtime": "78 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Mark Dindal",
+  "Writer": "Chris Williams (story by), Mark Dindal (story by), David Reynolds (screenplay by), Stephen J. Anderson (additional story material by), Don Hall (additional story material by), John Norton (additional story material by), Roger Allers (based on an original story by), Matthew Jacobs (based on an original story by), Doug Frankel (additional story), Mark Kennedy (additional story), Mark Walton (additional story)",
+  "Actors": "David Spade, John Goodman, Eartha Kitt, Patrick Warburton",
+  "Plot": "Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne with the help of Pacha, the gentle llama herder.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 1 Oscar. Another 7 wins & 26 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzk1ZDcwY2YtMzRhZi00OTYwLTkzMmYtMGMwN2Y3ZjM1MTM0XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "Metascore": "70",
+  "imdbRating": "7.3",
+  "imdbVotes": "144,351",
+  "imdbID": "tt0120917",
+  "Type": "movie",
+  "DVD": "01 May 2001",
+  "BoxOffice": "$87,320,505",
+  "Production": "Buena Vista Pictures",
+  "Website": "http://disney.go.com/disneypictures/emperorsnewgroove",
+  "Response": "True"
+}
