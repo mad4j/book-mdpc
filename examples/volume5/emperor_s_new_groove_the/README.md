@@ -22,12 +22,12 @@ Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now 
 // The Emperor's new groove (2000)
 
 
-//final color PAPER = color(130, 170, 180);
 final color PAPER = color(250, 200, 150);
 final color INK1 = color(250, 200, 0);
 final color INK2 = color(240, 160, 0);
 
-final float DELTA = 0.01*PI;
+final float DELTA = 0.03*PI;
+
 
 void setup() {
   size(480, 640);
@@ -50,7 +50,7 @@ void draw() {
   stroke(INK2);
   
   strokeWeight(3*U);
-  arc(0.0, 0.0, 0.9, 0.9, -PI+DELTA, 0.0-DELTA, CHORD);
+  arc(0.0, 0.0, 0.9, 0.9, -PI+DELTA, 0.0-DELTA, PIE);
   
   pushMatrix();
   for(int i=1; i<6; i++) {
@@ -63,6 +63,5 @@ void draw() {
   arc(0.0, 0.05, 0.4, 0.4, -PI, 0.0, CHORD);
   
   save("the-emperor's-new-groove.png");
-
 }
 ```
