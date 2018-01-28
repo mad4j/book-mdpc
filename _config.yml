@@ -4,5 +4,5 @@ description: "Manuale di Programmazione Cinematografica. Minimalist movie poster
 show_downloads: false
 google_analytics: UA-2643168-16
 
-plugins:
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-seo-tag
