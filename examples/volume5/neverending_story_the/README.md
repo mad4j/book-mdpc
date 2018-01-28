@@ -57,7 +57,7 @@ void draw() {
       y = 0.35*sin(a)*cos(a);
     }
     
-    ellipse(x, y, 0.05, 0.05);
+    ellipse(x, y, 0.06, 0.06);
   }
   
   ellipse(0.0, -0.4, 0.2, 0.1);

@@ -22,7 +22,7 @@ Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now 
 // The Emperor's new groove (2000)
 
 
-final color PAPER = color(250, 200, 150);
+final color PAPER = color(130, 170, 180);
 final color INK1 = color(250, 200, 0);
 final color INK2 = color(240, 160, 0);
 
