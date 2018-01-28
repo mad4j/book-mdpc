@@ -1,4 +1,4 @@
-# theme: "jekyll-theme-minimal"
+theme: jekyll-theme-primer
 title: "MdPC"
 description: "Manuale di Programmazione Cinematografica. Minimalist movie posters generated using Processing programming language."
 show_downloads: false
