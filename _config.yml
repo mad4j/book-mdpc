@@ -1,8 +1,8 @@
-theme: jekyll-theme-primer
+remote_theme: pages-themes/primer
 title: "MdPC"
 description: "Manuale di Programmazione Cinematografica. Minimalist movie posters generated using Processing programming language."
 show_downloads: false
 google_analytics: "UA-2643168-16"
 
-#plugins:
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
