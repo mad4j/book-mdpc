@@ -16,35 +16,51 @@ A Polish Jewish musician struggles to survive the destruction of the Warsaw ghet
 
 ## Il codice
 ```java
+// Manuale di Programmazione Cinematografica - Volume 3
+// Daniele Olmisani, 2016
+
+// The Pianist (2002)
+
 
 final color PAPER = color(0, 0, 0);
 final color INK = color(250, 250, 250);
+
+final int KEYS = 7;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/3.0);
+  final float S =  min(width, height);
+  final float U = 0.002;
+  
+  translate(0.50*width, 0.25*height);
+  scale(S);
+  
+  float keyWidth = 1.0 / (KEYS+2);
+  float keyHeight = 3.8 * keyWidth;
   
   background(PAPER);
+  strokeWeight(2*U);
+  
   fill(INK);
-  
-  strokeWeight(2.0);
-  
-  for(int i=0; i<8; i++) {
-    rect(0+(i-8/2.0)*50, 0, 50, 200);
+  for(int i=0; i<KEYS; i++) {
+    rect(0+(i-KEYS/2.0)*keyWidth, 0, keyWidth, keyHeight);
   }
   
   fill(PAPER);
-  for(int i=0; i<7; i++) {
-    if (i%3 != 2) {
-      rect(12.5+(i-7/2.0)*50, 0, 25, 125);
+  for(int i=0; i<KEYS-1; i++) {
+    if (i != 2) {
+      rect((0.25*keyWidth)+(i-(KEYS-1)/2.0)*keyWidth, 0, 0.50*keyWidth, 0.65*keyHeight);
     }
   }
   
   save("the-pianist.png");
 }
+
 ```
