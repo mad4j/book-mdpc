@@ -17,6 +17,8 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 - [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mdpc.zip)
 - [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
 
+Please, see [LICENSE](LICENSE) file.
+
 
 ## Volume 1
 
