@@ -8,13 +8,13 @@ Azione, Fantascienza
 ## Il film in breve
 In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.
 
-[dettagli](https://www.imdb.com/title/tt0082340/)
+[details](https://www.imdb.com/title/tt0082340/)
 
-## La locandina
+## Movie Poster
 <img src="escape-from-new-york.png"  width="360px" title="Escape from New York">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -89,3 +89,5 @@ void drawTurtle(String path, float dL, float dA) {
   }
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

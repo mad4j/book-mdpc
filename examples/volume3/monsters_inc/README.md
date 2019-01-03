@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
 
-[dettagli](https://www.imdb.com/title/tt0198781/)
+[details](https://www.imdb.com/title/tt0198781/)
 
-## La locandina
+## Movie Poster
 <img src="monsters-inc.png"  width="360px" title="Monsters, Inc.">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -50,3 +50,5 @@ void draw() {
   save("monsters-inc.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

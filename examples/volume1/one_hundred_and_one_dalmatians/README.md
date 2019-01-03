@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 When a litter of Dalmatian puppies are abducted by the minions of Cruella de Vil, the parents must find them before she uses them for a diabolical fashion statement.
 
-[dettagli](https://www.imdb.com/title/tt0055254/)
+[details](https://www.imdb.com/title/tt0055254/)
 
-## La locandina
+## Movie Poster
 <img src="one-hundred-and-one-dalmatians.png"  width="360px" title="101 Dalmatians">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -67,3 +67,5 @@ void drawSpot(float x, float y, float r, int fuzz) {
   popMatrix();
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

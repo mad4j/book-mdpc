@@ -8,13 +8,13 @@ Azione, Avventura, Fantascico
 ## Il film in breve
 Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.
 
-[dettagli](https://www.imdb.com/title/tt2488496/)
+[details](https://www.imdb.com/title/tt2488496/)
 
-## La locandina
+## Movie Poster
 <img src="star-wars-the-force-awakens.png"  width="360px" title="Star Wars: The Force Awakens">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -64,3 +64,5 @@ void draw() {
   save("star-wars-the-force-awakens.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

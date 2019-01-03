@@ -8,13 +8,13 @@ Azione, Avventura, Fantascienza
 ## Il film in breve
 Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.
 
-[dettagli](https://www.imdb.com/title/tt0458339/)
+[details](https://www.imdb.com/title/tt0458339/)
 
-## La locandina
+## Movie Poster
 <img src="captain-america.png"  width="360px" title="Captain America: The First Avenger">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -59,3 +59,5 @@ void draw() {
   save("captain-america.png"); 
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

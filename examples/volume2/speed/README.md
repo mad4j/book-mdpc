@@ -8,13 +8,13 @@ Azione, Avventura, Poliziesco
 ## Il film in breve
 A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.
 
-[dettagli](https://www.imdb.com/title/tt0111257/)
+[details](https://www.imdb.com/title/tt0111257/)
 
-## La locandina
+## Movie Poster
 <img src="speed.png"  width="360px" title="Speed">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -60,3 +60,5 @@ void draw() {
   save("speed.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

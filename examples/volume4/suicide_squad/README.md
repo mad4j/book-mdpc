@@ -8,13 +8,13 @@ Azione, Avventura, Fantascico
 ## Il film in breve
 A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
 
-[dettagli](https://www.imdb.com/title/tt1386697/)
+[details](https://www.imdb.com/title/tt1386697/)
 
-## La locandina
+## Movie Poster
 <img src="suicide-squad.png"  width="360px" title="Suicide Squad">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -63,3 +63,5 @@ void draw() {
   save("suicide-squad.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

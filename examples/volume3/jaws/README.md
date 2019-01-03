@@ -8,13 +8,13 @@ Avventura, Drammatico, Giallo
 ## Il film in breve
 A giant great white shark arrives on the shores of a New England beach resort and wreaks havoc with bloody attacks on swimmers, until a part-time sheriff teams up with a marine biologist and an old seafarer to hunt the monster down.
 
-[dettagli](https://www.imdb.com/title/tt0073195/)
+[details](https://www.imdb.com/title/tt0073195/)
 
-## La locandina
+## Movie Poster
 <img src="jaws.png"  width="360px" title="Jaws">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -56,3 +56,5 @@ void drawTeeth() {
   }
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Poliziesco, Drammatico, Giallo
 ## Il film in breve
 After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
 
-[dettagli](https://www.imdb.com/title/tt0105236/)
+[details](https://www.imdb.com/title/tt0105236/)
 
-## La locandina
+## Movie Poster
 <img src="reservoir-dogs.png"  width="360px" title="Reservoir Dogs">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -64,3 +64,5 @@ void draw() {
   save("reservoir-dogs.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

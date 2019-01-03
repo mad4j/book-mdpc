@@ -8,13 +8,13 @@ Animazione, Drammatico, Fantascico
 ## Il film in breve
 A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.
 
-[dettagli](https://www.imdb.com/title/tt0084503/)
+[details](https://www.imdb.com/title/tt0084503/)
 
-## La locandina
+## Movie Poster
 <img src="the-wall.png"  width="360px" title="Pink Floyd: The Wall">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -48,3 +48,5 @@ void draw() {
   save("the-wall.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

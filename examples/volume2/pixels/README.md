@@ -8,13 +8,13 @@ Azione, Commedia, Fantascienza
 ## Il film in breve
 When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.
 
-[dettagli](https://www.imdb.com/title/tt2120120/)
+[details](https://www.imdb.com/title/tt2120120/)
 
-## La locandina
+## Movie Poster
 <img src="pixels.png"  width="360px" title="Pixels">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -54,3 +54,5 @@ void draw() {
   
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

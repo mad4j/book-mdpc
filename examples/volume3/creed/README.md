@@ -8,13 +8,13 @@ Drammatico, Sportivo
 ## Il film in breve
 The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
 
-[dettagli](https://www.imdb.com/title/tt3076658/)
+[details](https://www.imdb.com/title/tt3076658/)
 
-## La locandina
+## Movie Poster
 <img src="creed.png"  width="360px" title="Creed">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -72,3 +72,5 @@ void star(float x, float y, float size) {
   popMatrix();
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

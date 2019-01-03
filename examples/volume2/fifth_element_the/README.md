@@ -8,13 +8,13 @@ Azione, Avventura, Fantascienza
 ## Il film in breve
 In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr Zorg at bay.
 
-[dettagli](https://www.imdb.com/title/tt0119116/)
+[details](https://www.imdb.com/title/tt0119116/)
 
-## La locandina
+## Movie Poster
 <img src="the-fifth-element.png"  width="360px" title="The Fifth Element">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -60,3 +60,5 @@ void draw() {
   save("the-fifth-element.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

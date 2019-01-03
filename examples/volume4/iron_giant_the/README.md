@@ -8,13 +8,13 @@ Animazione, Azione, Avventura
 ## Il film in breve
 A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
 
-[dettagli](https://www.imdb.com/title/tt0129167/)
+[details](https://www.imdb.com/title/tt0129167/)
 
-## La locandina
+## Movie Poster
 <img src="the-iron-giant.png"  width="360px" title="The Iron Giant">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -64,3 +64,5 @@ void draw() {
   save("the-iron-giant.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

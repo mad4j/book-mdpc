@@ -8,13 +8,13 @@ Drammatico, Orrore
 ## Il film in breve
 A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.
 
-[dettagli](https://www.imdb.com/title/tt0081505/)
+[details](https://www.imdb.com/title/tt0081505/)
 
-## La locandina
+## Movie Poster
 <img src="shining.png"  width="360px" title="The Shining">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -88,3 +88,5 @@ void drawTurtle(String path, float dL, float dA) {
   }
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

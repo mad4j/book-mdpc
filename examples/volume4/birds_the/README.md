@@ -8,13 +8,13 @@ Drammatico, Orrore, Mystery
 ## Il film in breve
 A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.
 
-[dettagli](https://www.imdb.com/title/tt0056869/)
+[details](https://www.imdb.com/title/tt0056869/)
 
-## La locandina
+## Movie Poster
 <img src="the-birds.png"  width="360px" title="The Birds">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -58,3 +58,5 @@ void draw() {
   save("the-birds.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

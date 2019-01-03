@@ -8,13 +8,13 @@ Animazione, Avventura, Fantascico
 ## Il film in breve
 The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.
 
-[dettagli](https://www.imdb.com/title/tt0077869/)
+[details](https://www.imdb.com/title/tt0077869/)
 
-## La locandina
+## Movie Poster
 <img src="the-lord-of-the-rings.png"  width="360px" title="The Lord of the Rings">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -53,3 +53,5 @@ void draw() {
   save("the-lord-of-the-rings.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

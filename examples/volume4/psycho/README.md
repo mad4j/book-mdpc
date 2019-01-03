@@ -8,13 +8,13 @@ Orrore, Mystery, Giallo
 ## Il film in breve
 A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.
 
-[dettagli](https://www.imdb.com/title/tt0054215/)
+[details](https://www.imdb.com/title/tt0054215/)
 
-## La locandina
+## Movie Poster
 <img src="psycho.png"  width="360px" title="Psycho">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -65,3 +65,5 @@ void draw() {
   save("psycho.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

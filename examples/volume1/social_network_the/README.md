@@ -8,13 +8,13 @@ Biografico, Drammatico
 ## Il film in breve
 Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
 
-[dettagli](https://www.imdb.com/title/tt1285016/)
+[details](https://www.imdb.com/title/tt1285016/)
 
-## La locandina
+## Movie Poster
 <img src="the-social-network.png"  width="360px" title="The Social Network">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -59,3 +59,5 @@ void draw() {
   save("the-social-network.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

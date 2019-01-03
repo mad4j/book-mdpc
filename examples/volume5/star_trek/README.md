@@ -8,13 +8,13 @@ Avventura, Mystery, Fantascienza
 ## Il film in breve
 When an alien spacecraft of enormous power is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine and hopefully stop the intruder.
 
-[dettagli](https://www.imdb.com/title/tt0079945/)
+[details](https://www.imdb.com/title/tt0079945/)
 
-## La locandina
+## Movie Poster
 <img src="star-trek.png"  width="360px" title="Star Trek: The Motion Picture">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2018
@@ -61,3 +61,5 @@ void draw() {
   save("star-trek.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Animazione, Ragazzi, Fantascico
 ## Il film in breve
 An adventurous girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.
 
-[dettagli](https://www.imdb.com/title/tt0327597/)
+[details](https://www.imdb.com/title/tt0327597/)
 
-## La locandina
+## Movie Poster
 <img src="coraline.png"  width="360px" title="Coraline">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -80,3 +80,5 @@ void drawButton(float x, float y, float s) {
   popMatrix();
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

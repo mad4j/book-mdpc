@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
 
-[dettagli](https://www.imdb.com/title/tt3521164/)
+[details](https://www.imdb.com/title/tt3521164/)
 
-## La locandina
+## Movie Poster
 <img src="moana.png"  width="360px" title="Moana">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2018
@@ -60,3 +60,5 @@ void draw() {
   save("moana.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

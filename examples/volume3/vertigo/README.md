@@ -8,13 +8,13 @@ Mystery, Sentimentale, Giallo
 ## Il film in breve
 A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.
 
-[dettagli](https://www.imdb.com/title/tt0052357/)
+[details](https://www.imdb.com/title/tt0052357/)
 
-## La locandina
+## Movie Poster
 <img src="vertigo.png"  width="360px" title="Vertigo">
 
 
-## Il codice
+## The code
 ```java
 
 // Manuale di Programmazione Cinematografica - Volume 3
@@ -63,3 +63,5 @@ void draw() {
   save("vertigo.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

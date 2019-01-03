@@ -8,13 +8,13 @@ Avventura, Ragazzi, Fantascico
 ## Il film in breve
 As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.
 
-[dettagli](https://www.imdb.com/title/tt0926084/)
+[details](https://www.imdb.com/title/tt0926084/)
 
-## La locandina
+## Movie Poster
 <img src="harry-potter-and-the-deathly-hallows.png"  width="360px" title="Harry Potter and the Deathly Hallows: Part 1">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -61,3 +61,5 @@ void draw() {
   save("harry-potter-and-the-deathly-hallows.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

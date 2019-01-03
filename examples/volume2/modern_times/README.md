@@ -8,13 +8,13 @@ Commedia, Drammatico, Ragazzi
 ## Il film in breve
 The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
 
-[dettagli](https://www.imdb.com/title/tt0027977/)
+[details](https://www.imdb.com/title/tt0027977/)
 
-## La locandina
+## Movie Poster
 <img src="modern-times.png"  width="360px" title="Modern Times">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -68,3 +68,5 @@ void drawGear(float x, float y, float r, float s, float a) {
   popMatrix();
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

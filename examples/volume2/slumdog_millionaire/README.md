@@ -8,13 +8,13 @@ Drammatico
 ## Il film in breve
 A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"
 
-[dettagli](https://www.imdb.com/title/tt1010048/)
+[details](https://www.imdb.com/title/tt1010048/)
 
-## La locandina
+## Movie Poster
 <img src="slumdog-millionaire.png"  width="360px" title="Slumdog Millionaire">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -76,3 +76,5 @@ void drawCell(float x, float y, float w, float h) {
   popMatrix();
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

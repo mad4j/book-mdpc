@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey, and subsequently decides to sue them.
 
-[dettagli](https://www.imdb.com/title/tt0389790/)
+[details](https://www.imdb.com/title/tt0389790/)
 
-## La locandina
+## Movie Poster
 <img src="bee-movie.png"  width="360px" title="Bee Movie">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 3
 // Daniele Olmisani, 2016
@@ -51,3 +51,5 @@ void draw() {
   save("bee-movie.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

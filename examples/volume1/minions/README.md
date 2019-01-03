@@ -8,13 +8,13 @@ Animazione, Azione, Avventura
 ## Il film in breve
 Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.
 
-[dettagli](https://www.imdb.com/title/tt2293640/)
+[details](https://www.imdb.com/title/tt2293640/)
 
-## La locandina
+## Movie Poster
 <img src="minions.png"  width="360px" title="Minions">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -56,3 +56,5 @@ void draw() {
   save("minions.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

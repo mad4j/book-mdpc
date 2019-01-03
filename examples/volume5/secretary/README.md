@@ -8,13 +8,13 @@ Commedia, Drammatico, Sentimentale
 ## Il film in breve
 A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.
 
-[dettagli](https://www.imdb.com/title/tt0274812/)
+[details](https://www.imdb.com/title/tt0274812/)
 
-## La locandina
+## Movie Poster
 <img src="secretary.png"  width="360px" title="Secretary">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 5
 // Daniele Olmisani, 2018
@@ -22,7 +22,7 @@ A young woman, recently released from a mental hospital, gets a job as a secreta
 // Secretary (2002)
 
 
-final color PAPER = color(250);
+final color PAPER = color(245);
 final color INK = color(250, 0, 0);
 
 
@@ -64,3 +64,5 @@ void draw() {
 }
 
 ```
+
+> MdPC - a collection of minimalist movie posters

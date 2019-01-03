@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.
 
-[dettagli](https://www.imdb.com/title/tt0120630/)
+[details](https://www.imdb.com/title/tt0120630/)
 
-## La locandina
+## Movie Poster
 <img src="chicken-run.png"  width="360px" title="Chicken Run">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -69,3 +69,5 @@ void drawFootprint(float x, float y, float s) {
   
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Drammatico, Sentimentale
 ## Il film in breve
 A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 
-[dettagli](https://www.imdb.com/title/tt0120338/)
+[details](https://www.imdb.com/title/tt0120338/)
 
-## La locandina
+## Movie Poster
 <img src="titanic.png"  width="360px" title="Titanic">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -67,3 +67,5 @@ void draw() {
   save("titanic.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

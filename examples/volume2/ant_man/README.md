@@ -8,13 +8,13 @@ Azione, Avventura, Commedia
 ## Il film in breve
 Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.
 
-[dettagli](https://www.imdb.com/title/tt0478970/)
+[details](https://www.imdb.com/title/tt0478970/)
 
-## La locandina
+## Movie Poster
 <img src="ant-man.png"  width="360px" title="Ant-Man">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 2
 // Daniele Olmisani, 2016
@@ -52,3 +52,5 @@ void draw() {
   save("ant-man.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

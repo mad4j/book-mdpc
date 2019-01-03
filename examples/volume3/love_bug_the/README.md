@@ -8,13 +8,13 @@ Commedia, Ragazzi, Sportivo
 ## Il film in breve
 A race car driver becomes a champion with a Volkswagen Beetle with a mind of its own.
 
-[dettagli](https://www.imdb.com/title/tt0064603/)
+[details](https://www.imdb.com/title/tt0064603/)
 
-## La locandina
+## Movie Poster
 <img src="the-love-bug.png"  width="360px" title="The Love Bug">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -58,3 +58,5 @@ void draw() {
   save("the-love-bug.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

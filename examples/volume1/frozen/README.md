@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
 
-[dettagli](https://www.imdb.com/title/tt2294629/)
+[details](https://www.imdb.com/title/tt2294629/)
 
-## La locandina
+## Movie Poster
 <img src="frozen.png"  width="360px" title="Frozen">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -58,3 +58,5 @@ void draw() {
   save("frozen.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

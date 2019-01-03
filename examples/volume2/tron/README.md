@@ -8,13 +8,13 @@ Azione, Avventura, Fantascienza
 ## Il film in breve
 A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
 
-[dettagli](https://www.imdb.com/title/tt0084827/)
+[details](https://www.imdb.com/title/tt0084827/)
 
-## La locandina
+## Movie Poster
 <img src="tron.png"  width="360px" title="TRON">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -60,3 +60,5 @@ void draw() {
   save("tron.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

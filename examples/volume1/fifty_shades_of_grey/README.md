@@ -8,13 +8,13 @@ Drammatico, Sentimentale, Giallo
 ## Il film in breve
 Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.
 
-[dettagli](https://www.imdb.com/title/tt2322441/)
+[details](https://www.imdb.com/title/tt2322441/)
 
-## La locandina
+## Movie Poster
 <img src="fifty-shades-of-grey.png"  width="360px" title="Fifty Shades of Grey">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -53,3 +53,5 @@ void draw() {
   save("fifty-shades-of-grey.png"); 
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

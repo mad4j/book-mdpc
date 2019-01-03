@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne with the help of Pacha, the gentle llama herder.
 
-[dettagli](https://www.imdb.com/title/tt0120917/)
+[details](https://www.imdb.com/title/tt0120917/)
 
-## La locandina
+## Movie Poster
 <img src="the-emperor's-new-groove.png"  width="360px" title="The Emperor's New Groove">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2018
@@ -65,3 +65,5 @@ void draw() {
   save("the-emperor's-new-groove.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

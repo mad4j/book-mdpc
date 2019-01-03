@@ -8,13 +8,13 @@ Commedia, Orrore, Giallo
 ## Il film in breve
 A stray cat is the linking element of three tales of suspense and horror.
 
-[dettagli](https://www.imdb.com/title/tt0088889/)
+[details](https://www.imdb.com/title/tt0088889/)
 
-## La locandina
+## Movie Poster
 <img src="cat's-eye.png"  width="360px" title="Cat's Eye">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -51,3 +51,5 @@ void draw() {
   save("cat's-eye.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

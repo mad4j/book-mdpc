@@ -8,13 +8,13 @@ Azione, Avventura, Fantascienza
 ## Il film in breve
 After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
 
-[dettagli](https://www.imdb.com/title/tt0371746/)
+[details](https://www.imdb.com/title/tt0371746/)
 
-## La locandina
+## Movie Poster
 <img src="iron-man.png"  width="360px" title="Iron Man">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -65,3 +65,5 @@ void draw() {
   save("iron-man.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

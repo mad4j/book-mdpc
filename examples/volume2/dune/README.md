@@ -8,13 +8,13 @@ Azione, Avventura, Fantascienza
 ## Il film in breve
 A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
 
-[dettagli](https://www.imdb.com/title/tt0087182/)
+[details](https://www.imdb.com/title/tt0087182/)
 
-## La locandina
+## Movie Poster
 <img src="dune.png"  width="360px" title="Dune">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -50,3 +50,5 @@ void draw() {
   save("dune.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

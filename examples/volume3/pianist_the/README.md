@@ -8,13 +8,13 @@ Biografico, Drammatico, Guerra
 ## Il film in breve
 A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
 
-[dettagli](https://www.imdb.com/title/tt0253474/)
+[details](https://www.imdb.com/title/tt0253474/)
 
-## La locandina
+## Movie Poster
 <img src="the-pianist.png"  width="360px" title="The Pianist">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 3
 // Daniele Olmisani, 2016
@@ -64,3 +64,5 @@ void draw() {
 }
 
 ```
+
+> MdPC - a collection of minimalist movie posters

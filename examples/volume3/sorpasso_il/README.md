@@ -8,13 +8,13 @@ Commedia, Drammatico
 ## Il film in breve
 An impulsive braggart takes a shy law student for a two-day ride through the Roman and Tuscany countries.
 
-[dettagli](https://www.imdb.com/title/tt0056512/)
+[details](https://www.imdb.com/title/tt0056512/)
 
-## La locandina
+## Movie Poster
 <img src="il-sorpasso.png"  width="360px" title="Il Sorpasso">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -60,3 +60,5 @@ void draw() {
   save("il-sorpasso.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Animazione, Avventura, Ragazzi
 ## Il film in breve
 During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
-[dettagli](https://www.imdb.com/title/tt0245429/)
+[details](https://www.imdb.com/title/tt0245429/)
 
-## La locandina
+## Movie Poster
 <img src="spirited-away.png"  width="360px" title="Spirited Away">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -64,3 +64,5 @@ void draw() {
   save("spirited-away.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

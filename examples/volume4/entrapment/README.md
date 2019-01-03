@@ -8,13 +8,13 @@ Azione, Poliziesco, Sentimentale
 ## Il film in breve
 An insurance agent is sent by her employer to track down and help capture an art thief.
 
-[dettagli](https://www.imdb.com/title/tt0137494/)
+[details](https://www.imdb.com/title/tt0137494/)
 
-## La locandina
+## Movie Poster
 <img src="entrapment.png"  width="360px" title="Entrapment">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -57,3 +57,5 @@ void draw() {
   save("entrapment.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

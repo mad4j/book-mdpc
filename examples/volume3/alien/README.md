@@ -8,13 +8,13 @@ Orrore, Fantascienza
 ## Il film in breve
 After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious life-form, and soon realize that its life cycle has merely begun.
 
-[dettagli](https://www.imdb.com/title/tt0078748/)
+[details](https://www.imdb.com/title/tt0078748/)
 
-## La locandina
+## Movie Poster
 <img src="alien.png"  width="360px" title="Alien">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -70,3 +70,5 @@ void drawTeeth(PGraphics g) {
   }
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

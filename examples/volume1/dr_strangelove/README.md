@@ -8,13 +8,13 @@ Commedia
 ## Il film in breve
 An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.
 
-[dettagli](https://www.imdb.com/title/tt0057012/)
+[details](https://www.imdb.com/title/tt0057012/)
 
-## La locandina
+## Movie Poster
 <img src="dr-strangelove.png"  width="360px" title="Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Volume 1
@@ -62,3 +62,5 @@ void draw() {
   save("dr-strangelove.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

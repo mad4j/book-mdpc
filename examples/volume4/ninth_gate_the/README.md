@@ -8,13 +8,13 @@ Mystery, Giallo
 ## Il film in breve
 A rare book dealer, while seeking out the last two copies of a demon text, gets drawn into a conspiracy with supernatural overtones.
 
-[dettagli](https://www.imdb.com/title/tt0142688/)
+[details](https://www.imdb.com/title/tt0142688/)
 
-## La locandina
+## Movie Poster
 <img src="the-ninth-gate.png"  width="360px" title="The Ninth Gate">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
@@ -72,3 +72,5 @@ void draw() {
   save("the-ninth-gate.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

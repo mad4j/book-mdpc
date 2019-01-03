@@ -8,13 +8,13 @@ Drammatico, Guerra
 ## Il film in breve
 An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.
 
-[dettagli](https://www.imdb.com/title/tt0077416/)
+[details](https://www.imdb.com/title/tt0077416/)
 
-## La locandina
+## Movie Poster
 <img src="the-deer-hunter.png"  width="360px" title="The Deer Hunter">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -67,3 +67,5 @@ void draw() {
   save("the-deer-hunter.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

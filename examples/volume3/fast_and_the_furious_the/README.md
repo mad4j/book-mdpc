@@ -8,13 +8,13 @@ Azione, Poliziesco, Giallo
 ## Il film in breve
 Los Angeles police officer Brian O'Connor must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.
 
-[dettagli](https://www.imdb.com/title/tt0232500/)
+[details](https://www.imdb.com/title/tt0232500/)
 
-## La locandina
+## Movie Poster
 <img src="the-fast-and-the-furious.png"  width="360px" title="The Fast and the Furious">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -56,3 +56,5 @@ void draw() {
   save("the-fast-and-the-furious.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Animazione, Avventura, Drammatico
 ## Il film in breve
 A little girl lives in a very grown-up world with her mother, who tries to prepare her for it. Her neighbor, the Aviator, introduces the girl to an extraordinary world where anything is possible, the world of the Little Prince.
 
-[dettagli](https://www.imdb.com/title/tt1754656/)
+[details](https://www.imdb.com/title/tt1754656/)
 
-## La locandina
+## Movie Poster
 <img src="le-petit-prince.png"  width="360px" title="The Little Prince">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -104,3 +104,5 @@ void drawButton(float x, float y, float s, color c1, color c2) {
   popMatrix();
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

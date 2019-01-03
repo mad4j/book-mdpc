@@ -8,13 +8,13 @@ Azione, Avventura, Fantascienza
 ## Il film in breve
 Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps.
 
-[dettagli](https://www.imdb.com/title/tt1133985/)
+[details](https://www.imdb.com/title/tt1133985/)
 
-## La locandina
+## Movie Poster
 <img src="green-lantern.png"  width="360px" title="Green Lantern">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -58,3 +58,5 @@ void draw() {
   save("green-lantern.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

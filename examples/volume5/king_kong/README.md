@@ -8,13 +8,13 @@ Avventura, Orrore, Fantascienza
 ## Il film in breve
 A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition.
 
-[dettagli](https://www.imdb.com/title/tt0024216/)
+[details](https://www.imdb.com/title/tt0024216/)
 
-## La locandina
+## Movie Poster
 <img src="king-kong.png"  width="360px" title="King Kong">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2018
@@ -87,3 +87,5 @@ void drawHand() {
   rect(0.00, 0.06, 0.07, 0.03, 0.04);
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

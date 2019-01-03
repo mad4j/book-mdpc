@@ -8,13 +8,13 @@ Commedia, Sentimentale
 ## Il film in breve
 A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.
 
-[dettagli](https://www.imdb.com/title/tt0100405/)
+[details](https://www.imdb.com/title/tt0100405/)
 
-## La locandina
+## Movie Poster
 <img src="pretty-woman.png"  width="360px" title="Pretty Woman">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -59,3 +59,5 @@ void draw() {
   save("pretty-woman.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

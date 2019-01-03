@@ -8,13 +8,13 @@ Azione, Drammatico, Fantascienza
 ## Il film in breve
 In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
 
-[dettagli](https://www.imdb.com/title/tt0434409/)
+[details](https://www.imdb.com/title/tt0434409/)
 
-## La locandina
+## Movie Poster
 <img src="v-for-vendetta.png"  width="360px" title="V for Vendetta">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2018
@@ -51,3 +51,5 @@ void draw() {
   save("v-for-vendetta.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Drammatico, Fantascienza, Giallo
 ## Il film in breve
 A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
-[dettagli](https://www.imdb.com/title/tt0119177/)
+[details](https://www.imdb.com/title/tt0119177/)
 
-## La locandina
+## Movie Poster
 <img src="gattaca.png"  width="360px" title="Gattaca">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -57,3 +57,5 @@ void draw() {
   save("gattaca.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

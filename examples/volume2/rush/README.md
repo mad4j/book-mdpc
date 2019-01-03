@@ -8,13 +8,13 @@ Azione, Biografico, Drammatico
 ## Il film in breve
 The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
 
-[dettagli](https://www.imdb.com/title/tt1979320/)
+[details](https://www.imdb.com/title/tt1979320/)
 
-## La locandina
+## Movie Poster
 <img src="rush.png"  width="360px" title="Rush">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -47,3 +47,5 @@ void draw() {
   save("rush.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

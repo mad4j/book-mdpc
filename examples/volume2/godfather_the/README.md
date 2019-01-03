@@ -8,13 +8,13 @@ Poliziesco, Drammatico
 ## Il film in breve
 The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
 
-[dettagli](https://www.imdb.com/title/tt0068646/)
+[details](https://www.imdb.com/title/tt0068646/)
 
-## La locandina
+## Movie Poster
 <img src="the-godfather.png"  width="360px" title="The Godfather">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -58,3 +58,5 @@ void draw() {
   save("the-godfather.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

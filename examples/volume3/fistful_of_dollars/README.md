@@ -8,13 +8,13 @@ Western
 ## Il film in breve
 A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.
 
-[dettagli](https://www.imdb.com/title/tt0058461/)
+[details](https://www.imdb.com/title/tt0058461/)
 
-## La locandina
+## Movie Poster
 <img src="fistful-of-dollars.png"  width="360px" title="A Fistful of Dollars">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -78,3 +78,5 @@ void draw() {
   save("fistful-of-dollars.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

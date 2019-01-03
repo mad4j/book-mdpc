@@ -8,13 +8,13 @@ Drammatico, Sentimentale
 ## Il film in breve
 A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
 
-[dettagli](https://www.imdb.com/title/tt0169547/)
+[details](https://www.imdb.com/title/tt0169547/)
 
-## La locandina
+## Movie Poster
 <img src="american-beauty.png"  width="360px" title="American Beauty">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -69,3 +69,5 @@ void draw() {
   save("american-beauty.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

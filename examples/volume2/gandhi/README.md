@@ -8,13 +8,13 @@ Biografico, Drammatico, Storico
 ## Il film in breve
 Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.
 
-[dettagli](https://www.imdb.com/title/tt0083987/)
+[details](https://www.imdb.com/title/tt0083987/)
 
-## La locandina
+## Movie Poster
 <img src="gandhi.png"  width="360px" title="Gandhi">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -63,3 +63,5 @@ void draw() {
   save("gandhi.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

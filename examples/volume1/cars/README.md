@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
 
-[dettagli](https://www.imdb.com/title/tt0317219/)
+[details](https://www.imdb.com/title/tt0317219/)
 
-## La locandina
+## Movie Poster
 <img src="cars.png"  width="360px" title="Cars">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -58,3 +58,5 @@ void draw() {
   save("cars.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

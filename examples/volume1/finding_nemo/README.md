@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
 
-[dettagli](https://www.imdb.com/title/tt0266543/)
+[details](https://www.imdb.com/title/tt0266543/)
 
-## La locandina
+## Movie Poster
 <img src="finding-nemo.png"  width="360px" title="Finding Nemo">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -64,3 +64,5 @@ void draw() {
   save("finding-nemo.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

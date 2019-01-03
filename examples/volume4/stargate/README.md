@@ -8,13 +8,13 @@ Azione, Avventura, Fantascienza
 ## Il film in breve
 An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
 
-[dettagli](https://www.imdb.com/title/tt0111282/)
+[details](https://www.imdb.com/title/tt0111282/)
 
-## La locandina
+## Movie Poster
 <img src="stargate.png"  width="360px" title="Stargate">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -66,3 +66,5 @@ void draw() {
 
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

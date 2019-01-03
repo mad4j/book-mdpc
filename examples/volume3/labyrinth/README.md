@@ -8,13 +8,13 @@ Avventura, Ragazzi, Fantascico
 ## Il film in breve
 A 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
-[dettagli](https://www.imdb.com/title/tt0091369/)
+[details](https://www.imdb.com/title/tt0091369/)
 
-## La locandina
+## Movie Poster
 <img src="labyrinth.png"  width="360px" title="Labyrinth">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -67,3 +67,5 @@ void draw() {
   save("labyrinth.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

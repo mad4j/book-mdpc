@@ -8,13 +8,13 @@ Drammatico
 ## Il film in breve
 A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.
 
-[dettagli](https://www.imdb.com/title/tt0073486/)
+[details](https://www.imdb.com/title/tt0073486/)
 
-## La locandina
+## Movie Poster
 <img src="one-flew-over-the-cukoo-s-nest.png"  width="360px" title="One Flew Over the Cuckoo's Nest">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -49,3 +49,5 @@ void draw() {
   save("one-flew-over-the-cukoo-s-nest.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

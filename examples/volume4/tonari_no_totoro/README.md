@@ -8,13 +8,13 @@ Animazione, Ragazzi, Fantascico
 ## Il film in breve
 When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
 
-[dettagli](https://www.imdb.com/title/tt0096283/)
+[details](https://www.imdb.com/title/tt0096283/)
 
-## La locandina
+## Movie Poster
 <img src="tonari-no-totoro.png"  width="360px" title="My Neighbor Totoro">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -77,3 +77,5 @@ void draw() {
   save("tonari-no-totoro.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

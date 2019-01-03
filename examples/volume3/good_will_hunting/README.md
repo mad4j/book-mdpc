@@ -8,13 +8,13 @@ Drammatico
 ## Il film in breve
 Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
 
-[dettagli](https://www.imdb.com/title/tt0119217/)
+[details](https://www.imdb.com/title/tt0119217/)
 
-## La locandina
+## Movie Poster
 <img src="good-will-hunting.png"  width="360px" title="Good Will Hunting">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -70,3 +70,5 @@ void lines(float x1, float y1, float x2, float y2, float s) {
   points(x2, y2, s);
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

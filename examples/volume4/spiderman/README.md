@@ -8,13 +8,13 @@ Azione, Avventura
 ## Il film in breve
 When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.
 
-[dettagli](https://www.imdb.com/title/tt0145487/)
+[details](https://www.imdb.com/title/tt0145487/)
 
-## La locandina
+## Movie Poster
 <img src="spider-man.png"  width="360px" title="Spider-Man">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -63,3 +63,5 @@ void draw() {
   save("spider-man.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

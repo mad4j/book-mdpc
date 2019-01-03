@@ -8,13 +8,13 @@ Azione, Avventura, Fantascico
 ## Il film in breve
 The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.
 
-[dettagli](https://www.imdb.com/title/tt0800369/)
+[details](https://www.imdb.com/title/tt0800369/)
 
-## La locandina
+## Movie Poster
 <img src="thor.png"  width="360px" title="Thor">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -65,3 +65,5 @@ void draw() {
   save("thor.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Avventura, Fantascienza
 ## Il film in breve
 Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
-[dettagli](https://www.imdb.com/title/tt0062622/)
+[details](https://www.imdb.com/title/tt0062622/)
 
-## La locandina
+## Movie Poster
 <img src="2001-a-space-odyssey.png"  width="360px" title="2001: A Space Odyssey">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -54,3 +54,5 @@ void draw()  {
 }
 
 ```
+
+> MdPC - a collection of minimalist movie posters

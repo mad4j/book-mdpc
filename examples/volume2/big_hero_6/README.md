@@ -8,13 +8,13 @@ Animazione, Azione, Avventura
 ## Il film in breve
 The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
 
-[dettagli](https://www.imdb.com/title/tt2245084/)
+[details](https://www.imdb.com/title/tt2245084/)
 
-## La locandina
+## Movie Poster
 <img src="big-hero-6.png"  width="360px" title="Big Hero 6">
 
 
-## Il codice
+## The code
 ```java
 
 // Manuale di Programmazione Cinematografica - Volume 2
@@ -54,3 +54,5 @@ void draw() {
   save("big-hero-6.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

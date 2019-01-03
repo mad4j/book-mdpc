@@ -8,13 +8,13 @@ Mystery, Giallo
 ## Il film in breve
 A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.
 
-[dettagli](https://www.imdb.com/title/tt0209144/)
+[details](https://www.imdb.com/title/tt0209144/)
 
-## La locandina
+## Movie Poster
 <img src="memento.png"  width="360px" title="Memento">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -52,3 +52,5 @@ void draw() {
   save("memento.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

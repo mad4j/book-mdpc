@@ -8,13 +8,13 @@ Azione, Avventura
 ## Il film in breve
 The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
 
-[dettagli](https://www.imdb.com/title/tt0096895/)
+[details](https://www.imdb.com/title/tt0096895/)
 
-## La locandina
+## Movie Poster
 <img src="batman.png"  width="360px" title="Batman">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -80,3 +80,5 @@ float h(float x) {
   return x*(0.5-0.09*x)-3+sqrt(1-sq((abs(x-2)-1)));
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

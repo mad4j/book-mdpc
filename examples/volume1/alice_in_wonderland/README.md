@@ -8,13 +8,13 @@ Animazione, Avventura, Ragazzi
 ## Il film in breve
 Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.
 
-[dettagli](https://www.imdb.com/title/tt0043274/)
+[details](https://www.imdb.com/title/tt0043274/)
 
-## La locandina
+## Movie Poster
 <img src="alice-in-wonderland.png"  width="360px" title="Alice in Wonderland">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -62,3 +62,5 @@ void draw() {
   save("alice-in-wonderland.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

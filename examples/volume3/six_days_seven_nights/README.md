@@ -8,13 +8,13 @@ Azione, Avventura, Commedia
 ## Il film in breve
 Robin Monroe, a New York magazine editor, and the gruff pilot Quinn Harris must put aside their mutual dislike if they are to survive after crash landing on a deserted South Seas island.
 
-[dettagli](https://www.imdb.com/title/tt0120828/)
+[details](https://www.imdb.com/title/tt0120828/)
 
-## La locandina
+## Movie Poster
 <img src="six-days-seven-nights.png"  width="360px" title="Six Days Seven Nights">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -93,3 +93,5 @@ void drawMoon(float x, float y, float r, int phase) {
 }
 
 ```
+
+> MdPC - a collection of minimalist movie posters

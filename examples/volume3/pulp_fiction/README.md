@@ -8,13 +8,13 @@ Poliziesco, Drammatico
 ## Il film in breve
 The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
 
-[dettagli](https://www.imdb.com/title/tt0110912/)
+[details](https://www.imdb.com/title/tt0110912/)
 
-## La locandina
+## Movie Poster
 <img src="pulp-fiction.png"  width="360px" title="Pulp Fiction">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -55,3 +55,5 @@ void draw() {
 }
 
 ```
+
+> MdPC - a collection of minimalist movie posters

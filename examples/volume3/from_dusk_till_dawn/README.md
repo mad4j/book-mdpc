@@ -8,13 +8,13 @@ Azione, Poliziesco, Orrore
 ## Il film in breve
 Two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires, with chaotic results.
 
-[dettagli](https://www.imdb.com/title/tt0116367/)
+[details](https://www.imdb.com/title/tt0116367/)
 
-## La locandina
+## Movie Poster
 <img src="from-dusk-till-dawn.png"  width="360px" title="From Dusk Till Dawn">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -60,3 +60,5 @@ void draw() {
   save("from-dusk-till-dawn.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

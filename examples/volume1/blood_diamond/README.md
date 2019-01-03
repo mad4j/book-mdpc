@@ -8,13 +8,13 @@ Avventura, Drammatico, Giallo
 ## Il film in breve
 A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.
 
-[dettagli](https://www.imdb.com/title/tt0450259/)
+[details](https://www.imdb.com/title/tt0450259/)
 
-## La locandina
+## Movie Poster
 <img src="blood-diamond.png"  width="360px" title="Blood Diamond">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -66,3 +66,5 @@ void draw() {
   save("blood-diamond.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

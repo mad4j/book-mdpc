@@ -8,13 +8,13 @@ Drammatico, Orrore, Fantascienza
 ## Il film in breve
 An obsessed scientist assembles a living being from parts of exhumed corpses.
 
-[dettagli](https://www.imdb.com/title/tt0021884/)
+[details](https://www.imdb.com/title/tt0021884/)
 
-## La locandina
+## Movie Poster
 <img src="frankenstein.png"  width="360px" title="Frankenstein">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -63,3 +63,5 @@ void draw() {
   save("frankenstein.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

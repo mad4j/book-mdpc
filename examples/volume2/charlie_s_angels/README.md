@@ -8,13 +8,13 @@ Azione, Avventura, Commedia
 ## Il film in breve
 Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.
 
-[dettagli](https://www.imdb.com/title/tt0160127/)
+[details](https://www.imdb.com/title/tt0160127/)
 
-## La locandina
+## Movie Poster
 <img src="charlie-s-angels.png"  width="360px" title="Charlie's Angels">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -57,3 +57,5 @@ void draw() {
   save("charlie-s-angels.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

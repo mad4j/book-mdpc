@@ -8,13 +8,13 @@ Azione, Avventura, Fantascico
 ## Il film in breve
 An Amazon princess leaves her island home to explore the world and, in doing so, becomes one of the world's greatest heroes.
 
-[dettagli](https://www.imdb.com/title/tt0451279/)
+[details](https://www.imdb.com/title/tt0451279/)
 
-## La locandina
+## Movie Poster
 <img src="wonder-woman.png"  width="360px" title="Wonder Woman">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -71,3 +71,5 @@ void draw() {
   save("wonder-woman.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

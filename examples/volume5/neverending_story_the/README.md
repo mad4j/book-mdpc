@@ -8,13 +8,13 @@ Avventura, Drammatico, Ragazzi
 ## Il film in breve
 A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.
 
-[dettagli](https://www.imdb.com/title/tt0088323/)
+[details](https://www.imdb.com/title/tt0088323/)
 
-## La locandina
+## Movie Poster
 <img src="the-neverending-story.png"  width="360px" title="The NeverEnding Story">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2018
@@ -67,3 +67,5 @@ void draw() {
 
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

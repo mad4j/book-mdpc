@@ -8,13 +8,13 @@ Azione, Avventura, Fantascico
 ## Il film in breve
 Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
 
-[dettagli](https://www.imdb.com/title/tt0076759/)
+[details](https://www.imdb.com/title/tt0076759/)
 
-## La locandina
+## Movie Poster
 <img src="star-wars.png"  width="360px" title="Star Wars: Episode IV - A New Hope">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -55,3 +55,5 @@ void draw() {
 }
 
 ```
+
+> MdPC - a collection of minimalist movie posters

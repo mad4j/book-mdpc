@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.
 
-[dettagli](https://www.imdb.com/title/tt2452042/)
+[details](https://www.imdb.com/title/tt2452042/)
 
-## La locandina
+## Movie Poster
 <img src="the-peanuts-movie.png"  width="360px" title="The Peanuts Movie">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -55,3 +55,5 @@ void draw() {
   save("the-peanuts-movie.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

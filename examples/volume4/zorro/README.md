@@ -8,13 +8,13 @@ Azione, Avventura, Commedia
 ## Il film in breve
 In the New World, a new Spanish governor finds the province of Nueva Aragón under the iron fist of the corrupt Colonel Huerta and vows to bring justice under the guise of a masked avenger.
 
-[dettagli](https://www.imdb.com/title/tt0072448/)
+[details](https://www.imdb.com/title/tt0072448/)
 
-## La locandina
+## Movie Poster
 <img src="zorro.png"  width="360px" title="Zorro">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -65,3 +65,5 @@ void handDraw(float x1, float y1, float x2, float y2, float w) {
   } 
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

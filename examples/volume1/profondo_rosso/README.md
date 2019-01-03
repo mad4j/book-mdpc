@@ -8,13 +8,13 @@ Orrore, Mystery, Giallo
 ## Il film in breve
 After witnessing the murder of a famous psychic, a musician teams up with a feisty reporter to find the killer while evading attempts on their lives by the unseen assailant bent on keeping a dark secret buried.
 
-[dettagli](https://www.imdb.com/title/tt0073582/)
+[details](https://www.imdb.com/title/tt0073582/)
 
-## La locandina
+## Movie Poster
 <img src="profondo-rosso.png"  width="360px" title="Deep Red">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -51,3 +51,5 @@ void draw() {
 }
 
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Poliziesco, Drammatico, Mystery
 ## Il film in breve
 When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
 
-[dettagli](https://www.imdb.com/title/tt0022100/)
+[details](https://www.imdb.com/title/tt0022100/)
 
-## La locandina
+## Movie Poster
 <img src="M.png"  width="360px" title="M">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
@@ -50,3 +50,5 @@ void draw() {
   save("M.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

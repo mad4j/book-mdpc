@@ -8,13 +8,13 @@ Drammatico, Fantascienza
 ## Il film in breve
 After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.
 
-[dettagli](https://www.imdb.com/title/tt0075860/)
+[details](https://www.imdb.com/title/tt0075860/)
 
-## La locandina
+## Movie Poster
 <img src="close-encounters-of-the-third-kind.png"  width="360px" title="Close Encounters of the Third Kind">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -67,3 +67,5 @@ void draw() {
   save("close-encounters-of-the-third-kind.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

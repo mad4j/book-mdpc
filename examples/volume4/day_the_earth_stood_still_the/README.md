@@ -8,13 +8,13 @@ Drammatico, Fantascienza
 ## Il film in breve
 An alien lands and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.
 
-[dettagli](https://www.imdb.com/title/tt0043456/)
+[details](https://www.imdb.com/title/tt0043456/)
 
-## La locandina
+## Movie Poster
 <img src="the-day-the-earth-stood-still.png"  width="360px" title="The Day the Earth Stood Still">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -52,3 +52,5 @@ void draw() {
   save("the-day-the-earth-stood-still.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

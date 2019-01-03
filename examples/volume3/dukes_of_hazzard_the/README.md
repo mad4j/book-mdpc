@@ -8,13 +8,13 @@ Azione, Avventura, Commedia
 ## Il film in breve
 Cousins Bo, Luke, and Daisy Duke, and their uncle Jesse, egg on the authorities of Hazzard County, Boss Hogg and Sheriff Coltrane.
 
-[dettagli](https://www.imdb.com/title/tt0377818/)
+[details](https://www.imdb.com/title/tt0377818/)
 
-## La locandina
+## Movie Poster
 <img src="the-dukes-of-hazzard.png"  width="360px" title="The Dukes of Hazzard">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -75,3 +75,5 @@ void star(float x, float y, float size) {
   popMatrix();
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

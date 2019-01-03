@@ -8,13 +8,15 @@ permalink: ##LINK##
 ## Il film in breve
 ##DESCRIPTION##
 
-[dettagli](##URL##)
+[details](##URL##)
 
-## La locandina
+## Movie Poster
 <img src="##POSTER##"  width="360px" title="##TITLE##">
 
 
-## Il codice
+## The code
 ```java
 ##SNIPPET##
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Avventura, Commedia, Fantascienza
 ## Il film in breve
 Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
 
-[dettagli](https://www.imdb.com/title/tt0088763/)
+[details](https://www.imdb.com/title/tt0088763/)
 
-## La locandina
+## Movie Poster
 <img src="back-to-the-future.png"  width="360px" title="Back to the Future">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2018
@@ -68,3 +68,5 @@ void draw() {
   save("back-to-the-future.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

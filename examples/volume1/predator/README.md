@@ -8,13 +8,13 @@ Azione, Fantascienza, Giallo
 ## Il film in breve
 A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.
 
-[dettagli](https://www.imdb.com/title/tt0093773/)
+[details](https://www.imdb.com/title/tt0093773/)
 
-## La locandina
+## Movie Poster
 <img src="predator.png"  width="360px" title="Predator">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -47,3 +47,5 @@ void draw() {
   save("predator.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

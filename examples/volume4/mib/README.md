@@ -8,13 +8,13 @@ Avventura, Commedia, Ragazzi
 ## Il film in breve
 A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.
 
-[dettagli](https://www.imdb.com/title/tt0119654/)
+[details](https://www.imdb.com/title/tt0119654/)
 
-## La locandina
+## Movie Poster
 <img src="mib.png"  width="360px" title="Men in Black">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -54,3 +54,5 @@ void draw() {
   save("mib.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

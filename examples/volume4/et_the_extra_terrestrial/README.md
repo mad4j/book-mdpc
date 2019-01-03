@@ -8,13 +8,13 @@ Ragazzi, Fantascienza
 ## Il film in breve
 A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.
 
-[dettagli](https://www.imdb.com/title/tt0083866/)
+[details](https://www.imdb.com/title/tt0083866/)
 
-## La locandina
+## Movie Poster
 <img src="et-the-extra-terrestrial.png"  width="360px" title="E.T. the Extra-Terrestrial">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2016
@@ -75,3 +75,5 @@ void draw() {
   save("et-the-extra-terrestrial.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Drammatico, Mystery, Fantascienza
 ## Il film in breve
 A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.
 
-[dettagli](https://www.imdb.com/title/tt0286106/)
+[details](https://www.imdb.com/title/tt0286106/)
 
-## La locandina
+## Movie Poster
 <img src="signs.png"  width="360px" title="Signs">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -58,3 +58,5 @@ void draw() {
   save("signs.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

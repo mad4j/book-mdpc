@@ -8,13 +8,13 @@ Drammatico, Guerra
 ## Il film in breve
 Terrence Malick's adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.
 
-[dettagli](https://www.imdb.com/title/tt0120863/)
+[details](https://www.imdb.com/title/tt0120863/)
 
-## La locandina
+## Movie Poster
 <img src="the-thin-red-line.png"  width="360px" title="The Thin Red Line">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -38,3 +38,5 @@ void draw() {
 }
   
 ```
+
+> MdPC - a collection of minimalist movie posters

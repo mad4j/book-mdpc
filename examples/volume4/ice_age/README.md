@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.
 
-[dettagli](https://www.imdb.com/title/tt0268380/)
+[details](https://www.imdb.com/title/tt0268380/)
 
-## La locandina
+## Movie Poster
 <img src="ice-age.png"  width="360px" title="Ice Age">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -64,3 +64,5 @@ void draw() {
   save("ice-age.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

@@ -8,13 +8,13 @@ Animazione, Avventura, Commedia
 ## Il film in breve
 After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
 
-[dettagli](https://www.imdb.com/title/tt2096673/)
+[details](https://www.imdb.com/title/tt2096673/)
 
-## La locandina
+## Movie Poster
 <img src="inside-out.png"  width="360px" title="Inside Out">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -54,3 +54,5 @@ void draw() {
   save("inside-out.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

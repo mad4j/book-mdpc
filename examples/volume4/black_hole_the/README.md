@@ -8,13 +8,13 @@ Azione, Fantascienza
 ## Il film in breve
 A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.
 
-[dettagli](https://www.imdb.com/title/tt0078869/)
+[details](https://www.imdb.com/title/tt0078869/)
 
-## La locandina
+## Movie Poster
 <img src="the-black-hole.png"  width="360px" title="The Black Hole">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2017
@@ -63,3 +63,5 @@ void draw() {
   save("the-black-hole.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

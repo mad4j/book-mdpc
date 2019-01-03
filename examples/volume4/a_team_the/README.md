@@ -8,13 +8,13 @@ Azione, Avventura, Commedia
 ## Il film in breve
 A group of Iraq War veterans looks to clear their name with the U.S. military, who suspect the four men of committing a crime for which they were framed.
 
-[dettagli](https://www.imdb.com/title/tt0429493/)
+[details](https://www.imdb.com/title/tt0429493/)
 
-## La locandina
+## Movie Poster
 <img src="the-a-team.png"  width="360px" title="The A-Team">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 4
 // Daniele Olmisani, 2017
@@ -58,3 +58,5 @@ void draw() {
   save("the-a-team.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

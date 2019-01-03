@@ -8,13 +8,13 @@ Drammatico, Sentimentale
 ## Il film in breve
 A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.
 
-[dettagli](https://www.imdb.com/title/tt0066011/)
+[details](https://www.imdb.com/title/tt0066011/)
 
-## La locandina
+## Movie Poster
 <img src="love-story.png"  width="360px" title="Love Story">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
@@ -60,3 +60,5 @@ void draw() {
   save("love-story.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

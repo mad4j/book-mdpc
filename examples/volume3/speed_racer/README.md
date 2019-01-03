@@ -8,13 +8,13 @@ Azione, Ragazzi, Fantascienza
 ## Il film in breve
 A young driver, Speed Racer, aspires to be champion of the racing world with the help of his family and his high-tech Mach 5 automobile.
 
-[dettagli](https://www.imdb.com/title/tt0811080/)
+[details](https://www.imdb.com/title/tt0811080/)
 
-## La locandina
+## Movie Poster
 <img src="speed-racer.png"  width="360px" title="Speed Racer">
 
 
-## Il codice
+## The code
 ```java
 
 final color PAPER = color(230, 165, 25);
@@ -46,3 +46,5 @@ void draw() {
   save("speed-racer.png");
 }
 ```
+
+> MdPC - a collection of minimalist movie posters

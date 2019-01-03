@@ -8,13 +8,13 @@ Fantascienza, Giallo
 ## Il film in breve
 A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
 
-[dettagli](https://www.imdb.com/title/tt0086567/)
+[details](https://www.imdb.com/title/tt0086567/)
 
-## La locandina
+## Movie Poster
 <img src="war-games.png"  width="360px" title="WarGames">
 
 
-## Il codice
+## The code
 ```java
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
@@ -61,3 +61,5 @@ void draw() {
   save("war-games.png"); 
 }
 ```
+
+> MdPC - a collection of minimalist movie posters
