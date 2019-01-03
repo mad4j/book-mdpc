@@ -17,8 +17,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 - [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mdpc.zip)
 - [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
 
-Please, see [LICENSE](LICENSE) file.
-
 
 ## Volume 1
 
@@ -266,11 +264,11 @@ Please, see [LICENSE](LICENSE) file.
 ## Volume 4
 
 
-<a href="examples/volume4/american_beauty/">
-    <img src="examples/volume4/american_beauty/american-beauty.png" width="120px" title="American Beauty"/>
-</a>
 <a href="examples/volume4/a_team_the/">
     <img src="examples/volume4/a_team_the/the-a-team.png" width="120px" title="The A-Team"/>
+</a>
+<a href="examples/volume4/american_beauty/">
+    <img src="examples/volume4/american_beauty/american-beauty.png" width="120px" title="American Beauty"/>
 </a>
 <a href="examples/volume4/birds_the/">
     <img src="examples/volume4/birds_the/the-birds.png" width="120px" title="The Birds"/>
@@ -362,10 +360,13 @@ Please, see [LICENSE](LICENSE) file.
 <a href="examples/volume5/neverending_story_the/">
     <img src="examples/volume5/neverending_story_the/the-neverending-story.png" width="120px" title="The NeverEnding Story"/>
 </a>
+<a href="examples/volume5/secretary/">
+    <img src="examples/volume5/secretary/secretary.png" width="120px" title="Secretary"/>
+</a>
+<br class="index-separator"/>
 <a href="examples/volume5/star_trek/">
     <img src="examples/volume5/star_trek/star-trek.png" width="120px" title="Star Trek: The Motion Picture"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/v_for_vendetta/">
     <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
