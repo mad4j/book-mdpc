@@ -4,7 +4,7 @@
 // Secretary (2002)
 
 
-final color PAPER = color(250);
+final color PAPER = color(245);
 final color INK = color(250, 0, 0);
 
 
