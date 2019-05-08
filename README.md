@@ -344,6 +344,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 
 ## Volume 5
 
+
+<a href="examples/volume5/aquaman/">
+    <img src="examples/volume5/aquaman/aquaman.png" width="120px" title="Aquaman"/>
+</a>
 <a href="examples/volume5/back_to_the_future/">
     <img src="examples/volume5/back_to_the_future/back-to-the-future.png" width="120px" title="Back to the Future"/>
 </a>
@@ -359,10 +363,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/neverending_story_the/">
     <img src="examples/volume5/neverending_story_the/the-neverending-story.png" width="120px" title="The NeverEnding Story"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/secretary/">
     <img src="examples/volume5/secretary/secretary.png" width="120px" title="Secretary"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/star_trek/">
     <img src="examples/volume5/star_trek/star-trek.png" width="120px" title="Star Trek: The Motion Picture"/>
 </a>
