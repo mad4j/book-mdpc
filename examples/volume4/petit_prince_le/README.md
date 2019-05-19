@@ -107,4 +107,4 @@ void drawButton(float x, float y, float s, color c1, color c2) {
 
 > MdPC - a collection of minimalist movie posters
 > by Daniele Olmisani
-> Please, see [LICENSE](../../LICENSE) file
+> Please, see [LICENSE](../../../LICENSE) file

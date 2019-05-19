@@ -71,4 +71,4 @@ void drawGear(float x, float y, float r, float s, float a) {
 
 > MdPC - a collection of minimalist movie posters
 > by Daniele Olmisani
-> Please, see [LICENSE](../../LICENSE) file
+> Please, see [LICENSE](../../../LICENSE) file
