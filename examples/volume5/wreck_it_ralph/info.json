@@ -1,0 +1,40 @@
+{
+    "Title": "Wreck-It Ralph",
+    "Year": "2012",
+    "Rated": "PG",
+    "Released": "02 Nov 2012",
+    "Runtime": "101 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Rich Moore",
+    "Writer": "Rich Moore (story by), Phil Johnston (story by), Jim Reardon (story by), Phil Johnston (screenplay by), Jennifer Lee (screenplay by), John C. Reilly (additional story material by), Sam Levine (additional story material by), Jared Stern (additional story material by)",
+    "Actors": "John C. Reilly, Sarah Silverman, Jack McBrayer, Jane Lynch",
+    "Plot": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 33 wins & 41 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.7",
+    "imdbVotes": "342,446",
+    "imdbID": "tt1772341",
+    "Type": "movie",
+    "DVD": "05 Mar 2013",
+    "BoxOffice": "$189,412,677",
+    "Production": "Walt Disney Pictures",
+    "Website": "http://disney.go.com/wreck-it-ralph/",
+    "Response": "True"
+}

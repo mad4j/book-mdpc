@@ -1,5 +1,7 @@
 #!/bin/bash
 
+LABEL=BUILDFILMOGRAPHY
+
 SOURCE=examples
 INFO_FILE=info.json
 OUTPUT_FILE=filmography.tsv
@@ -14,11 +16,11 @@ if [ ! -d $ROOT/$SOURCE ]; then
 fi
 
 if [ ! -d $ROOT/$SOURCE ]; then
-    echo "[BUIDFILMOGRAPHY] ERROR: unable to find root folder."
+    echo "[$LABEL] ERROR: unable to find root folder."
     exit -1
 fi
 
-echo "[BUIDFILMOGRAPHY] working on '$ROOT'"
+echo "[$LABEL] working on '$ROOT'"
 
 # remove old output
 rm -f $ROOT/$OUTPUT_FILE
@@ -29,7 +31,7 @@ echo -e "Title\tYear\tDirector\tGenre\tCountry" >> $ROOT/$OUTPUT_FILE
 # build table content
 for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
 
-    echo "[BUIDFILMOGRAPHY] working on '$(basename $(dirname $f))'..."
+    echo "[$LABEL] working on '$(basename $(dirname $f))'..."
 
     TITLE="`jq -r .Title $f`"
     YEAR="`jq -r .Year $f`"
@@ -40,4 +42,4 @@ for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
     echo -e "$TITLE\t$YEAR\t$DIRECTOR\t$GENRE\t$COUNTRY" >> $ROOT/$OUTPUT_FILE
 done
 
-echo "[BUIDFILMOGRAPHY] ... DONE"
+echo "[$LABEL] ... DONE"
