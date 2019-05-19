@@ -38,8 +38,6 @@ void draw() {
   final float S =  min(width, height);
   final float U = 0.002;
   
-  randomSeed(0);
-  
   translate(0.5*width, 0.5*height);
   scale(S);
   

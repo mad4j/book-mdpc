@@ -19,25 +19,30 @@ A young man finds a back door into a military central computer in which reality 
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Wargames
+// Wargames (1983)
+
 
 final color PAPER = color(30);
 final color INK = color(0, 185, 85);
+
 
 void setup() {  
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
-    
-  scale(min(width, height)/10.0);
+  
+  final float S =  min(width, height);
+  final float U = 0.002;
+  
+  scale(0.1*S);
   
   background(PAPER);
   
   stroke(INK);
-  strokeCap(ROUND);
-  strokeWeight(80.0/min(width, height));
+  strokeWeight(80*U);
   
   noFill();
   
@@ -60,6 +65,7 @@ void draw() {
   
   save("war-games.png"); 
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
