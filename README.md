@@ -380,7 +380,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/toy_story/">
     <img src="examples/volume5/toy_story/toy-story.png" width="120px" title="Toy Story"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/v_for_vendetta/">
     <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
