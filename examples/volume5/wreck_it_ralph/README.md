@@ -85,5 +85,7 @@ void drawStar(float x, float y, float r1, float r2) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+
 > by Daniele Olmisani
+
 > Please, see [LICENSE](../../../LICENSE) file
