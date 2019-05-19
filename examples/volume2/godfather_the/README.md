@@ -3,9 +3,9 @@ permalink: /examples/volume2/godfather_the/
 ---
 # The Godfather (1972)
 
-Poliziesco, Drammatico
+Crime, Drama
 
-## Il film in breve
+## Plot
 The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
 
 [details](https://www.imdb.com/title/tt0068646/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

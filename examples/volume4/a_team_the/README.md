@@ -3,9 +3,9 @@ permalink: /examples/volume4/a_team_the/
 ---
 # The A-Team (2010)
 
-Azione, Avventura, Commedia
+Action, Adventure, Comedy
 
-## Il film in breve
+## Plot
 A group of Iraq War veterans looks to clear their name with the U.S. military, who suspect the four men of committing a crime for which they were framed.
 
 [details](https://www.imdb.com/title/tt0429493/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

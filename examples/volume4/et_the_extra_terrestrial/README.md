@@ -3,9 +3,9 @@ permalink: /examples/volume4/et_the_extra_terrestrial/
 ---
 # E.T. the Extra-Terrestrial (1982)
 
-Ragazzi, Fantascienza
+Family, Sci-Fi
 
-## Il film in breve
+## Plot
 A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.
 
 [details](https://www.imdb.com/title/tt0083866/)
@@ -77,3 +77,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

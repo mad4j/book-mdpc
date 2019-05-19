@@ -3,9 +3,9 @@ permalink: /examples/volume4/mib/
 ---
 # Men in Black (1997)
 
-Avventura, Commedia, Ragazzi
+Adventure, Comedy, Family
 
-## Il film in breve
+## Plot
 A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.
 
 [details](https://www.imdb.com/title/tt0119654/)
@@ -56,3 +56,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume1/fifty_shades_of_grey/
 ---
 # Fifty Shades of Grey (2015)
 
-Drammatico, Sentimentale, Giallo
+Drama, Romance, Thriller
 
-## Il film in breve
+## Plot
 Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.
 
 [details](https://www.imdb.com/title/tt2322441/)
@@ -55,3 +55,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

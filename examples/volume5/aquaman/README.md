@@ -3,9 +3,9 @@ permalink: /examples/volume5/aquaman/
 ---
 # Aquaman (2018)
 
-Azione, Avventura, Fantascico, Fantascienza
+Action, Adventure, Fantasy, Sci-Fi
 
-## Il film in breve
+## Plot
 Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.
 
 [details](https://www.imdb.com/title/tt1477834/)
@@ -71,3 +71,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume2/dune/
 ---
 # Dune (1984)
 
-Azione, Avventura, Fantascienza
+Action, Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
 
 [details](https://www.imdb.com/title/tt0087182/)
@@ -52,3 +52,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

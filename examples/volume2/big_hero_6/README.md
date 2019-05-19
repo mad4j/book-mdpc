@@ -3,9 +3,9 @@ permalink: /examples/volume2/big_hero_6/
 ---
 # Big Hero 6 (2014)
 
-Animazione, Azione, Avventura
+Animation, Action, Adventure
 
-## Il film in breve
+## Plot
 The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
 
 [details](https://www.imdb.com/title/tt2245084/)
@@ -56,3 +56,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume1/reservoir_dogs/
 ---
 # Reservoir Dogs (1992)
 
-Poliziesco, Drammatico, Giallo
+Crime, Drama, Thriller
 
-## Il film in breve
+## Plot
 After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
 
 [details](https://www.imdb.com/title/tt0105236/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

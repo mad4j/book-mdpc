@@ -3,9 +3,9 @@ permalink: /examples/volume5/secretary/
 ---
 # Secretary (2002)
 
-Commedia, Drammatico, Sentimentale
+Comedy, Drama, Romance
 
-## Il film in breve
+## Plot
 A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.
 
 [details](https://www.imdb.com/title/tt0274812/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

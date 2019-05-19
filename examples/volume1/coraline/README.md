@@ -3,9 +3,9 @@ permalink: /examples/volume1/coraline/
 ---
 # Coraline (2009)
 
-Animazione, Ragazzi, Fantascico
+Animation, Family, Fantasy
 
-## Il film in breve
+## Plot
 An adventurous girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.
 
 [details](https://www.imdb.com/title/tt0327597/)
@@ -82,3 +82,5 @@ void drawButton(float x, float y, float s) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

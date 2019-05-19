@@ -5,7 +5,7 @@ permalink: /examples/volume3/fistful_of_dollars/
 
 Western
 
-## Il film in breve
+## Plot
 A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.
 
 [details](https://www.imdb.com/title/tt0058461/)
@@ -80,3 +80,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume3/vertigo/
 ---
 # Vertigo (1958)
 
-Mystery, Sentimentale, Giallo
+Mystery, Romance, Thriller
 
-## Il film in breve
+## Plot
 A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.
 
 [details](https://www.imdb.com/title/tt0052357/)
@@ -65,3 +65,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

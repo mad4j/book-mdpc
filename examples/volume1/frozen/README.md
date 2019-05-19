@@ -3,9 +3,9 @@ permalink: /examples/volume1/frozen/
 ---
 # Frozen (2013)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
 
 [details](https://www.imdb.com/title/tt2294629/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

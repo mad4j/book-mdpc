@@ -3,9 +3,9 @@ permalink: /examples/volume4/escape_from_new_york/
 ---
 # Escape from New York (1981)
 
-Azione, Fantascienza
+Action, Sci-Fi
 
-## Il film in breve
+## Plot
 In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.
 
 [details](https://www.imdb.com/title/tt0082340/)
@@ -91,3 +91,5 @@ void drawTurtle(String path, float dL, float dA) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume1/profondo_rosso/
 ---
 # Deep Red (1975)
 
-Orrore, Mystery, Giallo
+Horror, Mystery, Thriller
 
-## Il film in breve
+## Plot
 After witnessing the murder of a famous psychic, a musician teams up with a feisty reporter to find the killer while evading attempts on their lives by the unseen assailant bent on keeping a dark secret buried.
 
 [details](https://www.imdb.com/title/tt0073582/)
@@ -53,3 +53,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

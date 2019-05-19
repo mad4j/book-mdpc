@@ -3,9 +3,9 @@ permalink: /examples/volume3/captain_america/
 ---
 # Captain America: The First Avenger (2011)
 
-Azione, Avventura, Fantascienza
+Action, Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.
 
 [details](https://www.imdb.com/title/tt0458339/)
@@ -61,3 +61,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume4/ninth_gate_the/
 ---
 # The Ninth Gate (1999)
 
-Mystery, Giallo
+Mystery, Thriller
 
-## Il film in breve
+## Plot
 A rare book dealer, while seeking out the last two copies of a demon text, gets drawn into a conspiracy with supernatural overtones.
 
 [details](https://www.imdb.com/title/tt0142688/)
@@ -74,3 +74,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

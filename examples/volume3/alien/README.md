@@ -3,9 +3,9 @@ permalink: /examples/volume3/alien/
 ---
 # Alien (1979)
 
-Orrore, Fantascienza
+Horror, Sci-Fi
 
-## Il film in breve
+## Plot
 After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious life-form, and soon realize that its life cycle has merely begun.
 
 [details](https://www.imdb.com/title/tt0078748/)
@@ -72,3 +72,5 @@ void drawTeeth(PGraphics g) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

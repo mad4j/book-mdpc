@@ -3,9 +3,9 @@ permalink: /examples/volume2/charlie_s_angels/
 ---
 # Charlie's Angels (2000)
 
-Azione, Avventura, Commedia
+Action, Adventure, Comedy
 
-## Il film in breve
+## Plot
 Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.
 
 [details](https://www.imdb.com/title/tt0160127/)
@@ -59,3 +59,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

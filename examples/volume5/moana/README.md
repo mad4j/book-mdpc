@@ -3,9 +3,9 @@ permalink: /examples/volume5/moana/
 ---
 # Moana (2016)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
 
 [details](https://www.imdb.com/title/tt3521164/)
@@ -62,3 +62,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

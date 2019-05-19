@@ -3,9 +3,9 @@ permalink: /examples/volume3/pianist_the/
 ---
 # The Pianist (2002)
 
-Biografico, Drammatico, Guerra
+Biography, Drama, War
 
-## Il film in breve
+## Plot
 A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
 
 [details](https://www.imdb.com/title/tt0253474/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

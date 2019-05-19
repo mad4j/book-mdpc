@@ -3,9 +3,9 @@ permalink: /examples/volume5/king_kong/
 ---
 # King Kong (1933)
 
-Avventura, Orrore, Fantascienza
+Adventure, Horror, Sci-Fi
 
-## Il film in breve
+## Plot
 A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition.
 
 [details](https://www.imdb.com/title/tt0024216/)
@@ -89,3 +89,5 @@ void drawHand() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume3/memento/
 ---
 # Memento (2000)
 
-Mystery, Giallo
+Mystery, Thriller
 
-## Il film in breve
+## Plot
 A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.
 
 [details](https://www.imdb.com/title/tt0209144/)
@@ -54,3 +54,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

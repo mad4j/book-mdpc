@@ -3,9 +3,9 @@ permalink: /examples/volume4/ice_age/
 ---
 # Ice Age (2002)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.
 
 [details](https://www.imdb.com/title/tt0268380/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

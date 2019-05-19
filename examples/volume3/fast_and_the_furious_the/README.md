@@ -3,9 +3,9 @@ permalink: /examples/volume3/fast_and_the_furious_the/
 ---
 # The Fast and the Furious (2001)
 
-Azione, Poliziesco, Giallo
+Action, Crime, Thriller
 
-## Il film in breve
+## Plot
 Los Angeles police officer Brian O'Connor must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.
 
 [details](https://www.imdb.com/title/tt0232500/)
@@ -58,3 +58,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

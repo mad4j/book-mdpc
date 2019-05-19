@@ -3,9 +3,9 @@ permalink: /examples/volume2/tron/
 ---
 # TRON (1982)
 
-Azione, Avventura, Fantascienza
+Action, Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
 
 [details](https://www.imdb.com/title/tt0084827/)
@@ -62,3 +62,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume3/chicken_run/
 ---
 # Chicken Run (2000)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.
 
 [details](https://www.imdb.com/title/tt0120630/)
@@ -71,3 +71,5 @@ void drawFootprint(float x, float y, float s) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

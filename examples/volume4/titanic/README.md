@@ -3,9 +3,9 @@ permalink: /examples/volume4/titanic/
 ---
 # Titanic (1997)
 
-Drammatico, Sentimentale
+Drama, Romance
 
-## Il film in breve
+## Plot
 A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 
 [details](https://www.imdb.com/title/tt0120338/)
@@ -69,3 +69,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

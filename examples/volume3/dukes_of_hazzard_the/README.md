@@ -3,9 +3,9 @@ permalink: /examples/volume3/dukes_of_hazzard_the/
 ---
 # The Dukes of Hazzard (2005)
 
-Azione, Avventura, Commedia
+Action, Adventure, Comedy
 
-## Il film in breve
+## Plot
 Cousins Bo, Luke, and Daisy Duke, and their uncle Jesse, egg on the authorities of Hazzard County, Boss Hogg and Sheriff Coltrane.
 
 [details](https://www.imdb.com/title/tt0377818/)
@@ -77,3 +77,5 @@ void star(float x, float y, float size) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

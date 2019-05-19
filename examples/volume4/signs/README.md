@@ -3,9 +3,9 @@ permalink: /examples/volume4/signs/
 ---
 # Signs (2002)
 
-Drammatico, Mystery, Fantascienza
+Drama, Mystery, Sci-Fi
 
-## Il film in breve
+## Plot
 A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.
 
 [details](https://www.imdb.com/title/tt0286106/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

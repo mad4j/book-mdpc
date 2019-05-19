@@ -3,9 +3,9 @@ permalink: /examples/volume5/neverending_story_the/
 ---
 # The NeverEnding Story (1984)
 
-Avventura, Drammatico, Ragazzi
+Adventure, Drama, Family
 
-## Il film in breve
+## Plot
 A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.
 
 [details](https://www.imdb.com/title/tt0088323/)
@@ -69,3 +69,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

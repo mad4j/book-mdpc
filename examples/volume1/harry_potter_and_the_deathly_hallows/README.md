@@ -3,9 +3,9 @@ permalink: /examples/volume1/harry_potter_and_the_deathly_hallows/
 ---
 # Harry Potter and the Deathly Hallows: Part 1 (2010)
 
-Avventura, Ragazzi, Fantascico
+Adventure, Family, Fantasy
 
-## Il film in breve
+## Plot
 As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.
 
 [details](https://www.imdb.com/title/tt0926084/)
@@ -63,3 +63,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume4/thor/
 ---
 # Thor (2011)
 
-Azione, Avventura, Fantascico
+Action, Adventure, Fantasy
 
-## Il film in breve
+## Plot
 The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.
 
 [details](https://www.imdb.com/title/tt0800369/)
@@ -67,3 +67,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

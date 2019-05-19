@@ -3,9 +3,9 @@ permalink: /examples/volume2/green_lantern/
 ---
 # Green Lantern (2011)
 
-Azione, Avventura, Fantascienza
+Action, Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps.
 
 [details](https://www.imdb.com/title/tt1133985/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

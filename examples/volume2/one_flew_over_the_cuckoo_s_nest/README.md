@@ -3,9 +3,9 @@ permalink: /examples/volume2/one_flew_over_the_cuckoo_s_nest/
 ---
 # One Flew Over the Cuckoo's Nest (1975)
 
-Drammatico
+Drama
 
-## Il film in breve
+## Plot
 A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.
 
 [details](https://www.imdb.com/title/tt0073486/)
@@ -51,3 +51,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

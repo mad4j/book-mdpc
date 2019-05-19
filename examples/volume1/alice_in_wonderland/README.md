@@ -3,9 +3,9 @@ permalink: /examples/volume1/alice_in_wonderland/
 ---
 # Alice in Wonderland (1951)
 
-Animazione, Avventura, Ragazzi
+Animation, Adventure, Family
 
-## Il film in breve
+## Plot
 Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.
 
 [details](https://www.imdb.com/title/tt0043274/)
@@ -64,3 +64,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

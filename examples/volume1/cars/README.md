@@ -3,9 +3,9 @@ permalink: /examples/volume1/cars/
 ---
 # Cars (2006)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
 
 [details](https://www.imdb.com/title/tt0317219/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

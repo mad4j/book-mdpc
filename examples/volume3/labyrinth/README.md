@@ -3,9 +3,9 @@ permalink: /examples/volume3/labyrinth/
 ---
 # Labyrinth (1986)
 
-Avventura, Ragazzi, Fantascico
+Adventure, Family, Fantasy
 
-## Il film in breve
+## Plot
 A 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
 [details](https://www.imdb.com/title/tt0091369/)
@@ -69,3 +69,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

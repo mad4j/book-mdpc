@@ -3,9 +3,9 @@ permalink: /examples/volume5/ready_player_one/
 ---
 # Ready Player One (2018)
 
-Azione, Avventura, Fantascienza
+Action, Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
 
 [details](https://www.imdb.com/title/tt1677720/)
@@ -79,3 +79,5 @@ void drawKey() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

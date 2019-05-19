@@ -3,9 +3,9 @@ permalink: /examples/volume4/zorro/
 ---
 # Zorro (1975)
 
-Azione, Avventura, Commedia
+Action, Adventure, Comedy
 
-## Il film in breve
+## Plot
 In the New World, a new Spanish governor finds the province of Nueva Aragón under the iron fist of the corrupt Colonel Huerta and vows to bring justice under the guise of a masked avenger.
 
 [details](https://www.imdb.com/title/tt0072448/)
@@ -67,3 +67,5 @@ void handDraw(float x1, float y1, float x2, float y2, float w) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

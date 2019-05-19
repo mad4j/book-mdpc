@@ -3,9 +3,9 @@ permalink: /examples/volume4/black_hole_the/
 ---
 # The Black Hole (1979)
 
-Azione, Fantascienza
+Action, Sci-Fi
 
-## Il film in breve
+## Plot
 A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.
 
 [details](https://www.imdb.com/title/tt0078869/)
@@ -65,3 +65,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

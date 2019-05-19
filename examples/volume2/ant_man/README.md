@@ -3,9 +3,9 @@ permalink: /examples/volume2/ant_man/
 ---
 # Ant-Man (2015)
 
-Azione, Avventura, Commedia
+Action, Adventure, Comedy
 
-## Il film in breve
+## Plot
 Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.
 
 [details](https://www.imdb.com/title/tt0478970/)
@@ -54,3 +54,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

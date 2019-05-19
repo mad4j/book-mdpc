@@ -3,9 +3,9 @@ permalink: /examples/volume4/american_beauty/
 ---
 # American Beauty (1999)
 
-Drammatico, Sentimentale
+Drama, Romance
 
-## Il film in breve
+## Plot
 A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
 
 [details](https://www.imdb.com/title/tt0169547/)
@@ -71,3 +71,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

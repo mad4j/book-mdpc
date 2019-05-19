@@ -3,9 +3,9 @@ permalink: /examples/volume2/x_2001_a_space_odyssey/
 ---
 # 2001: A Space Odyssey (1968)
 
-Avventura, Fantascienza
+Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
 [details](https://www.imdb.com/title/tt0062622/)
@@ -56,3 +56,5 @@ void draw()  {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

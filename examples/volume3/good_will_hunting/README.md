@@ -3,9 +3,9 @@ permalink: /examples/volume3/good_will_hunting/
 ---
 # Good Will Hunting (1997)
 
-Drammatico
+Drama
 
-## Il film in breve
+## Plot
 Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
 
 [details](https://www.imdb.com/title/tt0119217/)
@@ -72,3 +72,5 @@ void lines(float x1, float y1, float x2, float y2, float s) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

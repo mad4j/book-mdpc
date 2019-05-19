@@ -3,9 +3,9 @@ permalink: /examples/volume1/spirited_away/
 ---
 # Spirited Away (2001)
 
-Animazione, Avventura, Ragazzi
+Animation, Adventure, Family
 
-## Il film in breve
+## Plot
 During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
 [details](https://www.imdb.com/title/tt0245429/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

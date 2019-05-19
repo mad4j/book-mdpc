@@ -3,9 +3,9 @@ permalink: /examples/volume4/birds_the/
 ---
 # The Birds (1963)
 
-Drammatico, Orrore, Mystery
+Drama, Horror, Mystery
 
-## Il film in breve
+## Plot
 A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.
 
 [details](https://www.imdb.com/title/tt0056869/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

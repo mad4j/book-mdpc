@@ -3,9 +3,9 @@ permalink: /examples/volume1/blood_diamond/
 ---
 # Blood Diamond (2006)
 
-Avventura, Drammatico, Giallo
+Adventure, Drama, Thriller
 
-## Il film in breve
+## Plot
 A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.
 
 [details](https://www.imdb.com/title/tt0450259/)
@@ -68,3 +68,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

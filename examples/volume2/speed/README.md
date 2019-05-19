@@ -3,9 +3,9 @@ permalink: /examples/volume2/speed/
 ---
 # Speed (1994)
 
-Azione, Avventura, Poliziesco
+Action, Adventure, Crime
 
-## Il film in breve
+## Plot
 A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.
 
 [details](https://www.imdb.com/title/tt0111257/)
@@ -62,3 +62,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

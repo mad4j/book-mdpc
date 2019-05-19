@@ -3,9 +3,9 @@ permalink: /examples/volume2/star_wars_the_force_awakens/
 ---
 # Star Wars: The Force Awakens (2015)
 
-Azione, Avventura, Fantascico
+Action, Adventure, Fantasy
 
-## Il film in breve
+## Plot
 Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.
 
 [details](https://www.imdb.com/title/tt2488496/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

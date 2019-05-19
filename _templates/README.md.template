@@ -5,7 +5,7 @@ permalink: ##LINK##
 
 ##GENRE##
 
-## Il film in breve
+## Plot
 ##DESCRIPTION##
 
 [details](##URL##)
@@ -20,3 +20,5 @@ permalink: ##LINK##
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

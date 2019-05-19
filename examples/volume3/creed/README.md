@@ -3,9 +3,9 @@ permalink: /examples/volume3/creed/
 ---
 # Creed (2015)
 
-Drammatico, Sportivo
+Drama, Sport
 
-## Il film in breve
+## Plot
 The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
 
 [details](https://www.imdb.com/title/tt3076658/)
@@ -74,3 +74,5 @@ void star(float x, float y, float size) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

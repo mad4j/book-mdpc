@@ -3,9 +3,9 @@ permalink: /examples/volume1/war_games/
 ---
 # WarGames (1983)
 
-Fantascienza, Giallo
+Sci-Fi, Thriller
 
-## Il film in breve
+## Plot
 A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
 
 [details](https://www.imdb.com/title/tt0086567/)
@@ -69,3 +69,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

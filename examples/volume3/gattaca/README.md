@@ -3,9 +3,9 @@ permalink: /examples/volume3/gattaca/
 ---
 # Gattaca (1997)
 
-Drammatico, Fantascienza, Giallo
+Drama, Sci-Fi, Thriller
 
-## Il film in breve
+## Plot
 A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
 [details](https://www.imdb.com/title/tt0119177/)
@@ -59,3 +59,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

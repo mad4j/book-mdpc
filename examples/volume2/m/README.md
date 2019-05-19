@@ -3,9 +3,9 @@ permalink: /examples/volume2/m/
 ---
 # M (1931)
 
-Poliziesco, Drammatico, Mystery
+Crime, Drama, Mystery
 
-## Il film in breve
+## Plot
 When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
 
 [details](https://www.imdb.com/title/tt0022100/)
@@ -52,3 +52,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

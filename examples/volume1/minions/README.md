@@ -3,9 +3,9 @@ permalink: /examples/volume1/minions/
 ---
 # Minions (2015)
 
-Animazione, Azione, Avventura
+Animation, Action, Adventure
 
-## Il film in breve
+## Plot
 Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.
 
 [details](https://www.imdb.com/title/tt2293640/)
@@ -58,3 +58,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

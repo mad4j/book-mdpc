@@ -3,9 +3,9 @@ permalink: /examples/volume1/social_network_the/
 ---
 # The Social Network (2010)
 
-Biografico, Drammatico
+Biography, Drama
 
-## Il film in breve
+## Plot
 Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
 
 [details](https://www.imdb.com/title/tt1285016/)
@@ -61,3 +61,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

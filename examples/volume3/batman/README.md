@@ -3,9 +3,9 @@ permalink: /examples/volume3/batman/
 ---
 # Batman (1989)
 
-Azione, Avventura
+Action, Adventure
 
-## Il film in breve
+## Plot
 The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
 
 [details](https://www.imdb.com/title/tt0096895/)
@@ -82,3 +82,5 @@ float h(float x) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

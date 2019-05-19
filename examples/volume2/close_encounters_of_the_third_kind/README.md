@@ -3,9 +3,9 @@ permalink: /examples/volume2/close_encounters_of_the_third_kind/
 ---
 # Close Encounters of the Third Kind (1977)
 
-Drammatico, Fantascienza
+Drama, Sci-Fi
 
-## Il film in breve
+## Plot
 After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.
 
 [details](https://www.imdb.com/title/tt0075860/)
@@ -69,3 +69,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

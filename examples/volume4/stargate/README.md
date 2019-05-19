@@ -3,9 +3,9 @@ permalink: /examples/volume4/stargate/
 ---
 # Stargate (1994)
 
-Azione, Avventura, Fantascienza
+Action, Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
 
 [details](https://www.imdb.com/title/tt0111282/)
@@ -68,3 +68,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

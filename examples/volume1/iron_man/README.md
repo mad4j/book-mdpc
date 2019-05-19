@@ -3,9 +3,9 @@ permalink: /examples/volume1/iron_man/
 ---
 # Iron Man (2008)
 
-Azione, Avventura, Fantascienza
+Action, Adventure, Sci-Fi
 
-## Il film in breve
+## Plot
 After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
 
 [details](https://www.imdb.com/title/tt0371746/)
@@ -67,3 +67,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

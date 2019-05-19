@@ -3,9 +3,9 @@ permalink: /examples/volume2/slumdog_millionaire/
 ---
 # Slumdog Millionaire (2008)
 
-Drammatico
+Drama
 
-## Il film in breve
+## Plot
 A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"
 
 [details](https://www.imdb.com/title/tt1010048/)
@@ -78,3 +78,5 @@ void drawCell(float x, float y, float w, float h) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

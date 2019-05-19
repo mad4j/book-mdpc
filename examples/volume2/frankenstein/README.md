@@ -3,9 +3,9 @@ permalink: /examples/volume2/frankenstein/
 ---
 # Frankenstein (1931)
 
-Drammatico, Orrore, Fantascienza
+Drama, Horror, Sci-Fi
 
-## Il film in breve
+## Plot
 An obsessed scientist assembles a living being from parts of exhumed corpses.
 
 [details](https://www.imdb.com/title/tt0021884/)
@@ -65,3 +65,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume1/one_hundred_and_one_dalmatians/
 ---
 # 101 Dalmatians (1961)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 When a litter of Dalmatian puppies are abducted by the minions of Cruella de Vil, the parents must find them before she uses them for a diabolical fashion statement.
 
 [details](https://www.imdb.com/title/tt0055254/)
@@ -69,3 +69,5 @@ void drawSpot(float x, float y, float r, int fuzz) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

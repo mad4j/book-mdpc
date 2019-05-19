@@ -3,9 +3,9 @@ permalink: /examples/volume5/v_for_vendetta/
 ---
 # V for Vendetta (2005)
 
-Azione, Drammatico, Fantascienza
+Action, Drama, Sci-Fi
 
-## Il film in breve
+## Plot
 In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
 
 [details](https://www.imdb.com/title/tt0434409/)
@@ -53,3 +53,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

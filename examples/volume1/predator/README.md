@@ -3,9 +3,9 @@ permalink: /examples/volume1/predator/
 ---
 # Predator (1987)
 
-Azione, Fantascienza, Giallo
+Action, Sci-Fi, Thriller
 
-## Il film in breve
+## Plot
 A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.
 
 [details](https://www.imdb.com/title/tt0093773/)
@@ -49,3 +49,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

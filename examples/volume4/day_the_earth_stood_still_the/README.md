@@ -3,9 +3,9 @@ permalink: /examples/volume4/day_the_earth_stood_still_the/
 ---
 # The Day the Earth Stood Still (1951)
 
-Drammatico, Fantascienza
+Drama, Sci-Fi
 
-## Il film in breve
+## Plot
 An alien lands and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.
 
 [details](https://www.imdb.com/title/tt0043456/)
@@ -54,3 +54,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

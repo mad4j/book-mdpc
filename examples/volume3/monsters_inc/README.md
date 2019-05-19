@@ -3,9 +3,9 @@ permalink: /examples/volume3/monsters_inc/
 ---
 # Monsters, Inc. (2001)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
 
 [details](https://www.imdb.com/title/tt0198781/)
@@ -52,3 +52,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

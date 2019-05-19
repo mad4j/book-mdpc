@@ -3,9 +3,9 @@ permalink: /examples/volume5/back_to_the_future/
 ---
 # Back to the Future (1985)
 
-Avventura, Commedia, Fantascienza
+Adventure, Comedy, Sci-Fi
 
-## Il film in breve
+## Plot
 Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
 
 [details](https://www.imdb.com/title/tt0088763/)
@@ -70,3 +70,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

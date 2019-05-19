@@ -3,9 +3,9 @@ permalink: /examples/volume3/six_days_seven_nights/
 ---
 # Six Days Seven Nights (1998)
 
-Azione, Avventura, Commedia
+Action, Adventure, Comedy
 
-## Il film in breve
+## Plot
 Robin Monroe, a New York magazine editor, and the gruff pilot Quinn Harris must put aside their mutual dislike if they are to survive after crash landing on a deserted South Seas island.
 
 [details](https://www.imdb.com/title/tt0120828/)
@@ -95,3 +95,5 @@ void drawMoon(float x, float y, float r, int phase) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

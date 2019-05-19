@@ -3,9 +3,9 @@ permalink: /examples/volume5/wreck_it_ralph/
 ---
 # Wreck-It Ralph (2012)
 
-Animazione, Avventura, Commedia, Ragazzi, Fantascico
+Animation, Adventure, Comedy, Family, Fantasy
 
-## Il film in breve
+## Plot
 A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
 
 [details](https://www.imdb.com/title/tt1772341/)
@@ -85,3 +85,5 @@ void drawStar(float x, float y, float r1, float r2) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

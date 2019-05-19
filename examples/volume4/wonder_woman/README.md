@@ -3,9 +3,9 @@ permalink: /examples/volume4/wonder_woman/
 ---
 # Wonder Woman (2017)
 
-Azione, Avventura, Fantascico
+Action, Adventure, Fantasy
 
-## Il film in breve
+## Plot
 An Amazon princess leaves her island home to explore the world and, in doing so, becomes one of the world's greatest heroes.
 
 [details](https://www.imdb.com/title/tt0451279/)
@@ -73,3 +73,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

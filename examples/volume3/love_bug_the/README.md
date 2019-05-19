@@ -3,9 +3,9 @@ permalink: /examples/volume3/love_bug_the/
 ---
 # The Love Bug (1968)
 
-Commedia, Ragazzi, Sportivo
+Comedy, Family, Sport
 
-## Il film in breve
+## Plot
 A race car driver becomes a champion with a Volkswagen Beetle with a mind of its own.
 
 [details](https://www.imdb.com/title/tt0064603/)
@@ -60,3 +60,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

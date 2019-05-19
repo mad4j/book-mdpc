@@ -3,9 +3,9 @@ permalink: /examples/volume2/pixels/
 ---
 # Pixels (2015)
 
-Azione, Commedia, Fantascienza
+Action, Comedy, Sci-Fi
 
-## Il film in breve
+## Plot
 When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.
 
 [details](https://www.imdb.com/title/tt2120120/)
@@ -56,3 +56,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

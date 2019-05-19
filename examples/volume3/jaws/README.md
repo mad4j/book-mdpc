@@ -3,9 +3,9 @@ permalink: /examples/volume3/jaws/
 ---
 # Jaws (1975)
 
-Avventura, Drammatico, Giallo
+Adventure, Drama, Thriller
 
-## Il film in breve
+## Plot
 A giant great white shark arrives on the shores of a New England beach resort and wreaks havoc with bloody attacks on swimmers, until a part-time sheriff teams up with a marine biologist and an old seafarer to hunt the monster down.
 
 [details](https://www.imdb.com/title/tt0073195/)
@@ -58,3 +58,5 @@ void drawTeeth() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

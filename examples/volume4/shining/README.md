@@ -3,9 +3,9 @@ permalink: /examples/volume4/shining/
 ---
 # The Shining (1980)
 
-Drammatico, Orrore
+Drama, Horror
 
-## Il film in breve
+## Plot
 A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.
 
 [details](https://www.imdb.com/title/tt0081505/)
@@ -90,3 +90,5 @@ void drawTurtle(String path, float dL, float dA) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

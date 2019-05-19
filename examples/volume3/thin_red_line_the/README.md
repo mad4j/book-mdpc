@@ -3,9 +3,9 @@ permalink: /examples/volume3/thin_red_line_the/
 ---
 # The Thin Red Line (1998)
 
-Drammatico, Guerra
+Drama, War
 
-## Il film in breve
+## Plot
 Terrence Malick's adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.
 
 [details](https://www.imdb.com/title/tt0120863/)
@@ -40,3 +40,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume3/pulp_fiction/
 ---
 # Pulp Fiction (1994)
 
-Poliziesco, Drammatico
+Crime, Drama
 
-## Il film in breve
+## Plot
 The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
 
 [details](https://www.imdb.com/title/tt0110912/)
@@ -57,3 +57,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

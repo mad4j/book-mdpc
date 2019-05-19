@@ -3,9 +3,9 @@ permalink: /examples/volume4/tonari_no_totoro/
 ---
 # My Neighbor Totoro (1988)
 
-Animazione, Ragazzi, Fantascico
+Animation, Family, Fantasy
 
-## Il film in breve
+## Plot
 When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
 
 [details](https://www.imdb.com/title/tt0096283/)
@@ -79,3 +79,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

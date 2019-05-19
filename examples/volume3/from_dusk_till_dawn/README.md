@@ -3,9 +3,9 @@ permalink: /examples/volume3/from_dusk_till_dawn/
 ---
 # From Dusk Till Dawn (1996)
 
-Azione, Poliziesco, Orrore
+Action, Crime, Horror
 
-## Il film in breve
+## Plot
 Two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires, with chaotic results.
 
 [details](https://www.imdb.com/title/tt0116367/)
@@ -62,3 +62,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

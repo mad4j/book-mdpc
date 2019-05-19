@@ -3,9 +3,9 @@ permalink: /examples/volume2/rush/
 ---
 # Rush (2013)
 
-Azione, Biografico, Drammatico
+Action, Biography, Drama
 
-## Il film in breve
+## Plot
 The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
 
 [details](https://www.imdb.com/title/tt1979320/)
@@ -49,3 +49,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

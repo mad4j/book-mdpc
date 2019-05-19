@@ -3,9 +3,9 @@ permalink: /examples/volume4/psycho/
 ---
 # Psycho (1960)
 
-Orrore, Mystery, Giallo
+Horror, Mystery, Thriller
 
-## Il film in breve
+## Plot
 A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.
 
 [details](https://www.imdb.com/title/tt0054215/)
@@ -67,3 +67,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

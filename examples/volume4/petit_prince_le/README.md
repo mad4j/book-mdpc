@@ -3,9 +3,9 @@ permalink: /examples/volume4/petit_prince_le/
 ---
 # The Little Prince (2015)
 
-Animazione, Avventura, Drammatico
+Animation, Adventure, Drama
 
-## Il film in breve
+## Plot
 A little girl lives in a very grown-up world with her mother, who tries to prepare her for it. Her neighbor, the Aviator, introduces the girl to an extraordinary world where anything is possible, the world of the Little Prince.
 
 [details](https://www.imdb.com/title/tt1754656/)
@@ -106,3 +106,5 @@ void drawButton(float x, float y, float s, color c1, color c2) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

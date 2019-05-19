@@ -3,9 +3,9 @@ permalink: /examples/volume5/star_trek/
 ---
 # Star Trek: The Motion Picture (1979)
 
-Avventura, Mystery, Fantascienza
+Adventure, Mystery, Sci-Fi
 
-## Il film in breve
+## Plot
 When an alien spacecraft of enormous power is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine and hopefully stop the intruder.
 
 [details](https://www.imdb.com/title/tt0079945/)
@@ -63,3 +63,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

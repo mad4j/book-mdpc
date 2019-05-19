@@ -3,9 +3,9 @@ permalink: /examples/volume1/pretty_woman/
 ---
 # Pretty Woman (1990)
 
-Commedia, Sentimentale
+Comedy, Romance
 
-## Il film in breve
+## Plot
 A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.
 
 [details](https://www.imdb.com/title/tt0100405/)
@@ -61,3 +61,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

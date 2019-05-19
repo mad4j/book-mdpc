@@ -3,9 +3,9 @@ permalink: /examples/volume1/peanuts_movie_the/
 ---
 # The Peanuts Movie (2015)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.
 
 [details](https://www.imdb.com/title/tt2452042/)
@@ -57,3 +57,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

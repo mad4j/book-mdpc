@@ -3,9 +3,9 @@ permalink: /examples/volume3/speed_racer/
 ---
 # Speed Racer (2008)
 
-Azione, Ragazzi, Fantascienza
+Action, Family, Sci-Fi
 
-## Il film in breve
+## Plot
 A young driver, Speed Racer, aspires to be champion of the racing world with the help of his family and his high-tech Mach 5 automobile.
 
 [details](https://www.imdb.com/title/tt0811080/)
@@ -48,3 +48,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

@@ -3,9 +3,9 @@ permalink: /examples/volume2/kill_bill/
 ---
 # Kill Bill: Vol. 1 (2003)
 
-Azione, Poliziesco, Giallo
+Action, Crime, Thriller
 
-## Il film in breve
+## Plot
 The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.
 
 [details](https://www.imdb.com/title/tt0266697/)
@@ -45,3 +45,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

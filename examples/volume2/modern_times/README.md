@@ -3,9 +3,9 @@ permalink: /examples/volume2/modern_times/
 ---
 # Modern Times (1936)
 
-Commedia, Drammatico, Ragazzi
+Comedy, Drama, Family
 
-## Il film in breve
+## Plot
 The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
 
 [details](https://www.imdb.com/title/tt0027977/)
@@ -70,3 +70,5 @@ void drawGear(float x, float y, float r, float s, float a) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

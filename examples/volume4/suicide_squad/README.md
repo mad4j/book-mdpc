@@ -3,9 +3,9 @@ permalink: /examples/volume4/suicide_squad/
 ---
 # Suicide Squad (2016)
 
-Azione, Avventura, Fantascico
+Action, Adventure, Fantasy
 
-## Il film in breve
+## Plot
 A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
 
 [details](https://www.imdb.com/title/tt1386697/)
@@ -65,3 +65,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

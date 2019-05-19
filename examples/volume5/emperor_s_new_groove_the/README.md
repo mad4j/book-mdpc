@@ -3,9 +3,9 @@ permalink: /examples/volume5/emperor_s_new_groove_the/
 ---
 # The Emperor's New Groove (2000)
 
-Animazione, Avventura, Commedia
+Animation, Adventure, Comedy
 
-## Il film in breve
+## Plot
 Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne with the help of Pacha, the gentle llama herder.
 
 [details](https://www.imdb.com/title/tt0120917/)
@@ -67,3 +67,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

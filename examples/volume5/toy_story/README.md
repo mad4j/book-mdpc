@@ -3,9 +3,9 @@ permalink: /examples/volume5/toy_story/
 ---
 # Toy Story (1995)
 
-Animazione, Avventura, Commedia, Ragazzi, Fantascico
+Animation, Adventure, Comedy, Family, Fantasy
 
-## Il film in breve
+## Plot
 A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
 
 [details](https://www.imdb.com/title/tt0114709/)
@@ -77,3 +77,5 @@ void drawCloud(float x, float y, float s) {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

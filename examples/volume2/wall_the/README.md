@@ -3,9 +3,9 @@ permalink: /examples/volume2/wall_the/
 ---
 # Pink Floyd: The Wall (1982)
 
-Animazione, Drammatico, Fantascico
+Animation, Drama, Fantasy
 
-## Il film in breve
+## Plot
 A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.
 
 [details](https://www.imdb.com/title/tt0084503/)
@@ -50,3 +50,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

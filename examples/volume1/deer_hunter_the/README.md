@@ -3,9 +3,9 @@ permalink: /examples/volume1/deer_hunter_the/
 ---
 # The Deer Hunter (1978)
 
-Drammatico, Guerra
+Drama, War
 
-## Il film in breve
+## Plot
 An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.
 
 [details](https://www.imdb.com/title/tt0077416/)
@@ -69,3 +69,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

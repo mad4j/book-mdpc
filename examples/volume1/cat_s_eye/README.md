@@ -3,9 +3,9 @@ permalink: /examples/volume1/cat_s_eye/
 ---
 # Cat's Eye (1985)
 
-Commedia, Orrore, Giallo
+Comedy, Horror, Thriller
 
-## Il film in breve
+## Plot
 A stray cat is the linking element of three tales of suspense and horror.
 
 [details](https://www.imdb.com/title/tt0088889/)
@@ -53,3 +53,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

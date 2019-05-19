@@ -3,9 +3,9 @@ permalink: /examples/volume1/love_story/
 ---
 # Love Story (1970)
 
-Drammatico, Sentimentale
+Drama, Romance
 
-## Il film in breve
+## Plot
 A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.
 
 [details](https://www.imdb.com/title/tt0066011/)
@@ -62,3 +62,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

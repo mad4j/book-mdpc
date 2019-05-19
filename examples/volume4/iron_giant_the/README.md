@@ -3,9 +3,9 @@ permalink: /examples/volume4/iron_giant_the/
 ---
 # The Iron Giant (1999)
 
-Animazione, Azione, Avventura
+Animation, Action, Adventure
 
-## Il film in breve
+## Plot
 A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
 
 [details](https://www.imdb.com/title/tt0129167/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

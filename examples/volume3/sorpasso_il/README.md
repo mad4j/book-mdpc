@@ -3,9 +3,9 @@ permalink: /examples/volume3/sorpasso_il/
 ---
 # Il Sorpasso (1962)
 
-Commedia, Drammatico
+Comedy, Drama
 
-## Il film in breve
+## Plot
 An impulsive braggart takes a shy law student for a two-day ride through the Roman and Tuscany countries.
 
 [details](https://www.imdb.com/title/tt0056512/)
@@ -62,3 +62,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

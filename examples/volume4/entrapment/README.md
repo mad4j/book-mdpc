@@ -3,9 +3,9 @@ permalink: /examples/volume4/entrapment/
 ---
 # Entrapment (1999)
 
-Azione, Poliziesco, Sentimentale
+Action, Crime, Romance
 
-## Il film in breve
+## Plot
 An insurance agent is sent by her employer to track down and help capture an art thief.
 
 [details](https://www.imdb.com/title/tt0137494/)
@@ -59,3 +59,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

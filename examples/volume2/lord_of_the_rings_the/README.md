@@ -3,9 +3,9 @@ permalink: /examples/volume2/lord_of_the_rings_the/
 ---
 # The Lord of the Rings (1978)
 
-Animazione, Avventura, Fantascico
+Animation, Adventure, Fantasy
 
-## Il film in breve
+## Plot
 The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.
 
 [details](https://www.imdb.com/title/tt0077869/)
@@ -55,3 +55,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

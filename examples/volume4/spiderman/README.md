@@ -3,9 +3,9 @@ permalink: /examples/volume4/spiderman/
 ---
 # Spider-Man (2002)
 
-Azione, Avventura
+Action, Adventure
 
-## Il film in breve
+## Plot
 When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.
 
 [details](https://www.imdb.com/title/tt0145487/)
@@ -65,3 +65,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

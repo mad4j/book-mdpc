@@ -3,9 +3,9 @@ permalink: /examples/volume2/gandhi/
 ---
 # Gandhi (1982)
 
-Biografico, Drammatico, Storico
+Biography, Drama, History
 
-## Il film in breve
+## Plot
 Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.
 
 [details](https://www.imdb.com/title/tt0083987/)
@@ -65,3 +65,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

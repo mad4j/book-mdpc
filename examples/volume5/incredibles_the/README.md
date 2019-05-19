@@ -3,9 +3,9 @@ permalink: /examples/volume5/incredibles_the/
 ---
 # The Incredibles (2004)
 
-Animazione, Azione, Avventura, Ragazzi
+Animation, Action, Adventure, Family
 
-## Il film in breve
+## Plot
 A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.
 
 [details](https://www.imdb.com/title/tt0317705/)
@@ -66,3 +66,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file

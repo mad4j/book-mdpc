@@ -3,9 +3,9 @@ permalink: /examples/volume1/dr_strangelove/
 ---
 # Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
 
-Commedia
+Comedy
 
-## Il film in breve
+## Plot
 An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.
 
 [details](https://www.imdb.com/title/tt0057012/)
@@ -64,3 +64,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
+> by Daniele Olmisani
+> Please, see [LICENSE](../../LICENSE) file
