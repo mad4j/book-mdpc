@@ -370,6 +370,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/ready_player_one/">
     <img src="examples/volume5/ready_player_one/ready-player-one.png" width="120px" title="Ready Player One"/>
 </a>
+<a href="examples/volume5/ring_the/">
+    <img src="examples/volume5/ring_the/the-ring.png" width="120px" title="The Ring"/>
+</a>
 <a href="examples/volume5/secretary/">
     <img src="examples/volume5/secretary/secretary.png" width="120px" title="Secretary"/>
 </a>
@@ -379,10 +382,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/toy_story/">
     <img src="examples/volume5/toy_story/toy-story.png" width="120px" title="Toy Story"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/v_for_vendetta/">
     <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/wreck_it_ralph/">
     <img src="examples/volume5/wreck_it_ralph/wreck-it-ralph.png" width="120px" title="Wreck-It Ralph"/>
 </a>

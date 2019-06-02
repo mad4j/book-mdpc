@@ -1,0 +1,40 @@
+{
+    "Title": "The Ring",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "18 Oct 2002",
+    "Runtime": "115 min",
+    "Genre": "Horror, Mystery",
+    "Director": "Gore Verbinski",
+    "Writer": "Ehren Kruger (screenplay), Kôji Suzuki (novel)",
+    "Actors": "Naomi Watts, Martin Henderson, David Dorfman, Brian Cox",
+    "Plot": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "14 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "7.1",
+    "imdbVotes": "296,792",
+    "imdbID": "tt0298130",
+    "Type": "movie",
+    "DVD": "04 Mar 2003",
+    "BoxOffice": "$128,579,698",
+    "Production": "DreamWorks SKG",
+    "Website": "http://www.ring-themovie.com",
+    "Response": "True"
+}
