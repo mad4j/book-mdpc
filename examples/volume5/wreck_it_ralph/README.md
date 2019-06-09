@@ -16,7 +16,7 @@ A video game villain wants to be a hero and sets out to fulfill his dream, but h
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 5
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2019
 
 // Wreck-It Ralph (2012)
