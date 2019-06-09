@@ -24,11 +24,11 @@ A journalist must investigate a mysterious videotape which seems to cause the de
 
 final color PAPER = color(0);
 final color INK= color(255);
-final float ALPHA = 50;
+final float ALPHA = 100;
 
 final int COUNT = 15;
 final float OFFSET = 0.02;
-final int WEIGHT = 10;
+final int WEIGHT = 5;
 final float RADIUS = 0.5;
 
 
