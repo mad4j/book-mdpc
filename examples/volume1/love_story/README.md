@@ -16,10 +16,10 @@ A boy and a girl from different backgrounds fall in love regardless of their upb
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Love Story
+// Love Story (1970)
 
 
 final color PAPER = color(240);
@@ -34,10 +34,14 @@ void setup() {
 
 void draw() {
   
-  float s = 0.35 * min(width, height);
+  final float S =  min(width, height);
+  final float U = 0.002;
   
-  translate(width/2.0, height/3.0);
+  final float L = 0.40;
   
+  translate(0.5*width, 0.3*height);
+  scale(L*S);
+   
   background(PAPER);
   fill(INK);
   noStroke();
@@ -46,19 +50,20 @@ void draw() {
   
   pushMatrix();
   rotate(-QUARTER_PI);
-  translate(-s/2.0, 0);
+  translate(-0.5, 0);
   
-  ellipse(0, 0, s, s);
-  rect(-s/2.0, 0, s, s);
+  ellipse(0, 0, 1, 1);
+  rect(-.5, 0, 1, 1);
   
   popMatrix();
   rotate(QUARTER_PI);
-  translate(s/2.0, 0);
+  translate(0.5, 0);
   
-  ellipse(0, 0, s, s);
+  ellipse(0, 0, 1, 1);
   
   save("love-story.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
