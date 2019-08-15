@@ -22,7 +22,6 @@ fi
 
 echo "[$LABEL] working on '$ROOT'"
 
-
 # check needed tools
 TMP=`jq --version`
 if [ -z "$TMP" ]; then
@@ -40,16 +39,8 @@ echo -e "Title\tYear\tDirector\tGenre\tCountry" >> $ROOT/$OUTPUT_FILE
 
 # build table content
 for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
-
     echo "[$LABEL] working on '$(basename $(dirname $f))'..."
-
-    TITLE="`jq -r .Title $f`"
-    YEAR="`jq -r .Year $f`"
-    GENRE="`jq -r .Genre $f`"
-    DIRECTOR="`jq -r .Director $f`"
-    COUNTRY="`jq -r .Country $f`"
-
-    echo -e "$TITLE\t$YEAR\t$DIRECTOR\t$GENRE\t$COUNTRY" >> $ROOT/$OUTPUT_FILE
+    jq -r '"\(.Title)\t\(.Year)\t\(.Director)\t\(.Genre)\t\(.Country)"' $f >> $ROOT/$OUTPUT_FILE
 done
 
 echo "[$LABEL] ... DONE"
