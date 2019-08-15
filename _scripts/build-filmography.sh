@@ -25,7 +25,7 @@ echo "[$LABEL] working on '$ROOT'"
 
 # check needed tools
 TMP=`jq --version`
-if [ -z "$TMP"]; then
+if [ -z "$TMP" ]; then
     echo "[$LABEL] ERROR: unable to find needed tool 'jq'."
     exit -1
 else 
