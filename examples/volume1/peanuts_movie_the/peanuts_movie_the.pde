@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// The Peanuts Movie
+// The Peanuts Movie (2015)
 
 
 final color PAPER = color(245, 220, 110);
