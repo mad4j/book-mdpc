@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// One hundred and one Dalmatians
+// One hundred and one Dalmatians (1961)
 
 
 final color PAPER = color(250);
