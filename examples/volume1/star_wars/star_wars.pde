@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Star Wars
+// Star Wars (1997)
 
 final color PAPER = color(34, 34, 34);
 final color INK = color(132, 132, 130);
