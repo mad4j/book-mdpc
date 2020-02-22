@@ -3,18 +3,15 @@
 
 // Coraline (2009)
 
-
 final color PAPER = color(100, 145, 140);
 final color INK1 = color(130, 90, 50);
 final color INK2 = color(90, 65, 25);
 final color INK3 = color(30, 30, 30);
 
-
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   
@@ -29,7 +26,6 @@ void draw() {
   
   save("coraline.png");
 }
-
 
 void drawButton(float x, float y, float s) {
   
@@ -52,7 +48,6 @@ void drawButton(float x, float y, float s) {
   noStroke();
   
   rotate(-PI/3.0);
-  
   
   ellipse(-l1, -l1, l2, l2);
   ellipse( l1, -l1, l2, l2);
