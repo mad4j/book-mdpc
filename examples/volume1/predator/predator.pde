@@ -1,15 +1,18 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Predator
+// Predator (1987)
+
 
 final color PAPER = color(65, 45, 35);
 final color INK = color(175, 10, 10);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
