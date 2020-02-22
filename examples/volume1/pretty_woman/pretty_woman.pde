@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Pretty Woman
+// Pretty Woman (1990)
 
 
 final color INK1 = color(240);
