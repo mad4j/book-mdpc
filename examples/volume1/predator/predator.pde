@@ -16,7 +16,10 @@ void setup() {
 
 void draw() {
   
-  translate(width/2.0, height/3.0);
+  final float S = min(width, height);
+  
+  translate(0.5*width, 0.3*height);
+  scale(S);
   
   background(PAPER);
   fill(INK);
@@ -26,7 +29,7 @@ void draw() {
   
   for (int i=0; i<3; i++) {
     rotate(TWO_PI / 3);
-    ellipse(75, 0, 50, 50);
+    ellipse(0.15, 0.0, 0.1, 0.1);
   }
   
   save("predator.png");
