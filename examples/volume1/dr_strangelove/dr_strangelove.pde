@@ -1,8 +1,5 @@
 // Manuale di Programmazione Cinematografica
-// Volume 1
-
 // Daniele Olmisani, 2016
-
 
 // Dr. Strangelove (1964)
 

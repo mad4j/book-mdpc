@@ -1,4 +1,4 @@
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // Coraline (2009)

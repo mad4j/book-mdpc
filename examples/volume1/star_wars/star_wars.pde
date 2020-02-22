@@ -1,4 +1,4 @@
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
 // Star Wars (1977)

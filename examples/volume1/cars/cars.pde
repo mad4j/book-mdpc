@@ -1,4 +1,4 @@
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // Cars (2006)
@@ -29,8 +29,14 @@ void draw() {
   
   noStroke();
   
-  arc(0.00  , 0.00, 1.00*L, 0.40*L, PI, TWO_PI-(0.5*QUARTER_PI), CHORD);
-  arc(0.20*L, 0.00, 0.55*L, 0.65*L, PI+(0.5*QUARTER_PI), TWO_PI-(0.3*QUARTER_PI), CHORD);
+  arc(0.00  , 0.00, 
+      1.00*L, 0.40*L, 
+      PI, TWO_PI-(0.5*QUARTER_PI), 
+      CHORD);
+  arc(0.20*L, 0.00, 
+      0.55*L, 0.65*L, 
+      PI+(0.5*QUARTER_PI), TWO_PI-(0.3*QUARTER_PI), 
+      CHORD);
   
   fill(PAPER);
   
