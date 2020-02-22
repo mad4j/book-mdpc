@@ -38,13 +38,13 @@ void drawSpot(float x, float y, float r, int fuzz) {
   
   pushMatrix();
 
-  translate(x, y);
-  
-  ellipse(0, 0, r, r);
-  
-  for (int i=0; i<fuzz; i++) {
-    ellipse(random(0.2*r), random(0.2*r), r, r);
-  }
+    translate(x, y);
+    
+    ellipse(0, 0, r, r);
+    
+    for (int i=0; i<fuzz; i++) {
+      ellipse(random(0.2*r), random(0.2*r), r, r);
+    }
   
   popMatrix();
 }
