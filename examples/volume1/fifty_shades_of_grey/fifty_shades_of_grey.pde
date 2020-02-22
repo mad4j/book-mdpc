@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica - Volume 1
 // Daniele Olmisani, 2016
 
-// Fifty Shades of Grey
+// Fifty Shades of Grey (2015)
 
 
 final int ROWS = 10;
@@ -9,7 +9,6 @@ final int COLS = 5;
 
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
