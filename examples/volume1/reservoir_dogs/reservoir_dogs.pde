@@ -4,9 +4,6 @@
 // Reservoir Dogs (1992)
 
 
-final float D1 = 120;
-final float D2 = 0.1*D1;
-
 final color PAPER = color(40, 40, 40);
 
 final color[] INKS = new color[] {
@@ -25,11 +22,14 @@ void setup() {
 
 void draw() {
   
+  float D1 = 0.25*min(width, height);
+  float D2 = 0.1*D1;
+  
   int count = INKS.length;
   float step = (float)width / (count+1);
  
   translate((width-(count-1)*step)/2.0, height/3.0);
-
+  
   background(PAPER);
   noStroke();
   
