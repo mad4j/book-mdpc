@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Reservoir dogs
+// Reservoir Dogs (1992)
 
 
 final float D1 = 120;
