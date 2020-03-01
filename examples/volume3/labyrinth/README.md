@@ -20,8 +20,6 @@ A 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby br
 // Daniele Olmisani, 2015
 
 // Labyrinth (1986)
-// Adventure, Family, Fantasy
-// http://www.imdb.com/title/tt0091369/
 
 // See also:
 // 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
@@ -49,23 +47,22 @@ void draw() {
   
   background(PAPER);
   
-  noFill();
   stroke(INK);
   strokeCap(ROUND);
   strokeWeight(STROKE / SCALE);
   
-  randomSeed(7);
+  randomSeed(0x2143B9F7);
   
-  for (int x=0; x<MAX_X; x++) {
-    for (int y=0; y<MAX_Y; y++) {
-
-      float r = random(1);
-      line(x+(int)(0.5+r), y, x+(int)(1.5-r), y+1);
+  for (int y=0; y<MAX_Y; y++) {
+    for (int x=0; x<MAX_X; x++) {
+      int r = (int)random(2);
+      line(x+(1-r), y, x+r, y+1);
     }
   }
 
   save("labyrinth.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
