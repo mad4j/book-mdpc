@@ -1,0 +1,47 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;Harry&nbsp;Potter&nbsp;and&nbsp;the&nbsp;deathly&nbsp;hallows&nbsp;(2010)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(50, 55, 90);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span>(215, 175, 65);
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">int</span> <span style="color: #718A62;">RADIUS</span> = 225;
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> r = 0.5 * <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #006699;">println</span>(r);
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> d = <span style="color: #718A62;">TWO_PI</span>/3;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/2.0);
+&nbsp;&nbsp;<span style="color: #006699;">rotate</span>(-<span style="color: #718A62;">HALF_PI</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INK);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(0.03*r);
+&nbsp;&nbsp;<span style="color: #006699;">noFill</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, r, r);
+
+&nbsp;&nbsp;<span style="color: #006699;">beginShape</span>();
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=0; i&lt;3; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>(r*<span style="color: #006699;">cos</span>(i*d), r*<span style="color: #006699;">sin</span>(i*d));
+&nbsp;&nbsp;}
+&nbsp;&nbsp;<span style="color: #006699;">endShape</span>(<span style="color: #718A62;">CLOSE</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">line</span>(-r/2, 0, +r, 0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;harry-potter-and-the-deathly-hallows.png&quot;</span>);
+}
+
+</pre></body></html>

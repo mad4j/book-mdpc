@@ -1,0 +1,50 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;Reservoir&nbsp;Dogs&nbsp;(1992)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(40, 40, 40);
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span>[] INKS = <span style="color: #33997E;">new</span> <span style="color: #E2661A;">color</span>[] {
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(30, 150, 210),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(110, 70, 20),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(230, 215, 5),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(245, 125, 10),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(245, 245, 245),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(200, 55, 145),
+};
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> D1 = 0.25*<span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> D2 = 0.1*D1;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">int</span> count = INKS.<span style="color: #33997E;">length</span>;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> step = (<span style="color: #E2661A;">float</span>)<span style="color: #D94A7A;">width</span> / (count+1);
+&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>((<span style="color: #D94A7A;">width</span>-(count-1)*step)/2.0, <span style="color: #D94A7A;">height</span>/3.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=0; i&lt;count; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INKS[i]);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">quad</span>(0, D2, D2/2, 0, 0, -D2/2, -D2/2, 0);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">quad</span>(0, 0, D2, D1, 0, D1+D2, -D2, D1);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">translate</span>(step, 0.0);
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;reservoir-dogs.png&quot;</span>);
+}
+
+</pre></body></html>

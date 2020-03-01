@@ -1,0 +1,51 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;Iron&nbsp;Man&nbsp;(2008)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(180, 5, 30);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span>(255, 235, 0);
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> s = <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/2.0);
+&nbsp;&nbsp;<span style="color: #006699;">scale</span>(s / 480, (-1.33*s) / 640);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">ellipseMode</span>(<span style="color: #718A62;">CENTER</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, 220, 220);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, 160, 160);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">rotate</span>(<span style="color: #718A62;">TWO_PI</span>/16);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=0; i&lt;8; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rotate</span>(<span style="color: #718A62;">TWO_PI</span>/8);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">quad</span>(0, 0, 220, 45, 220, -45, 0, 0);
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, 100, 100);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;iron-man.png&quot;</span>);
+}
+
+</pre></body></html>

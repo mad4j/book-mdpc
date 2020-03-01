@@ -1,0 +1,42 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;Minions&nbsp;(2015)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(255, 255, 15);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK1 = <span style="color: #006699;">color</span>(40, 40, 40);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK2 = <span style="color: #006699;">color</span>(240, 240, 240);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK3 = <span style="color: #006699;">color</span>(150, 150, 150);
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> s = 0.4 * <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INK1);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(0.2*s);
+&nbsp;&nbsp;<span style="color: #006699;">line</span>(0, <span style="color: #D94A7A;">height</span>/5.0, <span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>/5.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK2);
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INK3);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(0.125*s);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/5.0, s, s);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK1);
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/5.0, 0.25*s, 0.25*s);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;minions.png&quot;</span>);
+}
+
+</pre></body></html>

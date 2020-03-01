@@ -1,0 +1,45 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;Pretty&nbsp;Woman&nbsp;(1990)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK1 = <span style="color: #006699;">color</span>(240);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK2 = <span style="color: #006699;">color</span>(55, 100, 165);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK3 = <span style="color: #006699;">color</span>(250, 225, 205);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK4 = <span style="color: #006699;">color</span>(135);
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/2.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK1);
+&nbsp;&nbsp;<span style="color: #006699;">rect</span>(-<span style="color: #D94A7A;">width</span>/2.0, -<span style="color: #D94A7A;">height</span>/2.0, <span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>/2.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK2);
+&nbsp;&nbsp;<span style="color: #006699;">rect</span>(-<span style="color: #D94A7A;">width</span>/2.0, 0, <span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>/2.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK3);
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(0x22FFFFFF &amp; INK4);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(3.0);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(-0.6*<span style="color: #D94A7A;">width</span>, 0, 1.0*<span style="color: #D94A7A;">width</span>,  1.25*<span style="color: #D94A7A;">width</span>);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>( 0.6*<span style="color: #D94A7A;">width</span>, 0, 1.0*<span style="color: #D94A7A;">width</span>,  1.25*<span style="color: #D94A7A;">width</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INK4);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(8.0);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, 0.3*<span style="color: #D94A7A;">width</span>,  0.3*<span style="color: #D94A7A;">width</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;pretty-woman.png&quot;</span>);
+}
+
+</pre></body></html>

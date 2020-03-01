@@ -1,0 +1,50 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;Love&nbsp;Story&nbsp;(1970)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(240);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span>(190, 0, 50);
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> S =  <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> U = 0.002;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> L = 0.40;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(0.5*<span style="color: #D94A7A;">width</span>, 0.3*<span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #006699;">scale</span>(L*S);
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK);
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">ellipseMode</span>(<span style="color: #718A62;">CENTER</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">pushMatrix</span>();
+&nbsp;&nbsp;<span style="color: #006699;">rotate</span>(-<span style="color: #718A62;">QUARTER_PI</span>);
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(-0.5, 0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, 1, 1);
+&nbsp;&nbsp;<span style="color: #006699;">rect</span>(-.5, 0, 1, 1);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">popMatrix</span>();
+&nbsp;&nbsp;<span style="color: #006699;">rotate</span>(<span style="color: #718A62;">QUARTER_PI</span>);
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(0.5, 0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, 1, 1);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;love-story.png&quot;</span>);
+}
+
+</pre></body></html>
