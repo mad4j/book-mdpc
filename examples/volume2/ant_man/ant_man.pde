@@ -1,7 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 2
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Ant Man
+// Ant Man (2015)
 
 
 final color PAPER = color(240);
