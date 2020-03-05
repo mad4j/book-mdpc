@@ -348,6 +348,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/aquaman/">
     <img src="examples/volume5/aquaman/aquaman.png" width="120px" title="Aquaman"/>
 </a>
+<a href="examples/volume5/avatar/">
+    <img src="examples/volume5/avatar/avatar.png" width="120px" title="Avatar"/>
+</a>
 <a href="examples/volume5/back_to_the_future/">
     <img src="examples/volume5/back_to_the_future/back-to-the-future.png" width="120px" title="Back to the Future"/>
 </a>
@@ -360,10 +363,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/king_kong/">
     <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/moana/">
     <img src="examples/volume5/moana/moana.png" width="120px" title="Moana"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/neverending_story_the/">
     <img src="examples/volume5/neverending_story_the/the-neverending-story.png" width="120px" title="The NeverEnding Story"/>
 </a>
@@ -379,10 +382,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/ring_the/">
     <img src="examples/volume5/ring_the/the-ring.png" width="120px" title="The Ring"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/secretary/">
     <img src="examples/volume5/secretary/secretary.png" width="120px" title="Secretary"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/singin__in_the_rain/">
     <img src="examples/volume5/singin__in_the_rain/singin__in_the_rain.png" width="120px" title="Singin' in the Rain"/>
 </a>
@@ -398,6 +401,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/wreck_it_ralph/">
     <img src="examples/volume5/wreck_it_ralph/wreck-it-ralph.png" width="120px" title="Wreck-It Ralph"/>
 </a>
+<br class="index-separator"/>
 
 
 ## References
