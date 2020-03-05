@@ -11,12 +11,22 @@ See also the complete project [filmography](filmography.tsv).
 
 This project is hosted and maintained on [GitHub](https://github.com/mad4j/book-mdpc).
 
+* [Volume 1](#volume-1)
+* [Volume 2](#volume-2)
+* [Volume 3](#volume-3)
+* [Volume 4](#volume-4)
+* [Volume 5](#volume-5)
 
 ## Last Release
 Use PDE `File -> Examples... -> Add examples` or follow these links to manually download MdPC code sketches:
 - [complete ZIP file](http://mad4j.github.io/book-mdpc/book-mdpc.zip)
 - [release description](http://mad4j.github.io/book-mdpc/book-mdpc.txt)
 
+## References
+* [Processing Main page](https://processing.org/)
+* [Processing Examples Contribution](https://github.com/processing/processing/wiki/Examples-Overview)
+* [IMDB](http://www.imdb.com/)
+* [OMDB API](http://www.omdbapi.com/)
 
 ## Volume 1
 
@@ -351,6 +361,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/avatar/">
     <img src="examples/volume5/avatar/avatar.png" width="120px" title="Avatar"/>
 </a>
+<a href="examples/volume5/avengers_the/">
+    <img src="examples/volume5/avengers_the/the-avengers.png" width="120px" title=""/>
+</a>
 <a href="examples/volume5/back_to_the_future/">
     <img src="examples/volume5/back_to_the_future/back-to-the-future.png" width="120px" title="Back to the Future"/>
 </a>
@@ -360,10 +373,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/exorcist_the/">
     <img src="examples/volume5/exorcist_the/the-exorcist.png" width="120px" title="The Exorcist"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/incredibles_the/">
     <img src="examples/volume5/incredibles_the/the-incredibles.png" width="120px" title="The Incredibles"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/king_kong/">
     <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
 </a>
@@ -379,10 +392,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/poltergeist/">
     <img src="examples/volume5/poltergeist/poltergeist.png" width="120px" title="Poltergeist"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/ready_player_one/">
     <img src="examples/volume5/ready_player_one/ready-player-one.png" width="120px" title="Ready Player One"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/ring_the/">
     <img src="examples/volume5/ring_the/the-ring.png" width="120px" title="The Ring"/>
 </a>
@@ -398,17 +411,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/toy_story/">
     <img src="examples/volume5/toy_story/toy-story.png" width="120px" title="Toy Story"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/v_for_vendetta/">
     <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/wreck_it_ralph/">
     <img src="examples/volume5/wreck_it_ralph/wreck-it-ralph.png" width="120px" title="Wreck-It Ralph"/>
 </a>
-
-
-## References
-* [Processing Main page](https://processing.org/)
-* [Processing Examples Contribution](https://github.com/processing/processing/wiki/Examples-Overview)
-* [IMDB](http://www.imdb.com/)
-* [OMDB API](http://www.omdbapi.com/)
