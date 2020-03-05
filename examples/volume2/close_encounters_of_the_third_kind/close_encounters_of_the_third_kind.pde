@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Close encounters of the third kind
+// Close encounters of the third kind (1977)
 
 final color PAPER = color(0);
 final color INK = color(50);
