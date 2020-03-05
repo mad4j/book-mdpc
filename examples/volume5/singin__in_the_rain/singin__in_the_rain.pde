@@ -26,17 +26,16 @@ void draw() {
   translate(0.5*width, 0.5*height);
   scale(S, -S);
 
+  randomSeed(0);
+
   stroke(INK3);
   strokeWeight(U);
-  for (int i=1; i<80; i++) {
-    float w = -1.0+(2.0/80)*i;
-    float a = 0.0;
-    float b = random(0.1);
+  for (float w=-1.0; w<1.0; w+=(2.0/80)) {
+    float a, b = 0.0;
     while (b < 0.8) {
-      a = b;
-      b += random(0.1);
+      a = b + random(0.1);
+      b = a + random(0.1);
       line(w, a, w, b);
-      b += random(0.1);
     }
   }
 
