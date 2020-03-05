@@ -17,13 +17,15 @@ A silent film production company and cast make a difficult transition to sound.
 ## The code
 ```java
 // Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2019
+// Daniele Olmisani, 2020
 
 // Singin' the Rain (1952)
+
 
 final color PAPER = color(15, 35, 70);
 final color INK1 = color(225, 225, 0);
 final color INK2 = color(115, 55, 25);
+final color INK3 = color(140);
 
 
 void setup() {
@@ -41,6 +43,20 @@ void draw() {
     
   translate(0.5*width, 0.5*height);
   scale(S, -S);
+
+  stroke(INK3);
+  strokeWeight(U);
+  for (int i=1; i<80; i++) {
+    float w = -1.0+(2.0/80)*i;
+    float a = 0.0;
+    float b = random(0.1);
+    while (b < 0.8) {
+      a = b;
+      b += random(0.1);
+      line(w, a, w, b);
+      b += random(0.1);
+    }
+  }
 
   stroke(INK2);
   strokeWeight(8*U);

@@ -17,7 +17,7 @@ A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes t
 ## The code
 ```java
 // Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2019
+// Daniele Olmisani, 2020
 
 // Avatar (2009)
 
