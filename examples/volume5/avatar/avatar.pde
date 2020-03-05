@@ -32,13 +32,13 @@ void draw() {
     
     stroke(INK);
     strokeWeight(TICKNESS*U);
-    line(0, 0, 0.3, 0);
+    line(0.0, 0.0, 0.3, 0.0);
     
     noStroke();
     fill(INK);
-    ellipse(0.1, 0, WEIGHT, WEIGHT);
-    ellipse(0.2, 0, WEIGHT, WEIGHT);
-    ellipse(0.3, 0, WEIGHT, WEIGHT);
+    ellipse(0.1, 0.0, WEIGHT, WEIGHT);
+    ellipse(0.2, 0.0, WEIGHT, WEIGHT);
+    ellipse(0.3, 0.0, WEIGHT, WEIGHT);
     
     rotate(TWO_PI / COUNT);
   }
