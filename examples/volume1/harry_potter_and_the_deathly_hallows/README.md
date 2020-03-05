@@ -64,7 +64,5 @@ void draw() {
 ```
 
 > MdPC - a collection of minimalist movie posters
-
 > by Daniele Olmisani
-
 > Please, see [LICENSE](../../../LICENSE) file
