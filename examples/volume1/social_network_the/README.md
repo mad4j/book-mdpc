@@ -19,7 +19,7 @@ Harvard student Mark Zuckerberg creates the social networking site that would be
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// The Social Network
+// The Social Network (2010)
 
 
 final color PAPER = color(60, 90, 150);
@@ -58,6 +58,7 @@ void draw() {
   
   save("the-social-network.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

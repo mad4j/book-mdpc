@@ -19,7 +19,7 @@ A man in a legal but hurtful business needs an escort for some social events, an
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Pretty Woman
+// Pretty Woman (1990)
 
 
 final color INK1 = color(240);
@@ -58,6 +58,7 @@ void draw() {
   
   save("pretty-woman.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

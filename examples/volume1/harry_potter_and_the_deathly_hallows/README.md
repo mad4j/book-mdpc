@@ -16,10 +16,10 @@ As Harry races against time and evil to destroy the Horcruxes, he uncovers the e
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Harry Potter and the deathly hallows
+// Harry Potter and the deathly hallows (2010)
 
 
 final color PAPER = color(50, 55, 90);
@@ -60,6 +60,7 @@ void draw() {
   
   save("harry-potter-and-the-deathly-hallows.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

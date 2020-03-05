@@ -16,10 +16,10 @@ Literature student Anastasia Steele's life changes forever when she meets handso
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Fifty Shades of Grey
+// Fifty Shades of Grey (2015)
 
 
 final int ROWS = 10;
@@ -27,7 +27,6 @@ final int COLS = 5;
 
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
@@ -52,6 +51,7 @@ void draw() {
   
   save("fifty-shades-of-grey.png"); 
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

@@ -16,10 +16,10 @@ When the newly crowned Queen Elsa accidentally uses her power to turn things int
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Frozen
+// Frozen (2013)
 
 
 final color PAPER = color(85, 115, 200);
@@ -57,6 +57,7 @@ void draw() {
   
   save("frozen.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

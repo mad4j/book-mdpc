@@ -17,7 +17,7 @@ A family's home is haunted by a host of demonic ghosts.
 ## The code
 ```java
 // Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2010
+// Daniele Olmisani, 2019
 
 // Poltergeist (1982)
 

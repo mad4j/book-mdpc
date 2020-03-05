@@ -16,7 +16,7 @@ A stray cat is the linking element of three tales of suspense and horror.
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // Stephen King's Cat's Eye (1985)
@@ -50,6 +50,7 @@ void draw() {
   
   save("cat's-eye.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

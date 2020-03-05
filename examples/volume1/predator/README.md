@@ -19,19 +19,25 @@ A team of commandos on a mission in a Central American jungle find themselves hu
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Predator
+// Predator (1987)
+
 
 final color PAPER = color(65, 45, 35);
 final color INK = color(175, 10, 10);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/3.0);
+  final float S = min(width, height);
+  
+  translate(0.5*width, 0.3*height);
+  scale(S);
   
   background(PAPER);
   fill(INK);
@@ -41,11 +47,12 @@ void draw() {
   
   for (int i=0; i<3; i++) {
     rotate(TWO_PI / 3);
-    ellipse(75, 0, 50, 50);
+    ellipse(0.15, 0.0, 0.1, 0.1);
   }
   
   save("predator.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

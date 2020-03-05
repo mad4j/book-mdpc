@@ -19,7 +19,7 @@ A Duke's son leads desert warriors against the galactic emperor and his father's
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Dune
+// Dune (1984)
 
 
 final color PAPER = color(255, 160, 10);
@@ -49,6 +49,7 @@ void draw() {
   
   save("dune.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

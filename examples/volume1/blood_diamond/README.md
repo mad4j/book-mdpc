@@ -16,7 +16,7 @@ A fisherman, a smuggler, and a syndicate of businessmen match wits over the poss
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // Blood Diamond (2006)

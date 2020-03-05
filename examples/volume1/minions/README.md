@@ -16,10 +16,10 @@ Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Minions
+// Minions (2015)
 
 
 final color PAPER = color(255, 255, 15);
@@ -55,6 +55,7 @@ void draw() {
   
   save("minions.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

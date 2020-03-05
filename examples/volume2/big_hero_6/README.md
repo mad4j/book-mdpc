@@ -16,11 +16,10 @@ The special bond that develops between plus-sized inflatable robot Baymax, and p
 
 ## The code
 ```java
-
-// Manuale di Programmazione Cinematografica - Volume 2
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Big Hero 6
+// Big Hero 6 (2014)
 
 
 final color PAPER = color(245);
@@ -53,6 +52,7 @@ void draw() {
   
   save("big-hero-6.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

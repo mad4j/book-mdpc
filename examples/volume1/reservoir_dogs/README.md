@@ -19,11 +19,8 @@ After a simple jewelry heist goes terribly wrong, the surviving criminals begin 
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Reservoir dogs
+// Reservoir Dogs (1992)
 
-
-final float D1 = 120;
-final float D2 = 0.1*D1;
 
 final color PAPER = color(40, 40, 40);
 
@@ -43,11 +40,14 @@ void setup() {
 
 void draw() {
   
+  float D1 = 0.25*min(width, height);
+  float D2 = 0.1*D1;
+  
   int count = INKS.length;
   float step = (float)width / (count+1);
  
   translate((width-(count-1)*step)/2.0, height/3.0);
-
+  
   background(PAPER);
   noStroke();
   
@@ -63,6 +63,7 @@ void draw() {
   
   save("reservoir-dogs.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

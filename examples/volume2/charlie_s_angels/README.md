@@ -19,7 +19,7 @@ Three women, detectives with a mysterious boss, retrieve stolen voice-ID softwar
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Charlie's Angels
+// Charlie's Angels (2000)
 
 final color PAPER = color(245, 180, 50);
 final color INK1 = color(100, 60, 20);
@@ -56,6 +56,7 @@ void draw() {
   
   save("charlie-s-angels.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

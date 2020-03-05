@@ -17,10 +17,7 @@ An insane general triggers a path to nuclear holocaust that a war room full of p
 ## The code
 ```java
 // Manuale di Programmazione Cinematografica
-// Volume 1
-
 // Daniele Olmisani, 2016
-
 
 // Dr. Strangelove (1964)
 
@@ -61,6 +58,7 @@ void draw() {
   
   save("dr-strangelove.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

@@ -16,7 +16,7 @@ Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // Alice in Wonderland (1951)
@@ -61,6 +61,7 @@ void draw() {
   
   save("alice-in-wonderland.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

@@ -16,7 +16,7 @@ After his son is captured in the Great Barrier Reef and taken to Sydney, a timid
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // Finding Nemo (2003)
@@ -63,6 +63,7 @@ void draw() {
   
   save("finding-nemo.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

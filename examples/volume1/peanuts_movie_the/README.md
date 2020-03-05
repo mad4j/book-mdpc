@@ -16,10 +16,10 @@ Snoopy embarks upon his greatest mission as he and his team take to the skies to
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// The Peanuts Movie
+// The Peanuts Movie (2015)
 
 
 final color PAPER = color(245, 220, 110);
@@ -54,6 +54,7 @@ void draw() {
   
   save("the-peanuts-movie.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

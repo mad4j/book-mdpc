@@ -19,7 +19,7 @@ After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isol
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Close encounters of the third kind
+// Close encounters of the third kind (1977)
 
 final color PAPER = color(0);
 final color INK = color(50);
@@ -66,6 +66,7 @@ void draw() {
   
   save("close-encounters-of-the-third-kind.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

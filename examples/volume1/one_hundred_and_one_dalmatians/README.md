@@ -16,10 +16,10 @@ When a litter of Dalmatian puppies are abducted by the minions of Cruella de Vil
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// One hundred and one Dalmatians
+// One hundred and one Dalmatians (1961)
 
 
 final color PAPER = color(250);
@@ -56,16 +56,17 @@ void drawSpot(float x, float y, float r, int fuzz) {
   
   pushMatrix();
 
-  translate(x, y);
-  
-  ellipse(0, 0, r, r);
-  
-  for (int i=0; i<fuzz; i++) {
-    ellipse(random(0.2*r), random(0.2*r), r, r);
-  }
+    translate(x, y);
+    
+    ellipse(0, 0, r, r);
+    
+    for (int i=0; i<fuzz; i++) {
+      ellipse(random(0.2*r), random(0.2*r), r, r);
+    }
   
   popMatrix();
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

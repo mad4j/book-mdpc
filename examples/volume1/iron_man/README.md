@@ -16,10 +16,10 @@ After being held captive in an Afghan cave, billionaire engineer Tony Stark crea
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Iron Man
+// Iron Man (2008)
 
 
 final color PAPER = color(180, 5, 30);
@@ -64,6 +64,7 @@ void draw() {
   
   save("iron-man.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

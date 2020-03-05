@@ -16,7 +16,7 @@ An in-depth examination of the ways in which the U.S. Vietnam War impacts and di
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // The Deer Hunter (1978)
@@ -66,6 +66,7 @@ void draw() {
   
   save("the-deer-hunter.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
