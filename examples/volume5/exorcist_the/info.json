@@ -1,0 +1,40 @@
+{
+    "Title": "The Exorcist",
+    "Year": "1973",
+    "Rated": "R",
+    "Released": "26 Dec 1973",
+    "Runtime": "122 min",
+    "Genre": "Horror",
+    "Director": "William Friedkin",
+    "Writer": "William Peter Blatty (written for the screen by), William Peter Blatty (novel)",
+    "Actors": "Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn",
+    "Plot": "When a 12 year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+    "Language": "English, Latin, Greek, French, German, Arabic, Kurdish",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 14 wins & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "Metascore": "81",
+    "imdbRating": "8.0",
+    "imdbVotes": "345,797",
+    "imdbID": "tt0070047",
+    "Type": "movie",
+    "DVD": "01 Dec 1998",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}
