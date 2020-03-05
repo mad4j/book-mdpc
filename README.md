@@ -357,13 +357,16 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/emperor_s_new_groove_the/">
     <img src="examples/volume5/emperor_s_new_groove_the/the-emperor's-new-groove.png" width="120px" title="The Emperor's New Groove"/>
 </a>
+<a href="examples/volume5/exorcist_the/">
+    <img src="examples/volume5/exorcist_the/the-exorcist.png" width="120px" title="The Exorcist"/>
+</a>
 <a href="examples/volume5/incredibles_the/">
     <img src="examples/volume5/incredibles_the/the-incredibles.png" width="120px" title="The Incredibles"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/king_kong/">
     <img src="examples/volume5/king_kong/king-kong.png" width="120px" title="King Kong"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/moana/">
     <img src="examples/volume5/moana/moana.png" width="120px" title="Moana"/>
 </a>
@@ -379,10 +382,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/ready_player_one/">
     <img src="examples/volume5/ready_player_one/ready-player-one.png" width="120px" title="Ready Player One"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/ring_the/">
     <img src="examples/volume5/ring_the/the-ring.png" width="120px" title="The Ring"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/secretary/">
     <img src="examples/volume5/secretary/secretary.png" width="120px" title="Secretary"/>
 </a>
@@ -398,10 +401,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/v_for_vendetta/">
     <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/wreck_it_ralph/">
     <img src="examples/volume5/wreck_it_ralph/wreck-it-ralph.png" width="120px" title="Wreck-It Ralph"/>
 </a>
-<br class="index-separator"/>
 
 
 ## References
