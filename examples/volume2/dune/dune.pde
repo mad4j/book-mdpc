@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Dune
+// Dune (1984)
 
 
 final color PAPER = color(255, 160, 10);

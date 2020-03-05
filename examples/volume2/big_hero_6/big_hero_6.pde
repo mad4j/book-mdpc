@@ -1,8 +1,7 @@
-
-// Manuale di Programmazione Cinematografica - Volume 2
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Big Hero 6
+// Big Hero 6 (2014)
 
 
 final color PAPER = color(245);
