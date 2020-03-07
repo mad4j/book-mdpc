@@ -367,13 +367,16 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/back_to_the_future/">
     <img src="examples/volume5/back_to_the_future/back-to-the-future.png" width="120px" title="Back to the Future"/>
 </a>
+<a href="examples/volume5/black_rain/">
+    <img src="examples/volume5/black_rain/black-rain.png" width="120px" title="Black Rain"/>
+</a>
 <a href="examples/volume5/emperor_s_new_groove_the/">
     <img src="examples/volume5/emperor_s_new_groove_the/the-emperor's-new-groove.png" width="120px" title="The Emperor's New Groove"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/exorcist_the/">
     <img src="examples/volume5/exorcist_the/the-exorcist.png" width="120px" title="The Exorcist"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/incredibles_the/">
     <img src="examples/volume5/incredibles_the/the-incredibles.png" width="120px" title="The Incredibles"/>
 </a>
@@ -389,10 +392,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/nosferatu/">
     <img src="examples/volume5/nosferatu/nosferatu.png" width="120px" title="Nosferatu"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/poltergeist/">
     <img src="examples/volume5/poltergeist/poltergeist.png" width="120px" title="Poltergeist"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/ready_player_one/">
     <img src="examples/volume5/ready_player_one/ready-player-one.png" width="120px" title="Ready Player One"/>
 </a>
@@ -408,10 +411,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/star_trek/">
     <img src="examples/volume5/star_trek/star-trek.png" width="120px" title="Star Trek: The Motion Picture"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume5/toy_story/">
     <img src="examples/volume5/toy_story/toy-story.png" width="120px" title="Toy Story"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/v_for_vendetta/">
     <img src="examples/volume5/v_for_vendetta/v-for-vendetta.png" width="120px" title="V for Vendetta"/>
 </a>
