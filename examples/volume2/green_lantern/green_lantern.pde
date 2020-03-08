@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Green Lantern
+// Green Lantern (2011)
 
 
 final color PAPER = color(10, 110, 40);
