@@ -10,7 +10,7 @@ final color[] INKS = new color[] {
   color(110, 160, 215),
   color(245, 220, 130),
   color(155, 35, 40),
-  color(150, 195, 82)
+  color(150, 195, 80)
 };
 
 
