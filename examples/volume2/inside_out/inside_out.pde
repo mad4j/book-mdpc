@@ -1,7 +1,8 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Inside Out
+// Inside Out (2015)
+
 
 final color PAPER = color(240);
 final color[] INKS = new color[] {
@@ -12,10 +13,12 @@ final color[] INKS = new color[] {
   color(150, 195, 82)
 };
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
