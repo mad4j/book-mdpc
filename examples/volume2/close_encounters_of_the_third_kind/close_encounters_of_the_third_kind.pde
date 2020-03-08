@@ -3,8 +3,10 @@
 
 // Close encounters of the third kind (1977)
 
+
 final color PAPER = color(0);
 final color INK = color(50);
+
 
 final color[] INKS = new color[] {
   color(240, 0, 0),
@@ -13,25 +15,30 @@ final color[] INKS = new color[] {
   color(240, 240, 0)
 };
 
+
 final int COLS = 6;
 final int ROWS = 5;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
   float w = width/(COLS+1);
   float h = w/2.0;
+  
+  println(w);
   
   translate(width/2.0, height/3.0);
   
   background(PAPER);
   
   stroke(PAPER);
-  strokeWeight(2.0);
+  strokeWeight(w/35);
   
   for (int i=0; i<COLS; i++) {
     for (int j=0; j<ROWS; j++) {
