@@ -3,13 +3,16 @@
 
 // Green Lantern
 
+
 final color PAPER = color(10, 110, 40);
 final color INK = color(255);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
 
