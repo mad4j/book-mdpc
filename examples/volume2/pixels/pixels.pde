@@ -1,23 +1,28 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Pixels
+// Pixels (2015)
+
 
 final color PAPER = color(32);
 final color INK1 = color(250, 175, 145);
 final color INK2 = color(255, 245, 0);
 
-final int SIZE = 10;
-final int DOTS = 8;
+
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/2.0);
+  final float SIZE = 0.02*min(width, height);
+  final int DOTS = 8;
+  
+  translate(0.5*width, 0.5*height);
   scale(SIZE);
   
   background(PAPER);
@@ -33,5 +38,4 @@ void draw() {
   arc(-SIZE/2, 0, SIZE, SIZE, QUARTER_PI, TWO_PI-QUARTER_PI, PIE);
   
   save("pixels.png");
-  
 }
