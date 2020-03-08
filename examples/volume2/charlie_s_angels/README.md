@@ -25,32 +25,42 @@ final color PAPER = color(245, 180, 50);
 final color INK1 = color(100, 60, 20);
 final color INK2 = color(200);
 
-final float W = 100;
-final float H = 60;
+
+final int ROWS = 10;
+final int COLS = 20;
+
  
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, 3*height/5.0);
+  final float W = 0.25 * min(width, height);
+  final float H = 0.60 * W;
+  
+  translate(0.5*width, 0.6*height);
   
   background(PAPER);
   stroke(INK1);
   fill(INK2);
   
-  strokeWeight(10.0);
+  strokeWeight(W/12);
   strokeJoin(ROUND);
   
   quad(-W, -H, W, -H, 1.1*W, H, -1.1*W, H);
   
   fill(INK1);
   noStroke();
-  for (int i=1; i<20; i++) {
-    for (int j=3; j<10; j++) {
-      ellipse(-W+i*10, -H+j*10, 5, 5);
+  
+  final float D = 2*(W/COLS);
+  final float R = H/15; 
+  
+  for (int i=1; i<COLS; i++) {
+    for (int j=3; j<ROWS; j++) {
+      ellipse(-W+i*D, -H+j*D, R, R);
     }
   }
   

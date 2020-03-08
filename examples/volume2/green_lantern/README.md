@@ -19,15 +19,18 @@ Reckless test pilot Hal Jordan is granted an alien ring that bestows him with ot
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Green Lantern
+// Green Lantern (2011)
+
 
 final color PAPER = color(10, 110, 40);
 final color INK = color(255);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
 
@@ -57,6 +60,7 @@ void draw() {
   
   save("green-lantern.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

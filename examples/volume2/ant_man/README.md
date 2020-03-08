@@ -34,9 +34,9 @@ void setup() {
 
 void draw() {
   
-  float s = min(width, height) / 240.0;
+  float s = 0.004 * min(width, height);
   
-  translate(width/2.0, height/1.5);
+  translate(0.50*width, 0.75*height);
   scale(s);
   
   background(PAPER);
@@ -47,8 +47,8 @@ void draw() {
   line(-1, 3, -1, 3);
   line( 1, 3,  1, 3);
   
-  filter(BLUR, s/2.0);
-  
+  filter(BLUR, sqrt(s)-0.41);
+
   save("ant-man.png");
 }
 

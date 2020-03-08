@@ -19,7 +19,8 @@ After young Riley is uprooted from her Midwest life and moved to San Francisco, 
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Inside Out
+// Inside Out (2015)
+
 
 final color PAPER = color(240);
 final color[] INKS = new color[] {
@@ -27,13 +28,15 @@ final color[] INKS = new color[] {
   color(110, 160, 215),
   color(245, 220, 130),
   color(155, 35, 40),
-  color(150, 195, 82)
+  color(150, 195, 80)
 };
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -53,6 +56,7 @@ void draw() {
    
   save("inside-out.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

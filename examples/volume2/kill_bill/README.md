@@ -19,19 +19,22 @@ The Bride wakens from a four-year coma. The child she carried in her womb is gon
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Kill Bill
+// Kill Bill (2003)
+
 
 final color PAPER = color(255, 195, 25);
 final color INK = color(30);
 
-final int SIZE = 50;
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
+  
+  final float SIZE = 0.1 * min(width, height);
   
   background(PAPER);
   
@@ -42,6 +45,7 @@ void draw() {
   
   save("kill-bill.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
