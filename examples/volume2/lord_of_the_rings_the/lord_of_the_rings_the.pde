@@ -2,8 +2,6 @@
 // Daniele Olmisani, 2015
 
 // The Lord of the Rings (1978)
-// Animation, Adventure, Fantasy 
-// http://www.imdb.com/title/tt0077869/
 
 
 final color PAPER = color(45, 60, 40);
