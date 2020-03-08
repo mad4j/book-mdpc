@@ -1,16 +1,19 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Slumdog millionaire
+// Slumdog millionaire (2008)
+
 
 final color PAPER = color(0, 0, 0);
 final color INK1 = color(120, 60, 255);
 final color INK2 = color(225, 225, 225);
 
+
 void  setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -35,6 +38,7 @@ void draw() {
   
   save("slumdog-millionaire.png");
 }
+
 
 void drawCell(float x, float y, float w, float h) {
   
