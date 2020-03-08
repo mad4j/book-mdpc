@@ -1,15 +1,18 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Rush
+// Rush (2013)
+
 
 final color PAPER = color(244);
 final color INK = color(227, 0, 30);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
