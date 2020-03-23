@@ -10,19 +10,21 @@ final color INK2 = color(225, 225, 225);
 
 
 void  setup() {
-  size(480, 640);
+  size(1535, 2047);
   noLoop();
 }
 
 
 void draw() {
   
+  final float S = min(width, height);
+  
   translate(width/2.0, 2*height/3.0);
   
   background(PAPER);
   
   stroke(INK2);
-  strokeWeight(3.0);
+  strokeWeight(0.006*S);
   
   fill(INK1);
   
