@@ -20,14 +20,14 @@ void draw() {
   
   final float S =  min(width, height);
   final float U = 0.002;
-
-  background(PAPER);
     
   translate(0.5*width, 0.5*height);
   rotate(-0.1);
   scale(S);
 
   randomSeed(0);
+
+  background(PAPER);
 
   stroke(INK);
   strokeWeight(1.5*U);
