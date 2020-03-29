@@ -10,7 +10,7 @@ final color INK2 = color(225, 225, 225);
 
 
 void  setup() {
-  size(1535, 2047);
+  size(480, 640);
   noLoop();
 }
 
@@ -18,25 +18,27 @@ void  setup() {
 void draw() {
   
   final float S = min(width, height);
+   final float U = 0.002;
   
-  translate(width/2.0, 2*height/3.0);
+  translate(0.5*width, 0.6*height);
+  scale(S);
   
   background(PAPER);
   
   stroke(INK2);
-  strokeWeight(0.006*S);
+  strokeWeight(3*U);
   
   fill(INK1);
   
-  line(-width/2.0, -100, width/2.0, -100);
-  line(-width/2.0,    0, width/2.0,    0);
-  line(-width/2.0,  100, width/2.0,  100);
+  line(-0.5, 0.10, 0.5, 0.10);
+  line(-0.5, 0.25, 0.5, 0.25);
+  line(-0.5, 0.40, 0.5, 0.40);
   
-  drawCell(         0, -100, 400, 50);
-  drawCell(-width/4.0,    0, 150, 50);
-  drawCell( width/4.0,    0, 150, 50);
-  drawCell(-width/4.0,  100, 150, 50);
-  drawCell( width/4.0,  100, 150, 50);
+  drawCell( 0.00, 0.10, 0.9, 0.1);
+  drawCell(-0.25, 0.25, 0.4, 0.1);
+  drawCell( 0.25, 0.25, 0.4, 0.1);
+  drawCell(-0.25, 0.40, 0.4, 0.1);
+  drawCell( 0.25, 0.40, 0.4, 0.1);
   
   save("slumdog-millionaire.png");
 }
@@ -46,20 +48,21 @@ void drawCell(float x, float y, float w, float h) {
   
   pushMatrix();
   
-  translate(x, y);
-  
-  float w2 = w/2.0;
-  float h2 = h/2.0;
-  
-  beginShape();
-  vertex(-w2,      0);
-  vertex(-w2+10, -h2);
-  vertex( w2-10, -h2);
-  vertex( w2,      0);
-  vertex( w2-10,  h2);
-  vertex(-w2+10,  h2);
-  vertex(-w2,      0);
-  endShape();
+    translate(x, y);
+    
+    float w2 = 0.5*w;
+    float h2 = 0.5*h;
+    float d  = 0.2*h;
+    
+    beginShape();
+      vertex(-w2,     0);
+      vertex(-w2+d, -h2);
+      vertex( w2-d, -h2);
+      vertex( w2,     0);
+      vertex( w2-d,  h2);
+      vertex(-w2+d,  h2);
+      vertex(-w2,     0);
+    endShape();
   
   popMatrix();
 }
