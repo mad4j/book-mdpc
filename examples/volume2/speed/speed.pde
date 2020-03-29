@@ -41,9 +41,8 @@ void draw() {
     rotate(-(PI+2*TAILS)/NOTCHES);
   }
   
-  strokeCap(SQUARE);
   strokeWeight(10*U);
-  line(0.00, 0.00, -0.30, -0.22);
+  line(0.00, 0.00, -0.30, -0.15);
   
   save("speed.png");
 }
