@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/from_dusk_till_dawn/
+title: From Dusk Till Dawn (1996) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # From Dusk Till Dawn (1996)
 
 Action, Crime, Horror

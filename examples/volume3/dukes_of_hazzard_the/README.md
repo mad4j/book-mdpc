@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/dukes_of_hazzard_the/
+title: The Dukes of Hazzard (2005) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Dukes of Hazzard (2005)
 
 Action, Adventure, Comedy

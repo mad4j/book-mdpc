@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/stargate/
+title: Stargate (1994) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Stargate (1994)
 
 Action, Adventure, Sci-Fi

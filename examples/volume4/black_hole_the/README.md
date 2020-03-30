@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/black_hole_the/
+title: The Black Hole (1979) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Black Hole (1979)
 
 Action, Sci-Fi

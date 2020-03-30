@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/escape_from_new_york/
+title: Escape from New York (1981) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Escape from New York (1981)
 
 Action, Sci-Fi

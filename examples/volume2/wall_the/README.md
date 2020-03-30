@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/wall_the/
+title: Pink Floyd: The Wall (1982) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Pink Floyd: The Wall (1982)
 
 Animation, Drama, Fantasy
@@ -19,25 +22,33 @@ A confined but troubled rock star descends into madness in the midst of his phys
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// The Wall
+// The Wall (1982)
+
 
 final color PAPER = color(255);
 final color INK = color(32);
 
-final int W = 80;
-final int H = W/2;
-final int R = W/10;
 
 void setup() {
-  size(480, 640);
+  size(1535, 2047);
   noLoop();
 }
 
+
 void draw() {
   
+  final float S =  min(width, height);
+  final float U = 0.002;
+  
+  final float W = 0.16*S;
+  final float H = 0.50*W;
+  final float R = 0.10*W;
+  
   background(INK);
+ 
+  fill(PAPER); 
   stroke(INK);
-  fill(PAPER);
+  strokeWeight(5*U);
   
   for (int j=0; j<height/H; j++) {
     for (int i=0; i<width/W+1; i++) {
@@ -47,6 +58,7 @@ void draw() {
   
   save("the-wall.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

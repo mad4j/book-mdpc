@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/spiderman/
+title: Spider-Man (2002) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Spider-Man (2002)
 
 Action, Adventure

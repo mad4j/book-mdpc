@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/minions/
+title: Minions (2015) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Minions (2015)
 
 Animation, Action, Adventure

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/american_beauty/
+title: American Beauty (1999) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # American Beauty (1999)
 
 Drama, Romance

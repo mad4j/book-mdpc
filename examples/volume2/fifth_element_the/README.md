@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/fifth_element_the/
+title: The Fifth Element (1997) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Fifth Element (1997)
 
 Action, Adventure, Sci-Fi

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/black_rain/
+title: Black Rain (1989) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Black Rain (1989)
 
 Action, Crime, Thriller
@@ -38,14 +41,14 @@ void draw() {
   
   final float S =  min(width, height);
   final float U = 0.002;
-
-  background(PAPER);
     
   translate(0.5*width, 0.5*height);
   rotate(-0.1);
   scale(S);
 
   randomSeed(0);
+
+  background(PAPER);
 
   stroke(INK);
   strokeWeight(1.5*U);

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/poltergeist/
+title: Poltergeist (1982) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Poltergeist (1982)
 
 Horror, Thriller

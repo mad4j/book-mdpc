@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/speed/
+title: Speed (1994) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Speed (1994)
 
 Action, Adventure, Crime
@@ -19,7 +22,7 @@ A young police officer must prevent a bomb exploding aboard a city bus by keepin
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Speed
+// Speed (1994)
 
 
 final color PAPER = color(0);
@@ -39,26 +42,32 @@ void setup() {
 
 void draw() {
   
+  final float S =  min(width, height);
+  final float U = 0.002;
+  
+  translate(0.5*width, 0.5*height);
+  rotate(TAILS);
+  scale(S);
+  
   background(PAPER);
   
-  strokeWeight(5);
-  
-  translate(width/2.0, height/2.0);
-  rotate(TAILS);
+  strokeWeight(7*U);
   
   for (int i=0; i<=NOTCHES; i++) {
     
     stroke((i<NOTCHES/5) ? INK2 : INK1);
     
-    line(80 + (i%2)*10, 0, 100, 0);
+    line(0.3 + (i%2)*0.05, 0.0, 0.4, 0.0);
 
     rotate(-(PI+2*TAILS)/NOTCHES);
   }
   
-  line(0, 0, -80, -20);
+  strokeWeight(10*U);
+  line(0.00, 0.00, -0.30, -0.15);
   
   save("speed.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

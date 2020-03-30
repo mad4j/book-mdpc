@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/memento/
+title: Memento (2000) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Memento (2000)
 
 Mystery, Thriller

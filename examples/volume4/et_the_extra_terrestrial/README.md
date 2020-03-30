@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/et_the_extra_terrestrial/
+title: E.T. the Extra-Terrestrial (1982) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # E.T. the Extra-Terrestrial (1982)
 
 Family, Sci-Fi

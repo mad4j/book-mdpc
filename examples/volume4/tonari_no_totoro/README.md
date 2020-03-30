@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/tonari_no_totoro/
+title: My Neighbor Totoro (1988) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # My Neighbor Totoro (1988)
 
 Animation, Family, Fantasy

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/fistful_of_dollars/
+title: A Fistful of Dollars (1964) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # A Fistful of Dollars (1964)
 
 Western

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/blood_diamond/
+title: Blood Diamond (2006) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Blood Diamond (2006)
 
 Adventure, Drama, Thriller

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/spirited_away/
+title: Spirited Away (2001) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Spirited Away (2001)
 
 Animation, Adventure, Family

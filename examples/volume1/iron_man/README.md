@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/iron_man/
+title: Iron Man (2008) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Iron Man (2008)
 
 Action, Adventure, Sci-Fi

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/toy_story/
+title: Toy Story (1995) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Toy Story (1995)
 
 Animation, Adventure, Comedy, Family, Fantasy

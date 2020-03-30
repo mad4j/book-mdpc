@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/x_2001_a_space_odyssey/
+title: 2001: A Space Odyssey (1968) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # 2001: A Space Odyssey (1968)
 
 Adventure, Sci-Fi

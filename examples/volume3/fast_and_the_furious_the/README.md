@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/fast_and_the_furious_the/
+title: The Fast and the Furious (2001) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Fast and the Furious (2001)
 
 Action, Crime, Thriller

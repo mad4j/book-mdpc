@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/singin__in_the_rain/
+title: Singin' in the Rain (1952) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Singin' in the Rain (1952)
 
 Comedy, Musical, Romance

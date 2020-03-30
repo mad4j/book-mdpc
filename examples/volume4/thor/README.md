@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/thor/
+title: Thor (2011) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Thor (2011)
 
 Action, Adventure, Fantasy

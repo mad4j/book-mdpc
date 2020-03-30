@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/king_kong/
+title: King Kong (1933) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # King Kong (1933)
 
 Adventure, Horror, Sci-Fi

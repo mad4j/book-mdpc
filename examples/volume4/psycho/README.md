@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/psycho/
+title: Psycho (1960) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Psycho (1960)
 
 Horror, Mystery, Thriller

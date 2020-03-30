@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/godfather_the/
+title: The Godfather (1972) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Godfather (1972)
 
 Crime, Drama

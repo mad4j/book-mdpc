@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/green_lantern/
+title: Green Lantern (2011) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Green Lantern (2011)
 
 Action, Adventure, Sci-Fi

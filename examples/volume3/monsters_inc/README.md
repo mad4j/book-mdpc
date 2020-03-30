@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/monsters_inc/
+title: Monsters, Inc. (2001) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Monsters, Inc. (2001)
 
 Animation, Adventure, Comedy

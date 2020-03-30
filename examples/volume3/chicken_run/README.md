@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/chicken_run/
+title: Chicken Run (2000) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Chicken Run (2000)
 
 Animation, Adventure, Comedy

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/suicide_squad/
+title: Suicide Squad (2016) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Suicide Squad (2016)
 
 Action, Adventure, Fantasy

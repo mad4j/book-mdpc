@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/pulp_fiction/
+title: Pulp Fiction (1994) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Pulp Fiction (1994)
 
 Crime, Drama

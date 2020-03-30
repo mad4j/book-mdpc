@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/jaws/
+title: Jaws (1975) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Jaws (1975)
 
 Adventure, Drama, Thriller

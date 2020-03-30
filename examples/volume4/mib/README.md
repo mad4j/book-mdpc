@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/mib/
+title: Men in Black (1997) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Men in Black (1997)
 
 Adventure, Comedy, Family

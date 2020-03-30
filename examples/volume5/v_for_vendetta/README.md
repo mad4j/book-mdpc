@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/v_for_vendetta/
+title: V for Vendetta (2005) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # V for Vendetta (2005)
 
 Action, Drama, Sci-Fi

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/good_will_hunting/
+title: Good Will Hunting (1997) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Good Will Hunting (1997)
 
 Drama

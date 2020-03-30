@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/inside_out/
+title: Inside Out (2015) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Inside Out (2015)
 
 Animation, Adventure, Comedy

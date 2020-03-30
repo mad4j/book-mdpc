@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/exorcist_the/
+title: The Exorcist (1973) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Exorcist (1973)
 
 Horror

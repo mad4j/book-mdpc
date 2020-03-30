@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/peanuts_movie_the/
+title: The Peanuts Movie (2015) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Peanuts Movie (2015)
 
 Animation, Adventure, Comedy

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/reservoir_dogs/
+title: Reservoir Dogs (1992) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Reservoir Dogs (1992)
 
 Crime, Drama, Thriller

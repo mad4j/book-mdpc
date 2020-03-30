@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/profondo_rosso/
+title: Deep Red (1975) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Deep Red (1975)
 
 Horror, Mystery, Thriller

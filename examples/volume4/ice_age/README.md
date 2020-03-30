@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/ice_age/
+title: Ice Age (2002) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Ice Age (2002)
 
 Animation, Adventure, Comedy

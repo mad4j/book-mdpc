@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/big_hero_6/
+title: Big Hero 6 (2014) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Big Hero 6 (2014)
 
 Animation, Action, Adventure

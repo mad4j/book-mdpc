@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/entrapment/
+title: Entrapment (1999) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Entrapment (1999)
 
 Action, Crime, Romance

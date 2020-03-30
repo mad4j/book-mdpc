@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/love_story/
+title: Love Story (1970) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Love Story (1970)
 
 Drama, Romance

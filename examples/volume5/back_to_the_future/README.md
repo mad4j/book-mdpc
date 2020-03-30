@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/back_to_the_future/
+title: Back to the Future (1985) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Back to the Future (1985)
 
 Adventure, Comedy, Sci-Fi

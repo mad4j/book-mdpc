@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/kill_bill/
+title: Kill Bill: Vol. 1 (2003) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Kill Bill: Vol. 1 (2003)
 
 Action, Crime, Thriller

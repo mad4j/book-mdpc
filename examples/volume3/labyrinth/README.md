@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/labyrinth/
+title: Labyrinth (1986) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Labyrinth (1986)
 
 Adventure, Family, Fantasy

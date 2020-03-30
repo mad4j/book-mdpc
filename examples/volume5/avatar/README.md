@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/avatar/
+title: Avatar (2009) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Avatar (2009)
 
 Action, Adventure, Fantasy, Sci-Fi

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/captain_america/
+title: Captain America: The First Avenger (2011) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Captain America: The First Avenger (2011)
 
 Action, Adventure, Sci-Fi

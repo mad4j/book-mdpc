@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/petit_prince_le/
+title: The Little Prince (2015) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Little Prince (2015)
 
 Animation, Adventure, Drama

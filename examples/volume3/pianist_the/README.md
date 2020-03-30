@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/pianist_the/
+title: The Pianist (2002) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Pianist (2002)
 
 Biography, Drama, War

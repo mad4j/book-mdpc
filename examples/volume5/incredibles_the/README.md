@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/incredibles_the/
+title: The Incredibles (2004) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Incredibles (2004)
 
 Animation, Action, Adventure, Family

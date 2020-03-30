@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/ready_player_one/
+title: Ready Player One (2018) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Ready Player One (2018)
 
 Action, Adventure, Sci-Fi

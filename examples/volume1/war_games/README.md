@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/war_games/
+title: WarGames (1983) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # WarGames (1983)
 
 Sci-Fi, Thriller

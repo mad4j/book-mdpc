@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/zorro/
+title: Zorro (1975) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Zorro (1975)
 
 Action, Adventure, Comedy

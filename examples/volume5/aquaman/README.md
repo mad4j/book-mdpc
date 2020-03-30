@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/aquaman/
+title: Aquaman (2018) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Aquaman (2018)
 
 Action, Adventure, Fantasy, Sci-Fi

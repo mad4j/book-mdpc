@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/gandhi/
+title: Gandhi (1982) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Gandhi (1982)
 
 Biography, Drama, History

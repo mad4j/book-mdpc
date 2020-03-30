@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/predator/
+title: Predator (1987) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Predator (1987)
 
 Action, Sci-Fi, Thriller

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/harry_potter_and_the_deathly_hallows/
+title: Harry Potter and the Deathly Hallows: Part 1 (2010) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Harry Potter and the Deathly Hallows: Part 1 (2010)
 
 Adventure, Family, Fantasy

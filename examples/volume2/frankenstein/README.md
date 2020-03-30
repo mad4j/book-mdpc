@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/frankenstein/
+title: Frankenstein (1931) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Frankenstein (1931)
 
 Drama, Horror, Sci-Fi

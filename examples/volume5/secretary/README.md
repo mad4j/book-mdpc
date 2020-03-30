@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/secretary/
+title: Secretary (2002) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Secretary (2002)
 
 Comedy, Drama, Romance

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/wreck_it_ralph/
+title: Wreck-It Ralph (2012) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Wreck-It Ralph (2012)
 
 Animation, Adventure, Comedy, Family, Fantasy

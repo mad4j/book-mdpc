@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/deer_hunter_the/
+title: The Deer Hunter (1978) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Deer Hunter (1978)
 
 Drama, War

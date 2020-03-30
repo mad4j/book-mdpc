@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/ninth_gate_the/
+title: The Ninth Gate (1999) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Ninth Gate (1999)
 
 Mystery, Thriller

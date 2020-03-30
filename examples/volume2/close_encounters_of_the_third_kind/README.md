@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/close_encounters_of_the_third_kind/
+title: Close Encounters of the Third Kind (1977) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Close Encounters of the Third Kind (1977)
 
 Drama, Sci-Fi

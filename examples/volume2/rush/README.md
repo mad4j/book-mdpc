@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/rush/
+title: Rush (2013) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Rush (2013)
 
 Action, Biography, Drama
@@ -19,15 +22,18 @@ The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Rush
+// Rush (2013)
+
 
 final color PAPER = color(244);
 final color INK = color(227, 0, 30);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -46,6 +52,7 @@ void draw() {
   
   save("rush.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

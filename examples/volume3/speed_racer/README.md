@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/speed_racer/
+title: Speed Racer (2008) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Speed Racer (2008)
 
 Action, Family, Sci-Fi

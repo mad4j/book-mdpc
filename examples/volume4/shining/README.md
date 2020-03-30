@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/shining/
+title: The Shining (1980) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Shining (1980)
 
 Drama, Horror

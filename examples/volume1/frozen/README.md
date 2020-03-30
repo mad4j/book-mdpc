@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/frozen/
+title: Frozen (2013) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Frozen (2013)
 
 Animation, Adventure, Comedy

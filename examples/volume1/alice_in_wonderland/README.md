@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/alice_in_wonderland/
+title: Alice in Wonderland (1951) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Alice in Wonderland (1951)
 
 Animation, Adventure, Family

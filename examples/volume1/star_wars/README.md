@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/star_wars/
+title: Star Wars: Episode IV - A New Hope (1977) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Star Wars: Episode IV - A New Hope (1977)
 
 Action, Adventure, Fantasy

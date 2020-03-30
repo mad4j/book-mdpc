@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/day_the_earth_stood_still_the/
+title: The Day the Earth Stood Still (1951) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Day the Earth Stood Still (1951)
 
 Drama, Sci-Fi

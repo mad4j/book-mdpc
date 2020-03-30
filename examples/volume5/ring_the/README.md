@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/ring_the/
+title: The Ring (2002) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Ring (2002)
 
 Horror, Mystery

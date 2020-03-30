@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/ant_man/
+title: Ant-Man (2015) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Ant-Man (2015)
 
 Action, Adventure, Comedy

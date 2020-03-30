@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/star_trek/
+title: Star Trek: The Motion Picture (1979) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Star Trek: The Motion Picture (1979)
 
 Adventure, Mystery, Sci-Fi

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/neverending_story_the/
+title: The NeverEnding Story (1984) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The NeverEnding Story (1984)
 
 Adventure, Drama, Family

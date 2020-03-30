@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/social_network_the/
+title: The Social Network (2010) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Social Network (2010)
 
 Biography, Drama

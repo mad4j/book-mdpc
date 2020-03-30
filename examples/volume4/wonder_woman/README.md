@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/wonder_woman/
+title: Wonder Woman (2017) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Wonder Woman (2017)
 
 Action, Adventure, Fantasy

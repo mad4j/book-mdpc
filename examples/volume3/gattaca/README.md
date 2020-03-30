@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/gattaca/
+title: Gattaca (1997) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Gattaca (1997)
 
 Drama, Sci-Fi, Thriller

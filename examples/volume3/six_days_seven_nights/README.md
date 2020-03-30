@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/six_days_seven_nights/
+title: Six Days Seven Nights (1998) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Six Days Seven Nights (1998)
 
 Action, Adventure, Comedy

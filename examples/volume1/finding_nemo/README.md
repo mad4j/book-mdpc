@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/finding_nemo/
+title: Finding Nemo (2003) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Finding Nemo (2003)
 
 Animation, Adventure, Comedy

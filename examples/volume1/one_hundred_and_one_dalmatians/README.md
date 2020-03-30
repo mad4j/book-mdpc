@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/one_hundred_and_one_dalmatians/
+title: 101 Dalmatians (1961) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # 101 Dalmatians (1961)
 
 Animation, Adventure, Comedy

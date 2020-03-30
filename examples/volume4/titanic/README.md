@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/titanic/
+title: Titanic (1997) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Titanic (1997)
 
 Drama, Romance

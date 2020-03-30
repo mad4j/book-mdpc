@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/bee_movie/
+title: Bee Movie (2007) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Bee Movie (2007)
 
 Animation, Adventure, Comedy

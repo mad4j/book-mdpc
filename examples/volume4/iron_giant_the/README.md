@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/iron_giant_the/
+title: The Iron Giant (1999) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Iron Giant (1999)
 
 Animation, Action, Adventure

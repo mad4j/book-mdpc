@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/love_bug_the/
+title: The Love Bug (1968) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Love Bug (1968)
 
 Comedy, Family, Sport

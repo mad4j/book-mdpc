@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/a_team_the/
+title: The A-Team (2010) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The A-Team (2010)
 
 Action, Adventure, Comedy

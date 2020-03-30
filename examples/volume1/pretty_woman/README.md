@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/pretty_woman/
+title: Pretty Woman (1990) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Pretty Woman (1990)
 
 Comedy, Romance

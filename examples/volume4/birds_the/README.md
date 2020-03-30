@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/birds_the/
+title: The Birds (1963) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Birds (1963)
 
 Drama, Horror, Mystery

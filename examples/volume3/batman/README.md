@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/batman/
+title: Batman (1989) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Batman (1989)
 
 Action, Adventure

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/lord_of_the_rings_the/
+title: The Lord of the Rings (1978) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Lord of the Rings (1978)
 
 Animation, Adventure, Fantasy
@@ -20,8 +23,6 @@ The Fellowship of the Ring embark on a journey to destroy the One Ring and end S
 // Daniele Olmisani, 2015
 
 // The Lord of the Rings (1978)
-// Animation, Adventure, Fantasy 
-// http://www.imdb.com/title/tt0077869/
 
 
 final color PAPER = color(45, 60, 40);
@@ -52,6 +53,7 @@ void draw() {
   
   save("the-lord-of-the-rings.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

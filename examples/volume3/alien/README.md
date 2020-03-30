@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/alien/
+title: Alien (1979) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Alien (1979)
 
 Horror, Sci-Fi

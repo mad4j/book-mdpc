@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/m/
+title: M (1931) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # M (1931)
 
 Crime, Drama, Mystery
@@ -19,7 +22,8 @@ When the police in a German city are unable to catch a child-murderer, other cri
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// M
+// M (1931)
+
 
 final color PAPER = color(250, 185, 105);
 final color INK = color(245, 50, 15);
@@ -29,6 +33,7 @@ void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
  
@@ -49,6 +54,7 @@ void draw() {
   
   save("M.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

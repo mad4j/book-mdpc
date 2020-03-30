@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/fifty_shades_of_grey/
+title: Fifty Shades of Grey (2015) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Fifty Shades of Grey (2015)
 
 Drama, Romance, Thriller

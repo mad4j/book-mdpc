@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/creed/
+title: Creed (2015) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Creed (2015)
 
 Drama, Sport

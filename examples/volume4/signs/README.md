@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume4/signs/
+title: Signs (2002) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Signs (2002)
 
 Drama, Mystery, Sci-Fi

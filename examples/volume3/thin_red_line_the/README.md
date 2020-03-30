@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/thin_red_line_the/
+title: The Thin Red Line (1998) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Thin Red Line (1998)
 
 Drama, War

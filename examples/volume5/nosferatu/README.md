@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/nosferatu/
+title: Nosferatu (1922) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Nosferatu (1922)
 
 Fantasy, Horror

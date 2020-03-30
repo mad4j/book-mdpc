@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/coraline/
+title: Coraline (2009) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Coraline (2009)
 
 Animation, Family, Fantasy

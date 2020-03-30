@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/dr_strangelove/
+title: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
 
 Comedy

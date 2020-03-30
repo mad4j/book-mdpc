@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/moana/
+title: Moana (2016) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Moana (2016)
 
 Animation, Adventure, Comedy

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/charlie_s_angels/
+title: Charlie's Angels (2000) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Charlie's Angels (2000)
 
 Action, Adventure, Comedy

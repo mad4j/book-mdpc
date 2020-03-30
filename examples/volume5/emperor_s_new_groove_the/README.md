@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume5/emperor_s_new_groove_the/
+title: The Emperor's New Groove (2000) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # The Emperor's New Groove (2000)
 
 Animation, Adventure, Comedy

@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/cat_s_eye/
+title: Cat's Eye (1985) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Cat's Eye (1985)
 
 Comedy, Horror, Thriller

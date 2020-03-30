@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/sorpasso_il/
+title: Il Sorpasso (1962) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Il Sorpasso (1962)
 
 Comedy, Drama

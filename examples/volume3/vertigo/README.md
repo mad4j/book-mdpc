@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume3/vertigo/
+title: Vertigo (1958) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Vertigo (1958)
 
 Mystery, Romance, Thriller

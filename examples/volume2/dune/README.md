@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/dune/
+title: Dune (1984) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Dune (1984)
 
 Action, Adventure, Sci-Fi

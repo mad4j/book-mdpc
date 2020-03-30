@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume2/one_flew_over_the_cuckoo_s_nest/
+title: One Flew Over the Cuckoo's Nest (1975) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # One Flew Over the Cuckoo's Nest (1975)
 
 Drama
@@ -19,20 +22,23 @@ A criminal pleads insanity after getting into trouble again and once in the ment
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// One flew over the cukoo's nest
+// One flew over the cukoo's nest (1975)
+
 
 final color PAPER = color(240, 240, 240);
 final color INK = color(30, 30, 30);
 
-final int SIZE = 250;
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
 
+  final float SIZE = 0.55*min(width, height);
+  
   translate(width/2.0, height/2.0);
   
   background(PAPER);
@@ -48,6 +54,7 @@ void draw() {
   
   save("one-flew-over-the-cukoo-s-nest.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

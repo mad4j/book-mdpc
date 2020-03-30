@@ -1,6 +1,9 @@
 ---
 permalink: /examples/volume1/cars/
+title: Cars (2006) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # Cars (2006)
 
 Animation, Adventure, Comedy
