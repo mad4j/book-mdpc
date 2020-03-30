@@ -1,6 +1,9 @@
 ---
 permalink: ##LINK##
+title: ##TITLE## (##YEAR##) | Minimalist Movie Poster
+description: Minimalist Movie Poster generated using Java and Processing.
 ---
+
 # ##TITLE## (##YEAR##)
 
 ##GENRE##
