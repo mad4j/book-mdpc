@@ -1,0 +1,44 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;The&nbsp;Godfather&nbsp;(1972)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(10);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span>(240);
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK);
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">triangle</span>(0.15*<span style="color: #D94A7A;">width</span>, 0, 0.85*<span style="color: #D94A7A;">width</span>, 0, 0.5*<span style="color: #D94A7A;">width</span>, 1.4*<span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/4.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> sx = <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>) / 4.8;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> sy = sx / 2.0;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">beginShape</span>();
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>(-sx, -sy);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>( sx,  sy);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>( sx, -sy);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>(-sx,  sy);
+&nbsp;&nbsp;<span style="color: #006699;">endShape</span>();
+
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;the-godfather.png&quot;</span>);
+}
+
+</pre></body></html>

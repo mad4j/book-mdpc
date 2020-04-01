@@ -7,10 +7,12 @@
 final color PAPER = color(255, 173, 96);
 final color INK = color(240);
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
 

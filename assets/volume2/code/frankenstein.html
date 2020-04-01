@@ -1,0 +1,49 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+
+<span style="color: #666666;">//&nbsp;Frankenstein</span>
+
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(255, 225, 190);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK1 = <span style="color: #006699;">color</span>(255, 205, 150);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK2 = <span style="color: #006699;">color</span>(35);
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">int</span> STEPS = 15;
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK1);
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">quad</span>(0, 0, <span style="color: #D94A7A;">width</span>, 0, <span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>/3.0, 0, <span style="color: #D94A7A;">height</span>/2.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> dx = <span style="color: #D94A7A;">width</span> / STEPS;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> dy = (<span style="color: #D94A7A;">height</span>/3.0 - <span style="color: #D94A7A;">height</span>/2.0) / STEPS;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> s = 0.05 * <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> d = 0.4 * s;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INK2);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(s/5);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=1; i&lt;STEPS; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">float</span> x = i*dx;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #E2661A;">float</span> y = <span style="color: #D94A7A;">height</span>/2.0 + i*dy;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">line</span>(x+<span style="color: #006699;">random</span>(-d , d), y-s, x+<span style="color: #006699;">random</span>(-d, d), y+s);
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;frankenstein.png&quot;</span>);
+}
+
+</pre></body></html>

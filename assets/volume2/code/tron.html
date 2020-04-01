@@ -1,0 +1,64 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2015</span>
+
+<span style="color: #666666;">//&nbsp;Tron&nbsp;(1982)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(30);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span>[] INKS = {
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(0, 135, 85),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(255, 50, 50),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(55, 205, 250),
+};
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> S =  <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> U = 0.002;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(0.5*<span style="color: #D94A7A;">width</span>, 0.5*<span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #006699;">scale</span>(S);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">noFill</span>();
+&nbsp;&nbsp;<span style="color: #006699;">strokeJoin</span>(<span style="color: #718A62;">ROUND</span>);
+&nbsp;&nbsp;<span style="color: #006699;">strokeCap</span>(<span style="color: #718A62;">SQUARE</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INKS[0]);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(U);
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">float</span> i=-0.6; i&lt;=0.6; i+=0.1) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">line</span>(   i, -1.0,   i, 1.0);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">line</span>(-1.0,    i, 1.0,   i);
+&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=1; i&lt;INKS.<span style="color: #33997E;">length</span>; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">translate</span>(0.05, 0.06);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INKS[i]);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(10*U);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">beginShape</span>();
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>(0.0,  0.7); 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>(0.0,  0.2);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>(0.2,  0.2); 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">vertex</span>(0.2, -0.1);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">endShape</span>();
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(15*U);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">line</span>(0.2, -0.12, 0.2, -0.04);
+&nbsp;&nbsp;}
+
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;tron.png&quot;</span>);
+}
+
+</pre></body></html>

@@ -1,0 +1,59 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2015</span>
+
+<span style="color: #666666;">//&nbsp;Modern&nbsp;Times&nbsp;(1936)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(240);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span>(45, 60, 40);
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> S = <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(0.5*<span style="color: #D94A7A;">width</span>, 0.3*<span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;drawGear(&nbsp;&nbsp;&nbsp;0.0,&nbsp;&nbsp;&nbsp;&nbsp;0.0,&nbsp;0.16*S,&nbsp;0.04*S,&nbsp;0,&nbsp;0.01*S);
+&nbsp;&nbsp;drawGear(0.21*S,&nbsp;0.21*S,&nbsp;0.11*S,&nbsp;0.04*S,&nbsp;0,&nbsp;0.01*S);
+&nbsp;&nbsp;drawGear(0.02*S,&nbsp;0.35*S,&nbsp;0.10*S,&nbsp;0.04*S,&nbsp;0,&nbsp;0.01*S);
+&nbsp;&nbsp;drawGear(0.12*S,&nbsp;0.52*S,&nbsp;0.07*S,&nbsp;0.04*S,&nbsp;0,&nbsp;0.01*S);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;modern-times.png&quot;</span>);
+}
+
+
+<span style="color: #33997E;">void</span> drawGear(<span style="color: #E2661A;">float</span> x, <span style="color: #E2661A;">float</span> y, <span style="color: #E2661A;">float</span> r, <span style="color: #E2661A;">float</span> s, <span style="color: #E2661A;">float</span> a, <span style="color: #E2661A;">float</span> h) {
+
+&nbsp;&nbsp;<span style="color: #006699;">pushMatrix</span>();
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">translate</span>(x, y);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rotate</span>(a);
+&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rectMode</span>(<span style="color: #718A62;">CENTER</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">ellipseMode</span>(<span style="color: #718A62;">CENTER</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">int</span> N = (<span style="color: #E2661A;">int</span>)((r*<span style="color: #718A62;">PI</span>) / s);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=0; i&lt;N; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(r, 0, s, s);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rotate</span>(<span style="color: #718A62;">TWO_PI</span> / N);
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, 2*r, 2*r);
+&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(PAPER);
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(0, 0, h, h); 
+&nbsp;&nbsp;<span style="color: #006699;">popMatrix</span>();
+}
+
+</pre></body></html>

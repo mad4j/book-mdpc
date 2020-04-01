@@ -1,0 +1,60 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2015</span>
+
+<span style="color: #666666;">//&nbsp;Close&nbsp;encounters&nbsp;of&nbsp;the&nbsp;third&nbsp;kind&nbsp;(1977)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(0);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span>(50);
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span>[] INKS = <span style="color: #33997E;">new</span> <span style="color: #E2661A;">color</span>[] {
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(240, 0, 0),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(0, 240, 0),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(0, 0, 240),
+&nbsp;&nbsp;<span style="color: #006699;">color</span>(240, 240, 0)
+};
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">int</span> COLS = 6;
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">int</span> ROWS = 5;
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> w = <span style="color: #D94A7A;">width</span>/(COLS+1);
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> h = w/2.0;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">println</span>(w);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/3.0);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(w/35);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=0; i&lt;COLS; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> j=0; j&lt;ROWS; j++) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">if</span> ((<span style="color: #E2661A;">int</span>)<span style="color: #006699;">random</span>(2) == 0) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INKS[(<span style="color: #E2661A;">int</span>)<span style="color: #006699;">random</span>(INKS.<span style="color: #33997E;">length</span>)]);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<span style="color: #669900;">else</span> {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">rect</span>(w*(i-COLS/2.0), h*(j-ROWS/2.0), w, h);
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;close-encounters-of-the-third-kind.png&quot;</span>);
+}
+
+</pre></body></html>

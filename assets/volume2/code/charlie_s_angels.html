@@ -1,0 +1,54 @@
+<html><body><pre>
+<span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2015</span>
+
+<span style="color: #666666;">//&nbsp;Charlie&apos;s&nbsp;Angels&nbsp;(2000)</span>
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(245, 180, 50);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK1 = <span style="color: #006699;">color</span>(100, 60, 20);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK2 = <span style="color: #006699;">color</span>(200);
+
+
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">int</span> ROWS = 10;
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">int</span> COLS = 20;
+
+&nbsp;
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #006699;">size</span>(480, 640);
+&nbsp;&nbsp;<span style="color: #006699;">noLoop</span>();
+}
+
+
+<span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> W = 0.25 * <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> H = 0.60 * W;
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(0.5*<span style="color: #D94A7A;">width</span>, 0.6*<span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INK1);
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK2);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(W/12);
+&nbsp;&nbsp;<span style="color: #006699;">strokeJoin</span>(<span style="color: #718A62;">ROUND</span>);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">quad</span>(-W, -H, W, -H, 1.1*W, H, -1.1*W, H);
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK1);
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> D = 2*(W/COLS);
+&nbsp;&nbsp;<span style="color: #33997E;">final</span> <span style="color: #E2661A;">float</span> R = H/15; 
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> i=1; i&lt;COLS; i++) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #669900;">for</span> (<span style="color: #E2661A;">int</span> j=3; j&lt;ROWS; j++) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(-W+i*D, -H+j*D, R, R);
+&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;}
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;charlie-s-angels.png&quot;</span>);
+}
+
+</pre></body></html>
