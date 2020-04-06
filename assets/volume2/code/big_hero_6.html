@@ -1,12 +1,12 @@
 <html><body><pre>
 <span style="color: #666666;">//&nbsp;Manuale&nbsp;di&nbsp;Programmazione&nbsp;Cinematografica</span>
-<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2016</span>
+<span style="color: #666666;">//&nbsp;Daniele&nbsp;Olmisani,&nbsp;2015</span>
 
-<span style="color: #666666;">//&nbsp;Ant&nbsp;Man&nbsp;(2015)</span>
+<span style="color: #666666;">//&nbsp;Big&nbsp;Hero&nbsp;6&nbsp;(2014)</span>
 
 
-<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(240);
-<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span> (0);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> PAPER = <span style="color: #006699;">color</span>(245);
+<span style="color: #33997E;">final</span> <span style="color: #E2661A;">color</span> INK = <span style="color: #006699;">color</span>(30);
 
 
 <span style="color: #33997E;">void</span> <span style="color: #006699;"><b>setup</b></span>() {
@@ -17,22 +17,23 @@
 
 <span style="color: #33997E;">void</span> <span style="color: #006699;"><b>draw</b></span>() {
 &nbsp;&nbsp;
-&nbsp;&nbsp;<span style="color: #E2661A;">float</span> s = 0.004 * <span style="color: #006699;">min</span>(<span style="color: #D94A7A;">width</span>, <span style="color: #D94A7A;">height</span>);
+&nbsp;&nbsp;<span style="color: #E2661A;">float</span> size = 0.125*<span style="color: #D94A7A;">width</span>;
 &nbsp;&nbsp;
-&nbsp;&nbsp;<span style="color: #006699;">translate</span>(0.50*<span style="color: #D94A7A;">width</span>, 0.75*<span style="color: #D94A7A;">height</span>);
-&nbsp;&nbsp;<span style="color: #006699;">scale</span>(s);
+&nbsp;&nbsp;<span style="color: #006699;">translate</span>(<span style="color: #D94A7A;">width</span>/2.0, <span style="color: #D94A7A;">height</span>/3.0);
 &nbsp;&nbsp;
 &nbsp;&nbsp;<span style="color: #006699;">background</span>(PAPER);
+&nbsp;&nbsp;<span style="color: #006699;">fill</span>(INK);
+&nbsp;&nbsp;<span style="color: #006699;">noStroke</span>();
+&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #006699;">ellipseMode</span>(<span style="color: #718A62;">CENTER</span>);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>(-<span style="color: #D94A7A;">width</span>/4.0, 0, size, size);
+&nbsp;&nbsp;<span style="color: #006699;">ellipse</span>( <span style="color: #D94A7A;">width</span>/4.0, 0, size, size);
+&nbsp;&nbsp;
 &nbsp;&nbsp;<span style="color: #006699;">stroke</span>(INK);
+&nbsp;&nbsp;<span style="color: #006699;">strokeWeight</span>(size/10.0);
+&nbsp;&nbsp;<span style="color: #006699;">line</span>(-<span style="color: #D94A7A;">width</span>/4.0, 0, <span style="color: #D94A7A;">width</span>/4.0, 0);
 &nbsp;&nbsp;
-&nbsp;&nbsp;<span style="color: #006699;">line</span>( 0, 0,  0, 2);
-&nbsp;&nbsp;<span style="color: #006699;">line</span>(-1, 1,  1, 1);
-&nbsp;&nbsp;<span style="color: #006699;">line</span>(-1, 3, -1, 3);
-&nbsp;&nbsp;<span style="color: #006699;">line</span>( 1, 3,  1, 3);
-&nbsp;&nbsp;
-&nbsp;&nbsp;<span style="color: #006699;">filter</span>(<span style="color: #718A62;">BLUR</span>, <span style="color: #006699;">sqrt</span>(s)-0.41);
-
-&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;ant-man.png&quot;</span>);
+&nbsp;&nbsp;<span style="color: #006699;">save</span>(<span style="color: #7D4793;">&quot;big-hero-6.png&quot;</span>);
 }
 
 </pre></body></html>
