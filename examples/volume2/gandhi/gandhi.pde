@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Gandhi
+// Gandhi (1983)
 
 
 final color PAPER = color(235, 225, 160);
