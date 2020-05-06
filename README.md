@@ -361,9 +361,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/avatar/">
     <img src="examples/volume5/avatar/avatar.png" width="120px" title="Avatar"/>
 </a>
-<a href="examples/volume5/avengers_the/">
-    <img src="examples/volume5/avengers_the/the-avengers.png" width="120px" title=""/>
-</a>
 <a href="examples/volume5/back_to_the_future/">
     <img src="examples/volume5/back_to_the_future/back-to-the-future.png" width="120px" title="Back to the Future"/>
 </a>
@@ -373,9 +370,12 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/emperor_s_new_groove_the/">
     <img src="examples/volume5/emperor_s_new_groove_the/the-emperor's-new-groove.png" width="120px" title="The Emperor's New Groove"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume5/exorcist_the/">
     <img src="examples/volume5/exorcist_the/the-exorcist.png" width="120px" title="The Exorcist"/>
+</a>
+<br class="index-separator"/>
+<a href="examples/volume5/great_dictator_the/">
+    <img src="examples/volume5/great_dictator_the/the-great-dictator.png" width="120px" title="The Great Dictator"/>
 </a>
 <a href="examples/volume5/incredibles_the/">
     <img src="examples/volume5/incredibles_the/the-incredibles.png" width="120px" title="The Incredibles"/>
