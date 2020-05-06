@@ -1,0 +1,36 @@
+{
+    "Title": "The Great Dictator",
+    "Year": "1940",
+    "Rated": "Passed",
+    "Released": "07 Mar 1941",
+    "Runtime": "125 min",
+    "Genre": "Comedy, Drama, War",
+    "Director": "Charles Chaplin",
+    "Writer": "Charles Chaplin",
+    "Actors": "Charles Chaplin, Jack Oakie, Reginald Gardiner, Henry Daniell",
+    "Plot": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "Language": "English, Esperanto",
+    "Country": "USA",
+    "Awards": "Nominated for 5 Oscars. Another 6 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.4",
+    "imdbVotes": "192,264",
+    "imdbID": "tt0032553",
+    "Type": "movie",
+    "DVD": "10 May 2010",
+    "BoxOffice": "N/A",
+    "Production": "Criterion Collection",
+    "Website": "N/A",
+    "Response": "True"
+}
