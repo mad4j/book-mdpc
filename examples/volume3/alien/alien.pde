@@ -1,17 +1,20 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Alien
+// Alien (1979)
+
 
 final color PAPER = color(30);
 final color INK = color(225);
 
 final float TEETH = 10;;
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -23,6 +26,7 @@ void draw() {
 
   save("alien.png");
 }
+
 
 PGraphics drawMounth() {
   
