@@ -3,6 +3,7 @@
 
 // Creed
 
+
 final color PAPER = color(20, 35, 85);
 
 final color INK1 = color(225, 0, 20);
@@ -10,10 +11,12 @@ final color INK2 = color(255);
 
 final int STRIPES = 5;
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -25,7 +28,7 @@ void draw() {
   
   fill(INK2);
   for (int i=0; i<STRIPES; i++) {
-    star((0.5+i)*deltaX, deltaY/2.0, 0.6);
+    star((0.5+i)*deltaX, 0.5*deltaY, 0.008*deltaX);
   }
     
   translate(0, deltaY);
@@ -38,6 +41,7 @@ void draw() {
   
   save("creed.png");
 }
+
 
 void star(float x, float y, float size) {
   
