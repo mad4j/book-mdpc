@@ -1,39 +1,42 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// The Fast and the Furious
+// The Fast and the Furious (2001)
 
-final color PAPER = color(32);
-final color INK = color(242);
+
+final color PAPER = color(30);
+final color INK = color(240);
 
 final int SIZE = 200;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  float s1 = SIZE/40.0;
-  float s2 = SIZE/4.0;
-  float s3 = SIZE/8.8;
+  final float S =  min(width, height);
+  final float U = 0.002;
   
-  translate(width/2.0, height/2.0);
+  translate(0.5*width, 0.5*height);
+  scale(S);
   
   background(PAPER);
   
   noFill();
   
   stroke(INK);
-  strokeWeight(s1);
+  strokeWeight(5*U);
   
-  ellipse(0, 0, SIZE, SIZE);
+  ellipse(0, 0, 0.5, 0.5);
   
-  line(-s2,  0,  s2,   0);
-  line(  0, s3,   0, -s3);
-  line(-s2, s3, -s2, -s3);
-  line( s2, s3,  s2, -s3);
+  line(-0.15, 0.00,  0.15,  0.00);
+  line( 0.00, 0.05,  0.00, -0.05);
+  line(-0.15, 0.05, -0.15, -0.05);
+  line( 0.15, 0.05,  0.15, -0.05);
   
   save("the-fast-and-the-furious.png");
 }
