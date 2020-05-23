@@ -18,8 +18,6 @@ void setup() {
 
 
 void draw() {
-  
-  final float F = S*min(width, height);
 
   randomSeed(10);
   
