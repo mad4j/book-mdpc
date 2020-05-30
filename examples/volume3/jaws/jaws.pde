@@ -1,18 +1,20 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Jaws
+// Jaws (1975)
+
 
 final color PAPER = color(0, 105, 165);
 final color INK = color(195, 180, 130);
 
 final float TEETH = 10;;
 
+
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -30,6 +32,7 @@ void draw() {
 
   save("jaws.png");
 }
+
 
 void drawTeeth() {
   rect(0, 0, width/TEETH, 1);
