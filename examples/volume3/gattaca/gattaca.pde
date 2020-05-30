@@ -1,38 +1,44 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Gattaca
+// Gattaca (1997)
+
 
 final color PAPER = color(110, 70, 75);
 final color INK = color(240);
 
 final String LETTERS = "GCTA";
-final int FONT_SIZE = 32;
 
 PFont f;
 
-void setup() {
- 
+
+void setup() { 
   size(480, 640);
   noLoop();
   
   f = loadFont("courier.vlw");
 }
 
+
 void draw() {
+  
+  final float S =  min(width, height);
+
+  final float fonstSize = S/15;
+
   
   background(PAPER);
   fill(INK);
   
-  textFont(f, FONT_SIZE);  
+  textFont(f, fonstSize);  
   textAlign(CENTER, CENTER);
   
-  for (int i=0; i<width/FONT_SIZE; i++) {
-    for (int j=0; j<height/FONT_SIZE; j++) {
+  for (int i=0; i<width/fonstSize; i++) {
+    for (int j=0; j<height/fonstSize; j++) {
       text(
         LETTERS.charAt((int)random(LETTERS.length())), 
-        FONT_SIZE/2.0 + FONT_SIZE*i, 
-        FONT_SIZE/2.0 + FONT_SIZE*j);
+        fonstSize/2.0 + fonstSize*i, 
+        fonstSize/2.0 + fonstSize*j);
     }
   }
   
