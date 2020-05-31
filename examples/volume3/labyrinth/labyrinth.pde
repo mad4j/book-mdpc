@@ -10,8 +10,9 @@
 final color PAPER = color(255, 235, 130);
 final color INK = color(30);
 
-final float SCALE = 30.0;
-final float STROKE = 6.0;
+final float STROKE = 0.2;
+
+final int COLS = 16;
 
 
 void setup() {
@@ -22,21 +23,21 @@ void setup() {
 
 void draw() {
   
-  scale(SCALE);
+  final float S = width / COLS;
+  final float ROWS = height / S;
   
-  final float MAX_X = width/SCALE;
-  final float MAX_Y = height/SCALE;
+  scale(S);
   
   background(PAPER);
   
   stroke(INK);
   strokeCap(ROUND);
-  strokeWeight(STROKE / SCALE);
+  strokeWeight(STROKE);
   
   randomSeed(0x2143B9F7);
   
-  for (int y=0; y<MAX_Y; y++) {
-    for (int x=0; x<MAX_X; x++) {
+  for (int y=0; y<ROWS; y++) {
+    for (int x=0; x<COLS; x++) {
       int r = (int)random(2);
       line(x+(1-r), y, x+r, y+1);
     }
