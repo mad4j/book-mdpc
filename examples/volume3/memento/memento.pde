@@ -1,22 +1,27 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Memento
+// Memento (2000)
+
 
 final color PAPER = color(30);
 final color INK = color(240);
 
-final int SIZE = 200;
+//final int SIZE = 200;
+
 
 void setup() {
-  
-  size(480, 640);
+  size(1535, 2047);
+  //size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/2.0);
+  final float SIZE = 0.4*min(width, height);
+  
+  translate(0.5*width, 0.5*height);
   rotate(-QUARTER_PI/2);
   
   background(PAPER);
