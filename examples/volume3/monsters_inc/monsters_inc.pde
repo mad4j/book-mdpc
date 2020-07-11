@@ -1,33 +1,37 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Monsters, Inc
+// Monsters, Inc (2001)
+
 
 final color PAPER = color(90, 200, 200);
 final color INK1 = color(240);
 final color INK2 = color(30);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  float size = min(width, height) * 0.17;
+  final float S = 0.2*min(width, height);
   
-  translate(width/2.0, height/3.0);
+  translate(0.50*width, 0.33*height);
+  scale(S);
   
   background(PAPER);
   
   noStroke();
   
   fill(INK1);
-  arc(0,  0.30*size, 3.6*size, 1.8*size, PI+PI/10.0, TWO_PI-PI/10.0, CHORD);
-  arc(0, -0.27*size, 3.6*size, 1.8*size,    PI/10.0,     PI-PI/10.0, CHORD);
+  arc(0,  0.30, 3.6, 1.8, 1.1*PI, 1.9*PI, CHORD);
+  arc(0, -0.27, 3.6, 1.8, 0.1*PI, 0.9*PI, CHORD);
   
   fill(INK2);
-  ellipse(0, 0, size, size);
+  ellipse(0.0, 0.0, 1.0, 1.0);
   
   save("monsters-inc.png");
 }
