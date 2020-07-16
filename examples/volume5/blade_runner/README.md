@@ -28,7 +28,7 @@ A blade runner must pursue and terminate four replicants who stole a ship in spa
 final color PAPER = color(30);
 final color INK = color(240);
 
-final String P = "fflfflfrfrfrfrfrflffl ffrffrflflflflflfrffr";
+final String P = "5lf3l4f4r2f2l4f19r4f7l3f4r2f14r3f13l2fl2f";
 
 
 void setup() {
@@ -42,8 +42,8 @@ void draw() {
   final float S = min(width, height);
   final float U = 0.002;
   
-  float dL = 0.1;
-  float dA = 0.05*PI;
+  final float dL = 0.1;
+  final float dA = 0.05*PI;
   
   translate(0.2*width, 0.75*height);
   scale(S);
@@ -52,11 +52,9 @@ void draw() {
   background(PAPER);
   
   stroke(INK);
-  strokeJoin(ROUND);
-  strokeCap(PROJECT);
   strokeWeight(10*U);
   
-  drawTurtle("5lf3l4f4r2f2l4f19r4f7l3f4r2f14r3f13l2fl2f", dL, dA);
+  drawTurtle(P, dL, dA);
   
   save("blade-runner.png");
 }
