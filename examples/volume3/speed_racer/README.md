@@ -19,35 +19,43 @@ A young driver, Speed Racer, aspires to be champion of the racing world with the
 
 ## The code
 ```java
+// Manuale di Programmazione Cinematografica
+// Daniele Olmisani, 2015
+
+// Speed Racer (2008)
+
 
 final color PAPER = color(230, 165, 25);
 final color INK = color(225, 40, 45);
 
-final int SIZE = 40;
-
 
 void setup() {
+  //size(1535, 2047);
   size(480, 640);
   noLoop();
 }
 
 
 void draw() {
+  
+  final float S = min(width, height) / 12;
+  
   background(PAPER);
   
   fill(INK);
   noStroke();
   
-  for (int i=0; i<width/SIZE; i++) {
-    for (int j=0; j<height/SIZE; j++) {
+  for (int i=0; i<width; i+=S) {
+    for (int j=0; j<height; j+=S) {
       if ((i+j)%2 == 0) {
-        rect(i*SIZE, j*SIZE, SIZE, SIZE);
+        rect(i*S, j*S, S, S);
       }
     }
   }
   
   save("speed-racer.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

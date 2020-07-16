@@ -22,56 +22,74 @@ A wandering gunfighter plays two rival families against each other in a town tor
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Fistful of dollars
+// Fistful of dollars (1964)
+
 
 final color PAPER = color(55, 50, 0);
 final color INK = color(170, 165, 120);
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, 0);
+  final float S =  min(width, height);
+  final float U = 0.002;
+  
+  translate(0.5*width, 0.0);
+  scale(S);
   
   background(PAPER);
   
-  strokeWeight(20);
+  strokeWeight(20*U);
   stroke(INK);
   noFill();
   
   rectMode(CENTER);
-  rect(-200,   0, 50, 50);
-  rect(-150,  50, 50, 50);
-  rect(-100, 100, 50, 50);
-  rect( -50, 150, 50, 50);
+  rect(-0.4, 0.0, 0.1, 0.1);
+  rect(-0.3, 0.1, 0.1, 0.1);
+  rect(-0.2, 0.2, 0.1, 0.1);
+  rect(-0.1, 0.3, 0.1, 0.1);
   
-  rect(   0, 200, 50, 50);
+  rect( 0.0, 0.4, 0.1, 0.1);
   
-  rect( 50, 150, 50, 50);
-  rect(100, 100, 50, 50);
-  rect(150, 50, 50, 50);
-  rect(200, 0, 50, 50);
+  rect( 0.1, 0.3, 0.1, 0.1);
+  rect( 0.2, 0.2, 0.1, 0.1);
+  rect( 0.3, 0.1, 0.1, 0.1);
+  rect( 0.4, 0.0, 0.1, 0.1);
   
   strokeCap(SQUARE);
   
-  line(-150, 250, -200, 250);
-  line(-200, 240, -200, 290);
-  line(-200, 280, -75, 280);
-  line(-85, 270, -85, 320);
-  line(-75, 310, -125, 310);
+  beginShape();
+    vertex(-0.30, 0.50);
+    vertex(-0.40, 0.50);
+    vertex(-0.40, 0.57);
+    vertex(-0.15, 0.57);
+    vertex(-0.15, 0.64);
+    vertex(-0.25, 0.64);
+  endShape();
   
-  line(150, 250, 200, 250);
-  line(200, 240, 200, 290);
-  line(200, 280, 75, 280);
-  line(85, 270, 85, 320);
-  line(75, 310, 125, 310);
+  beginShape();
+    vertex(0.30, 0.50);
+    vertex(0.40, 0.50);
+    vertex(0.40, 0.57);
+    vertex(0.15, 0.57);
+    vertex(0.15, 0.64);
+    vertex(0.25, 0.64);
+  endShape();
   
-  line(-25, 50, 25, 50);
-  line(-60, 25, -10, 25);
-  line( 60, 25, 10, 25);
+  line(-0.05, 0.12,  0.05, 0.12);
+  line(-0.12, 0.05, -0.02, 0.05);
+  line( 0.12, 0.05,  0.02, 0.05);
+  
+  line(-0.05, 0.80,  0.05, 0.80);
+  line(-0.05, 1.20,  0.05, 1.20);
+  line( 0.40, 1.00,  0.30, 1.00);
+  line(-0.40, 1.00, -0.30, 1.00);
   
   line(-25, 400, 25, 400);
   line(200, 500, 150, 500);
@@ -80,6 +98,7 @@ void draw() {
   
   save("fistful-of-dollars.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

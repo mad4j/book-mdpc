@@ -22,7 +22,7 @@ Gandhi's character is fully explained as a man of nonviolence. Through his patie
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Gandhi
+// Gandhi (1983)
 
 
 final color PAPER = color(235, 225, 160);
@@ -65,6 +65,7 @@ void draw() {
   
   save("gandhi.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

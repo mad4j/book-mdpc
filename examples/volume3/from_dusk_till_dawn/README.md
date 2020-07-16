@@ -22,25 +22,31 @@ Two criminals and their hostages unknowingly seek temporary refuge in an establi
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// From Dusk till Dawn
+// From Dusk till Dawn (1996)
+
 
 final color PAPER = color(95, 80, 150);
 final color INK1 = color(225, 0, 50);
 final color INK2 = color(245, 225, 0);
 
-final int SIZE = 200;
+final float SIZE = 0.4;
+final float DELTA = 0.004;
 
 final int RAYS = 7;
-final int DELTA = 2;
+
 
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/2.0);
+  final float S =  min(width, height);
+  
+  translate(0.5*width, 0.5*height);
+  scale(S);
   
   background(PAPER);
   
@@ -62,6 +68,7 @@ void draw() {
   
   save("from-dusk-till-dawn.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

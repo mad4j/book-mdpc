@@ -22,23 +22,25 @@ A man juggles searching for his wife's murderer and keeping his short-term memor
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Memento
+// Memento (2000)
+
 
 final color PAPER = color(30);
 final color INK = color(240);
 
-final int SIZE = 200;
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/2.0);
-  rotate(-QUARTER_PI/2);
+  final float SIZE = 0.4*min(width, height);
+  
+  translate(0.5*width, 0.5*height);
+  rotate(-0.5*QUARTER_PI);
   
   background(PAPER);
   fill(INK);
@@ -48,12 +50,13 @@ void draw() {
   rect(0, 0, SIZE, 1.2*SIZE);
   translate(0, -0.1*SIZE);
   
-  fill(32);
+  fill(PAPER);
   
   rect(0, 0, 0.9*SIZE, 0.9*SIZE);
   
   save("memento.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

@@ -22,21 +22,29 @@ Steve Rogers, a rejected military soldier transforms into Captain America after 
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Captain America: the First Avenger
+// Captain America: the First Avenger (2011)
+
 
 final color PAPER = color(235, 225, 205);
 final color INK1 = color(215, 50, 40);
 final color INK2 = color(240, 245, 245);
 final color INK3 = color(0, 140, 165);
 
+final float S = 0.002;
+
+
 void setup() {
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
   
-  translate(width/2.0, height/2.0);
+  final float F = S*min(width, height);
+  
+  translate(0.5*width, 0.5*height);
+  scale(F);
   
   background(PAPER);
   stroke(INK1);  
@@ -61,6 +69,7 @@ void draw() {
   
   save("captain-america.png"); 
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

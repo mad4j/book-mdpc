@@ -22,17 +22,20 @@ Humanity finds a mysterious, obviously artificial object buried beneath the Luna
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// 2001 A Space Odyssey
+// 2001 A Space Odyssey (1968)
 
-final color PAPER = color(255,228,181);
+
+final color PAPER = color(255, 230, 180);
 final color INK1 = color(0);
-final color INK2 = color(64);
+final color INK2 = color(65);
 
-void setup()  {
-  size(480, 640, OPENGL);
+
+void settings() {
+  size(480, 640, P3D);
   smooth(8);
   noLoop();
 }
+
 
 void draw()  {
   

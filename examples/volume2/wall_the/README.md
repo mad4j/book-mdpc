@@ -26,11 +26,11 @@ A confined but troubled rock star descends into madness in the midst of his phys
 
 
 final color PAPER = color(255);
-final color INK = color(32);
+final color INK = color(30);
 
 
 void setup() {
-  size(1535, 2047);
+  size(480, 640);
   noLoop();
 }
 
@@ -40,7 +40,7 @@ void draw() {
   final float S =  min(width, height);
   final float U = 0.002;
   
-  final float W = 0.16*S;
+  final float W = S / 6;
   final float H = 0.50*W;
   final float R = 0.10*W;
   
@@ -48,7 +48,7 @@ void draw() {
  
   fill(PAPER); 
   stroke(INK);
-  strokeWeight(5*U);
+  strokeWeight(S*U);
   
   for (int j=0; j<height/H; j++) {
     for (int i=0; i<width/W+1; i++) {

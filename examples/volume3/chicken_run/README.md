@@ -22,12 +22,15 @@ When a cockerel apparently flies into a chicken farm, the chickens see him as an
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Chicken run
+// Chicken run (2000)
+
 
 final color PAPER = color(240);
 final color INK = color(230, 140, 35);
 
-final color STEPS = 15;
+final int STEPS = 15;
+final float S = 0.002;
+
 
 void setup() {
   size(480, 640);
@@ -69,8 +72,8 @@ void drawFootprint(float x, float y, float s) {
     line( 0.5*s, -s, 0,      0);
   
   popMatrix();
-  
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

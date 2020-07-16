@@ -22,8 +22,7 @@ An obsessed scientist assembles a living being from parts of exhumed corpses.
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Frankenstein
-
+// Frankenstein (1931)
 
 
 final color PAPER = color(255, 225, 190);
@@ -65,6 +64,7 @@ void draw() {
   
   save("frankenstein.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

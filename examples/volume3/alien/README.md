@@ -22,17 +22,20 @@ After a space merchant vessel perceives an unknown transmission as distress call
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Alien
+// Alien (1979)
+
 
 final color PAPER = color(30);
 final color INK = color(225);
 
 final float TEETH = 10;;
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -44,6 +47,7 @@ void draw() {
 
   save("alien.png");
 }
+
 
 PGraphics drawMounth() {
   
@@ -72,6 +76,7 @@ void drawTeeth(PGraphics g) {
      g.triangle(i, 0.19, i+1, 0.19, i+0.5, (i==0 || i==TEETH-1) ? 2.5 : 1);
   }
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

@@ -22,7 +22,7 @@ Barry B. Benson, a bee just graduated from college, is disillusioned at his lone
 // Manuale di Programmazione Cinematografica - Volume 3
 // Daniele Olmisani, 2016
 
-// Bee Movie
+// Bee Movie (2007)
 
 
 final color PAPER = color(70, 25, 20);
@@ -35,6 +35,7 @@ void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -53,6 +54,7 @@ void draw() {
   
   save("bee-movie.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

@@ -30,8 +30,6 @@ final color INK1 = color(250, 175, 145);
 final color INK2 = color(255, 245, 0);
 
 
-
-
 void setup() {
   size(480, 640);
   noLoop();
