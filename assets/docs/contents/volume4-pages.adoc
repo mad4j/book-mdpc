@@ -1,0 +1,481 @@
+
+
+=== The Birds
+
+- - -
+
+image::assets/docs/the-birds.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/birds_the.pde[]
+
+----
+
+
+<<<
+
+=== Men in Black
+
+- - -
+
+image::assets/docs/mib.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/mib.pde[]
+
+----
+
+
+<<<
+
+=== My Neighbor Totoro
+
+- - -
+
+image::assets/docs/tonari-no-totoro.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/tonari_no_totoro.pde[]
+
+----
+
+
+<<<
+
+=== Entrapment
+
+- - -
+
+image::assets/docs/entrapment.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/entrapment.pde[]
+
+----
+
+
+<<<
+
+=== The Little Prince
+
+- - -
+
+image::assets/docs/le-petit-prince.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/petit_prince_le.pde[]
+
+----
+
+
+<<<
+
+=== E.T. the Extra-Terrestrial
+
+- - -
+
+image::assets/docs/et-the-extra-terrestrial.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/et_the_extra_terrestrial.pde[]
+
+----
+
+
+<<<
+
+=== The Black Hole
+
+- - -
+
+image::assets/docs/the-black-hole.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/black_hole_the.pde[]
+
+----
+
+
+<<<
+
+=== The Ninth Gate
+
+- - -
+
+image::assets/docs/the-ninth-gate.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/ninth_gate_the.pde[]
+
+----
+
+
+<<<
+
+=== Spider-Man
+
+- - -
+
+image::assets/docs/spider-man.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/spiderman.pde[]
+
+----
+
+
+<<<
+
+=== American Beauty
+
+- - -
+
+image::assets/docs/american-beauty.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/american_beauty.pde[]
+
+----
+
+
+<<<
+
+=== Zorro
+
+- - -
+
+image::assets/docs/zorro.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/zorro.pde[]
+
+----
+
+
+<<<
+
+=== Titanic
+
+- - -
+
+image::assets/docs/titanic.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/titanic.pde[]
+
+----
+
+
+<<<
+
+=== Wonder Woman
+
+- - -
+
+image::assets/docs/wonder-woman.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/wonder_woman.pde[]
+
+----
+
+
+<<<
+
+=== Stargate
+
+- - -
+
+image::assets/docs/stargate.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/stargate.pde[]
+
+----
+
+
+<<<
+
+=== The Iron Giant
+
+- - -
+
+image::assets/docs/the-iron-giant.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/iron_giant_the.pde[]
+
+----
+
+
+<<<
+
+=== The A-Team
+
+- - -
+
+image::assets/docs/the-a-team.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/a_team_the.pde[]
+
+----
+
+
+<<<
+
+=== Signs
+
+- - -
+
+image::assets/docs/signs.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/signs.pde[]
+
+----
+
+
+<<<
+
+=== The Shining
+
+- - -
+
+image::assets/docs/shining.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/shining.pde[]
+
+----
+
+
+<<<
+
+=== Escape from New York
+
+- - -
+
+image::assets/docs/escape-from-new-york.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/escape_from_new_york.pde[]
+
+----
+
+
+<<<
+
+=== Psycho
+
+- - -
+
+image::assets/docs/psycho.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/psycho.pde[]
+
+----
+
+
+<<<
+
+=== The Day the Earth Stood Still
+
+- - -
+
+image::assets/docs/the-day-the-earth-stood-still.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/day_the_earth_stood_still_the.pde[]
+
+----
+
+
+<<<
+
+=== Suicide Squad
+
+- - -
+
+image::assets/docs/suicide-squad.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/suicide_squad.pde[]
+
+----
+
+
+<<<
+
+=== Thor
+
+- - -
+
+image::assets/docs/thor.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/thor.pde[]
+
+----
+
+
+<<<
+
+=== Ice Age
+
+- - -
+
+image::assets/docs/ice-age.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/ice_age.pde[]
+
+----
+
+
+<<<

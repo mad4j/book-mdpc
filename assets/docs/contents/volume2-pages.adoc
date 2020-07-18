@@ -1,0 +1,481 @@
+
+
+=== Frankenstein
+
+- - -
+
+image::assets/docs/frankenstein.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/frankenstein.pde[]
+
+----
+
+
+<<<
+
+=== Green Lantern
+
+- - -
+
+image::assets/docs/green-lantern.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/green_lantern.pde[]
+
+----
+
+
+<<<
+
+=== Pixels
+
+- - -
+
+image::assets/docs/pixels.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/pixels.pde[]
+
+----
+
+
+<<<
+
+=== The Godfather
+
+- - -
+
+image::assets/docs/the-godfather.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/godfather_the.pde[]
+
+----
+
+
+<<<
+
+=== 2001: A Space Odyssey
+
+- - -
+
+image::assets/docs/2001-a-space-odyssey.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/x_2001_a_space_odyssey.pde[]
+
+----
+
+
+<<<
+
+=== Star Wars: The Force Awakens
+
+- - -
+
+image::assets/docs/star-wars-the-force-awakens.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/star_wars_the_force_awakens.pde[]
+
+----
+
+
+<<<
+
+=== Ant-Man
+
+- - -
+
+image::assets/docs/ant-man.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/ant_man.pde[]
+
+----
+
+
+<<<
+
+=== Close Encounters of the Third Kind
+
+- - -
+
+image::assets/docs/close-encounters-of-the-third-kind.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/close_encounters_of_the_third_kind.pde[]
+
+----
+
+
+<<<
+
+=== Gandhi
+
+- - -
+
+image::assets/docs/gandhi.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/gandhi.pde[]
+
+----
+
+
+<<<
+
+=== Speed
+
+- - -
+
+image::assets/docs/speed.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/speed.pde[]
+
+----
+
+
+<<<
+
+=== Big Hero 6
+
+- - -
+
+image::assets/docs/big-hero-6.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/big_hero_6.pde[]
+
+----
+
+
+<<<
+
+=== The Lord of the Rings
+
+- - -
+
+image::assets/docs/the-lord-of-the-rings.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/lord_of_the_rings_the.pde[]
+
+----
+
+
+<<<
+
+=== The Fifth Element
+
+- - -
+
+image::assets/docs/the-fifth-element.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/fifth_element_the.pde[]
+
+----
+
+
+<<<
+
+=== TRON
+
+- - -
+
+image::assets/docs/tron.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/tron.pde[]
+
+----
+
+
+<<<
+
+=== Rush
+
+- - -
+
+image::assets/docs/rush.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/rush.pde[]
+
+----
+
+
+<<<
+
+=== Pink Floyd: The Wall
+
+- - -
+
+image::assets/docs/the-wall.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/wall_the.pde[]
+
+----
+
+
+<<<
+
+=== Charlie's Angels
+
+- - -
+
+image::assets/docs/charlie-s-angels.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/charlie_s_angels.pde[]
+
+----
+
+
+<<<
+
+=== Modern Times
+
+- - -
+
+image::assets/docs/modern-times.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/modern_times.pde[]
+
+----
+
+
+<<<
+
+=== Inside Out
+
+- - -
+
+image::assets/docs/inside-out.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/inside_out.pde[]
+
+----
+
+
+<<<
+
+=== One Flew Over the Cuckoo's Nest
+
+- - -
+
+image::assets/docs/one-flew-over-the-cukoo-s-nest.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/one_flew_over_the_cuckoo_s_nest.pde[]
+
+----
+
+
+<<<
+
+=== Kill Bill: Vol. 1
+
+- - -
+
+image::assets/docs/kill-bill.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/kill_bill.pde[]
+
+----
+
+
+<<<
+
+=== Slumdog Millionaire
+
+- - -
+
+image::assets/docs/slumdog-millionaire.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/slumdog_millionaire.pde[]
+
+----
+
+
+<<<
+
+=== Dune
+
+- - -
+
+image::assets/docs/dune.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/dune.pde[]
+
+----
+
+
+<<<
+
+=== M
+
+- - -
+
+image::assets/docs/M.png[align="center"]
+
+
+<<<
+
+[source,java]
+
+----
+
+include::assets/docs/m.pde[]
+
+----
+
+
+<<<
