@@ -29,9 +29,9 @@ jobs:
         cd $GITHUB_WORKSPACE/_scripts
         chmod +x *.sh
         ls -l
-        build-main.sh
-        book-build-pages.sh --cleanup
-        book-build-filmography.sh
+        ./build-main.sh
+        ./book-build-pages.sh --cleanup
+        ./book-build-filmography.sh
 
     # commit changes
     - uses: stefanzweifel/git-auto-commit-action@v4
