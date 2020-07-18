@@ -28,7 +28,7 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE
         ls -l _scripts/
-        chmod +x -scripts/*.sh  
+        chmod +x _scripts/*.sh  
         
     # run builders script to synch automated generated content
     - name: Generate Main page
