@@ -26,8 +26,9 @@ jobs:
     # run builders script to synch automated generated content
     - name: Generate automated content
       run: |
-        cd $GITHUB_WORKSPACE
-        ls -l _scripts/
+        cd $GITHUB_WORKSPACE/_scripts
+        chmod +x *.sh
+        ls -l
         _scripts/build-main.sh
         _scripts/book-build-pages.sh --cleanup
         _scripts/book-build-filmography.sh
