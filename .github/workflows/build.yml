@@ -26,12 +26,11 @@ jobs:
     # run builders script to synch automated generated content
     - name: Generate automated content
       run: |
-        cd $GITHUB_WORKSPACE/_scripts
-        chmod +x *.sh
+        cd $GITHUB_WORKSPACE
         ls -l
-        ./build-main.sh
-        ./book-build-pages.sh --cleanup
-        ./book-build-filmography.sh
+        _scripts/build-main.sh
+        _scripts/build-pages.sh --cleanup
+        _scripts/build-filmography.sh
 
     # commit changes
     - uses: stefanzweifel/git-auto-commit-action@v4
