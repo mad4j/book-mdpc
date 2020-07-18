@@ -1,4 +1,4 @@
-// Manuale di Programmazione Cinematografica - Volume 5
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2020
 
 // Blade Runner (1982)
