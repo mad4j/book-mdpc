@@ -23,13 +23,29 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
     
-    # run builders script to synch automated generated content
+    # setup generation scripts
     - name: Generate automated content
       run: |
         cd $GITHUB_WORKSPACE
-        ls -l
+        ls -l _scripts/
+        chmod +x -scripts/*.sh  
+        
+    # run builders script to synch automated generated content
+    - name: Generate Main page
+      run: |
+        cd $GITHUB_WORKSPACE
         _scripts/build-main.sh
+
+    # run builders script to synch automated generated content
+    - name: Generate Movie pages
+      run: |
+        cd $GITHUB_WORKSPACE
         _scripts/build-pages.sh --cleanup
+
+    # run builders script to synch automated generated content
+    - name: Generate Filmography database
+      run: |
+        cd $GITHUB_WORKSPACE
         _scripts/build-filmography.sh
 
     # commit changes
