@@ -1,3 +1,5 @@
+![Build Pages](https://github.com/mad4j/book-mdpc/workflows/Build%20Pages/badge.svg)
+
 # Manuale di Programmazione Cinematografica
 > Il cinema tra le righe... di codice!
 
