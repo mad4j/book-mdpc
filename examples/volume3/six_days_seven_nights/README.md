@@ -22,20 +22,17 @@ Robin Monroe, a New York magazine editor, and the gruff pilot Quinn Harris must 
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Six Days Seven Nights (1998)
-
+// Six Days Seven Nights
 
 final color PAPER = color(96, 78, 151);
 final color INK1 = color(255, 255, 0);
 final color INK2 = color(244, 243, 242);
-
 
 void setup() {
   
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   
@@ -54,7 +51,6 @@ void draw() {
   
   save ("six-days-seven-nights.png");
 }
-
 
 void drawSun(float x, float y, float r, int rays) {
   
@@ -77,7 +73,6 @@ void drawSun(float x, float y, float r, int rays) {
   
   popMatrix();
 }
-
 
 void drawMoon(float x, float y, float r, int phase) {
   

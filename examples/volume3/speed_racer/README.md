@@ -28,9 +28,10 @@ A young driver, Speed Racer, aspires to be champion of the racing world with the
 final color PAPER = color(230, 165, 25);
 final color INK = color(225, 40, 45);
 
+final int SQUARES = 16;
+
 
 void setup() {
-  //size(1535, 2047);
   size(480, 640);
   noLoop();
 }
@@ -38,15 +39,15 @@ void setup() {
 
 void draw() {
   
-  final float S = min(width, height) / 12;
+  final float S = max(width, height) /  (float)SQUARES;
   
   background(PAPER);
   
   fill(INK);
   noStroke();
   
-  for (int i=0; i<width; i+=S) {
-    for (int j=0; j<height; j+=S) {
+  for (int i=0; i<SQUARES; i++) {
+    for (int j=0; j<SQUARES; j++) {
       if ((i+j)%2 == 0) {
         rect(i*S, j*S, S, S);
       }
