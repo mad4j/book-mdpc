@@ -1,11 +1,14 @@
 // Manuale di Programmazione Cinematografica - Volume 5
 // Daniele Olmisani, 2020
 
-// Blade RUnner (1982)
+// Blade Runner (1982)
 
 
 final color PAPER = color(30);
 final color INK = color(240);
+
+final float dL = 0.1;
+final float dA = 0.05*PI;
 
 final String P = "5lf3l4f4r2f2l4f19r4f7l3f4r2f14r3f13l2fl2f";
 
@@ -20,13 +23,10 @@ void draw() {
   
   final float S = min(width, height);
   final float U = 0.002;
-  
-  final float dL = 0.1;
-  final float dA = 0.05*PI;
+
   
   translate(0.2*width, 0.75*height);
   scale(S);
-  
   
   background(PAPER);
   
@@ -68,7 +68,7 @@ void drawTurtle(String path, float dL, float dA) {
       case '3': case '4':
       case '5': case '6':
       case '7': case '8':
-      case '9':
+      case '9': case '0':
         k = 10*k + c-'0'; 
         break;
       default:
