@@ -44,7 +44,6 @@ void draw() {
   
   final float S = min(width, height);
   final float U = 0.002;
-
   
   translate(0.2*width, 0.75*height);
   scale(S);
