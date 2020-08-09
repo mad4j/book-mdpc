@@ -19,7 +19,7 @@ A blade runner must pursue and terminate four replicants who stole a ship in spa
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 5
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2020
 
 // Blade Runner (1982)
@@ -44,7 +44,6 @@ void draw() {
   
   final float S = min(width, height);
   final float U = 0.002;
-
   
   translate(0.2*width, 0.75*height);
   scale(S);
