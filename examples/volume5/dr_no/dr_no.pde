@@ -33,12 +33,9 @@ void draw() {
   stroke(INK);
   strokeWeight(7*U);
   
-  float dA = TWO_PI / RAYS;
-  
-
   for (int i=0; i<RAYS; i++) {
     
-    rotate(dA);
+    rotate(TWO_PI / RAYS);
     translate( R, 0.0);
     
     bezier( 0.0, 0.0,
