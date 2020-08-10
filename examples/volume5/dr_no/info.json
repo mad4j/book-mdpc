@@ -1,0 +1,40 @@
+{
+    "Title": "Dr. No",
+    "Year": "1962",
+    "Rated": "PG",
+    "Released": "10 Oct 1962",
+    "Runtime": "110 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Terence Young",
+    "Writer": "Richard Maibaum (screenplay), Johanna Harwood (screenplay), Berkely Mather (screenplay), Ian Fleming (novel)",
+    "Actors": "Sean Connery, Ursula Andress, Joseph Wiseman, Jack Lord",
+    "Plot": "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program.",
+    "Language": "English, French",
+    "Country": "UK",
+    "Awards": "Won 1 Golden Globe. Another 2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWRkZTI4NzktYjA4Yi00ZjE0LTgzOWQtYzJlMTkyOTU1ODRmXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.2",
+    "imdbVotes": "143,780",
+    "imdbID": "tt0055928",
+    "Type": "movie",
+    "DVD": "22 Oct 2002",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}
