@@ -258,6 +258,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume3/six_days_seven_nights/">
     <img src="examples/volume3/six_days_seven_nights/six-days-seven-nights.png" width="120px" title="Six Days Seven Nights"/>
 </a>
+<a href="examples/volume3/sorpasso_il/">
+    <img src="examples/volume3/sorpasso_il/il-sorpasso.png" width="120px" title="Il Sorpasso"/>
+</a>
 <a href="examples/volume3/speed_racer/">
     <img src="examples/volume3/speed_racer/speed-racer.png" width="120px" title="Speed Racer"/>
 </a>
@@ -267,6 +270,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume3/vertigo/">
     <img src="examples/volume3/vertigo/vertigo.png" width="120px" title="Vertigo"/>
 </a>
+<br class="index-separator"/>
 
 
 ## Volume 4

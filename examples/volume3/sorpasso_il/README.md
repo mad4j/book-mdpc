@@ -14,7 +14,7 @@ An impulsive braggart takes a shy law student for a two-day ride through the Rom
 [details](https://www.imdb.com/title/tt0056512/)
 
 ## Movie Poster
-<img src=""  width="360px" title="Il Sorpasso">
+<img src="il-sorpasso.png"  width="360px" title="Il Sorpasso">
 
 
 ## The code
