@@ -3,16 +3,13 @@
 
 // Fistful of dollars (1964)
 
-
 final color PAPER = color(55, 50, 0);
 final color INK = color(170, 165, 120);
-
 
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   
@@ -44,21 +41,15 @@ void draw() {
   strokeCap(SQUARE);
   
   beginShape();
-    vertex(-0.30, 0.50);
-    vertex(-0.40, 0.50);
-    vertex(-0.40, 0.57);
-    vertex(-0.15, 0.57);
-    vertex(-0.15, 0.64);
-    vertex(-0.25, 0.64);
+    vertex(-0.30, 0.50); vertex(-0.40, 0.50);
+    vertex(-0.40, 0.57); vertex(-0.15, 0.57);
+    vertex(-0.15, 0.64); vertex(-0.25, 0.64);
   endShape();
   
   beginShape();
-    vertex(0.30, 0.50);
-    vertex(0.40, 0.50);
-    vertex(0.40, 0.57);
-    vertex(0.15, 0.57);
-    vertex(0.15, 0.64);
-    vertex(0.25, 0.64);
+    vertex( 0.30, 0.50); vertex( 0.40, 0.50);
+    vertex( 0.40, 0.57); vertex( 0.15, 0.57);
+    vertex( 0.15, 0.64); vertex( 0.25, 0.64);
   endShape();
   
   line(-0.05, 0.12,  0.05, 0.12);
