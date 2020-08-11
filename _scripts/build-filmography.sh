@@ -38,7 +38,7 @@ rm -f $ROOT/$OUTPUT_FILE
 echo -e "Title\tYear\tDirector\tGenre\tCountry\tRating" >> $ROOT/$OUTPUT_FILE
 
 # build table content
-for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f ); do
+for f in $(find $ROOT/$SOURCE -name $INFO_FILE -type f | sort); do
     echo "[$LABEL] working on '$(basename $(dirname $f))'..."
     jq -r '"\(.Title)\t\(.Year)\t\(.Director)\t\(.Genre)\t\(.Country)\t\(.imdbRating)"' $f >> $ROOT/$OUTPUT_FILE
 done
