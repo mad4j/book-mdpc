@@ -1,35 +1,42 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
-// Six Days Seven Nights
+// Six Days Seven Nights (1998)
 
-final color PAPER = color(96, 78, 151);
+
+final color PAPER = color(95, 80, 151);
 final color INK1 = color(255, 255, 0);
-final color INK2 = color(244, 243, 242);
+final color INK2 = color(245, 245, 240);
+
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
 
+
 void draw() {
+  
+  final float S = min(width, height);
+  final float U = 0.002;
   
   background(PAPER);
   
-  translate(width/2.0, 0);
+  translate(0.5*width, 0);
+  scale(S);
   
   int phase = 1;
   for (int j=0; j<2; j++) {
     for (int i=-1; i<2; i++) {
-      drawSun(i*120, 100+j*110, 40, 8);
-      drawMoon(i*120, 320+j*110, 60, phase++);
+      drawSun(0.25*i, 0.20+0.23*j, 0.08, 8);
+      drawMoon(0.25*i, 0.66+0.23*j, 0.12, phase++);
     }
   }
-  drawMoon(0, 540, 60, 8);
+  drawMoon(0.00, 1.12, 0.12, 8);
   
   save ("six-days-seven-nights.png");
 }
+
 
 void drawSun(float x, float y, float r, int rays) {
   
@@ -52,6 +59,7 @@ void drawSun(float x, float y, float r, int rays) {
   
   popMatrix();
 }
+
 
 void drawMoon(float x, float y, float r, int phase) {
   
