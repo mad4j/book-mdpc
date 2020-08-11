@@ -20,12 +20,10 @@ A San Francisco detective suffering from acrophobia investigates the strange act
 ## The code
 ```java
 
-// Manuale di Programmazione Cinematografica - Volume 3
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2015
 
 // Vertigo (1958)
-// Mystery, Romance, Thriller
-// http://www.imdb.com/title/tt0052357/
 
 
 final color PAPER = color(230, 20, 20);
@@ -65,6 +63,7 @@ void draw() {
   
   save("vertigo.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
