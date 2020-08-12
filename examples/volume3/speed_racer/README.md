@@ -39,7 +39,7 @@ void setup() {
 
 void draw() {
   
-  final float S = max(width, height) /  (float)SQUARES;
+  final float S = max(width, height) / (float)SQUARES;
   
   background(PAPER);
   

@@ -19,7 +19,7 @@ A Polish Jewish musician struggles to survive the destruction of the Warsaw ghet
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 3
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // The Pianist (2002)
