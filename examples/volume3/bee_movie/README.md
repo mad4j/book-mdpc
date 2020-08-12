@@ -19,7 +19,7 @@ Barry B. Benson, a bee just graduated from college, is disillusioned at his lone
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 3
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
 // Bee Movie (2007)
