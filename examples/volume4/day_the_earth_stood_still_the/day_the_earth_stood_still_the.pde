@@ -1,7 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// The day the Earth stood still
+// The day the Earth stood still (1951)
 
 
 final color PAPER = color(35);
