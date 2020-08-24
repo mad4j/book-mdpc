@@ -56,7 +56,7 @@ void draw() {
 
 
 void drawTeeth() {
-  rect(0, 0, width/TEETH, 1);
+  rect(0, 0, width/TEETH, 1.01);
   for(int i=0; i<TEETH; i++) {
      triangle(i, 1, i+1, 1, i+0.5, 2);
   }
