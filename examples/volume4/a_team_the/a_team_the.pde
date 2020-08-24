@@ -1,9 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // The A-Team (2010)
-// Action, Adventure, Comedy
-// http://www.imdb.com/title/tt0429493/
 
 
 final color PAPER = color(0);
@@ -15,6 +13,7 @@ void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
