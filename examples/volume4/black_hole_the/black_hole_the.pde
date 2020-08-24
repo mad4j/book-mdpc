@@ -1,9 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 1
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // The Black Hole (1979)
-// Action, Sci-Fi
-// http://www.imdb.com/title/tt0078869
 
 
 final color PAPER = color(115);
