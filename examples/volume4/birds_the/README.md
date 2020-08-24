@@ -19,10 +19,10 @@ A wealthy San Francisco socialite pursues a potential boyfriend to a small North
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// The birds
+// The birds (1963)
 
 
 final color PAPER = color(255);
@@ -60,6 +60,7 @@ void draw() {
   
   save("the-birds.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

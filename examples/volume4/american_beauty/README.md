@@ -19,7 +19,7 @@ A sexually frustrated suburban father has a mid-life crisis after becoming infat
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // American Beauty (1999)
@@ -34,7 +34,6 @@ final float U = 0.02;
 
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
@@ -71,6 +70,7 @@ void draw() {
 
   save("american-beauty.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
