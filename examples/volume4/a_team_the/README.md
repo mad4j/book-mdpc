@@ -19,12 +19,10 @@ A group of Iraq War veterans looks to clear their name with the U.S. military, w
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // The A-Team (2010)
-// Action, Adventure, Comedy
-// http://www.imdb.com/title/tt0429493/
 
 
 final color PAPER = color(0);
@@ -36,6 +34,7 @@ void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -60,6 +59,7 @@ void draw() {
   
   save("the-a-team.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
