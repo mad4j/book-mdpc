@@ -1,7 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Entrapment
+// Entrapment (1999)
 
 
 final color PAPER = color(0);
