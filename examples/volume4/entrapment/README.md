@@ -19,10 +19,10 @@ An insurance agent is sent by her employer to track down and help capture an art
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Entrapment
+// Entrapment (1999)
 
 
 final color PAPER = color(0);
@@ -59,6 +59,7 @@ void draw() {
   
   save("entrapment.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
