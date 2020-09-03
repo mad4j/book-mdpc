@@ -295,6 +295,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume4/entrapment/entrapment.png" width="120px" title="Entrapment"/>
 </a>
 <br class="index-separator"/>
+<a href="examples/volume4/escape_from_new_york/">
+    <img src="examples/volume4/escape_from_new_york/escape-from-new-york.png" width="120px" title="Escape from New York"/>
+</a>
 <a href="examples/volume4/et_the_extra_terrestrial/">
     <img src="examples/volume4/et_the_extra_terrestrial/et-the-extra-terrestrial.png" width="120px" title="E.T. the Extra-Terrestrial"/>
 </a>
@@ -310,10 +313,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/ninth_gate_the/">
     <img src="examples/volume4/ninth_gate_the/the-ninth-gate.png" width="120px" title="The Ninth Gate"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume4/petit_prince_le/">
     <img src="examples/volume4/petit_prince_le/le-petit-prince.png" width="120px" title="The Little Prince"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume4/psycho/">
     <img src="examples/volume4/psycho/psycho.png" width="120px" title="Psycho"/>
 </a>
@@ -329,10 +332,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/stargate/">
     <img src="examples/volume4/stargate/stargate.png" width="120px" title="Stargate"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume4/suicide_squad/">
     <img src="examples/volume4/suicide_squad/suicide-squad.png" width="120px" title="Suicide Squad"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume4/thor/">
     <img src="examples/volume4/thor/thor.png" width="120px" title="Thor"/>
 </a>
@@ -348,6 +351,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume4/zorro/">
     <img src="examples/volume4/zorro/zorro.png" width="120px" title="Zorro"/>
 </a>
+<br class="index-separator"/>
 
 
 ## Volume 5

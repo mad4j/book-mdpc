@@ -14,7 +14,7 @@ In 1997, when the U.S. president crashes into Manhattan, now a giant maximum sec
 [details](https://www.imdb.com/title/tt0082340/)
 
 ## Movie Poster
-<img src=""  width="360px" title="Escape from New York">
+<img src="escape-from-new-york.png"  width="360px" title="Escape from New York">
 
 
 ## The code
