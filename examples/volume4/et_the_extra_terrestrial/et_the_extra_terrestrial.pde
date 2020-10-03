@@ -1,7 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// E.T. the extra-terrestrial
+// E.T. the extra-terrestrial (1982)
 
 
 final color PAPER = color(115, 145, 155);
@@ -43,9 +43,8 @@ void draw() {
   background(PAPER);
   
   fill(INK);
-  noStroke();
-  //stroke(PAPER);
-  //strokeWeight(1.0/s);
+  stroke(INK);
+  strokeWeight(0.02);
   
   for (int i=0; i<l; i++) {
     
