@@ -19,12 +19,10 @@ An interstellar teleportation device, found in Egypt, leads to a planet with hum
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // Stargate (1994)
-// Action, Adventure, Sci-Fi
-// http://www.imdb.com/title/tt0111282
 
 
 final color PAPER = color(50, 60, 70);
@@ -68,6 +66,7 @@ void draw() {
   save("stargate.png");
 
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

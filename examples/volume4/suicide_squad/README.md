@@ -19,19 +19,21 @@ A secret government agency recruits some of the most dangerous incarcerated supe
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Suicide Squad
+// Suicide Squad (2016)
 
 
 final color PAPER = color(175, 20, 25);
 final color INK = color(0);
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -65,6 +67,7 @@ void draw() {
   
   save("suicide-squad.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

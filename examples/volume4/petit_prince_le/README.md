@@ -19,12 +19,10 @@ A little girl lives in a very grown-up world with her mother, who tries to prepa
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // Le Petit Prince (2015)
-// Animation, Adventure, Drama
-// http://www.imdb.com/title/tt1754656/
 
 
 final color PAPER = color(255, 230, 100);
@@ -106,6 +104,7 @@ void drawButton(float x, float y, float s, color c1, color c2) {
    
   popMatrix();
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

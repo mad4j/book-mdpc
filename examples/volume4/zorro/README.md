@@ -19,10 +19,10 @@ In the New World, a new Spanish governor finds the province of Nueva Aragón und
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Zorro
+// Zorro (1975)
 
 
 final color PAPER = color(35);
@@ -67,6 +67,7 @@ void handDraw(float x1, float y1, float x2, float y2, float w) {
     line(x1+d1, y1+d2, x2+d3, y2+d4);
   } 
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
