@@ -74,6 +74,7 @@ void draw() {
 
   save("the-ninth-gate.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

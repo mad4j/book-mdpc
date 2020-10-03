@@ -19,12 +19,10 @@ Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a 
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // Ice Age (2002)
-// Animation, Adventure, Comedy
-// http://www.imdb.com/title/tt0268380/
 
 
 final color PAPER = color(230, 245, 250);
@@ -66,6 +64,7 @@ void draw() {
   
   save("ice-age.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
