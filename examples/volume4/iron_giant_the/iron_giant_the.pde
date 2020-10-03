@@ -1,4 +1,4 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // The Iron Giant (1999)
