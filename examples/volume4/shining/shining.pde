@@ -1,9 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // Shining (1980)
-// Drama, Horror
-// http://www.imdb.com/title/tt0081505/
 
 
 final color PAPER = color(240, 90, 40);

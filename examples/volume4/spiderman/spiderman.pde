@@ -1,7 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Spider-man
+// Spider-man (2002)
 
 
 final color PAPER = color(135, 0, 0);

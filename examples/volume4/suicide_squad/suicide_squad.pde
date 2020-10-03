@@ -1,16 +1,18 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Suicide Squad
+// Suicide Squad (2016)
 
 
 final color PAPER = color(175, 20, 25);
 final color INK = color(0);
 
+
 void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   

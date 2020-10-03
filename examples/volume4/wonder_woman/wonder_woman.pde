@@ -1,7 +1,7 @@
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
-// Wonder Woman
+// Wonder Woman (2017)
 
 
 final color PAPER = color(170, 20, 10);
