@@ -19,10 +19,10 @@ A police officer joins a secret organization that polices and monitors extraterr
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
-// MIB
+// MIB (1997)
 
 
 final color PAPER = color(0);
@@ -56,6 +56,7 @@ void draw() {
   
   save("mib.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

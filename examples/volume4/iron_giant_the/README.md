@@ -19,7 +19,7 @@ A young boy befriends a giant robot from outer space that a paranoid government 
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // The Iron Giant (1999)
@@ -66,6 +66,7 @@ void draw() {
   
   save("the-iron-giant.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
