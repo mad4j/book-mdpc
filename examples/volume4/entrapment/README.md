@@ -43,7 +43,7 @@ void draw() {
   float s = 0.01 * min(width, height);
   float dH = (0.5 * height) / COUNT;
   
-  translate(0, height/2.0);
+  translate(0, 0.5*height);
   
   background(PAPER);
   
