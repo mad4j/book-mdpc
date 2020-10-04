@@ -19,10 +19,10 @@ A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Titanic
+// Titanic (1997)
 
 
 final color PAPER = color(0, 35, 60);
@@ -69,6 +69,7 @@ void draw() {
   
   save("titanic.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

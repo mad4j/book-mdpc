@@ -19,10 +19,10 @@ An Amazon princess leaves her island home to explore the world and, in doing so,
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
-// Wonder Woman
+// Wonder Woman (2017)
 
 
 final color PAPER = color(170, 20, 10);
@@ -73,6 +73,7 @@ void draw() {
   
   save("wonder-woman.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

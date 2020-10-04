@@ -19,7 +19,7 @@ A Phoenix secretary embezzles $40,000 from her employer's client, goes on the ru
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // Psycho (1960)
@@ -34,7 +34,6 @@ final float U = 0.002;
 
 
 void setup() {
-  
   size(480, 640);
   noLoop();
 }
@@ -67,6 +66,7 @@ void draw() {
   
   save("psycho.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

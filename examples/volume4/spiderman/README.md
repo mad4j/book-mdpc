@@ -19,10 +19,10 @@ When bitten by a genetically modified spider, a nerdy, shy, and awkward high sch
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Spider-man
+// Spider-man (2002)
 
 
 final color PAPER = color(135, 0, 0);
@@ -65,6 +65,7 @@ void draw() {
   
   save("spider-man.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

@@ -19,12 +19,10 @@ A family heads to an isolated hotel for the winter where an evil and spiritual p
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // Shining (1980)
-// Drama, Horror
-// http://www.imdb.com/title/tt0081505/
 
 
 final color PAPER = color(240, 90, 40);
@@ -90,6 +88,7 @@ void drawTurtle(String path, float dL, float dA) {
     }
   }
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

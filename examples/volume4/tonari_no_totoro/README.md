@@ -19,12 +19,10 @@ When two girls move to the country to be near their ailing mother, they have adv
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
 // Tonari no Totoro (1988)
-// Animation, Family, Fantasy
-// http://www.imdb.com/title/tt0096283/
 
 
 final color PAPER = color(90, 85, 80);
@@ -38,6 +36,7 @@ void setup() {
   size(480, 640);
   noLoop();
 }
+
 
 void draw() {
   
@@ -79,6 +78,7 @@ void draw() {
   
   save("tonari-no-totoro.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

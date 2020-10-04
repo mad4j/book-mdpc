@@ -19,10 +19,10 @@ A family living on a farm finds mysterious crop circles in their fields which su
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2017
 
-// Signs
+// Signs (2002)
 
 
 final color PAPER = color(110, 155, 40);
@@ -60,6 +60,7 @@ void draw() {
   
   save("signs.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters

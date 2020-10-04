@@ -19,10 +19,10 @@ The powerful but arrogant god Thor is cast out of Asgard to live amongst humans 
 
 ## The code
 ```java
-// Manuale di Programmazione Cinematografica - Volume 4
+// Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2016
 
-// Thor
+// Thor (2011)
 
 
 final color PAPER = color(105, 10, 170);
@@ -67,6 +67,7 @@ void draw() {
   
   save("thor.png");
 }
+
 ```
 
 > MdPC - a collection of minimalist movie posters
