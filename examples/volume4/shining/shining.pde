@@ -51,7 +51,6 @@ void drawTurtle(String path, float dL, float dA) {
   for (int i=0; i<path.length(); i++) {
     
     char c = path.charAt(i);
-    
     switch (c) {
       case 'f':
         line(0, 0, dL, 0);
