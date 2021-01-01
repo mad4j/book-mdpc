@@ -417,6 +417,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/singin__in_the_rain/">
     <img src="examples/volume5/singin__in_the_rain/singin__in_the_rain.png" width="120px" title="Singin' in the Rain"/>
 </a>
+<a href="examples/volume5/soul/">
+    <img src="examples/volume5/soul/soul.png" width="120px" title="Soul"/>
+</a>
 <a href="examples/volume5/star_trek/">
     <img src="examples/volume5/star_trek/star-trek.png" width="120px" title="Star Trek: The Motion Picture"/>
 </a>
@@ -429,3 +432,4 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume5/wreck_it_ralph/">
     <img src="examples/volume5/wreck_it_ralph/wreck-it-ralph.png" width="120px" title="Wreck-It Ralph"/>
 </a>
+<br class="index-separator"/>
