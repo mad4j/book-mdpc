@@ -3,16 +3,13 @@
 
 // Escape form New York (1981)
 
-
 final color PAPER = color(30);
 final color INK = color(190, 170, 100);
-
 
 void setup() {
   size(480, 640);
   noLoop();
 }
-
 
 void draw() {
   
@@ -37,15 +34,12 @@ void draw() {
   save("escape-from-new-york.png");
 }
 
-
 void drawTurtle(String path, float dL, float dA) {
  
   int k = 1;
-  
   for (int i=0; i<path.length(); i++) {
     
     char c = path.charAt(i);
-    
     switch (c) {
       case 'f':
         line(0, 0, k*dL, 0);
