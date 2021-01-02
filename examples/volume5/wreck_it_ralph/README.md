@@ -63,7 +63,7 @@ void draw() {
   
   fill(INK3);
   rectMode(CORNERS);
-  rect(-0.09, -0.7, 0.09, 0.3);
+  rect(-0.09, -0.7, 0.09, -0.2);
  
   save("wreck-it-ralph.png");
 }
