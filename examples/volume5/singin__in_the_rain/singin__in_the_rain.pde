@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2020
 
-// Singin' the Rain (1952)
+// Singin' in the Rain (1952)
 
 
 final color PAPER = color(15, 35, 70);
@@ -48,8 +48,10 @@ void draw() {
   arc(0.00, 0.00, 0.90, 0.80, 0.00, PI);
   
   fill(PAPER);
+  stroke(PAPER);
+  strokeWeight(U);
   for (int i=0; i<4; i++) {
-    arc(-0.375+i*0.25, 0, 0.25, 0.12, 0.00, PI);
+    arc(-0.375+i*0.25, 0, 0.25, 0.12, 0.00, PI, CHORD);
   }
   
   noFill();
