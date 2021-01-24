@@ -1,4 +1,5 @@
 ![Build Pages](https://github.com/mad4j/book-mdpc/workflows/Build%20Pages/badge.svg)
+[![GitHub release](https://img.shields.io/github/tag/mad4j/book-mdpc.svg)](https://github.com/mad4j/book-mdpc/releases)
 
 # Manuale di Programmazione Cinematografica
 > Il cinema tra le righe... di codice!
