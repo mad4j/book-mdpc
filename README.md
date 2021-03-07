@@ -19,6 +19,7 @@ This project is hosted and maintained on [GitHub](https://github.com/mad4j/book-
 * [Volume 3](#volume-3)
 * [Volume 4](#volume-4)
 * [Volume 5](#volume-5)
+* [Volume 6](#volume-6)
 
 ## Last Release
 Use PDE `File -> Examples... -> Add examples` or follow these links to manually download MdPC code sketches:
@@ -434,3 +435,8 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume5/wreck_it_ralph/wreck-it-ralph.png" width="120px" title="Wreck-It Ralph"/>
 </a>
 <br class="index-separator"/>
+
+
+## Volume 6
+
+##VOLUME6##
