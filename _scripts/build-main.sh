@@ -79,6 +79,7 @@ build_index volume2
 build_index volume3
 build_index volume4
 build_index volume5
+build_index volume6
 
 sed -e "/##VOLUME1##/{
     r$ROOT/volume1.txt
