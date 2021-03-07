@@ -96,6 +96,9 @@ sed -e "/##VOLUME1##/{
   }" -e "/##VOLUME5##/{
     r$ROOT/volume5.txt
     d
+  }" -e "/##VOLUME6##/{
+    r$ROOT/volume6.txt
+    d
   }" $ROOT/$TEMPLATES/$TEMPLATE_FILE > $ROOT/README.md
 
 rm $ROOT/volume?.txt
