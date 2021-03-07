@@ -439,4 +439,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 
 ## Volume 6
 
-##VOLUME6##
+
+<a href="examples/volume6/watchmen/">
+    <img src="examples/volume6/watchmen/watchmen.png" width="120px" title="Watchmen"/>
+</a>
