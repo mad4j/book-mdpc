@@ -1,0 +1,40 @@
+{
+    "Title": "Eight Millimeter",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "26 Feb 1999",
+    "Runtime": "123 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Joel Schumacher",
+    "Writer": "Andrew Kevin Walker",
+    "Actors": "Nicolas Cage, Joaquin Phoenix, James Gandolfini, Peter Stormare",
+    "Plot": "A private investigator is hired to discover if a \"snuff film\" is authentic or not.",
+    "Language": "English",
+    "Country": "Germany, USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTNiMzAxZGMtZGYwZi00NWVmLTgyNmYtMGIwZGJhNzE0NmJjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "22%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "19/100"
+        }
+    ],
+    "Metascore": "19",
+    "imdbRating": "6.5",
+    "imdbVotes": "124,570",
+    "imdbID": "tt0134273",
+    "Type": "movie",
+    "DVD": "02 May 2013",
+    "BoxOffice": "$36,663,315",
+    "Production": "Hofflund/Polone, Columbia Pictures Corporation",
+    "Website": "N/A",
+    "Response": "True"
+}
