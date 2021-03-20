@@ -443,3 +443,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/watchmen/">
     <img src="examples/volume6/watchmen/watchmen.png" width="120px" title="Watchmen"/>
 </a>
+<a href="examples/volume6/x8MM/">
+    <img src="examples/volume6/x8MM/8mm.png" width="120px" title="Eight Millimeter"/>
+</a>
