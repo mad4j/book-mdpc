@@ -1,0 +1,40 @@
+{
+    "Title": "The Lego Movie",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "07 Feb 2014",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure, Comedy, Family, Fantasy",
+    "Director": "Christopher Miller, Phil Lord",
+    "Writer": "Phil Lord (screenplay by), Christopher Miller (screenplay by), Dan Hageman (story by), Kevin Hageman (story by), Phil Lord (story by), Christopher Miller (story by), Ole Kirk Christiansen (based on LEGO Construction Toys created by), Godtfred Kirk Christiansen (based on LEGO Construction Toys created by), Jens Nygaard Knudsen (based on LEGO Construction Toys created by), Peter Laird (characters created by: Teenage Mutant Ninja Turtles), Kevin Eastman (characters created by: Teenage Mutant Ninja Turtles)",
+    "Actors": "Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie",
+    "Plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "Language": "English, Turkish",
+    "Country": "USA, Denmark, Australia",
+    "Awards": "Nominated for 1 Oscar. Another 72 wins & 66 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "325,426",
+    "imdbID": "tt1490017",
+    "Type": "movie",
+    "DVD": "31 Oct 2015",
+    "BoxOffice": "$257,760,692",
+    "Production": "LEGO System A/S, Lin Pictures, Vertigo",
+    "Website": "N/A",
+    "Response": "True"
+}
