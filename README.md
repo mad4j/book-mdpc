@@ -440,6 +440,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 ## Volume 6
 
 
+<a href="examples/volume6/movie_lego_the/">
+    <img src="examples/volume6/movie_lego_the/the-lego-movie.png" width="120px" title="The Lego Movie"/>
+</a>
 <a href="examples/volume6/watchmen/">
     <img src="examples/volume6/watchmen/watchmen.png" width="120px" title="Watchmen"/>
 </a>
