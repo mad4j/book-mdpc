@@ -4,8 +4,8 @@
 // Ex Machina (2014)
 
 
-final color PAPER = color(135, 100, 30);
-final color INK = color(210, 180, 100);
+final color PAPER = color(140);
+final color INK = color(195, 200, 205);
 
 final int SIDES = 6;
 final float RADIUS = 0.06;
@@ -33,7 +33,7 @@ void draw() {
   strokeWeight(2*U);
   
   float dx = 1.50*RADIUS;
-  float dy = 1.75*RADIUS;
+  float dy = sqrt(3)*RADIUS;
   float of = 0.50*dy;
   
   for (int i=0; i<COUNT; i++) {
