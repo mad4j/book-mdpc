@@ -53,9 +53,9 @@ void draw() {
   stroke(INK);
   strokeWeight(2*U);
   
-  float dx = 1.5*RADIUS;
-  float dy = sqrt(3)*RADIUS;
-  float of = 0.5*sqrt(3)*RADIUS;
+  float dx = 1.50*RADIUS;
+  float dy = 1.75*RADIUS;
+  float of = 0.50*dy;
   
   for (int i=0; i<COUNT; i++) {
     for (int j=0; j<COUNT; j++) {
