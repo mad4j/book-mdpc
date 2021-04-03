@@ -1,0 +1,40 @@
+{
+    "Title": "Ex Machina",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "24 Apr 2015",
+    "Runtime": "108 min",
+    "Genre": "Drama, Sci-Fi, Thriller",
+    "Director": "Alex Garland",
+    "Writer": "Alex Garland",
+    "Actors": "Domhnall Gleeson, Alicia Vikander, Oscar Isaac, Sonoya Mizuno",
+    "Plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "Won 1 Oscar. Another 71 wins & 159 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.7",
+    "imdbVotes": "477,975",
+    "imdbID": "tt0470752",
+    "Type": "movie",
+    "DVD": "27 Jul 2016",
+    "BoxOffice": "$25,442,958",
+    "Production": "DNA Films",
+    "Website": "N/A",
+    "Response": "True"
+}
