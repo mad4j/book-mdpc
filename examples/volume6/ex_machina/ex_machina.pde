@@ -5,7 +5,7 @@
 
 
 final color PAPER = color(135, 100, 30);
-final color INK = color(200, 170, 90);
+final color INK = color(210, 180, 100);
 
 final int SIDES = 6;
 final float RADIUS = 0.06;
