@@ -1,0 +1,40 @@
+{
+    "Title": "Minority Report",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "21 Jun 2002",
+    "Runtime": "145 min",
+    "Genre": "Action, Crime, Mystery, Sci-Fi, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "Philip K. Dick (short story), Scott Frank (screenplay), Jon Cohen (screenplay)",
+    "Actors": "Tom Cruise, Max von Sydow, Steve Harris, Neal McDonough",
+    "Plot": "In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.",
+    "Language": "English, Swedish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 20 wins & 90 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTI3YzZjZjEtMDdjOC00OWVjLTk0YmYtYzI2MGMwZjFiMzBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "80/100"
+        }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.6",
+    "imdbVotes": "511,171",
+    "imdbID": "tt0181689",
+    "Type": "movie",
+    "DVD": "01 Aug 2013",
+    "BoxOffice": "$132,072,926",
+    "Production": "DreamWorks SKG, Twentieth Century Fox, Cruise-Wagner Productions, Amblin Entertainment, Blue Tulip",
+    "Website": "N/A",
+    "Response": "True"
+}
