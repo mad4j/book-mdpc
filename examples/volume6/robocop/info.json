@@ -1,0 +1,40 @@
+{
+    "Title": "RoboCop",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "17 Jul 1987",
+    "Runtime": "102 min",
+    "Genre": "Action, Crime, Sci-Fi, Thriller",
+    "Director": "Paul Verhoeven",
+    "Writer": "Edward Neumeier, Michael Miner",
+    "Actors": "Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox",
+    "Plot": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 11 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.6",
+    "imdbVotes": "234,676",
+    "imdbID": "tt0093870",
+    "Type": "movie",
+    "DVD": "27 Aug 2015",
+    "BoxOffice": "$53,424,681",
+    "Production": "Orion Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}
