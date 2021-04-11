@@ -46,14 +46,14 @@ void draw() {
   
   fill(INK);
   stroke(INK);
- noStroke();
+  noStroke();
   
   ellipse(0.0, -0.03, 0.2, 0.2);
   ellipse(-0.03, 0.02, 0.2, 0.2);
   ellipse(0.02, 0.04, 0.2, 0.2);
   
   
-  triangle(0.0, 0.3, -0.05, 0.4, 0.05, 0.4);
+  triangle(0.0, 0.31, -0.05, 0.35, 0.05, 0.35);
   
   rectMode(CENTER);
   rect(0.0, 0.4, 0.1, 0.1);
@@ -62,10 +62,10 @@ void draw() {
   strokeWeight(U);
   
   for (int i=0; i<=10; i++) {
-    line(0.0, 0.3, -0.1+i*0.02, 0.0);
+    line(0.0, 0.32, -0.12+i*0.022, 0.0);
   }
   
- 
+  save("up.png");
 }
 
 ```
