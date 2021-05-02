@@ -57,9 +57,6 @@ void draw() {
   rectMode(CENTER);
   rect(0.0, 0.4, 0.12, 0.08);
   
-  //stroke(INK);
-  //strokeWeight(U);
-  
   for (int i=0; i<=10; i++) {
     line(0.0, 0.32, -0.12+i*0.022, 0.0);
   }
