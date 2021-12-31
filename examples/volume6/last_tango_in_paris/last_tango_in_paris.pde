@@ -9,6 +9,7 @@ final color INK1 = color(100);
 final color INK2 = color(15, 140, 40);
 
 final int COUNT = 10;
+final float SIZE = 0.2;
 
 
 void setup() {
@@ -32,7 +33,7 @@ void draw() {
   strokeWeight(2*U);
   
   for (int i=0; i<COUNT; i++) {
-    float d = i*0.2;
+    float d = i*SIZE;
     line(-1  , -1+d,  1  , -1+d);
     line(-1+d, -1  , -1+d,  1  );
   }
@@ -40,9 +41,9 @@ void draw() {
   for (int i=0; i<COUNT; i++) {
     for (int j=0; j<COUNT; j++) {
       pushMatrix();
-        translate(-1+i*0.2, -1+j*0.2);
+        translate(-1+i*SIZE, -1+j*SIZE);
         rotate(-QUARTER_PI);
-        rect(0.0, 0.0, 0.05, 0.05);
+        rect(0.0, 0.0, 0.25*SIZE, 0.25*SIZE);
       popMatrix();
     }
   }
