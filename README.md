@@ -459,9 +459,6 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
 <br class="index-separator"/>
-<a href="examples/volume6/squid_game/">
-    <img src="examples/volume6/squid_game/squid-game.png" width="120px" title=""/>
-</a>
 <a href="examples/volume6/up/">
     <img src="examples/volume6/up/up.png" width="120px" title="Up"/>
 </a>
