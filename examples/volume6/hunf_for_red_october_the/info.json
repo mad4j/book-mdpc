@@ -1,0 +1,40 @@
+{
+    "Title": "The Hunt for Red October",
+    "Year": "1990",
+    "Rated": "PG",
+    "Released": "02 Mar 1990",
+    "Runtime": "135 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "John McTiernan",
+    "Writer": "Tom Clancy, Larry Ferguson, Donald E. Stewart",
+    "Actors": "Sean Connery, Alec Baldwin, Scott Glenn",
+    "Plot": "In November 1984, the Soviet Union's best submarine captain, in a new undetectable sub, violates orders and heads for the U.S. The American CIA and military must quickly determine: Is he trying to defect, or to start a war?",
+    "Language": "English, Russian",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 3 wins & 8 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDdkODg3YzctMGVmZS00ZDM5LWIzNTctZDRlMjA5Mjc4MGViXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.6",
+    "imdbVotes": "191,030",
+    "imdbID": "tt0099810",
+    "Type": "movie",
+    "DVD": "06 May 2003",
+    "BoxOffice": "$122,012,643",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
