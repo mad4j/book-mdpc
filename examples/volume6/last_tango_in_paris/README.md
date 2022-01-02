@@ -52,18 +52,23 @@ void draw() {
   
   rectMode(CENTER); 
   strokeWeight(2*U);
-  
+  /*
   for (int i=0; i<COUNT; i++) {
     float d = i*SIZE;
     line(-1  , -1+d,  1  , -1+d);
     line(-1+d, -1  , -1+d,  1  );
   }
-  
+  */
   for (int i=0; i<COUNT; i++) {
     for (int j=0; j<COUNT; j++) {
       pushMatrix();
         translate(-1+i*SIZE, -1+j*SIZE);
+        rectMode(CORNER);
+        noFill();
+        rect(0.0, 0.0, SIZE, SIZE);
         rotate(-QUARTER_PI);
+        rectMode(CENTER);
+        fill(INK2);
         rect(0.0, 0.0, 0.25*SIZE, 0.25*SIZE);
       popMatrix();
     }
