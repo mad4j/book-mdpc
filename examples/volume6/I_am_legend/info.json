@@ -1,0 +1,40 @@
+{
+    "Title": "I Am Legend",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "14 Dec 2007",
+    "Runtime": "101 min",
+    "Genre": "Action, Drama, Sci-Fi",
+    "Director": "Francis Lawrence",
+    "Writer": "Mark Protosevich, Akiva Goldsman, Richard Matheson",
+    "Actors": "Will Smith, Alice Braga, Charlie Tahan",
+    "Plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "9 wins & 23 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "7.2",
+    "imdbVotes": "732,538",
+    "imdbID": "tt0480249",
+    "Type": "movie",
+    "DVD": "18 Mar 2008",
+    "BoxOffice": "$256,393,010",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
