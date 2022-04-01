@@ -446,6 +446,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/ex_machina/">
     <img src="examples/volume6/ex_machina/ex-machina.png" width="120px" title="Ex Machina"/>
 </a>
+<a href="examples/volume6/hunf_for_red_october_the/">
+    <img src="examples/volume6/hunf_for_red_october_the/the-hunt-for-red-october.png" width="120px" title="The Hunt for Red October"/>
+</a>
 <a href="examples/volume6/last_tango_in_paris/">
     <img src="examples/volume6/last_tango_in_paris/last-tango-in-paris.png" width="120px" title="Last Tango in Paris"/>
 </a>
@@ -455,10 +458,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/movie_lego_the/">
     <img src="examples/volume6/movie_lego_the/the-lego-movie.png" width="120px" title="The Lego Movie"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/robocop/">
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/up/">
     <img src="examples/volume6/up/up.png" width="120px" title="Up"/>
 </a>
