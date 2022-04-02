@@ -440,6 +440,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 ## Volume 6
 
 
+<a href="examples/volume6/I_am_legend/">
+    <img src="examples/volume6/I_am_legend/i-am-legend.png" width="120px" title="I Am Legend"/>
+</a>
 <a href="examples/volume6/clockwork_orange_a/">
     <img src="examples/volume6/clockwork_orange_a/a-clockwork-orange.png" width="120px" title="A Clockwork Orange"/>
 </a>
@@ -455,10 +458,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/minority_report/">
     <img src="examples/volume6/minority_report/minority-report.png" width="120px" title="Minority Report"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/movie_lego_the/">
     <img src="examples/volume6/movie_lego_the/the-lego-movie.png" width="120px" title="The Lego Movie"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/robocop/">
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
