@@ -443,6 +443,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/I_am_legend/">
     <img src="examples/volume6/I_am_legend/i-am-legend.png" width="120px" title="I Am Legend"/>
 </a>
+<a href="examples/volume6/america_history_x/">
+    <img src="examples/volume6/america_history_x/american-history-x.png" width="120px" title="American History X"/>
+</a>
 <a href="examples/volume6/clockwork_orange_a/">
     <img src="examples/volume6/clockwork_orange_a/a-clockwork-orange.png" width="120px" title="A Clockwork Orange"/>
 </a>
@@ -455,10 +458,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/hunf_for_red_october_the/">
     <img src="examples/volume6/hunf_for_red_october_the/the-hunt-for-red-october.png" width="120px" title="The Hunt for Red October"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/last_tango_in_paris/">
     <img src="examples/volume6/last_tango_in_paris/last-tango-in-paris.png" width="120px" title="Last Tango in Paris"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/minority_report/">
     <img src="examples/volume6/minority_report/minority-report.png" width="120px" title="Minority Report"/>
 </a>
@@ -474,10 +477,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/squid_game/">
     <img src="examples/volume6/squid_game/squid-game.png" width="120px" title="Squid Game"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/up/">
     <img src="examples/volume6/up/up.png" width="120px" title="Up"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/watchmen/">
     <img src="examples/volume6/watchmen/watchmen.png" width="120px" title="Watchmen"/>
 </a>
