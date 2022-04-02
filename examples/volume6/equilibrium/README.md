@@ -1,20 +1,20 @@
 ---
 permalink: /examples/volume6/equilibrium/
-title: Resident Evil (2002) | Minimalist Movie Poster
+title: Equilibrium (2002) | Minimalist Movie Poster
 description: Minimalist Movie Poster generated using Java and Processing.
 ---
 
-# Resident Evil (2002)
+# Equilibrium (2002)
 
-Action, Horror, Sci-Fi
+Action, Drama, Sci-Fi
 
 ## Plot
-A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.
+In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.
 
-[details](https://www.imdb.com/title/tt0120804/)
+[details](https://www.imdb.com/title/tt0238380/)
 
 ## Movie Poster
-<img src="equilibrium.png"  width="360px" title="Resident Evil">
+<img src="equilibrium.png"  width="360px" title="Equilibrium">
 
 
 ## The code
