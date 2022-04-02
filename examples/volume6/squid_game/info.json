@@ -1,0 +1,40 @@
+{
+    "Title": "Resident Evil",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "15 Mar 2002",
+    "Runtime": "100 min",
+    "Genre": "Action, Horror, Sci-Fi",
+    "Director": "Paul W.S. Anderson",
+    "Writer": "Paul W.S. Anderson",
+    "Actors": "Milla Jovovich, Michelle Rodriguez, Ryan McCluskey",
+    "Plot": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+    "Language": "English",
+    "Country": "United Kingdom, Germany, United States",
+    "Awards": "7 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "6.7",
+    "imdbVotes": "264,294",
+    "imdbID": "tt0120804",
+    "Type": "movie",
+    "DVD": "07 Sep 2004",
+    "BoxOffice": "$40,119,709",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
