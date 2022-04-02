@@ -447,7 +447,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume6/clockwork_orange_a/a-clockwork-orange.png" width="120px" title="A Clockwork Orange"/>
 </a>
 <a href="examples/volume6/equilibrium/">
-    <img src="examples/volume6/equilibrium/equilibrium.png" width="120px" title="Resident Evil"/>
+    <img src="examples/volume6/equilibrium/equilibrium.png" width="120px" title="Equilibrium"/>
 </a>
 <a href="examples/volume6/ex_machina/">
     <img src="examples/volume6/ex_machina/ex-machina.png" width="120px" title="Ex Machina"/>
@@ -472,7 +472,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
 <a href="examples/volume6/squid_game/">
-    <img src="examples/volume6/squid_game/squid-game.png" width="120px" title="Resident Evil"/>
+    <img src="examples/volume6/squid_game/squid-game.png" width="120px" title="Squid Game"/>
 </a>
 <a href="examples/volume6/up/">
     <img src="examples/volume6/up/up.png" width="120px" title="Up"/>

@@ -1,20 +1,20 @@
 ---
 permalink: /examples/volume6/squid_game/
-title: Resident Evil (2002) | Minimalist Movie Poster
+title: Squid Game (2021–) | Minimalist Movie Poster
 description: Minimalist Movie Poster generated using Java and Processing.
 ---
 
-# Resident Evil (2002)
+# Squid Game (2021–)
 
-Action, Horror, Sci-Fi
+Action, Drama, Mystery
 
 ## Plot
-A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.
+Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes. A survival game that has a whopping 45.6 billion-won prize at stake.
 
-[details](https://www.imdb.com/title/tt0120804/)
+[details](https://www.imdb.com/title/tt10919420/)
 
 ## Movie Poster
-<img src="squid-game.png"  width="360px" title="Resident Evil">
+<img src="squid-game.png"  width="360px" title="Squid Game">
 
 
 ## The code
