@@ -47,6 +47,12 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE
         _scripts/build-filmography.sh
+        
+     # run builders script to synch automated generated content
+    - name: Generate Index pages
+      run: |
+        cd $GITHUB_WORKSPACE
+        _scripts/build-indexes.sh
 
     # commit changes
     - uses: stefanzweifel/git-auto-commit-action@v4
