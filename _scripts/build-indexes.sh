@@ -1,10 +1,7 @@
 #!/bin/bash
 
 LABEL=BUILDINDEXES
-
 SOURCE=examples
-INFO_FILE=info.json
-OUTPUT_FILE=filmography.tsv
 
 ROOT=`pwd`
 
