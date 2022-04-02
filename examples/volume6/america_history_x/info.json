@@ -1,0 +1,40 @@
+{
+    "Title": "American History X",
+    "Year": "1998",
+    "Rated": "R",
+    "Released": "20 Nov 1998",
+    "Runtime": "119 min",
+    "Genre": "Drama",
+    "Director": "Tony Kaye",
+    "Writer": "David McKenna",
+    "Actors": "Edward Norton, Edward Furlong, Beverly D'Angelo",
+    "Plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 4 wins & 15 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "8.5",
+    "imdbVotes": "1,089,660",
+    "imdbID": "tt0120586",
+    "Type": "movie",
+    "DVD": "05 Apr 2005",
+    "BoxOffice": "$6,719,864",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
