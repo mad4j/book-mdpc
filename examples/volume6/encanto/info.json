@@ -1,0 +1,36 @@
+{
+    "Title": "Encanto",
+    "Year": "2021",
+    "Rated": "PG",
+    "Released": "24 Nov 2021",
+    "Runtime": "102 min",
+    "Genre": "Animation, Comedy, Family",
+    "Director": "Jared Bush, Byron Howard, Charise Castro Smith",
+    "Writer": "Charise Castro Smith, Jared Bush, Byron Howard",
+    "Actors": "Stephanie Beatriz, María Cecilia Botero, John Leguizamo",
+    "Plot": "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 37 wins & 76 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "174,803",
+    "imdbID": "tt2953050",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$96,012,236",
+    "Production": "Disney",
+    "Website": "N/A",
+    "Response": "True"
+}
