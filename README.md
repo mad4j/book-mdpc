@@ -459,6 +459,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
     <img src="examples/volume6/ex_machina/ex-machina.png" width="120px" title="Ex Machina"/>
 </a>
 <br class="index-separator"/>
+<a href="examples/volume6/good_bye_lenin/">
+    <img src="examples/volume6/good_bye_lenin/good-bye-lenin.png" width="120px" title="Good Bye Lenin!"/>
+</a>
 <a href="examples/volume6/hunf_for_red_october_the/">
     <img src="examples/volume6/hunf_for_red_october_the/the-hunt-for-red-october.png" width="120px" title="The Hunt for Red October"/>
 </a>
@@ -474,10 +477,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/resident_evil/">
     <img src="examples/volume6/resident_evil/residel-evil.png" width="120px" title="Resident Evil"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/robocop/">
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/squid_game/">
     <img src="examples/volume6/squid_game/squid-game.png" width="120px" title="Squid Game"/>
 </a>
