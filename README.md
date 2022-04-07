@@ -449,16 +449,19 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/clockwork_orange_a/">
     <img src="examples/volume6/clockwork_orange_a/a-clockwork-orange.png" width="120px" title="A Clockwork Orange"/>
 </a>
+<a href="examples/volume6/encanto/">
+    <img src="examples/volume6/encanto/encanto.png" width="120px" title="Encanto"/>
+</a>
 <a href="examples/volume6/equilibrium/">
     <img src="examples/volume6/equilibrium/equilibrium.png" width="120px" title="Equilibrium"/>
 </a>
 <a href="examples/volume6/ex_machina/">
     <img src="examples/volume6/ex_machina/ex-machina.png" width="120px" title="Ex Machina"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/hunf_for_red_october_the/">
     <img src="examples/volume6/hunf_for_red_october_the/the-hunt-for-red-october.png" width="120px" title="The Hunt for Red October"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/last_tango_in_paris/">
     <img src="examples/volume6/last_tango_in_paris/last-tango-in-paris.png" width="120px" title="Last Tango in Paris"/>
 </a>
@@ -474,10 +477,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/robocop/">
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/squid_game/">
     <img src="examples/volume6/squid_game/squid-game.png" width="120px" title="Squid Game"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/up/">
     <img src="examples/volume6/up/up.png" width="120px" title="Up"/>
 </a>
