@@ -38,7 +38,8 @@ void draw() {
   translate(0.0, 0.5);
   
   fill(INK2);
-  noStroke();
+  stroke(INK2);
+  strokeWeight(3*U);
   drawRibbon(P);
 
   save("good-bye-lenin.png");
