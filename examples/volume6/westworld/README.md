@@ -26,7 +26,7 @@ A robot malfunction creates havoc and terror for unsuspecting vacationers at a f
 
 
 final color PAPER = color(10, 100, 40);
-final color INK = color(165, 195, 80);
+final color INK = color(240);
 
 final float dL = 0.05;
 final float dA = QUARTER_PI;
