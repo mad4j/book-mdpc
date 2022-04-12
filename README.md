@@ -465,6 +465,9 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/hunf_for_red_october_the/">
     <img src="examples/volume6/hunf_for_red_october_the/the-hunt-for-red-october.png" width="120px" title="The Hunt for Red October"/>
 </a>
+<a href="examples/volume6/interstellar/">
+    <img src="examples/volume6/interstellar/interstellar.png" width="120px" title="Interstellar"/>
+</a>
 <a href="examples/volume6/last_tango_in_paris/">
     <img src="examples/volume6/last_tango_in_paris/last-tango-in-paris.png" width="120px" title="Last Tango in Paris"/>
 </a>
@@ -474,10 +477,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/movie_lego_the/">
     <img src="examples/volume6/movie_lego_the/the-lego-movie.png" width="120px" title="The Lego Movie"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/resident_evil/">
     <img src="examples/volume6/resident_evil/residel-evil.png" width="120px" title="Resident Evil"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/robocop/">
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
@@ -493,7 +496,7 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/westworld/">
     <img src="examples/volume6/westworld/westworld.png" width="120px" title="Westworld"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/x8MM/">
     <img src="examples/volume6/x8MM/8mm.png" width="120px" title="Eight Millimeter"/>
 </a>
-<br class="index-separator"/>
