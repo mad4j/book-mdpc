@@ -24,13 +24,15 @@ A team of explorers travel through a wormhole in space in an attempt to ensure h
 
 // Interstellar (2014)
 
+
 final color PAPER = color(20);
 final color INK = color(240);
 
 final int COUNT = 12;
 final float DA = TWO_PI / COUNT;
-final float R = 0.3;
 final float L = 0.1;
+final float R = 3*L;
+
 
 void setup() {
   size(480, 640);
