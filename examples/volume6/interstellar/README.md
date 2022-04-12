@@ -29,7 +29,6 @@ final color PAPER = color(20);
 final color INK = color(240);
 
 final int COUNT = 12;
-final float DA = TWO_PI / COUNT;
 final float L = 0.1;
 final float R = 3*L;
 
@@ -64,7 +63,7 @@ void draw() {
   
   for (int i=0; i<COUNT; i++) {
     rect(R, 0.0, L, 0.6*L);
-    rotate(DA);
+    rotate(TWO_PI / COUNT);
   }
   
   rect(0.0,  0.5*L, L, 0.6*L);
