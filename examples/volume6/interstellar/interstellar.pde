@@ -8,8 +8,9 @@ final color INK = color(240);
 
 final int COUNT = 12;
 final float DA = TWO_PI / COUNT;
-final float R = 0.3;
 final float L = 0.1;
+final float R = 3*L;
+
 
 void setup() {
   size(480, 640);
