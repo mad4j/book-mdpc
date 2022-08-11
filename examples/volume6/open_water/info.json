@@ -1,0 +1,40 @@
+{
+    "Title": "Open Water",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "20 Aug 2004",
+    "Runtime": "79 min",
+    "Genre": "Adventure, Drama, Horror",
+    "Director": "Chris Kentis",
+    "Writer": "Chris Kentis",
+    "Actors": "Blanchard Ryan, Daniel Travis, Saul Stein",
+    "Plot": "Based on the true story of two scuba divers accidentally stranded in shark infested waters after their tour boat has left.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ5ODAyOTk3OF5BMl5BanBnXkFtZTcwNzQ1NjYyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "5.8",
+    "imdbVotes": "53,828",
+    "imdbID": "tt0374102",
+    "Type": "movie",
+    "DVD": "28 Dec 2004",
+    "BoxOffice": "$30,610,863",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
