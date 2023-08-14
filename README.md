@@ -449,16 +449,19 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/clockwork_orange_a/">
     <img src="examples/volume6/clockwork_orange_a/a-clockwork-orange.png" width="120px" title="A Clockwork Orange"/>
 </a>
+<a href="examples/volume6/eastern_promises/">
+    <img src="examples/volume6/eastern_promises/eastern-promises.png" width="120px" title="Eastern Promises"/>
+</a>
 <a href="examples/volume6/encanto/">
     <img src="examples/volume6/encanto/encanto.png" width="120px" title="Encanto"/>
 </a>
 <a href="examples/volume6/equilibrium/">
     <img src="examples/volume6/equilibrium/equilibrium.png" width="120px" title="Equilibrium"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/ex_machina/">
     <img src="examples/volume6/ex_machina/ex-machina.png" width="120px" title="Ex Machina"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/good_bye_lenin/">
     <img src="examples/volume6/good_bye_lenin/good-bye-lenin.png" width="120px" title="Good Bye Lenin!"/>
 </a>
@@ -474,10 +477,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/minority_report/">
     <img src="examples/volume6/minority_report/minority-report.png" width="120px" title="Minority Report"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/movie_lego_the/">
     <img src="examples/volume6/movie_lego_the/the-lego-movie.png" width="120px" title="The Lego Movie"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/open_water/">
     <img src="examples/volume6/open_water/open-water.png" width="120px" title="Open Water"/>
 </a>
@@ -493,10 +496,10 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/up/">
     <img src="examples/volume6/up/up.png" width="120px" title="Up"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/watchmen/">
     <img src="examples/volume6/watchmen/watchmen.png" width="120px" title="Watchmen"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/westworld/">
     <img src="examples/volume6/westworld/westworld.png" width="120px" title="Westworld"/>
 </a>
