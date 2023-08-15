@@ -34,7 +34,7 @@ find $ROOT -name '*-index.png' -exec rm -f {} \;
 # build index pages
 for f in $(find $ROOT -name 'volume*' -type d); do
     echo "[$LABEL] working on '$(basename $f)'..."
-    montage -geometry +0+0 `find $f -name '*.png'` $f-index.png
+    montage -geometry +0+0 `find $f -name '*.png' | sort` $f-index.png
 done
 
 echo "[$LABEL] ... DONE"
