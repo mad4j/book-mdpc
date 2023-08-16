@@ -30,7 +30,7 @@ void draw() {
   strokeWeight(25*U);
   
   rectMode(CORNERS);
-  rect(-RADIUS, 0.0,  RADIUS, -1.0, 0.25);
+  rect(-RADIUS, 0.0,  RADIUS, -1.0, 0.3);
   
   save("robocop-2014.png");
 }
