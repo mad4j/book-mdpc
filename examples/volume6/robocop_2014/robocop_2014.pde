@@ -1,7 +1,7 @@
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2023
 
-// Robocop (2014)
+// RoboCop (2014)
 
 
 final color PAPER = color(10, 10, 20);
