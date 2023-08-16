@@ -1,34 +1,34 @@
 ---
-permalink: /examples/volume6/robocop/
-title: RoboCop (1987) | Minimalist Movie Poster
+permalink: /examples/volume6/robocop_2014/
+title:  () | Minimalist Movie Poster
 description: Minimalist Movie Poster generated using Java and Processing.
 ---
 
-# RoboCop (1987)
+#  ()
 
-Action, Crime, Sci-Fi, Thriller
+
 
 ## Plot
-In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.
 
-[details](https://www.imdb.com/title/tt0093870/)
+
+[details](https://www.imdb.com/title//)
 
 ## Movie Poster
-<img src="robocop.png"  width="360px" title="RoboCop">
+<img src="robocop-2014.png"  width="360px" title="">
 
 
 ## The code
 ```java
 // Manuale di Programmazione Cinematografica
-// Daniele Olmisani, 2021
+// Daniele Olmisani, 2023
 
-// Robocop (1987)
+// RoboCop (2014)
 
 
-final color PAPER = color(165, 170, 175);
-final color INK = color(20);
+final color PAPER = color(10, 10, 20);
+final color INK = color(215, 0, 100);
 
-final float RADIUS = 0.3;
+final float RADIUS = 0.6;
 
 void setup() {
   size(480, 640);
@@ -45,16 +45,15 @@ void draw() {
   
   background(PAPER);
   
+  noFill();
+  
   stroke(INK);
+  strokeWeight(25*U);
   
-  strokeWeight(50*U);
-  line(-RADIUS, 0.0, RADIUS, 0.0);
+  rectMode(CORNERS);
+  rect(-RADIUS, 0.0,  RADIUS, -1.0, 0.25);
   
-  strokeWeight(2*U);
-  line(-1.5*RADIUS, 0.0, 1.5*RADIUS, 0.0);
-  
-  save("robocop.png");
- 
+  save("robocop-2014.png");
 }
 
 ```

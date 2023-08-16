@@ -65,7 +65,6 @@ void draw() {
   drawStar();
   
   save("eastern-promises.png");
-
 }
 
 void drawStar() {

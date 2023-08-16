@@ -490,13 +490,16 @@ Use PDE `File -> Examples... -> Add examples` or follow these links to manually 
 <a href="examples/volume6/robocop/">
     <img src="examples/volume6/robocop/robocop.png" width="120px" title="RoboCop"/>
 </a>
+<a href="examples/volume6/robocop_2014/">
+    <img src="examples/volume6/robocop_2014/robocop-2014.png" width="120px" title=""/>
+</a>
 <a href="examples/volume6/squid_game/">
     <img src="examples/volume6/squid_game/squid-game.png" width="120px" title="Squid Game"/>
 </a>
+<br class="index-separator"/>
 <a href="examples/volume6/up/">
     <img src="examples/volume6/up/up.png" width="120px" title="Up"/>
 </a>
-<br class="index-separator"/>
 <a href="examples/volume6/watchmen/">
     <img src="examples/volume6/watchmen/watchmen.png" width="120px" title="Watchmen"/>
 </a>

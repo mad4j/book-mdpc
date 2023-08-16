@@ -22,7 +22,7 @@ In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the 
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2021
 
-// Robocop (1987)
+// RoboCop (1987)
 
 
 final color PAPER = color(165, 170, 175);
@@ -54,7 +54,6 @@ void draw() {
   line(-1.5*RADIUS, 0.0, 1.5*RADIUS, 0.0);
   
   save("robocop.png");
- 
 }
 
 ```
