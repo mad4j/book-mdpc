@@ -1,20 +1,20 @@
 ---
 permalink: /examples/volume6/robocop_2014/
-title:  () | Minimalist Movie Poster
+title: RoboCop (2014) | Minimalist Movie Poster
 description: Minimalist Movie Poster generated using Java and Processing.
 ---
 
-#  ()
+# RoboCop (2014)
 
-
+Action, Crime, Sci-Fi
 
 ## Plot
+In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.
 
-
-[details](https://www.imdb.com/title//)
+[details](https://www.imdb.com/title/tt1234721/)
 
 ## Movie Poster
-<img src="robocop-2014.png"  width="360px" title="">
+<img src="robocop-2014.png"  width="360px" title="RoboCop">
 
 
 ## The code
