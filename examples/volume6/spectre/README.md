@@ -26,17 +26,18 @@ A cryptic message from James Bond's past sends him on a trail to uncover the exi
 
 
 void setup() {
-  size(600, 600);
-  smooth();
+  size(480, 640);
   noLoop();
 }
 
 
 void draw() {
-  background(255);
+  final float S = min(width, height);
 
-  // Sposta l'origine al centro della finestra, leggermente rialzata
-  translate(width / 2, height / 2 - 30);
+  translate(0.5*width, 0.5*height);
+  scale(S);
+
+  background(255);
 
   noStroke();
   fill(195, 25, 25);
@@ -44,65 +45,65 @@ void draw() {
   beginShape();
 
   // PUNTO DI PARTENZA: Testa in alto al centro
-  vertex(0, -120);
+  vertex(0.0000, -0.3854);
 
   // --- LATO DESTRO ---
   // Testa (curva destra)
-  bezierVertex(60, -120, 60, -60, 35, -40);
+  bezierVertex(0.1250, -0.3854, 0.1250, -0.2604, 0.0729, -0.2188);
 
   // Spalla destra (curva ampia verso l'esterno)
-  bezierVertex(70, -20, 150, -60, 190, 10);
+  bezierVertex(0.1458, -0.1771, 0.3125, -0.2604, 0.3958, -0.1146);
 
   // Tentacolo esterno (3° da destra) - punta
-  bezierVertex(210, 45, 190, 100, 175, 120);
+  bezierVertex(0.4375, -0.0417, 0.3958,  0.0729, 0.3646,  0.1146);
 
   // Membrana tra 3° e 2° tentacolo
-  bezierVertex(165, 60, 155, 10, 145, 10);
+  bezierVertex(0.3438, -0.0104, 0.3229, -0.1146, 0.3021, -0.1146);
 
   // Tentacolo medio (2° da destra) - punta
-  bezierVertex(135, 10, 130, 80, 120, 140);
+  bezierVertex(0.2813, -0.1146, 0.2708,  0.0313, 0.2500,  0.1563);
 
   // Membrana tra 2° e 1° tentacolo
-  bezierVertex(110, 70, 100, 20, 90, 20);
+  bezierVertex(0.2292,  0.0104, 0.2083, -0.0938, 0.1875, -0.0938);
 
   // Tentacolo interno (1° da destra) - punta
-  bezierVertex(80, 20, 75, 90, 65, 160);
+  bezierVertex(0.1667, -0.0938, 0.1563,  0.0521, 0.1354,  0.1979);
 
   // Membrana tra 1° tentacolo e centrale
-  bezierVertex(55, 80, 45, 30, 35, 30);
+  bezierVertex(0.1146,  0.0313, 0.0938, -0.0729, 0.0729, -0.0729);
 
   // Tentacolo centrale - punta (il più lungo)
-  bezierVertex(25, 30, 15, 150, 0, 250);
+  bezierVertex(0.0521, -0.0729, 0.0313,  0.1771, 0.0000,  0.3854);
 
   // --- LATO SINISTRO (Specchiato perfettamente) ---
   // Invertiamo i valori X e l'ordine per chiudere la forma senza interruzioni
 
   // Tentacolo centrale (risalita lato sinistro)
-  bezierVertex(-15, 150, -25, 30, -35, 30);
+  bezierVertex(-0.0313,  0.1771, -0.0521, -0.0729, -0.0729, -0.0729);
 
   // Membrana tra centrale e 1° sinistro
-  bezierVertex(-45, 30, -55, 80, -65, 160);
+  bezierVertex(-0.0938, -0.0729, -0.1146,  0.0313, -0.1354,  0.1979);
 
   // Tentacolo interno (1° da sinistra)
-  bezierVertex(-75, 90, -80, 20, -90, 20);
+  bezierVertex(-0.1563,  0.0521, -0.1667, -0.0938, -0.1875, -0.0938);
 
   // Membrana tra 1° e 2° sinistro
-  bezierVertex(-100, 20, -110, 70, -120, 140);
+  bezierVertex(-0.2083, -0.0938, -0.2292,  0.0104, -0.2500,  0.1563);
 
   // Tentacolo medio (2° da sinistra)
-  bezierVertex(-130, 80, -135, 10, -145, 10);
+  bezierVertex(-0.2708,  0.0313, -0.2813, -0.1146, -0.3021, -0.1146);
 
   // Membrana tra 2° e 3° sinistro
-  bezierVertex(-155, 10, -165, 60, -175, 120);
+  bezierVertex(-0.3229, -0.1146, -0.3438, -0.0104, -0.3646,  0.1146);
 
   // Tentacolo esterno (3° da sinistra)
-  bezierVertex(-190, 100, -210, 45, -190, 10);
+  bezierVertex(-0.3958,  0.0729, -0.4375, -0.0417, -0.3958, -0.1146);
 
   // Spalla sinistra
-  bezierVertex(-150, -60, -70, -20, -35, -40);
+  bezierVertex(-0.3125, -0.2604, -0.1458, -0.1771, -0.0729, -0.2188);
 
   // Testa (curva sinistra fino a chiudere)
-  bezierVertex(-60, -60, -60, -120, 0, -120);
+  bezierVertex(-0.1250, -0.2604, -0.1250, -0.3854, 0.0000, -0.3854);
 
   endShape(CLOSE);
 
