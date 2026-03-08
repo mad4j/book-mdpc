@@ -1,0 +1,40 @@
+    {
+        "Title": "Spectre",
+        "Year": "2015",
+        "Rated": "PG-13",
+        "Released": "06 Nov 2015",
+        "Runtime": "148 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Sam Mendes",
+        "Writer": "John Logan, Neal Purvis, Robert Wade",
+        "Actors": "Daniel Craig, Christoph Waltz, Léa Seydoux",
+        "Plot": "A cryptic message from James Bond's past sends him on a trail to uncover the existence of a sinister organisation named SPECTRE.",
+        "Language": "English, Italian, French, German, Arabic",
+        "Country": "United Kingdom, United States",
+        "Awards": "Won 1 Oscar. 14 wins & 62 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3OTEzNjM5Ml5BMl5BanBnXkFtZTgwNTcyODQ2NjE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "64%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "60/100"
+            }
+        ],
+        "Metascore": "60",
+        "imdbRating": "6.8",
+        "imdbVotes": "415,000",
+        "imdbID": "tt2379713",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$200,074,609",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
