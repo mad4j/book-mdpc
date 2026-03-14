@@ -19,70 +19,69 @@ void draw() {
   background(255);
 
   noStroke();
-  fill(195, 25, 25);
+  fill(200, 15, 15);
 
   beginShape();
 
   // PUNTO DI PARTENZA: Testa in alto al centro
-  vertex(0.0000, -0.3854);
+  vertex(0.0000, -0.4300);
 
   // --- LATO DESTRO ---
-  // Testa (curva destra)
-  bezierVertex(0.1250, -0.3854, 0.1250, -0.2604, 0.0729, -0.2188);
+  // Testa (curva destra, ampia e circolare)
+  bezierVertex(0.1600, -0.4300, 0.1650, -0.2850, 0.0450, -0.2500);
 
-  // Spalla destra (curva ampia verso l'esterno)
-  bezierVertex(0.1458, -0.1771, 0.3125, -0.2604, 0.3958, -0.1146);
+  // Spalla destra (collo stretto, spalla ampia)
+  bezierVertex(0.1900, -0.1500, 0.3650, -0.3000, 0.4800, -0.0700);
 
-  // Tentacolo esterno (3° da destra) - punta
-  bezierVertex(0.4375, -0.0417, 0.3958,  0.0729, 0.3646,  0.1146);
+  // Tentacolo esterno (3° da destra) - punta curva verso l'alto
+  bezierVertex(0.5200,  0.0150, 0.4900,  0.1100, 0.3950,  0.0000);
 
   // Membrana tra 3° e 2° tentacolo
-  bezierVertex(0.3438, -0.0104, 0.3229, -0.1146, 0.3021, -0.1146);
+  bezierVertex(0.3600, -0.0600, 0.3300, -0.1400, 0.3100, -0.1400);
 
   // Tentacolo medio (2° da destra) - punta
-  bezierVertex(0.2813, -0.1146, 0.2708,  0.0313, 0.2500,  0.1563);
+  bezierVertex(0.2900, -0.1400, 0.2550,  0.1000, 0.2200,  0.2900);
 
   // Membrana tra 2° e 1° tentacolo
-  bezierVertex(0.2292,  0.0104, 0.2083, -0.0938, 0.1875, -0.0938);
+  bezierVertex(0.2000,  0.0300, 0.1850, -0.1100, 0.1650, -0.1100);
 
   // Tentacolo interno (1° da destra) - punta
-  bezierVertex(0.1667, -0.0938, 0.1563,  0.0521, 0.1354,  0.1979);
+  bezierVertex(0.1450, -0.1100, 0.1250,  0.1300, 0.0950,  0.3700);
 
   // Membrana tra 1° tentacolo e centrale
-  bezierVertex(0.1146,  0.0313, 0.0938, -0.0729, 0.0729, -0.0729);
+  bezierVertex(0.0750,  0.0750, 0.0600, -0.0400, 0.0450, -0.0400);
 
   // Tentacolo centrale - punta (il più lungo)
-  bezierVertex(0.0521, -0.0729, 0.0313,  0.1771, 0.0000,  0.3854);
+  bezierVertex(0.0300, -0.0400, 0.0150,  0.3400, 0.0000,  0.4900);
 
   // --- LATO SINISTRO (Specchiato perfettamente) ---
-  // Invertiamo i valori X e l'ordine per chiudere la forma senza interruzioni
 
   // Tentacolo centrale (risalita lato sinistro)
-  bezierVertex(-0.0313,  0.1771, -0.0521, -0.0729, -0.0729, -0.0729);
+  bezierVertex(-0.0150,  0.3400, -0.0300, -0.0400, -0.0450, -0.0400);
 
   // Membrana tra centrale e 1° sinistro
-  bezierVertex(-0.0938, -0.0729, -0.1146,  0.0313, -0.1354,  0.1979);
+  bezierVertex(-0.0600, -0.0400, -0.0750,  0.0750, -0.0950,  0.3700);
 
   // Tentacolo interno (1° da sinistra)
-  bezierVertex(-0.1563,  0.0521, -0.1667, -0.0938, -0.1875, -0.0938);
+  bezierVertex(-0.1250,  0.1300, -0.1450, -0.1100, -0.1650, -0.1100);
 
   // Membrana tra 1° e 2° sinistro
-  bezierVertex(-0.2083, -0.0938, -0.2292,  0.0104, -0.2500,  0.1563);
+  bezierVertex(-0.1850, -0.1100, -0.2000,  0.0300, -0.2200,  0.2900);
 
   // Tentacolo medio (2° da sinistra)
-  bezierVertex(-0.2708,  0.0313, -0.2813, -0.1146, -0.3021, -0.1146);
+  bezierVertex(-0.2550,  0.1000, -0.2900, -0.1400, -0.3100, -0.1400);
 
   // Membrana tra 2° e 3° sinistro
-  bezierVertex(-0.3229, -0.1146, -0.3438, -0.0104, -0.3646,  0.1146);
+  bezierVertex(-0.3300, -0.1400, -0.3600, -0.0600, -0.3950,  0.0000);
 
   // Tentacolo esterno (3° da sinistra)
-  bezierVertex(-0.3958,  0.0729, -0.4375, -0.0417, -0.3958, -0.1146);
+  bezierVertex(-0.4900,  0.1100, -0.5200,  0.0150, -0.4800, -0.0700);
 
   // Spalla sinistra
-  bezierVertex(-0.3125, -0.2604, -0.1458, -0.1771, -0.0729, -0.2188);
+  bezierVertex(-0.3650, -0.3000, -0.1900, -0.1500, -0.0450, -0.2500);
 
   // Testa (curva sinistra fino a chiudere)
-  bezierVertex(-0.1250, -0.2604, -0.1250, -0.3854, 0.0000, -0.3854);
+  bezierVertex(-0.1650, -0.2850, -0.1600, -0.4300, 0.0000, -0.4300);
 
   endShape(CLOSE);
 
