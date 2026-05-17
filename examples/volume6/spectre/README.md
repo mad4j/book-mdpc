@@ -22,7 +22,7 @@ A cryptic message from James Bond's past sends him on a trail to uncover the exi
 // Manuale di Programmazione Cinematografica
 // Daniele Olmisani, 2026
 
-// Spectre (2026)
+// Spectre (2015)
 
 
 final color PAPER = color(240);
@@ -127,10 +127,25 @@ void setup() {
 
 void draw() {
   background(PAPER);
-  
-  float scaleFactor = min(width / (float)RADIUS, height / (float)RADIUS);
-  float offsetX = (width - RADIUS * scaleFactor) / 2.0;
-  float offsetY = (height - RADIUS * scaleFactor) / 2.0;
+
+  float minX = Float.MAX_VALUE;
+  float minY = Float.MAX_VALUE;
+  float maxX = -Float.MAX_VALUE;
+  float maxY = -Float.MAX_VALUE;
+
+  for (int i = 0; i < PX.length; i++) {
+    minX = min(minX, PX[i]);
+    minY = min(minY, PY[i]);
+    maxX = max(maxX, PX[i]);
+    maxY = max(maxY, PY[i]);
+  }
+
+  float shapeWidth = maxX - minX;
+  float shapeHeight = maxY - minY;
+  float padding = 0.1;
+  float scaleFactor = min(width / shapeWidth, height / shapeHeight) * (1.0 - padding);
+  float offsetX = (width - shapeWidth * scaleFactor) / 2.0 - minX * scaleFactor;
+  float offsetY = (height - shapeHeight * scaleFactor) / 2.0 - minY * scaleFactor;
   
   pushMatrix();
   translate(offsetX, offsetY);
