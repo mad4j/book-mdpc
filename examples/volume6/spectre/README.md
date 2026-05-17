@@ -26,7 +26,7 @@ A cryptic message from James Bond's past sends him on a trail to uncover the exi
 
 
 final color PAPER = color(240);
-final color INK = color(132, 67, 122);
+final color INK = color(140, 5, 5);
 
 final int RADIUS = 1800;
 
