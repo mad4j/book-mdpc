@@ -101,15 +101,10 @@ void drawContour() {
     PVector pLast = contourPoint(count - 1);
     curveVertex(pLast.x, pLast.y);
   
-    for (int i = 0; i < count; i++) {
-      PVector p = contourPoint(i);
+    for (int i = 0; i < count+2; i++) {
+      PVector p = contourPoint(i % count);
       curveVertex(p.x, p.y);
     }
-  
-    PVector p0 = contourPoint(0);
-    PVector p1 = contourPoint(1);
-    curveVertex(p0.x, p0.y);
-    curveVertex(p1.x, p1.y);
   endShape(CLOSE);
 }
 
