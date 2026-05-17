@@ -142,10 +142,12 @@ void draw() {
 
   float shapeWidth = maxX - minX;
   float shapeHeight = maxY - minY;
+  float axisX = (minX + maxX) * 0.5;
+  float centerY = (minY + maxY) * 0.5;
   float padding = 0.1;
   float scaleFactor = min(width / shapeWidth, height / shapeHeight) * (1.0 - padding);
-  float offsetX = (width - shapeWidth * scaleFactor) / 2.0 - minX * scaleFactor;
-  float offsetY = (height - shapeHeight * scaleFactor) / 2.0 - minY * scaleFactor;
+  float offsetX = width * 0.5 - axisX * scaleFactor;
+  float offsetY = height * 0.5 - centerY * scaleFactor;
   
   pushMatrix();
   translate(offsetX, offsetY);
