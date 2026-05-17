@@ -8,6 +8,8 @@ final color PAPER = color(240);
 final color INK = color(140, 5, 5);
 
 final float AXIS = 499.5;
+final float Y0 = 0.0;
+final float Y1 = 999;
 
 
 final float[] HP = {
@@ -57,7 +59,7 @@ final float[] HP = {
 
 
 void setup() {
-  size(480,640);
+  size(480, 640);
   noLoop();
 }
 
@@ -65,19 +67,9 @@ void setup() {
 void draw() {
   background(PAPER);
   
-  float hw=0;
-  float y0=999;
-  float y1=0;
+  float s = min(width/(2*AXIS), height/(Y1-Y0)) * .9;
   
-  for(int i=0; i<HP.length; i+=2){
-    hw = max(hw, abs(HP[i]-AXIS));
-    y0 = min(y0, HP[i+1]);
-    y1 = max(y1, HP[i+1]);
-  }
-  
-  float s = min(width/(2*hw), height/(y1-y0)) * .9;
-  
-  translate(width/2-AXIS*s, height/2-(y0+y1)/2*s);
+  translate(width/2-AXIS*s, height/2-(Y0+Y1)/2*s);
   
   scale(s);
   fill(INK);
